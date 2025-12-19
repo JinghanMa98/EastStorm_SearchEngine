@@ -1,9 +1,7 @@
-CIS 5550 Project - EastStorm
-
 Overview
 This project implements a distributed web crawler and search engine using:
-- KVS (Key-Value Store): Persistent distributed storage (HW5 implementation)
-- Crawler: Web crawler with robots.txt support and politeness (HW8 implementation)
+- KVS (Key-Value Store): Persistent distributed storage
+- Crawler: Web crawler with robots.txt support and politeness
 - Indexer: Indexes crawled pages for search
 - SearchServer: Web interface for searching indexed content
 
