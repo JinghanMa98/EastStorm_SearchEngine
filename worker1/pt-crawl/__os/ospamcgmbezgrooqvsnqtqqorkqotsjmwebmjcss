@@ -1,0 +1,2984 @@
+ospamcgmbezgrooqvsnqtqqorkqotsjmwebmjcss length 6 144287 page 144287 
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ html--node--5016.html.twig
+   ▪️ html--node--%.html.twig
+   ▪️ html--node.html.twig
+   ✅ html.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/layout/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<link rel="canonical" href="https://www.wada-ama.org/en/media/news" />
+<meta http-equiv="content-language" content="en" />
+<link rel="image_src" href="https://www.wada-ama.org/sites/default/files/styles/fullscreen/public/2023-01/basketball-hoops.jpg?itok=Fo9zi-rn" />
+<meta property="og:site_name" content="World Anti Doping Agency" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.wada-ama.org/en/media/news" />
+<meta property="og:title" content="News" />
+<meta property="og:image" content="https://www.wada-ama.org/sites/default/files/styles/fullscreen/public/2023-01/basketball-hoops.jpg?itok=Fo9zi-rn" />
+<meta property="og:image:width" content="2400" />
+<meta property="og:image:height" content="1350" />
+<meta property="og:updated_time" content="2024-07-10T16:07:13-04:00" />
+<meta property="og:locale" content="en_CA" />
+<meta property="og:locale:alternate" content="fr_CA" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="News" />
+<meta name="twitter:url" content="https://www.wada-ama.org/en/media/news" />
+<meta name="twitter:image" content="https://www.wada-ama.org/sites/default/files/styles/fullscreen/public/2023-01/basketball-hoops.jpg?itok=Fo9zi-rn" />
+<meta name="twitter:image:height" content="1350" />
+<meta name="twitter:image:width" content="2400" />
+<meta name="google-site-verification" content="AGDXncD-3t6W38jCYk3JOJeeOLdIwEpJd-y2Wt7GoRw" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "description": "World Anti-Doping Agency (WADA)",
+            "name": "World Anti-Doping Agency",
+            "sameAs": [
+                "https://www.facebook.com/wada.ama",
+                "https://twitter.com/wada_ama",
+                "https://www.linkedin.com/company/wada",
+                "https://www.instagram.com/wada_ama",
+                "https://www.youtube.com/user/wadamovies"
+            ],
+            "url": "https://www.wada-ama.org/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.wada-ama.org/themes/custom/cossette/logo.png"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "World Anti-Doping Agency"
+            }
+        }
+    ]
+}</script>
+<link rel="icon" href="/themes/custom/cossette/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.wada-ama.org/en/media/news" />
+<link rel="alternate" hreflang="fr" href="https://www.wada-ama.org/fr/medias/nouvelles" />
+
+
+    <title>News | World Anti Doping Agency</title>
+
+        <link rel="shortcut icon" href="/themes/custom/cossette/dist/assets/images/favicon/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/cossette/dist/assets/images/favicon/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" sizes="32x32" href="/themes/custom/cossette/dist/assets/images/favicon/favicon-32x32.png">
+    <link rel="shortcut icon" type="image/png" sizes="16x16" href="/themes/custom/cossette/dist/assets/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/themes/custom/cossette/dist/assets/images/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/themes/custom/cossette/dist/assets/images/favicon/safari-pinned-tab.svg" color="#25b216">
+    <meta name="msapplication-TileColor" content="#25b216">
+    <meta name="theme-color" content="#25b216">
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_2C6jOrUo-9a07HfMTU8vyZ_05_A4mqQ2ZhAJAWZk59M.css?delta=0&amp;language=en&amp;theme=cossette&amp;include=eJxly0kOwyAQRNELEXMkqw0lsNIM6oKFc_o4g-JFdvW-VEGFPHwBKQl04ePaIlxohnNZEd0fL5IYAz5p20Qvlxangj7D2n-l7hH26-sm4Y4aV9EB81_d3nJdTJJJz_TRZhddrrLM2uemOzOi48GBcr6JJ-i2S_w" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_hsSL3G3NB8RuCSqsR540i2WCCOQp0W8ca3ofoBM8AMA.css?delta=1&amp;language=en&amp;theme=cossette&amp;include=eJxly0kOwyAQRNELEXMkqw0lsNIM6oKFc_o4g-JFdvW-VEGFPHwBKQl04ePaIlxohnNZEd0fL5IYAz5p20Qvlxangj7D2n-l7hH26-sm4Y4aV9EB81_d3nJdTJJJz_TRZhddrrLM2uemOzOi48GBcr6JJ-i2S_w" />
+
+    
+
+             <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PXKLKNL');</script>
+        
+    
+
+
+
+      </head>
+<body class="path-node page-node-type-hub">
+<!-- OneTrust Cookies Markup start -->
+<button id="ot-sdk-btn" class="ot-sdk-show-settings" data-nosnippet>Cookie Settings</button>
+<div id="ot-sdk-cookie-policy" style="display:none!important;" data-nosnippet> </div>
+<!-- OneTrust Cookies Markup end -->
+
+<a href="#main-content" class="visually-hidden focusable skip-link">
+  Skip to main content
+</a>
+<noscript class="noScript">
+  <span class="icon icon--error"></span>
+  <p>It seems that your javascript is disabled. To view this site at it's best, please activate it!</p>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXKLKNL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ page--node--5016.html.twig
+   ▪️ page--node--%.html.twig
+   ▪️ page--node.html.twig
+   ✅ page.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/layout/page.html.twig' -->
+<div class="page">
+                  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--header.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/region/region--header.html.twig' -->
+
+  <header class="header-container region region-header" data-rad-module="rad-modules/HeaderModule" data-rad-id="header-main" role="banner">
+    
+    <div class="container header__nav">
+      <div class="nav-wrapper">
+        <div class="header-submenu">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--secondarymenu.html.twig
+   ▪️ block--system-menu-block--secondary-menu.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-secondarymenu-menu" id="block-secondarymenu" class="block block-menu navigation menu--secondary-menu">
+            
+  <h2 class="visually-hidden" id="block-secondarymenu-menu">Secondary menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__secondary_menu' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--secondary-menu.html.twig
+   ✅ menu--secondary-menu.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--secondary-menu.html.twig' -->
+
+  <ul class="menu-secondary">
+
+                <li class="menu-item menu-item--active-trail"
+        data-track-nav="true"
+        data-track-label="News">
+        <a href="/en/media/news" data-drupal-link-system-path="node/5016" class="is-active" aria-current="page">News</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Resources">
+        <a href="/en/resources" data-drupal-link-system-path="node/5014">Resources</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Events">
+        <a href="/en/events" data-drupal-link-system-path="node/5017">Events</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Contact Us">
+        <a href="/en/contact-us" title="Contact Us" data-drupal-link-system-path="node/5056">Contact Us</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Careers">
+        <a href="/en/careers" title="Careers" data-drupal-link-system-path="node/4663">Careers</a>
+      </li>
+      </ul>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--secondary-menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+
+
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--languageswitcher.html.twig
+   ▪️ block--language-block--language-interface.html.twig
+   ▪️ block--language-block.html.twig
+   ▪️ block--language.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" role="navigation">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__language_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ links--language-block.html.twig
+   ✅ links--language-block.html.twig
+   ▪️ links.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/links--language-block.html.twig' -->
+
+<ul class="links" style="display: flex; flex-direction: row;"><li hreflang="fr" data-drupal-link-system-path="node/5016" class="fr"><a href="/fr/medias/nouvelles" class="language-link" hreflang="fr" data-drupal-link-system-path="node/5016">fr</a></li></ul>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/links--language-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+        </div>
+        <div class="header-mainmenu">
+
+          <button class="burger-menu-btn" aria-label="Open Menu">
+            <span class="lines-wrapper">
+              <span class="menu-bar menu-bar--top"></span>
+              <span class="menu-bar menu-bar--middle"></span>
+              <span class="menu-bar menu-bar--bottom"></span>
+            </span>
+            <span class="labels-wrapper">
+              <span class="menu-label">MENU</span>
+              <span class="close-label">CLOSE</span>
+            </span>
+          </button>
+          <button class="mobile-back-btn"></button>
+          <div class="header__logo header__logo--en">
+            <a href="https://www.wada-ama.org/en">
+              <div
+  class="logo "
+      data-format="en"
+  >
+  <svg class="logo__en">
+    <use xlink:href="/themes/custom/cossette/images/svg-symbols.svg#logo-en" />
+  </svg>
+</div>
+
+              <span class="screen-reader-only">Logo de WADA et lien vers l'accueil</span>
+            </a>
+          </div>
+          <div class="navsearch-wrapper">
+            <button class="navsearch-btn navsearch-open">
+              <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27"><g transform="rotate(-45 16.296 6.75)" fill="none" stroke="#000"><circle cx="9.546" cy="9.546" r="9.546" stroke="none"/><circle cx="9.546" cy="9.546" r="9.046"/></g><path fill="none" stroke="#000" d="m19.828 19.828 4.5 4.5"/></svg>
+              <span class="navsearch-open-label">SEARCH</span>
+            </button>
+
+            <div class="navsearch-container" hidden>
+              <div class="navsearch-container-inner" tabindex="0">
+                <form action="/en/search" data-rad-id="form-navsearch" data-rad-module="rad-modules/FormModule">
+                  <div class="form-item-search">
+                    <div class="form-item form-item-label">
+                      <svg class="search icon" aria-hidden="true">
+                        <use xlink:href="#search"/>
+                      </svg>
+                      <label class="navsearch-label" for="nav-q" >What are you looking for ?</label>
+                      <input class="navsearch-input" type="search" name="q" autocomplete="off" id="nav-q"/>
+                    </div>
+                  </div>
+                  <div class="navsearch-buttons">
+                  <button class="navsearch-submit btn-secondary">Search</button>
+                  </div>
+                </form>
+
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="nav__main-popup">
+        <div class="main-popup__close-background"></div>
+        <div class="menu-pannels-wrapper">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--mainnavigation.html.twig
+   ▪️ block--system-menu-block--main.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--main.html.twig' -->
+
+
+
+<div class='menu-panel menu-panel--main'>
+  <div class="inner-panel">
+    <ul class="menu menu-main-primairy">
+      <li aria-hidden="true" tabindex="0" class="visually-hidden go-to-close"></li>
+              <li>
+                    <button class="menu-main-link"
+                  data-menu-button="1"
+                  data-track-nav="true">
+            <span class="title">Who We Are</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </button>
+                  </li>
+              <li>
+                    <button class="menu-main-link"
+                  data-menu-button="2"
+                  data-track-nav="true">
+            <span class="title">What We Do</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </button>
+                  </li>
+              <li>
+                    <button class="menu-main-link"
+                  data-menu-button="3"
+                  data-track-nav="true">
+            <span class="title">Athletes &amp; Support Personnel</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </button>
+                  </li>
+              <li>
+                    <button class="menu-main-link"
+                  data-menu-button="4"
+                  data-track-nav="true">
+            <span class="title">Anti-Doping Partners</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </button>
+                  </li>
+              <li>
+                    <button class="menu-main-link"
+                  data-menu-button="5"
+                  data-track-nav="true">
+            <span class="title">Data &amp; Research</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </button>
+                  </li>
+              <li>
+                    <button class="menu-main-link"
+                  data-menu-button="6"
+                  data-track-nav="true">
+            <span class="title">Media</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </button>
+                  </li>
+            <li aria-hidden="true" tabindex="0" class="visually-hidden go-to-close"></li>
+    </ul>
+
+        <div class="secondary-nav-mobile">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--secondarymenu.html.twig
+   ▪️ block--system-menu-block--secondary-menu.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-secondarymenu-menu" id="block-secondarymenu" class="block block-menu navigation menu--secondary-menu">
+            
+  <h2 class="visually-hidden" id="block-secondarymenu-menu">Secondary menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__secondary_menu' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--secondary-menu.html.twig
+   ✅ menu--secondary-menu.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--secondary-menu.html.twig' -->
+
+  <ul class="menu-secondary">
+
+                <li class="menu-item menu-item--active-trail"
+        data-track-nav="true"
+        data-track-label="News">
+        <a href="/en/media/news" data-drupal-link-system-path="node/5016" class="is-active" aria-current="page">News</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Resources">
+        <a href="/en/resources" data-drupal-link-system-path="node/5014">Resources</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Events">
+        <a href="/en/events" data-drupal-link-system-path="node/5017">Events</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Contact Us">
+        <a href="/en/contact-us" title="Contact Us" data-drupal-link-system-path="node/5056">Contact Us</a>
+      </li>
+                <li class="menu-item"
+        data-track-nav="true"
+        data-track-label="Careers">
+        <a href="/en/careers" title="Careers" data-drupal-link-system-path="node/4663">Careers</a>
+      </li>
+      </ul>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--secondary-menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--languageswitcher.html.twig
+   ▪️ block--language-block--language-interface.html.twig
+   ▪️ block--language-block.html.twig
+   ▪️ block--language.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" role="navigation">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__language_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ links--language-block.html.twig
+   ✅ links--language-block.html.twig
+   ▪️ links.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/links--language-block.html.twig' -->
+
+<ul class="links" style="display: flex; flex-direction: row;"><li hreflang="fr" data-drupal-link-system-path="node/5016" class="fr"><a href="/fr/medias/nouvelles" class="language-link" hreflang="fr" data-drupal-link-system-path="node/5016">fr</a></li></ul>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/links--language-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+    </div>
+  </div>
+</div>
+
+<div class="menu-panel menu-panel--secondairy">
+            <div class="inner-panel submenu"
+           data-menu-index="1"
+           data-track-nav="true">
+        <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+        <a class="menu-main-link second-panel-main-link" href="/en/who-we-are">
+          <span class="title">Who We Are</span>
+          <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+        </a>
+                    <ul class="menu">
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/who-we-are/governance">
+            <span class="title">Governance</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/foundation-board">Foundation Board</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/executive-committee">Executive Committee</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/president">President</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/vice-president">Vice President</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/director-general">Director General</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/olympic-movement">Olympic Movement</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/governments">Governments</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/permanent-special-committees">Permanent Special Committees</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/standing-committees">Standing Committees</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/expert-advisory-groups">Expert Advisory Groups</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/working-groups">Working Groups</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/governance/management-team">Management Team</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/who-we-are/strategic-plan">
+            <span class="title">Strategic Plan</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/who-we-are/funding">
+            <span class="title">Funding</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/funding/private-funding">Private Funding</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/who-we-are/offices">
+            <span class="title">Offices</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/offices/headquarters">Headquarters</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/offices/regional-offices">Regional Offices</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/who-we-are/offices/presidents-office">President&#039;s Office</a>
+              </li>
+      </ul>
+
+              </li>
+      </ul>
+
+                <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+      </div>
+                <div class="inner-panel submenu"
+           data-menu-index="2"
+           data-track-nav="true">
+        <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+        <a class="menu-main-link second-panel-main-link" href="/en/what-we-do">
+          <span class="title">What We Do</span>
+          <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+        </a>
+                    <ul class="menu">
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/world-anti-doping-code">
+            <span class="title">The World Anti-Doping Code</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/world-anti-doping-code/code-signatories">Code Signatories</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/world-anti-doping-code/become-code-signatory">Become a Code Signatory</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/world-anti-doping-code/code-review">Code Review</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/international-standards">
+            <span class="title">International Standards</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/compliance-monitoring">
+            <span class="title">Compliance &amp; Monitoring</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/compliance-monitoring/code-compliance-implementation-and-maintenance">Code Compliance Implementation and Maintenance</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/compliance-monitoring/compliance-monitoring-program">Compliance Monitoring Program</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/compliance-audits">Compliance Audits</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/compliance-monitoring/compliance-enforcement-procedures">Compliance Enforcement Procedures</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/compliance-monitoring/independent-observer-program">Independent Observer Program</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/education-and-training">
+            <span class="title">Education and Training</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/education-and-training/education-initiatives">Education Initiatives</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/education-and-training/education-committee">Education Committee</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/sport-values-every-classroom">Sport Values in Every Classroom</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/education-and-training/about-adel">About ADEL</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/data-research/social-science-research">Social Science Research</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/social-science-research-collaboration-platform">Social Science Research Collaboration Platform</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/code-implementation-support-program">Code Implementation Support Program</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/education-and-training/global-learning-development-framework">Global Learning and Development Framework</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/education-and-training/global-local">Global to Local</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/adams">
+            <span class="title">ADAMS</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/implementation">Implementation</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/adams/modules-apps">Modules &amp; Apps</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/intelligence-investigations">
+            <span class="title">Intelligence &amp; Investigations</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/intelligence-investigations/intelligence-unit">Intelligence Unit</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/investigations-unit">Investigations Unit</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/intelligence-investigations/european-ii-capability-and-capacity-building-project">Anti-Doping I&amp;I Project in Europe</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/legal-privacy">
+            <span class="title">Legal &amp; Privacy</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/case-law">Case Law</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/legal-opinions-and-articles-code">Legal Opinions and Articles on the Code</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/program-development">
+            <span class="title">Program Development</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/nado-program">NADO Program</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/rado-program">RADO Program</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/data-research/ado-benchmarking">Benchmarking for ADOs</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/what-we-do/science-medicine">
+            <span class="title">Science &amp; Medicine</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/science-medicine/laboratories">Laboratories</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/data-research/scientific-research">Scientific Research</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/athlete-biological-passport">Athlete Biological Passport</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/what-we-do/science-medicine/therapeutic-use-exemptions">Therapeutic Use Exemptions</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/prohibited-list">The Prohibited List</a>
+              </li>
+      </ul>
+
+              </li>
+      </ul>
+
+                <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+      </div>
+                <div class="inner-panel submenu"
+           data-menu-index="3"
+           data-track-nav="true">
+        <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+        <a class="menu-main-link second-panel-main-link" href="/en/athletes-support-personnel">
+          <span class="title">Athletes &amp; Support Personnel</span>
+          <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+        </a>
+                    <ul class="menu">
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/prohibited-list">
+            <span class="title">The Prohibited List</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/therapeutic-use-exemptions-tues">
+            <span class="title">Therapeutic Use Exemptions</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/anti-doping-process">
+            <span class="title">Anti-Doping Process</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/anti-doping-education">
+            <span class="title">Anti-Doping Education</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/athlete-engagement">
+            <span class="title">Athlete Engagement</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/athletes-support-personnel/athlete-engagement/paris-2024-resources-athletes">Paris 2024 – Resources for athletes</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/athletes-support-personnel/athlete-engagement/athlete-engagement-events">Athlete Engagement at events</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/athletes-support-personnel/athlete-engagement/athlete-council">Athlete Council</a>
+              </li>
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/athletes-support-personnel/athlete-engagement/anti-doping-rights-act">Anti-Doping Rights Act</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/speak-report-doping">
+            <span class="title">Speak Up - Report Doping</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/athletes-anti-doping-ombuds">
+            <span class="title">Athletes&#039; Anti-Doping Ombuds</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/athletes-support-personnel/provide-whereabouts">
+            <span class="title">Provide Whereabouts</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="https://www.wada-ama.org/en/media/news/stories">
+            <span class="title">Stories</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+      </ul>
+
+                <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+      </div>
+                <div class="inner-panel submenu"
+           data-menu-index="4"
+           data-track-nav="true">
+        <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+        <a class="menu-main-link second-panel-main-link" href="/en/anti-doping-partners">
+          <span class="title">Anti-Doping Partners</span>
+          <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+        </a>
+                    <ul class="menu">
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/olympic-paralympic-committees">
+            <span class="title">Olympic &amp; Paralympic Committees</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/international-federations">
+            <span class="title">International Federations</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/national-anti-doping-organizations-nados">
+            <span class="title">National Anti-Doping Organizations (NADOs)</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/regional-anti-doping-organizations-rados">
+            <span class="title">Regional Anti-Doping Organizations (RADOs)</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/major-event-organizations">
+            <span class="title">Major Event Organizations</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/court-arbitration-sport">
+            <span class="title">Court of Arbitration for Sport</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/governments">
+            <span class="title">Governments</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/laboratories">
+            <span class="title">Laboratories</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/law-enforcement">
+            <span class="title">Law Enforcement</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/pharmaceutical-industry">
+            <span class="title">Pharmaceutical Industry</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/anti-doping-partners/service-providers">
+            <span class="title">Service Providers</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/who-we-are/funding/private-funding">
+            <span class="title">Private Funding</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="/en/anti-doping-partners/private-funding/sword-group">Sword Group</a>
+              </li>
+      </ul>
+
+              </li>
+      </ul>
+
+                <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+      </div>
+                <div class="inner-panel submenu"
+           data-menu-index="5"
+           data-track-nav="true">
+        <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+        <a class="menu-main-link second-panel-main-link" href="/en/data-research">
+          <span class="title">Data &amp; Research</span>
+          <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+        </a>
+                    <ul class="menu">
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/data-research/trends">
+            <span class="title">Trends</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/data-research/anti-doping-statistics">
+            <span class="title">Anti-Doping Statistics</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/data-research/scientific-research">
+            <span class="title">Scientific Research</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="https://www.wada-ama.org/en/search/research-projects?filters%5Bresource_collection%5D%5B0%5D=%22Scientific%20Research%22&amp;sort-by=relevance">Scientific Research Projects</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/data-research/social-science-research">
+            <span class="title">Social Science Research</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+                    <ul class="menu">
+          <li class="menu-item">
+          <a class="menu-secondary-link" href="https://www.wada-ama.org/en/search/research-projects?filters%5Bresource_collection%5D%5B0%5D=%22Social%20Science%20Research%22&amp;sort-by=relevance">Social Science Research Projects</a>
+              </li>
+      </ul>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/data-research/ado-benchmarking">
+            <span class="title">Benchmarking for ADOs</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+      </ul>
+
+                <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+      </div>
+                <div class="inner-panel submenu"
+           data-menu-index="6"
+           data-track-nav="true">
+        <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+        <a class="menu-main-link second-panel-main-link" href="/en/media">
+          <span class="title">Media</span>
+          <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+        </a>
+                    <ul class="menu">
+                <li class="menu-item menu-item--expanded menu-item--active-trail">
+          <a class="menu-main-link second-panel-secondairy-link" href="/en/media/news">
+            <span class="title">News</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          <a class="menu-main-link second-panel-secondairy-link" href="https://www.wada-ama.org/en/2024-annual-report">
+            <span class="title">2024 Annual Report</span>
+            <span class="arrow"><svg xmlns="http://www.w3.org/2000/svg" width="21.002" height="15.668" viewBox="0 0 21.002 15.668" fill="currentColor"><path d="M20 8.401H0v-1h20z"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z"/></svg></span>
+          </a>
+
+              </li>
+      </ul>
+
+                <span aria-hidden="true" tabindex="0" class="visually-hidden go-to-prev"></span>
+      </div>
+      </div>
+
+
+
+
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--breadcrumbs.html.twig
+   ✅ block--system-breadcrumb-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/block/block--system-breadcrumb-block.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/system/breadcrumb.html.twig' -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ul class="breadcrumb-list">
+                  <li class="breadcrumb-item">
+                          <a class="breadcrumb-link btn-line" href="/en">
+                <span class="breadcrumb-link-tx">Home</span></a>
+                      </li>          <li class="breadcrumb-item">
+                          <a class="breadcrumb-link btn-line" href="/en/media">
+                <span class="breadcrumb-link-tx">Media</span></a>
+                      </li>          <li class="breadcrumb-item">
+                          <span aria-current="page">News</span>
+                      </li>      </ul>
+    </nav>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/system/breadcrumb.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/block/block--system-breadcrumb-block.html.twig' -->
+
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/region/region--header.html.twig' -->
+
+
+  
+  <main class="layout-content" id="main-content" role="main"
+    data-rad-id="slider-5016"
+    data-rad-module="rad-modules/SliderModule">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--content.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+  <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ node--hub--news.html.twig
+   ▪️ node--5016--full.html.twig
+   ▪️ node--5016.html.twig
+   ▪️ node--hub--full.html.twig
+   ▪️ node--hub.html.twig
+   ▪️ node--full.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/node--hub--news.html.twig' -->
+
+
+
+
+
+<div about="/en/media/news" class="node node--type-hub node--view-mode-full"
+  data-rad-id="header-hub-news"
+  data-rad-module="rad-modules/HeaderHubModule"
+  data-track-module="true"
+  data-track-type="Content Interaction"
+  data-track-title="Sub-navigation interaction"
+  data-track-urlCurrent="/en/media/news">
+
+  <div class="header-hub header-hub--news layout-wrapper">
+          <h1 class="hub-title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--title--hub.html.twig
+   ✅ field--node--title.html.twig
+   ▪️ field--node--hub.html.twig
+   ▪️ field--title.html.twig
+   ▪️ field--string.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/field--node--title.html.twig' -->
+<span class="field field--name-title field--type-string field--label-hidden">News</span>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/field--node--title.html.twig' -->
+
+</h1>
+    
+
+    <div class="nav-hub nav-hub--news">
+      <button class="filter-mobile">
+        <span class="label-search">Filters</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="8" fill="currentColor"><path d="M1.364.316l-.678.735 6.839 6.313 6.839-6.313-.678-.735-6.161 5.687z"/></svg>
+      </button>
+
+      <ul class="filter-news-types filter-collections">
+                                    <li>
+            <a href="/en/media/news/releases" class="filter-collection-link">Releases</a>
+          </li>
+                            <li>
+            <a href="/en/media/news/stories" class="filter-collection-link">Stories</a>
+          </li>
+              </ul>
+
+      <a href="/en/search?filters%5Bcontent_type%5D%5B%5D=&quot;news&quot;" class="link-to-search" >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27"><g data-name="Ellipse 9759" transform="rotate(-45 16.296 6.75)" fill="none" stroke="#000"><circle cx="9.546" cy="9.546" r="9.546" stroke="none"/><circle cx="9.546" cy="9.546" r="9.046"/></g><path data-name="Ligne 4570" fill="none" stroke="#000" d="m19.828 19.828 4.5 4.5"/></svg>
+        <span class="label-search">Browse all news</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="wrapper-content wrapper-content-hub">
+
+      
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--mix-preview--full.html.twig
+   ✅ paragraph--mix-preview.html.twig
+   ▪️ paragraph--full.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/paragraph/paragraph--mix-preview.html.twig' -->
+
+
+<section class="mix-teasers teaser-slider block-margin" data-rad-id="slider-" id="paragraph-">
+	<div class="layout-wrapper">
+
+					<h2 class="mix-teasers-title">
+				
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--mix-preview.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--mix-preview.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Latest news
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+
+			</h2>
+		
+		<div class=" splide splide-teaser teaser-slider-container" id="slider-" data-image="false" data-nb="6">
+			<div class="splide__track">
+				<ul class="splide__list teaser-list mix-teasers-list">
+
+																																																																																																																																																																																							<li class="splide__slide mix-teasers-item teaser-with-img">
+								
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--9040--teaser.html.twig
+   ▪️ node--9040.html.twig
+   ✅ node--news--teaser.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser.html.twig' -->
+<a class="teaser-link"
+   href="/en/news/wadas-world-conference-doping-sport-focuses-revised-world-anti-doping-code-and-international"
+   aria-label="Read more on the news : WADA’s World Conference on Doping in Sport focuses on revised World Anti-Doping Code and International Standards "
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA’s World Conference on Doping in Sport focuses on revised World Anti-Doping Code and International Standards"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-img">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-image--news.html.twig
+   ▪️ field--node--field-image.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-image.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--teaser.html.twig
+   ✅ media--image.html.twig
+   ▪️ media--teaser.html.twig
+   ▪️ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ▪️ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+  <picture>
+                  <source media="screen and (min-width: 1440px)" type="image/jpeg" width="600" height="600" data-srcset="/sites/default/files/styles/square_mobile/public/2025-12/news-item-wc-session-3-4-thumbnail.jpg?itok=uLoKLBsy 1x"/>
+              <source media="screen and (min-width: 769px) and (-webkit-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min--moz-device-pixel-ratio: 2), screen and (min-width: 769px) and (-moz-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (-o-min-device-pixel-ratio: 2/1), screen and (min-width: 769px) and (min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min-resolution: 192dpi), screen and (min-width: 769px) and (min-resolution: 2dppx)" type="image/jpeg" width="600" height="600" data-srcset="/sites/default/files/styles/square_mobile/public/2025-12/news-item-wc-session-3-4-thumbnail.jpg?itok=uLoKLBsy 1x"/>
+              <source media="screen and (max-width: 600px)" type="image/jpeg" width="640" height="360" data-srcset="/sites/default/files/styles/fullscreen_mobile/public/2025-12/news-item-wc-session-3-4-thumbnail.jpg?itok=MDCHiyWB 1x"/>
+              <source type="image/jpeg" width="300" height="300" data-srcset="/sites/default/files/styles/square_teaser/public/2025-12/news-item-wc-session-3-4-thumbnail.jpg?itok=oHatbdzj 1x"/>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+<img width="600" height="600" alt="news-item-wc-session-3-4-thumbnail" class="lazyload" data-src="/sites/default/files/styles/square_mobile/public/2025-12/news-item-wc-session-3-4-thumbnail.jpg?itok=uLoKLBsy" typeof="foaf:Image" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 600 600&#039;%3E%3C/svg%3E" />
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+
+
+  </picture>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+    <div class="teaser-content">
+      <div class="teaser-content-inner">
+        <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2025-12-03T12:00:00Z" class="datetime">03 Dec 2025</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+        <h3 class="teaser-title h4">WADA’s World Conference on Doping in Sport focuses on r...</h3>
+      </div>
+      <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Releases
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+    </div>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA’s World Conference on Doping in Sport focuses on revised World Anti-Doping Code and International Standards </span> </span>
+</a>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser.html.twig' -->
+
+
+							</li>
+																								<li class="splide__slide mix-teasers-item teaser-with-img">
+								
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--9019--teaser.html.twig
+   ▪️ node--9019.html.twig
+   ✅ node--news--teaser.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser.html.twig' -->
+<a class="teaser-link"
+   href="/en/news/wada-holds-opening-ceremony-sixth-world-conference-doping-sport"
+   aria-label="Read more on the news : WADA holds Opening Ceremony for the sixth World Conference on Doping in Sport  "
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA holds Opening Ceremony for the sixth World Conference on Doping in Sport"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-img">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-image--news.html.twig
+   ▪️ field--node--field-image.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-image.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--teaser.html.twig
+   ✅ media--image.html.twig
+   ▪️ media--teaser.html.twig
+   ▪️ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ▪️ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+  <picture>
+                  <source media="screen and (min-width: 1440px)" type="image/jpeg" width="600" height="600" data-srcset="/sites/default/files/styles/square_mobile/public/2025-12/3e5a2169_thumb.jpg?itok=95YYv9eI 1x"/>
+              <source media="screen and (min-width: 769px) and (-webkit-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min--moz-device-pixel-ratio: 2), screen and (min-width: 769px) and (-moz-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (-o-min-device-pixel-ratio: 2/1), screen and (min-width: 769px) and (min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min-resolution: 192dpi), screen and (min-width: 769px) and (min-resolution: 2dppx)" type="image/jpeg" width="600" height="600" data-srcset="/sites/default/files/styles/square_mobile/public/2025-12/3e5a2169_thumb.jpg?itok=95YYv9eI 1x"/>
+              <source media="screen and (max-width: 600px)" type="image/jpeg" width="640" height="360" data-srcset="/sites/default/files/styles/fullscreen_mobile/public/2025-12/3e5a2169_thumb.jpg?itok=QAkY1sbz 1x"/>
+              <source type="image/jpeg" width="300" height="300" data-srcset="/sites/default/files/styles/square_teaser/public/2025-12/3e5a2169_thumb.jpg?itok=D-z6hQK6 1x"/>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+<img width="600" height="600" alt="wc-2025-opening-ceremony" class="lazyload" data-src="/sites/default/files/styles/square_mobile/public/2025-12/3e5a2169_thumb.jpg?itok=95YYv9eI" typeof="foaf:Image" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 600 600&#039;%3E%3C/svg%3E" />
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+
+
+  </picture>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+    <div class="teaser-content">
+      <div class="teaser-content-inner">
+        <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2025-12-02T12:00:00Z" class="datetime">02 Dec 2025</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+        <h3 class="teaser-title h4">WADA holds Opening Ceremony for the sixth World Confere...</h3>
+      </div>
+      <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Releases
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+    </div>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA holds Opening Ceremony for the sixth World Conference on Doping in Sport  </span> </span>
+</a>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser.html.twig' -->
+
+
+							</li>
+																																	
+																																																																																																																																																																																							<li class="splide__slide mix-teasers-item teaser-no-img">
+								
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--9018--teaser-no-image.html.twig
+   ▪️ node--9018.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/wada-executive-committee-takes-number-decisions-prior-sixth-world-conference-doping-sport"
+   aria-label="Read more on the news : WADA Executive Committee takes a number of decisions prior to sixth World Conference on Doping in Sport in Busan "
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA Executive Committee takes a number of decisions prior to sixth World Conference on Doping in Sport in Busan"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2025-12-02T12:00:00Z" class="datetime">02 Dec 2025</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">WADA Executive Committee takes a number of decisions pr...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Releases
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA Executive Committee takes a number of decisions prior to sixth World Conference on Doping in Sport in Busan </span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+
+							</li>
+																								<li class="splide__slide mix-teasers-item teaser-no-img">
+								
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--9016--teaser-no-image.html.twig
+   ▪️ node--9016.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/wada-launches-new-e-learning-course-coaches-recreational-athletes"
+   aria-label="Read more on the news : WADA launches new e-learning course for coaches of recreational athletes"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA launches new e-learning course for coaches of recreational athletes"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2025-11-28T12:00:00Z" class="datetime">28 Nov 2025</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">WADA launches new e-learning course for coaches of recr...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Releases
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA launches new e-learning course for coaches of recreational athletes</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+
+							</li>
+																								<li class="splide__slide mix-teasers-item teaser-no-img">
+								
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--9012--teaser-no-image.html.twig
+   ▪️ node--9012.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/wada-hosts-final-asia-and-oceania-region-global-anti-doping-intelligence-and-investigations"
+   aria-label="Read more on the news : WADA hosts final Asia and Oceania region Global Anti-Doping Intelligence and Investigations Network workshop in Thailand"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA hosts final Asia and Oceania region Global Anti-Doping Intelligence and Investigations Network workshop in Thailand"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2025-11-27T12:00:00Z" class="datetime">27 Nov 2025</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">WADA hosts final Asia and Oceania region Global Anti-Do...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Releases
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA hosts final Asia and Oceania region Global Anti-Doping Intelligence and Investigations Network workshop in Thailand</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+
+							</li>
+																								<li class="splide__slide mix-teasers-item teaser-no-img">
+								
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--9011--teaser-no-image.html.twig
+   ▪️ node--9011.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/wada-announces-independent-observer-teams-milano-cortina-2026-olympic-and-paralympic-winter"
+   aria-label="Read more on the news : WADA announces Independent Observer teams for the Milano Cortina 2026 Olympic and Paralympic Winter Games "
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA announces Independent Observer teams for the Milano Cortina 2026 Olympic and Paralympic Winter Games"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2025-11-26T12:00:00Z" class="datetime">26 Nov 2025</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">WADA announces Independent Observer teams for the Milan...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Releases
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA announces Independent Observer teams for the Milano Cortina 2026 Olympic and Paralympic Winter Games </span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+
+							</li>
+																																					</ul>
+
+									<a href="/en/search?filters%5Bcontent_type%5D%5B%5D=&quot;news&quot;" class="btn-simple btn-more">Browse all news</a>
+				
+			</div>
+					</div>
+
+	</div>
+</section>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/paragraph/paragraph--mix-preview.html.twig' -->
+
+
+      
+            <div class="layout-wrapper">
+        <div class="news-hub-stories block-margin">
+          <div class="left-col col">
+            <h2>Read our stories</h2>
+
+            <div class="hero-teasers"
+                data-rad-id="slider-5016"
+                id="hero-teasers-5016">
+              <div class="splide splide-teaser teaser-slider-container" id="slider-hero-5016" data-nb="8">
+                <div class="splide__track">
+                  <ul class="splide__list teaser-list teaser-list-nb8">
+                                                                  <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--6332--teaser-no-image.html.twig
+   ▪️ node--6332.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/spotlight-wada-program-development-collaborating-support-growth-anti-doping-programs-worldwide"
+   aria-label="Read more on the news : Spotlight - WADA Program Development is collaborating to support the growth of anti-doping programs worldwide"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : Spotlight - WADA Program Development is collaborating to support the growth of anti-doping programs worldwide"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2023-07-27T12:00:00Z" class="datetime">27 Jul 2023</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">Spotlight - WADA Program Development is collaborating t...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : Spotlight - WADA Program Development is collaborating to support the growth of anti-doping programs worldwide</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--6071--teaser-no-image.html.twig
+   ▪️ node--6071.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/spotlight-stakeholder-engagement-partnerships"
+   aria-label="Read more on the news : Spotlight - Stakeholder Engagement &amp; Partnerships"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : Spotlight - Stakeholder Engagement &amp; Partnerships"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2023-03-06T12:00:00Z" class="datetime">06 Mar 2023</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">Spotlight - Stakeholder Engagement &amp; Partnerships</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : Spotlight - Stakeholder Engagement &amp; Partnerships</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--5947--teaser-no-image.html.twig
+   ▪️ node--5947.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/5-minutes-gaby-ahrens"
+   aria-label="Read more on the news : 5 minutes with... Gaby Ahrens"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : 5 minutes with... Gaby Ahrens"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2022-12-29T12:00:00Z" class="datetime">29 Dec 2022</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">5 minutes with... Gaby Ahrens</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : 5 minutes with... Gaby Ahrens</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--5737--teaser-no-image.html.twig
+   ▪️ node--5737.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/5-minutes-emma-terho"
+   aria-label="Read more on the news : 5 minutes with... Emma Terho"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : 5 minutes with... Emma Terho"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2022-11-10T12:00:00Z" class="datetime">10 Nov 2022</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">5 minutes with... Emma Terho</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : 5 minutes with... Emma Terho</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--5734--teaser-no-image.html.twig
+   ▪️ node--5734.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/5-minutes-astrid-guyart"
+   aria-label="Read more on the news : 5 minutes with ... Astrid Guyart"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : 5 minutes with ... Astrid Guyart"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2022-09-14T12:00:00Z" class="datetime">14 Sep 2022</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">5 minutes with ... Astrid Guyart</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : 5 minutes with ... Astrid Guyart</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--5708--teaser-no-image.html.twig
+   ▪️ node--5708.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/athlete-engagement-be-athlete-centered-priority-action"
+   aria-label="Read more on the news : Athlete Engagement: The ‘Be Athlete Centered’ priority in action"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : Athlete Engagement: The ‘Be Athlete Centered’ priority in action"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2022-09-08T12:00:00Z" class="datetime">08 Sep 2022</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">Athlete Engagement: The ‘Be Athlete Centered’ priority ...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : Athlete Engagement: The ‘Be Athlete Centered’ priority in action</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--5532--teaser-no-image.html.twig
+   ▪️ node--5532.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/wadas-work-prevalence-doping-understanding-effectiveness-anti-doping-programs"
+   aria-label="Read more on the news : WADA’s work on prevalence of doping: Understanding the effectiveness of anti-doping programs"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : WADA’s work on prevalence of doping: Understanding the effectiveness of anti-doping programs"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2022-06-03T12:00:00Z" class="datetime">03 Jun 2022</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">WADA’s work on prevalence of doping: Understanding the ...</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : WADA’s work on prevalence of doping: Understanding the effectiveness of anti-doping programs</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                                                        <li class="splide__slide teaser-item">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--5503--teaser-no-image.html.twig
+   ▪️ node--5503.html.twig
+   ✅ node--news--teaser-no-image.html.twig
+   ▪️ node--news.html.twig
+   ▪️ node--teaser-no-image.html.twig
+   ▪️ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+<a class="teaser-link teaser-tx"
+   href="/en/news/5-minutes-adriana-escobar"
+   aria-label="Read more on the news : 5 minutes with ... Adriana Escobar"
+   data-track-module="true"
+   data-track-type="Content Interaction"
+   data-track-title="News : 5 minutes with ... Adriana Escobar"
+   data-track-urlCurrent="/en/media/news"
+   data-track-cta="Read more">
+  <div class="teaser-wrapper">
+    <div class="teaser-content-inner">
+      <div class="teaser-date">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-date--news.html.twig
+   ▪️ field--node--field-date.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-date.html.twig
+   ▪️ field--datetime.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+<time datetime="2022-05-26T12:00:00Z" class="datetime">26 May 2022</time>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/time.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</div>
+      <h3 class="teaser-title h4">5 minutes with ... Adriana Escobar</h3>
+    </div>
+    <p class="teaser-category">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-news-type--news.html.twig
+   ▪️ field--node--field-news-type.html.twig
+   ▪️ field--node--news.html.twig
+   ▪️ field--field-news-type.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      Story
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+</p>
+  </div>
+  <span class="btn-simple teaser-btn">Read more<span class="screen-reader-only"> on : 5 minutes with ... Adriana Escobar</span> </span>
+</a>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/teasers/node--news--teaser-no-image.html.twig' -->
+
+</li>
+                                                            </ul>
+                  <a href="/en/search?filters%5Bcontent_type%5D%5B%5D=&quot;news&quot;&amp;filters%5Bnews_type%5D%5B%5D=&quot;Story&quot;" class="btn-simple btn-more">Browse all stories</a>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="right-col col">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-image--hub.html.twig
+   ▪️ field--node--field-image.html.twig
+   ▪️ field--node--hub.html.twig
+   ▪️ field--field-image.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--square.html.twig
+   ✅ media--image.html.twig
+   ▪️ media--square.html.twig
+   ▪️ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ▪️ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+  <picture>
+                  <source media="screen and (min-width: 1440px)" type="image/jpeg" width="1440" height="1440" data-srcset="/sites/default/files/styles/square/public/2023-01/basketball-hoops.jpg?h=0eddad68&amp;itok=96R_fqdZ 1x"/>
+              <source media="screen and (min-width: 769px) and (-webkit-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min--moz-device-pixel-ratio: 2), screen and (min-width: 769px) and (-moz-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (-o-min-device-pixel-ratio: 2/1), screen and (min-width: 769px) and (min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min-resolution: 192dpi), screen and (min-width: 769px) and (min-resolution: 2dppx)" type="image/jpeg" width="1440" height="1440" data-srcset="/sites/default/files/styles/square/public/2023-01/basketball-hoops.jpg?h=0eddad68&amp;itok=96R_fqdZ 1x"/>
+              <source media="screen and (max-width: 600px)" type="image/jpeg" width="600" height="600" data-srcset="/sites/default/files/styles/square_mobile/public/2023-01/basketball-hoops.jpg?h=0eddad68&amp;itok=JE0maYlg 1x"/>
+              <source type="image/jpeg" width="1440" height="1440" data-srcset="/sites/default/files/styles/square/public/2023-01/basketball-hoops.jpg?h=0eddad68&amp;itok=96R_fqdZ 1x"/>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+<img width="900" height="900" alt="basketball-hoop" class="lazyload" data-src="/sites/default/files/styles/square_medium/public/2023-01/basketball-hoops.jpg?h=0eddad68&amp;itok=8dscf4Z8" typeof="foaf:Image" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 900 900&#039;%3E%3C/svg%3E" />
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+
+
+  </picture>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+
+          </div>
+        </div>
+      </div>
+        </div>
+
+  
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/node/node--hub--news.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+
+
+  </main>
+
+      <footer class="footer block-pad" role="contentinfo">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--footer.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/region/region--footer.html.twig' -->
+
+
+
+<div class="layout-wrapper footer-container">
+  <a class="footer-group footer-top" href="#"
+     data-track-nav="true">
+    <span class="btn-tx btn-line">Back to top</span>
+    <svg class="arrow" aria-hidden="true">
+      <use xlink:href="#arrow"></use>
+    </svg>
+  </a>
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--footer.html.twig
+   ▪️ block--system-menu-block--footer.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--footer.html.twig
+   ✅ menu--footer.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--footer.html.twig' -->
+  <nav class="footer-group footer-nav" aria-roledescription="Footer navigation">
+                <div class="footer-menu footer-menu--expanded">
+                  <ul class="footer-menu-list">
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Anti-Doping Administration &amp; Management System (ADAMS)">
+                <a href="https://adams.wada-ama.org/adams/login.do?prompt=true&amp;nopopup=true" target="_blank" class="link--icon">Anti-Doping Administration &amp; Management System (ADAMS)</a>
+              </li>
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Anti-Doping Education &amp; Learning Platform (ADEL)">
+                <a href="https://adel.wada-ama.org/learn" target="_blank" class="link--icon">Anti-Doping Education &amp; Learning Platform (ADEL)</a>
+              </li>
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Therapeutic Use Exemption (TUE)">
+                <a href="/en/what-we-do/science-medicine/therapeutic-use-exemptions" title="Therapeutic Use Exemption (TUE)" data-drupal-link-system-path="node/5065">Therapeutic Use Exemption (TUE)</a>
+              </li>
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="The Prohibited List">
+                <a href="/en/prohibited-list" title="The Prohibited List" data-drupal-link-system-path="node/5015">The Prohibited List</a>
+              </li>
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Speak Up - Report Doping">
+                <a href="/en/athletes-support-personnel/speak-report-doping" title="Speak Up - Report Doping" data-drupal-link-system-path="node/5024">Speak Up - Report Doping</a>
+              </li>
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Careers - Join Our Team">
+                <a href="/en/careers" title="Careers - Join Our Team" data-drupal-link-system-path="node/4663">Careers - Join Our Team</a>
+              </li>
+                      </ul>
+              </div>
+                <div class="footer-menu footer-menu--expanded">
+                  <ul class="footer-menu-list">
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Terms &amp; Conditions">
+                <a href="/en/second-column/terms-conditions" title="Terms &amp; Conditions" data-drupal-link-system-path="node/5057">Terms &amp; Conditions</a>
+              </li>
+                                        <li class="footer-menu-item"
+                data-track-nav="true" data-track-label="Privacy Policy">
+                <a href="/en/privacy-policy" title="Privacy Policy" data-drupal-link-system-path="node/4762">Privacy Policy</a>
+              </li>
+                      </ul>
+              </div>
+      </nav>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/navigation/menu--footer.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+
+
+  <div class="footer-group footer-socials">
+    <div class="footer-name footer-name-en"></div>
+    <ul class="footer-socials-list">
+              <li class="footer-socials-item">
+          <a href="https://www.facebook.com/wada.ama" target="_blank" rel="noopener" class="footer-socials-link" data-track-nav="true" data-track-label="Facebook">
+            <span class="screen-reader-only">Follow us on Facebook</span>
+            <svg class="facebook footer-socials-icon" aria-hidden="true">
+              <use xlink:href="#facebook"></use>
+            </svg>
+          </a>
+        </li>
+                    <li class="footer-socials-item">
+          <a href="https://www.instagram.com/wada_ama" target="_blank" rel="noopener" class="footer-socials-link" data-track-nav="true" data-track-label="Instagram">
+            <span class="screen-reader-only">Follow us on Instagram</span>
+            <svg class="instagram footer-socials-icon" aria-hidden="true">
+              <use xlink:href="#instagram"></use>
+            </svg>
+          </a>
+        </li>
+                    <li class="footer-socials-item">
+          <a href="https://www.twitter.com/wada_ama" target="_blank" rel="noopener" class="footer-socials-link" data-track-nav="true" data-track-label="Twitter">
+            <span class="screen-reader-only">Follow us on Twitter</span>
+            <svg class="twitter footer-socials-icon" aria-hidden="true">
+              <use xlink:href="#twitter"></use>
+            </svg>
+          </a>
+        </li>
+                    <li class="footer-socials-item">
+          <a href="https://www.linkedin.com/company/wada" target="_blank" rel="noopener" class="footer-socials-link" data-track-nav="true" data-track-label="LinkedIn">
+            <span class="screen-reader-only">Follow us on LinkedIn</span>
+            <svg class="linkedin footer-socials-icon" aria-hidden="true">
+              <use xlink:href="#linkedin"></use>
+            </svg>
+          </a>
+        </li>
+                    <li class="footer-socials-item">
+          <a href="https://www.youtube.com/user/wadamovies" target="_blank" rel="noopener" class="footer-socials-link" data-track-nav="true" data-track-label="Youtube">
+            <span class="screen-reader-only">Follow us on Youtube</span>
+            <svg class="youtube footer-socials-icon" aria-hidden="true">
+              <use xlink:href="#youtube"></use>
+            </svg>
+          </a>
+        </li>
+                      </ul>
+  </div>
+</div>
+
+<div class="footer-reveal">
+
+  <div data-rad-id="hero-slider-" data-rad-module="rad-modules/Hero">
+
+    <div class="footer-logo footer-logo-en">
+      <div class="multi-logo logo1"></div>
+      <div class="multi-logo logo2"></div>
+      <div class="multi-logo logo3"></div>
+      <div class="multi-logo logo4"></div>
+    </div>
+
+
+      <div class="hero hero-home hero-landing footer-hero" id="hero-footer" >
+      <div class="hero-img">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--fullscreen.html.twig
+   ✅ media--image.html.twig
+   ▪️ media--fullscreen.html.twig
+   ▪️ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ▪️ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+  <picture>
+                  <source media="screen and (min-width: 1440px)" type="image/jpeg" width="2520" height="700" data-srcset="/sites/default/files/styles/horizontal_18_5_large/public/2022-04/Speed%20skating%202_0.jpg?itok=_GJok-4m 1x"/>
+              <source media="screen and (min-width: 769px) and (-webkit-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min--moz-device-pixel-ratio: 2), screen and (min-width: 769px) and (-moz-min-device-pixel-ratio: 2), screen and (min-width: 769px) and (-o-min-device-pixel-ratio: 2/1), screen and (min-width: 769px) and (min-device-pixel-ratio: 2), screen and (min-width: 769px) and (min-resolution: 192dpi), screen and (min-width: 769px) and (min-resolution: 2dppx)" type="image/jpeg" width="2400" height="1350" data-srcset="/sites/default/files/styles/fullscreen/public/2022-04/Speed%20skating%202_0.jpg?itok=LrjuG6M4 1x"/>
+              <source media="screen and (max-width: 600px)" type="image/jpeg" width="640" height="360" data-srcset="/sites/default/files/styles/fullscreen_mobile/public/2022-04/Speed%20skating%202_0.jpg?itok=TSub0vum 1x"/>
+              <source type="image/jpeg" width="1440" height="810" data-srcset="/sites/default/files/styles/fullscreen_medium/public/2022-04/Speed%20skating%202_0.jpg?itok=t6M7bb-s 1x"/>
+                  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+<img width="1440" height="810" alt="speed skating" class="lazyload" data-src="/sites/default/files/styles/fullscreen_medium/public/2022-04/Speed%20skating%202_0.jpg?itok=t6M7bb-s" typeof="foaf:Image" src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 1440 810&#039;%3E%3C/svg%3E" />
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image.html.twig' -->
+
+
+  </picture>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/field/responsive-image-formatter.html.twig' -->
+
+
+  
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/field/field.html.twig' -->
+
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/media/media--image.html.twig' -->
+
+
+      </div>
+    </div>
+  </div>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/region/region--footer.html.twig' -->
+
+
+</footer>
+  
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/layout/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+
+
+
+
+<span class="hide"><svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="arrow-big" viewBox="0 0 36 40"><path fill="currentColor" d="M15.296.707L16.003 0 36 19.997l-.707.707z"/><path fill="currentColor" d="M15.294 39.293l.707.707 19.997-20.001-.707-.707z"/><path fill="currentColor" d="M0 19.499h35.492v1H0z"/></symbol>
+<symbol id="arrow-long" viewBox="0 0 71 15.668"><path d="M70 8.401H0v-1h70z" fill="currentColor"/><path d="M63.338 15.668l-.707-.709 6.971-6.939L62.623.69l.723-.689L71 8.04l-.346.345z" fill="currentColor"/></symbol>
+<symbol id="arrow-simple" viewBox="0 0 15 8"><path d="M1.364.316l-.678.735 6.839 6.313 6.839-6.313-.678-.735-6.161 5.687z" fill="currentColor"/></symbol>
+<symbol id="arrow" viewBox="0 0 21.002 15.668"><path d="M20 8.401H0v-1h20z" fill="currentColor"/><path d="M13.34 15.668l-.707-.709 6.971-6.939L12.625.69l.723-.689 7.654 8.039-.346.345z" fill="currentColor"/></symbol>
+<symbol id="back" viewBox="0 0 16.13 18.281"><path d="M6.452 5.377L7.979 6.9l-3.86 3.85h9.861V0h2.15v12.9H4.118l3.86 3.85-1.527 1.527L0 11.829z" fill="currentColor"/></symbol>
+<symbol id="download" viewBox="0 0 14.857 15.547"><g fill="none" stroke="currentColor"><path d="M7.366 0v12.211"/><path d="M14.512 5.289l-7.268 6.92-6.89-6.92"/><path d="M14.498 15.046H.229"/></g></symbol>
+<symbol id="erase" viewBox="0 0 20 20"><g><path d="M10 0a10 10 0 1010 10A9.991 9.991 0 0010 0z"/><path d="M15 13.59L13.59 15 10 11.41 6.41 15 5 13.59 8.59 10 5 6.41 6.41 5 10 8.59 13.59 5 15 6.41 11.41 10z" fill="#fff"/></g></symbol>
+<symbol id="external" viewBox="0 0 18 18"><path d="M18 18H0V0h8v1H1v16h16v-6.994h1V18z" fill="currentColor"/><path d="M13.003 0v1h3.286L7.36 9.93l.71.712L17 1.707v3.292h.994V0h-4.99z" fill="currentColor"/></symbol>
+<symbol id="play" viewBox="0 0 28.414 30.227"><path d="M0 0v30.227l28.414-15.113z" fill="currentColor"/></symbol>
+<symbol id="plus" viewBox="0 0 60 60"><path fill="currentColor" d="M30 0h1v60h-1z"/><path fill="currentColor" d="M0 30h60v1H0z"/></symbol>
+<symbol id="plus-fat" viewBox="0 0 15 16">
+  <path d="M7.4997 0.375977L7.4997 15.376M0 7.87598H15" stroke="currentColor"/></symbol>
+<symbol id="minus" viewBox="0 0 15 2"><path d="M0 0.875977H15" stroke="currentColor"/></symbol>
+<symbol id="search" viewBox="0 0 18 18" fill="none"><circle cx="8.25" cy="8.25" r="7.75" stroke="currentColor"/><path d="M13.343 14.05l.707-.707 3.95 3.95-.707.707-3.95-3.95z" fill="currentColor"/></symbol>
+<symbol id="facebook" viewBox="0 0 9.641 18" fill="none"><path fill="currentColor" d="m9.009 10.125.5-3.258H6.383V4.753a1.629 1.629 0 0 1 1.837-1.76h1.421V.22A17.329 17.329 0 0 0 7.119 0C4.544 0 2.862 1.56 2.862 4.385v2.482H0v3.258h2.862V18h3.521v-7.875Z"/></symbol>
+<symbol id="instagram" viewBox="0 0 15.759 15.755" fill="none"><path fill="currentColor" d="M7.881 3.838a4.039 4.039 0 1 0 4.039 4.039 4.033 4.033 0 0 0-4.039-4.039Zm0 6.666a2.626 2.626 0 1 1 2.624-2.627 2.631 2.631 0 0 1-2.626 2.626Zm5.147-6.831a.942.942 0 1 1-.942-.942.94.94 0 0 1 .942.942Zm2.675.956a4.663 4.663 0 0 0-1.273-3.3 4.693 4.693 0 0 0-3.3-1.273c-1.3-.074-5.2-.074-6.5 0a4.687 4.687 0 0 0-3.3 1.269 4.678 4.678 0 0 0-1.275 3.3c-.074 1.3-.074 5.2 0 6.5a4.663 4.663 0 0 0 1.273 3.3 4.7 4.7 0 0 0 3.3 1.273c1.3.074 5.2.074 6.5 0a4.663 4.663 0 0 0 3.3-1.273 4.693 4.693 0 0 0 1.273-3.3c.074-1.3.074-5.2 0-6.5Zm-1.68 7.893a2.659 2.659 0 0 1-1.5 1.5 17.364 17.364 0 0 1-4.644.316 17.5 17.5 0 0 1-4.644-.316 2.659 2.659 0 0 1-1.5-1.5 17.363 17.363 0 0 1-.316-4.644 17.5 17.5 0 0 1 .316-4.644 2.659 2.659 0 0 1 1.5-1.5 17.364 17.364 0 0 1 4.644-.316 17.5 17.5 0 0 1 4.644.316 2.659 2.659 0 0 1 1.5 1.5 17.363 17.363 0 0 1 .316 4.644c0 1.145.095 3.61-.316 4.643Z"/></symbol>
+<symbol id="linkedin" viewBox="0 0 15.75 15.75" fill="none"><path fill="currentColor" d="M3.525 15.749H.26V5.234h3.265ZM1.891 3.799a1.9 1.9 0 1 1 1.891-1.908 1.907 1.907 0 0 1-1.891 1.908Zm13.856 11.95h-3.259v-5.118c0-1.22-.025-2.784-1.7-2.784-1.7 0-1.958 1.325-1.958 2.7v5.202H5.571V5.234H8.7v1.434h.046a3.431 3.431 0 0 1 3.09-1.7c3.3 0 3.912 2.176 3.912 5v5.781Z"/></symbol>
+<symbol id="twitter" viewBox="0 0 15.424 12.535" fill="none"><path fill="currentColor" d="M15.424 1.483a6.327 6.327 0 0 1-1.817.5A3.174 3.174 0 0 0 14.998.232a6.335 6.335 0 0 1-2.01.768 3.167 3.167 0 0 0-5.392 2.883 8.984 8.984 0 0 1-6.523-3.3 3.168 3.168 0 0 0 .979 4.225 3.152 3.152 0 0 1-1.433-.4v.04a3.166 3.166 0 0 0 2.538 3.1 3.17 3.17 0 0 1-1.429.054 3.168 3.168 0 0 0 2.956 2.2 6.349 6.349 0 0 1-3.93 1.355 6.418 6.418 0 0 1-.755-.044 9 9 0 0 0 13.855-7.581q0-.206-.009-.409a6.429 6.429 0 0 0 1.579-1.64Z"/></symbol>
+<symbol id="youtube" viewBox="0 0 15.424 11.017" fill="none"><path fill="currentColor" d="M11.017 5.509a.5.5 0 0 0-.258-.465L6.352 2.29a.519.519 0 0 0-.559-.017.513.513 0 0 0-.284.482v5.509a.513.513 0 0 0 .284.482.6.6 0 0 0 .267.069.49.49 0 0 0 .293-.086l4.407-2.754a.5.5 0 0 0 .258-.465Zm4.407 0q0 .826-.009 1.291t-.073 1.175a9.521 9.521 0 0 1-.194 1.27 2.014 2.014 0 0 1-.594 1.059 1.815 1.815 0 0 1-1.067.5 56.43 56.43 0 0 1-5.776.215 56.43 56.43 0 0 1-5.776-.215 1.835 1.835 0 0 1-1.072-.5 2 2 0 0 1-.6-1.059 10.654 10.654 0 0 1-.185-1.27Q.013 7.265.005 6.8t-.009-1.291q0-.826.009-1.291t.073-1.175a9.521 9.521 0 0 1 .194-1.27A2.014 2.014 0 0 1 .869.715a1.815 1.815 0 0 1 1.067-.5A56.43 56.43 0 0 1 7.712 0a56.43 56.43 0 0 1 5.776.215 1.835 1.835 0 0 1 1.072.5 2 2 0 0 1 .6 1.059 10.654 10.654 0 0 1 .185 1.27q.065.71.073 1.175t.011 1.29Z"/></symbol>
+<symbol id="reset" viewBox="0 0 11.982 12.845" fill="none"><g fill="none" stroke="#000"><path d="M3.544.345.699 3.333l2.845 2.832"/><path d="M.699 3.255h6.238A4.626 4.626 0 0 1 11.482 7.8a4.3 4.3 0 0 1-4.545 4.545A4.171 4.171 0 0 1 2.393 7.8"/></g></symbol>
+<symbol id="warning" viewBox="0 0 14 14" fill="none"><g transform="translate(.5 1)" fill="none" fill-rule="evenodd"><path fill="currentColor" d="M6 3h1v4H6zM6 8h1v1H6z"/><circle
+  stroke="currentColor" cx="6.5" cy="6" r="6"/></g></symbol>
+<symbol id="pinterest" viewBox="0 0 15.759 15.755" fill="none"><path fill="currentColor" d="M3.718 6.122a2.83 2.83 0 0 1 .526-1.728 1.548 1.548 0 0 1 1.277-.713 1.135 1.135 0 0 1 .958.413A1.61 1.61 0 0 1 6.8 5.108a4.952 4.952 0 0 1-.113.939q-.15.526-.375 1.277-.225.713-.338 1.164a1.366 1.366 0 0 0 .282 1.3 1.537 1.537 0 0 0 1.221.545A2.477 2.477 0 0 0 9.634 8.85a7.138 7.138 0 0 0 .845-3.587 3.522 3.522 0 0 0-1.033-2.634 3.98 3.98 0 0 0-2.911-1.014A4.527 4.527 0 0 0 3.136 2.95 4.442 4.442 0 0 0 1.84 6.16a2.892 2.892 0 0 0 .639 1.878.522.522 0 0 1 .15.526 5.161 5.161 0 0 0-.188.751.413.413 0 0 1-.206.244.432.432 0 0 1-.282.019A2.83 2.83 0 0 1 .488 8.189 4.977 4.977 0 0 1 0 5.934a5.429 5.429 0 0 1 .263-1.652 5.545 5.545 0 0 1 .826-1.6 6.669 6.669 0 0 1 1.352-1.367A6.251 6.251 0 0 1 4.357.357 8.04 8.04 0 0 1 6.8 0a6.657 6.657 0 0 1 2.458.45 5.683 5.683 0 0 1 1.915 1.2 5.441 5.441 0 0 1 1.2 1.746 5.1 5.1 0 0 1 .435 2.054 7.373 7.373 0 0 1-1.427 4.657A4.453 4.453 0 0 1 7.7 11.943a3.035 3.035 0 0 1-1.408-.338 2.073 2.073 0 0 1-.92-.826q-.563 2.178-.676 2.592A8.758 8.758 0 0 1 3.343 16H2.7a9.156 9.156 0 0 1 .079-3.15l1.24-5.188a3.593 3.593 0 0 1-.301-1.54z"/></symbol>
+<symbol id="tiktok" viewBox="0 0 13.9 16" fill="none"><path fill="currentColor" d="M7.3.013C8.173 0 9.04.007 9.907 0a4.152 4.152 0 0 0 1.167 2.78 4.7 4.7 0 0 0 2.827 1.193V6.66a7.136 7.136 0 0 1-2.8-.647 8.237 8.237 0 0 1-1.08-.62c-.007 1.947.007 3.893-.013 5.833a5.092 5.092 0 0 1-.9 2.627 4.967 4.967 0 0 1-3.94 2.14 4.861 4.861 0 0 1-2.72-.687A5.027 5.027 0 0 1 .014 11.5c-.013-.333-.02-.667-.007-.993a5.019 5.019 0 0 1 5.824-4.454c.013.987-.027 1.973-.027 2.96a2.287 2.287 0 0 0-2.92 1.413 2.645 2.645 0 0 0-.097 1.074 2.269 2.269 0 0 0 2.333 1.913 2.24 2.24 0 0 0 1.847-1.073 1.538 1.538 0 0 0 .273-.707c.067-1.193.04-2.38.047-3.573.007-2.687-.007-5.367.013-8.047z"/></symbol>
+</svg>
+</span>
+
+<script>
+  var Globals = {
+    langcode: 'en',
+    algolia_app_id: '3COUNVCKQ7',
+    algolia_search_key: '1d39166e9f5c78a906fc7ffd9200bfd1',
+    environment: 'prod'
+  };
+</script>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"node\/5016","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"","preferNative":false,"minified":true,"libraryPath":"\/libraries\/lazysizes"},"user":{"uid":0,"permissionsHash":"68d2b641cee5c1d3b6cc1cf1144880eee64b94ea62069030fcbd23d8b787c223"}}</script>
+<script src="/sites/default/files/js/optimized/js_Hpe5jrMuKXrV4HSTMApXJsNBxraAgcHUrTjxkwWKqy8.9H1W9OQqD9V27idEVOJMCFAQtGS4Scq-gAQciKr0U2M.js?v=10.4.6"></script>
+<script src="/sites/default/files/js/optimized/js_V1oRQ-kJlXBZaEklOtPUe_1t8-l0RS94HJ3gsqxKikc.LMtm7OsF5tFcpxpmBexOddu30l-Xz-FUCSBPovfiEt8.js?v=10.4.6"></script>
+<script src="/sites/default/files/js/optimized/js_KRjtvzl6UujB23-j_sF6dqOcbqg2z8ej98A8RU9bGsg.kjk12BMQYgWzHTlTsh40oAfzJ1jsDD0rpt092h-M9uk.js?v=10.4.6"></script>
+<script src="/sites/default/files/js/optimized/js_K8DlA8eHw7kpZ_uLmqbOZFfYLzEF2t41V4LtHN4a4jY.c65ay1lRm5xdG7AsBfjwHGYdU9cIbTk6UxFNBzKaBWc.js?v=1"></script>
+<script src="/sites/default/files/js/optimized/js_OMBC0SXNKpd3zI8GLt5QEmL60dJeMNhj9CqMSMSdX30.9UPwDgB-_Ga1MIkzQ8YYab67GLHyDzKXuRNvoolfxF4.js?v=1"></script>
+<script src="/sites/default/files/js/optimized/js_fd4Ya1deh1p_PT5qi1K9Kak8s2nYJ28_Blj-D6B9AtI.ASBrvOrfmYA7jyoyGuRAg2xiCbg2r5eX39bqNnfk_EE.js?t6ovgj"></script>
+<script src="/sites/default/files/js/optimized/js_wNTF5A_5WteYWtYDcrULukLeK3wD_M1PBiXruUijhUw.l5epn9cKMZEkoeQDmlBcrQx8pD0SKTnRDBPcUHXL0YU.js?t6ovgj"></script>
+<script src="/sites/default/files/js/optimized/js_miRzeCFio5MdK1D_IS9iRxL_6VRpiPZQk1eEAKeHGdU.G0ntPwKMpR-2an_Z3W-u6fhFwbkUoJ7vfk23TDu6ano.js?v=10.4.6"></script>
+
+</body>
+</html>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/cossette/templates/layout/html.html.twig' -->
+
+ title 31 News | World Anti Doping Agency contentType 9 text/html url 42 https://www.wada-ama.org:443/en/media/news responseCode 3 200 

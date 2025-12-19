@@ -1,0 +1,119 @@
+miusyiocmsqckklsycmofkzkgkaibgqmcivquapc length 4 4841 page 4841 <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script type="module" crossorigin src="./assets/polyfills-DPYHBQrS.js"></script>
+
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover, user-scalable=0" />
+    <meta name="description" content="Play the Guardian's new daily word game, and share your score with your friends. You have five goes to get the longest word including today's starter word.">
+    <meta property="og:image" content="https://wordiply.com/share.png"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta name="theme-color" content="#2D3888" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": ["SoftwareApplication", "VideoGame"],
+        "name": "Wordiply",
+        "offers": {
+          "@type": "Offer",
+          "price": "0"
+        },
+        "operatingSystem": [
+          "Web",
+          "iOS",
+          "Android"
+        ],
+        "applicationCategory": "GameApplication",
+        "url": "https://www.wordiply.com",
+        "image": "https://www.wordiply.com/favicon.svg",
+        "description": "A game where you have five goes to get the longest word that includes a starter word",
+        "inLanguage": [
+          "English"
+        ],
+        "datePublished": "2022-12-22",
+        "keywords": [
+          "word",
+          "puzzle",
+          "game",
+          "long",
+          "longest",
+          "starter",
+          "daily",
+          "length",
+          "letter",
+          "score",
+          "letters",
+          "guess",
+          "guardian"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "@context": "https://schema.org",
+          "@id": "https://www.theguardian.com#publisher",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png",
+            "width": 190,
+            "height": 60
+          },
+          "sameAs": [
+            "https://www.facebook.com/theguardian",
+            "https://twitter.com/guardian",
+            "https://www.youtube.com/user/TheGuardian"
+          ]
+        },
+        "isAccessibleForFree": true,
+        "author": [
+          {
+            "@type": "Person",
+            "name": "David Shariatmadari",
+            "givenName": "David",
+            "familyName": "Shariatmadari"
+          },
+          {
+            "@type": "Person",
+            "name": "Freddie Preece",
+            "givenName": "Freddie",
+            "familyName": "Preece"
+          },
+          {
+            "@type": "Person",
+            "name": "Ana Pradas",
+            "givenName": "Ana",
+            "familyName": "Pradas"
+          },
+          {
+            "@type": "Person",
+            "name": "Daniel Shariatmadari",
+            "givenName": "Daniel",
+            "familyName": "Shariatmadari"
+          }
+        ],
+        "genre": [
+          "Puzzle"
+        ],
+        "gamePlatform": [
+          "Web",
+          "iOS",
+          "Android"
+        ]
+      }
+    </script>
+    <title>Wordiply | The Guardian</title>
+    <script type="module" crossorigin src="./assets/index-DHQcbmhe.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Cu3HwrfZ.css">
+    <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+    <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+    <script nomodule crossorigin id="vite-legacy-polyfill" src="./assets/polyfills-legacy-CmiR0zcl.js"></script>
+    <script nomodule crossorigin id="vite-legacy-entry" data-src="./assets/index-legacy-nBRwH2LT.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  </body>
+</html>
+ title 23 Wordiply | The Guardian contentType 9 text/html url 29 https://www.wordiply.com:443/ responseCode 3 200 

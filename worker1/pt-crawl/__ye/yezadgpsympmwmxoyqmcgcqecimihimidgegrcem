@@ -1,0 +1,686 @@
+yezadgpsympmwmxoyqmcgcqecimihimidgegrcem page 37356 <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+    <link href="assets/images/favicon.png" type="image/x-icon" rel="shortcut icon">
+<link href="assets/css/animate.css" rel="stylesheet">
+<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/css/slick.css" rel="stylesheet">
+<link href="assets/fonts/boxicons/boxicons.css" rel="stylesheet">
+<link href="assets/css/slick-theme.css" rel="stylesheet">
+<link href="assets/css/fancybox.min.css" rel="stylesheet" />
+<link href="assets/css/style.css?v-5" rel="stylesheet">
+<link href="assets/css/responsive.css?v-2" rel="stylesheet">    <title>Home</title>
+</head>
+
+<body>
+
+
+    <header class="header">
+        <div class="header_top">
+            <div class="container">
+                <div class="top">
+                    <ul class="top_social">
+                        <li><a href="javascript:;"><i class='bx bxl-facebook'></i> </a></li>
+                        <li><a href="javascript:;"><i class='bx bxl-instagram'></i> </a></li>
+                        <li><a href="javascript:;"><i class='bx bxl-twitter'></i> </a></li>
+                        <li><a href="javascript:;"><i class='bx bxl-youtube'></i> </a></li>
+                    </ul>
+                    <ul class="top_contact">
+                        <li><a href="mailto:info@greenwoodpublishings.com"><img src='assets/images/email.png' alt=''>Email : info@greenwoodpublishings.com </a></li>
+                        <li><a href="tel:info@greenwoodpublishings.com"><img src='assets/images/phone.png' alt=''>Call Us Today : + 1 (727) 382-8731 </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="header_top_main">
+            <div class="container">
+                <div class="header-main">
+                    <a href="index.php" class="header__logo">
+                        <img src="assets/images/logo.png?v-1" alt="Logo" class="imgFluid" />
+                    </a>
+                    <nav>
+                        <!--<ul class="header-main__nav">-->
+                        <!--    <li><a href="index.php"-->
+                        <!--            class="active">home</a>-->
+                        <!--    </li>-->
+                        <!--    <li><a href="javascript:;"-->
+                        <!--            class="">services</a>-->
+                        <!--    </li>-->
+                        <!--    <li><a href="javascript:;"-->
+                        <!--            class="">Portfolio</a>-->
+                        <!--    </li>-->
+                        <!--    <li><a href="javascript:;"-->
+                        <!--            class="">Pricing</a></li>-->
+                        <!--    <li><a href="javascript:;"-->
+                        <!--            class="">Custom Packages</a></li>-->
+                        <!--    <li><a href="javascript:;"-->
+                        <!--            class="">Blog</a></li>-->
+                        <!--    <li><a href="javascript:;"-->
+                        <!--            class="">Contact Us</a></li>-->
+                        <!--</ul>-->
+                        <div class="header_btn">
+                            <a href="javascript:;" class="themebtn" onclick="openPopup()">REQUEST A FREE QUOTE
+                                <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                                    <rect x="5" y="5" width="210" height="50" />
+                                </svg>
+                            </a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+<section class="home_banner">
+    <div class="banner_img">
+        <img src="assets/images/banner.png" alt="">
+    </div>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="banner_cont">
+                    <h6>Ready to Self-Publish Your Book!</h6>
+                    <h3>we are here to take care <br> <small>of all your</small> <span>Self-Publish Your Book</span> <small>needs.</small></h3>
+                    <p>Your story deserves more than sitting in a folder. Our team of publishing experts is here to help you shape your manuscript into a page-turner that readers can’t put down.</p>
+                    <ul class="reating">
+                        <li><i class='bx bxs-star'></i></li>
+                        <li><i class='bx bxs-star'></i></li>
+                        <li><i class='bx bxs-star'></i></li>
+                        <li><i class='bx bxs-star'></i></li>
+                        <li><i class='bx bxs-star'></i></li>
+                    </ul>
+                    <h5>45000+ Self-Publish Book</h5>
+                    <a href="javascript:;" class="themebtn" onclick="openPopup()">
+                        Get a Quote
+                        <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                            <rect x="5" y="5" width="210" height="50" rx="30" ry="30" />
+                        </svg>
+                        <span class="btn-line"></span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="hero_img">
+                    <img src='assets/images/banner_img.png' alt=''>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="about_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="section_title mb-5 text-white">
+                    <h6>about us</h6>
+                    <h3>We Create Digital World <span>Class Business</span> Hub. Let the World Read It</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-7">
+                <div class="about_img">
+                    <img src='assets/images/about_img.png' alt=''>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="about_cont">
+                    <p>Your story deserves more than sitting in a folder. Our team of publishing experts is here to help you shape your manuscript into a page-turner that readers can’t put down.</p>
+                    <p>Get professional guidance, stunning design, and global reach all in one place.</p>
+                    <p>Take the first step today. Your words could be the next bestseller.</p>
+                    <div class="about_btn">
+                        <a href="javascript:;" class="themebtn" onclick="openPopup()">
+                            Get a Quote
+                            <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                                <rect x="5" y="5" width="210" height="50" rx="30" ry="30" />
+                            </svg>
+                            <span class="btn-line"></span>
+                        </a>
+
+                        <a href="javascript:;" class="call_us">
+                            <i class='bx bxs-phone'></i>
+                            <span>Call Us Today : <br> +132-456-7890</span>
+                        </a>
+                    </div>
+                    <!--<div class="counter_main">-->
+                    <!--    <div class="counter_item">-->
+                    <!--        <h3 data-target="300" data-suffix="+">300+</h3>-->
+                    <!--        <p>working peoples</p>-->
+                    <!--    </div>-->
+                    <!--    <div class="counter_item">-->
+                    <!--        <h3 data-target="20" data-suffix="+">20+</h3>-->
+                    <!--        <p>World offices</p>-->
+                    <!--    </div>-->
+                    <!--</div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="our_process">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="section_title text-bold text-center mb-5">
+                    <h3>OUR PROCESS <span>Publishing</span><br> for Top-Tier Books</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="process_item">
+                            <h5>Upload your manuscript (DOC, PDF, or EPUB)</h5>
+                            <p>Whether you’re ready to self-publish an eBook, a paperback, or both, start by uploading your manuscript in a supported format. We accept DOC, PDF, and EPUB files.</p>
+                            <a href="javascript:;">contact us <i class='bx bx-right-arrow-alt'></i></a>
+                            <span>01</span>
+                            <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                                <rect x="5" y="5" width="210" height="50" rx="5" ry="5" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="process_item">
+                            <h5>Get a professional review, not an AI-generated one.</h5>
+                            <p>Once we receive your manuscript, our real publishing experts (not algorithms) manually.</p>
+                            <a href="javascript:;">contact us <i class='bx bx-right-arrow-alt'></i></a>
+                            <span>02</span>
+                            <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                                <rect x="5" y="5" width="210" height="50" rx="5" ry="5" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="process_item">
+                            <h5>We review it within 24 hours.</h5>
+                            <p>You’ll hear back from us fast. Within 24 hours, you’ll receive guidance on how to self-publish your book and which self-publishing and book marketing path suits your goals.</p>
+                            <a href="javascript:;">contact us <i class='bx bx-right-arrow-alt'></i></a>
+                            <span>03</span>
+                            <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                                <rect x="5" y="5" width="210" height="50" rx="5" ry="5" />
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="process_item">
+                            <h5>Choose your publishing path.</h5>
+                            <p>Once approved, you'll be invited to select from two powerful Amazon self publishing packages that make it easy to self-publish online and get your book out into the world.</p>
+                            <a href="javascript:;">contact us <i class='bx bx-right-arrow-alt'></i></a>
+                            <span>04</span>
+                            <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" preserveAspectRatio="none">
+                                <rect x="5" y="5" width="210" height="50" rx="5" ry="5" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="how-it-work">
+        <div class="container">
+            <div class="row justify-content-center align-items-center mb-5">
+                <div class="col-md-6">
+                    <div class="section_title text-white">
+                        <h6>how it works</h6>
+                        <h3>We create places that <br> connect, sustain & <span>Inspire</span></h3>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="section_title text-white">
+                        <p>We get it, figuring out how to self publish a book can feel overwhelming. That’s why we’ve made the process simple and stress-free. Whether you’re aiming to self publish an eBook, design a paperback, or both, we’ll help you get your story out there without the headaches.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="work_step">
+                <a href="javascript:;" class="step_item"><span>01</span> Step 1: Start With Your Manuscript
+                    <i class='bx bx-arrow-back'></i>
+                    <div class="step_img">
+                        <img src='assets/images/step_img.png' alt=''>
+                    </div>
+                </a>
+                <a href="javascript:;" class="step_item"><span>02</span> Step 2: Make It Look Amazing
+                    <i class='bx bx-arrow-back'></i>
+                    <div class="step_img">
+                        <img src='assets/images/step_img.png' alt=''>
+                    </div>
+                </a>
+                <a href="javascript:;" class="step_item"><span>03</span> Step 3: Publish and Share Your Book
+                    <i class='bx bx-arrow-back'></i>
+                    <div class="step_img">
+                        <img src='assets/images/step_img.png' alt=''>
+                    </div>
+                </a>
+                <a href="javascript:;" class="step_item"><span>04</span> Step 4: Get It Seen
+                    <i class='bx bx-arrow-back'></i>
+                    <div class="step_img">
+                        <img src='assets/images/step_img.png' alt=''>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="included">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center mb-4">
+                <div class="section_title text-white">
+                    <h3>WHAT’S <span>include</span></h3>
+                    <p>Everything you need to take your book from draft to published, done professionally and with care.
+                        Our Publish On Amazon services include:</p>
+                </div>
+            </div>
+        </div>
+        <div class="row inc_before">
+            <div class="col-md-4">
+                <div class="include_card mb-5">
+                    <div class="include_img">
+                        <img src="assets/images/include-1.png" alt="">
+                    </div>
+                    <div class="include_cont">
+                        <h3>Professional Manuscript Review</h3>
+                        <p>If you need to publish my book. We’ll give your draft a careful review to catch any rough
+                            edges and ensure it’s polished and ready for readers.</p>
+                    </div>
+                    <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="5" ry="5"></rect>
+                    </svg>
+                    <span class="shadow"></span>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="include_card">
+                    <div class="include_img">
+                        <img src="assets/images/include-2.png" alt="">
+                    </div>
+                    <div class="include_cont">
+                        <h3>Optional Editing & Refinement</h3>
+                        <p>Want to tighten your prose or smooth out awkward sentences? Our editors can refine your work
+                            while preserving your unique voice.</p>
+                    </div>
+                    <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="5" ry="5"></rect>
+                    </svg>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="include_card alt">
+                    <div class="include_img">
+                        <img src="assets/images/include-3.png" alt="">
+                    </div>
+                    <div class="include_cont">
+                        <h3>Formatting & Interior Layout</h3>
+                        <p>We’ll design clean, professional layouts for both Book publishing and print so your book
+                            looks great on any device or in someone’s hands.</p>
+                    </div>
+                    <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="5" ry="5"></rect>
+                    </svg>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="include_card">
+                    <div class="include_img">
+                        <img src="assets/images/include-4.png" alt="">
+                    </div>
+                    <div class="include_cont">
+                        <h3>ISBN + Barcode Assignment</h3>
+                        <p>We’ll handle all the technical details, such as assigning an ISBN and creating a barcode, so
+                            your book is retail-ready.</p>
+                    </div>
+                    <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="5" ry="5"></rect>
+                    </svg>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="include_card">
+                    <div class="include_img">
+                        <img src="assets/images/include-5.png" alt="">
+                    </div>
+                    <div class="include_cont">
+                        <h3>Print-on-Demand Setup</h3>
+                        <p>No need for bulky inventory or considerable upfront costs. We set up your book for
+                            print-on-demand, so it’s printed only when readers place an order.</p>
+                    </div>
+                    <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="5" ry="5"></rect>
+                    </svg>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="include_card">
+                    <div class="include_img">
+                        <img src="assets/images/include-6.png" alt="">
+                    </div>
+                    <div class="include_cont">
+                        <h3>Book Description Writing</h3>
+                        <p>Struggling to sum up your story? We’ll write a compelling description that grabs attention
+                            and drives sales.</p>
+                    </div>
+                    <svg class="line-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="5" ry="5"></rect>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--<section class="recent_project">-->
+<!--    <div class="recent_img">-->
+<!--        <img src="assets/images/recent-back.png" alt="">-->
+<!--    </div>-->
+<!--    <div class="container ">-->
+<!--        <div class="row align-items-center physical_row mb-5">-->
+<!--            <div class="col-md-6">-->
+<!--                <div class="section_title text-white">-->
+<!--                    <h5>our projects</h5>-->
+<!--                    <h3>A quick Look At Our <span>recent projects</span></h3>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-6">-->
+<!--                <div class="section_title project">-->
+<!--                    <p>Every book has a story, and so does every author we work with. From magical worlds that spark the-->
+<!--                        imagination to heart-pounding thrillers and soul-stirring romances, we’ve helped bring countless-->
+<!--                        ideas to life.</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="row physical_row">-->
+<!--            <div class="col-md-3">-->
+<!--                <div class="recent_book_img mb-3">-->
+<!--                    <img src="assets/images/recent-1.png" alt="">-->
+<!--                </div>-->
+<!--                <div class="recent_book_img alt">-->
+<!--                    <img src="assets/images/recent-5.png" alt="">-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-3">-->
+<!--                <div class="recent_book_img alt mb-3">-->
+<!--                    <img src="assets/images/recent-2.png" alt="">-->
+<!--                </div>-->
+<!--                <div class="recent_book_img">-->
+<!--                    <img src="assets/images/recent-3.png" alt="">-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-3">-->
+<!--                <div class="recent_book_img mb-3">-->
+<!--                    <img src="assets/images/recent-3.png" alt="">-->
+<!--                </div>-->
+<!--                <div class="recent_book_img alt">-->
+<!--                    <img src="assets/images/recent-6.png" alt="">-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div class="col-md-3">-->
+<!--                <div class="recent_book_img alt mb-3">-->
+<!--                    <img src="assets/images/recent-4.png" alt="">-->
+<!--                </div>-->
+<!--                <div class="recent_book_img">-->
+<!--                    <img src="assets/images/recent-7.png" alt="">-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--        <div class="project_btn">-->
+<!--            <div class="about_btn">-->
+<!--                <a href="javascript:;" class="themebtn" onclick="openPopup()">-->
+<!--                    Get a Quote-->
+<!--                    <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"-->
+<!--                        preserveAspectRatio="none">-->
+<!--                        <rect x="5" y="5" width="210" height="50" rx="30" ry="30" />-->
+<!--                    </svg>-->
+<!--                    <span class="btn-line"></span>-->
+<!--                </a>-->
+
+<!--                <a href="javascript:;" class="call_us">-->
+<!--                    <i class='bx bxs-phone'></i>-->
+<!--                    <span>Call Us Today : <br> +132-456-7890</span>-->
+<!--                </a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
+
+<section class="faqs">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center mb-5">
+                <div class="section_title text-white text-center">
+                    <h3>Frequently Asked <span>Questions</span></h3>
+                    <p>We're here to help you. If you have any questions, please don't hesitate to contact us</p>
+                </div>
+            </div>
+        </div>
+        <div class="faqs_accordion">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="accordion" id="accordionCol1">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading1">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">1. Who are the Demo?</button>
+                            </h2>
+                            <div id="collapse1" class="accordion-collapse collapse show"
+                                aria-labelledby="heading1" data-bs-parent="#accordionCol1">
+                                <div class="accordion-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="accordion" id="accordionCol2">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                    2. Do you work with Contracts?
+                                </button>
+                            </h2>
+                            <div id="collapse2" class="accordion-collapse collapse"
+                                aria-labelledby="heading2" data-bs-parent="#accordionCol2">
+                                <div class="accordion-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                    Accordion Item #2
+                                </button>
+                            </h2>
+                            <div id="collapse3" class="accordion-collapse collapse"
+                                aria-labelledby="heading3" data-bs-parent="#accordionCol2">
+                                <div class="accordion-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="accordion" id="accordionCol3">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    3. What is the average ETA for tasks?
+                                </button>
+                            </h2>
+                            <div id="collapse4" class="accordion-collapse collapse"
+                                aria-labelledby="heading4" data-bs-parent="#accordionCol3">
+                                <div class="accordion-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="heading5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                    4. What happens after I start my subscription?
+                                </button>
+                            </h2>
+                            <div id="collapse5" class="accordion-collapse collapse"
+                                aria-labelledby="heading5" data-bs-parent="#accordionCol3">
+                                <div class="accordion-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<section class="together_sect">
+    <div class="gather_img">
+        <img src="assets/images/gather.png" alt="">
+    </div>
+    <div class="gather_cont">
+        <h3>Don’t Let Your Book Gather Dust. <span>Together!</span></h3>
+        <a href="tel:+ 1 (727) 382-8731" class="contact_btn">contact with us <i class='bx bx-arrow-back'></i></a>
+    </div>
+</section>
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="footer_about">
+                    <h3>About us</h3>
+                    <p>Lorem ipsum dolor sit amet consecte tur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua tepo the.</p>
+                    <a href="tel:+ 1 (727) 382-8731" class="themebtn color-white">
+                        <i class='bx bx-phone'></i> + 1 (727) 382-8731                        <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                            preserveAspectRatio="none">
+                            <rect x="5" y="5" width="210" height="50" rx="30" ry="30" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footer_form">
+                    <h3>newsletter</h3>
+                    <div class="foot_form">
+                        <p>email address</p>
+                        <input type="text" placeholder="enter email address">
+                        <button href="javascript:;" class="themebtn color-white">
+                            submit
+                            <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                                preserveAspectRatio="none">
+                                <rect x="5" y="5" width="210" height="50" rx="30" ry="30" />
+                            </svg>
+                        </button>
+                    </div>
+                    <ul class="footer_icons">
+                        <li><a href="javascript:;"><i class='bx bxl-facebook'></i></a></li>
+                        <li><a href="javascript:;"><i class='bx bxl-linkedin'></i></a></li>
+                        <li><a href="javascript:;"><i class='bx bxl-twitter'></i></a></li>
+                        <li><a href="javascript:;"><i class='bx bxl-instagram-alt'></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="row justify-content-end">
+                    <div class="col-md-12">
+                        <ul class="footer_contact">
+                            <h3>Contact Us</h3>
+                            <h5>Address :</h5>
+                            <li><a href="javascript:;"><span><i class='bx bxs-map'></i></span>60 E 42nd St #4600, New York, NY 10165, United States</a></li>
+                            <li><a href="tel:+ 1 (727) 382-8731"><span><i class='bx bxs-phone-call'></i></span>+ 1 (727) 382-8731</a></li>
+                            <li><a href="mailto:info@greenwoodpublishings.com"><span><i class='bx bxs-envelope'></i></span>info@greenwoodpublishings.com</a></li>
+                        </ul>
+                    </div>
+                    <!--<div class="col-md-3">-->
+                    <!--    <ul class="footer_links">-->
+                    <!--        <h3>quick links</h3>-->
+                    <!--        <li><a href="javascript:;">home</a></li>-->
+                    <!--        <li><a href="javascript:;">services</a></li>-->
+                    <!--        <li><a href="javascript:;">portfolio</a></li>-->
+                    <!--        <li><a href="javascript:;">pricing</a></li>-->
+                    <!--        <li><a href="javascript:;">custom packages</a></li>-->
+                    <!--    </ul>-->
+                    <!--</div>-->
+                    <!--<div class="col-md-3">-->
+                    <!--    <ul class="footer_links alt">-->
+                    <!--        <h3>other links</h3>-->
+                    <!--        <li><a href="javascript:;">Blogs</a></li>-->
+                    <!--        <li><a href="javascript:;">Contact Us</a></li>-->
+                    <!--        <li></li>-->
+                    <!--    </ul>-->
+                    <!--</div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="end_footer">
+        <div class="container">
+            <div class="end_foot_cont">
+                <p>Copyright © 2025 Demolink.com - All Rights Reserved</p>
+                <ul class="term_policy">
+                    <li><a href="javascript:;">Terms of Use</a></li>
+                    <li><a href="javascript:;">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<div class="popup_form">
+    <div class="chat_form">
+        <h3>Let’s Get <span>Started!</span></h3>
+        <form action="email.php" method="get">
+            <div class="form_fields">
+                <input type="text" placeholder="Name" name="name" required="">
+            </div>
+            <div class="form_fields">
+                <input type="email" placeholder="Email Address" name="email" required="">
+            </div>
+            <div class="form_fields">
+                <input type="phone" placeholder="phone number" name="phone" required="">
+            </div>
+            <div class="form_fields">
+                <textarea placeholder="Message" name="message" required=""></textarea>
+            </div>
+            <button type="submit" class="themebtn">send message 
+                <svg class="btn-border" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60"
+                        preserveAspectRatio="none">
+                        <rect x="5" y="5" width="210" height="50" rx="30" ry="30" />
+                    </svg>  
+            </button>
+        </form>
+        <a href="javascript:;" class="form_close" onclick="closePopup()"><i class="bx bx-x"></i></a>
+    </div>
+</div>
+
+</body>
+<script src="assets/js/jquery.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/wow.min.js"></script>
+<script src="assets/js/slick.js"></script>
+<script src="assets/js/fancybox.min.js"></script>
+<script src="assets/js/app.js?v-1"></script>
+</html> title 4 Home contentType 9 text/html url 37 https://greenwoodpublishings.com:443/ responseCode 3 200 

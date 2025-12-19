@@ -1,0 +1,2746 @@
+pcqosaweqsismgaosicetqrcrcfebggkygdsmivc page 168410  <!DOCTYPE html> <html lang="en"> <head> <!-- head to scrape:on --> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	Physical activity
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link rel="manifest" href="/manifest.json"> <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"> <meta name="theme-color" content="#007eb4" /> <link rel="preconnect" href="https://fonts.googleapis.com" /> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> <link rel="preconnect" href="https://use.fontawesome.com" crossorigin /> <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" /> <link rel="dns-prefetch" href="https://kendo.cdn.telerik.com" /> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js"> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js"> <link rel="preconnect" href="https://cdn.who.int" /> <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> <link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/grid.min.css?v=14.0.7729.26487' > <!-- head to scrape:off --> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=14.0.7729.26487' ><link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=14.0.7729.26487' > <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/print.min.css?v=14.0.7729.26487' media='print'> <!-- Fundraise Up: the new standard for online giving --> <script>
+        (function (w, d, s, n, a) {
+            if (!w[n]) {
+                var l = 'call,catch,on,once,set,then,track,openCheckout'
+                    .split(','), i, o = function (n) {
+                        return 'function' == typeof n ? o.l.push([arguments]) && o
+                            : function () { return o.l.push([n, arguments]) && o }
+                    }, t = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s); j.async = !0; j.src = 'https://cdn.fundraiseup.com/widget/' + a + '';
+                t.parentNode.insertBefore(j, t); o.s = Date.now(); o.v = 5; o.h = w.location.href; o.l = [];
+                for (i = 0; i < 8; i++)o[l[i]] = o(l[i]); w[n] = o
+            }
+        })(window, document, 'script', 'FundraiseUp', 'AMEEWKFZ');</script> <!-- End Fundraise Up --> 
+            <script>
+                var lang = document.documentElement.lang; 
+                window.dataLayer = window.dataLayer || []; 
+                window.dataLayer.push({'language': lang });
+                window.dataLayer.push({
+  "pagetype": "webpage",
+  "targetaudience": "general-audience",
+  "targetcountry": "global",
+  "healthtopic": "none"
+});</script> <script>
+                    (function() {
+                    function deleteCookie(cookieName,domain) {
+                        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/; domain=' + domain;
+                    }
+                    function loadAndTrack(canTrack) {
+                        if (!canTrack) {
+                            var domain = location.hostname.replace(/^www\./i, '.');
+                            //GA
+                            deleteCookie('_ga', domain);
+                            deleteCookie('_gat', domain);
+                            deleteCookie('_gid', domain);
+                            //Clarity
+                            deleteCookie('_clck', domain);
+                            deleteCookie('_clsk', domain);
+                            //Google Adsense
+                            deleteCookie('_gcl_au', domain);
+                        }
+                        else{
+                            //Fire GTM
+                            //Google Tag Manager
+                                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                })(window,document,'script','dataLayer','GTM-5QFSQRT');
+                            //End Google Tag Manager
+                        }
+                        return;
+                    }
+
+                    if (window.TrackingConsentManager) {
+                        TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+                        loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+                    }
+                    else {
+                        loadAndTrack(true);
+                    }
+                    })();
+                </script><meta property="og:locale" content="en_US" /><style type="text/css" media="all">@media (min-width: 1020px){
+    .sf-main-site .caption .title {
+        font-size: 1em;
+        line-height: 1em;
+    }
+}</style><meta name="description" content="Physical activity is defined as any bodily movement produced by skeletal muscles that require energy expenditure. Popular ways to be active are through walking, cycling, sports and recreation, and can be done at any level of skill and for enjoyment." /><meta property="og:title" content="Physical activity" /><meta property="og:description" content="Physical activity is defined as any bodily movement produced by skeletal muscles that require energy expenditure. Popular ways to be active are through walking, cycling, sports and recreation, and can be done at any level of skill and for enjoyment." /><meta property="og:image" content="https://www.who.inthttps://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-1024v.jpeg?sfvrsn=fa9e9218_3" /><style type="text/css" media="all">.row-flex{display:flex;flex-direction:row}.row-flex .card{flex-grow:1}.row-flex .sf_colsIn{display:flex;flex-direction:column;flex-grow:1}.row-flex .card__content-group{display:flex;flex-direction:column;flex-grow:1}.row-flex .card__content{display:flex;flex-grow:1}.qa-details__content .sf-accordion__content p a{outline:0;color:var(--l2-neutralForegroundRest);border-bottom:1px solid var(--l2-neutralForegroundRest);text-decoration:none}.qa-details__content .sf-accordion__content p a:focus{outline:0;color:var(--l2-accentFillHover);background-color:var(--l2-neutralFillStealthHover);border-bottom:3px solid var(--l2-neutralFocus);text-decoration:none}.qa-details__content .sf-accordion__content p a:hover{outline:0;color:var(--l2-neutralForegroundRest);background-color:var(--l2-neutralFillStealthHover);border-bottom:3px solid var(--l2-neutralFocus);text-decoration:none}.mdc-card.mdc-card--background .card-media--item{background:0 0;background:linear-gradient(180deg,rgba(255,255,255,0) 0,rgba(0,0,0,.5) 25%,#000 100%)}.mdc-card.mdc-card--background a .item--title,.mdc-card.mdc-card--background a:active .item--title,.mdc-card.mdc-card--background a:focus .item--title,.mdc-card.mdc-card--background a:hover .item--title{text-decoration:none}.mdc-card a:visited .item--title,.mdc-card.mdc-card--background .item--title{color:#fff}.card--solid.bg-dark:hover{color:#fff;background-color:#20313b;border:2px solid #fff}.card--solid.bg-dark a{color:#fff;background-color:#20313b;border:2px solid #20313b}.card--solid.bg-dark a:hover{color:#20313b;background-color:#fff;border:2px solid #20313b}.card--solid.bg-dark:focus-within{color:#fff;background-color:#20313b;border:2px solid var(--l4-neutralFocus)}.mdc-card a .item--title,.mdc-card a:visited .item--title{color:var(--l4-neutralForegroundRest)}.mdc-card a:visited .item--title{color:var(--l4-neutralForegroundRest)!important}.-sf-integrated-app body,.sfPageContainer .RadDock .rdContent a.sfAddContentLnk,.zeContentMode .sfPageContainer .RadDock .rdContent,.zeLayoutMode .sfPageContainer .RadDock .rdContent,.zeSettingsMode .sfPageContainer .RadDock .rdContent,.zeThemesMode .sfPageContainer .RadDock .rdContent{font-family:Arial,Verdana,sans-serif!important}#navigationToScrape .content-block a,.alphabetical-nav--list .alphabetical-nav--list-item a,.alphabetical-nav--list a,.nav--list a{text-decoration:none!important}.sf-events-wrapper .vertical-list-item:focus,.sf-events-wrapper .vertical-list-item:focus-within{outline:2px solid var(--l4-neutralFocus)!important}.sf-events-wrapper .vertical-list-item a:focus-within,.sf-events-wrapper .vertical-list-item:focus{outline:0}.top-header li.active>a,.top-header li.open>a,.top-header li.selected>a,.top-header li:hover>a{background-color:var(--d-l4-accentFillHover)}
+.webinars-listing .sf-multimedia-item__container {
+    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto !important;
+    min-height: 304px;
+}
+
+.webinar-episodes.vertical-list .vertical-list-item .thumb {
+    min-height: 131px;
+    aspect-ratio: 16/9;
+    height: auto;
+    width: 100%;
+}
+
+@media screen and (max-width:768px) {
+    .webinar-episodes.vertical-list .vertical-list-item .thumb {display:none;}
+    
+}
+
+.webinar-episodes-details .sf-multimedia-item__container {
+    height: 390px;
+    aspect-ratio: 16/9;
+    height: auto;
+}
+
+.mdc-card--background a:visited .item--title {
+    color: #fff!important;
+}
+.hero-image--content.plx-bg--transparent.text-center {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+}
+.k-safari .plx-static .inner.responsive-background-image {
+    background-attachment: unset;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.plx-static.hero-image--wrapper.has-caption {
+        margin-bottom: 0;
+}
+@media (max-width: 768px) {
+.row--flex, .row-flex {flex-wrap:wrap;}
+.row--flex .sf_colsIn {margin-bottom:1rem;}
+}
+</style><style type="text/css" media="all">/*ipad portrait*/
+@media all and (min-device-width: 768px) and (max-device-width: 1015px) and (orientation:portrait) {
+  #donate-div-mob {
+        display: block !important;
+        padding-left: 45% !important;
+	margin: 3px 0px;
+    }
+}
+
+/*ipad Pro portrait*/
+@media all and (min-device-width: 1024px) and (max-device-width: 1100px) and (orientation:portrait) {
+  #donate-div {
+        padding-left: 82% !important;
+    }
+}
+/*New set 1*/
+@media only screen and (min-width: 1200px) {
+    #donate-div {
+        display: inline-block !important;
+        right: 50px !important;
+        padding: 0 !important;
+    }
+}
+
+@media (min-width: 1715px) and (max-width: 2560px) {
+    #donate-div {
+        display: inline-block !important;
+        right: 198px !important;
+        padding: 0 !important;
+    }
+}
+
+/*iPad Pro*/
+@media (min-device-width: 1024px) and (max-device-width: 1100px) and (orientation: portrait) {
+    #donate-div {
+        display: inline-block !important;
+        right: 60px !important;
+        padding: 0 !important;
+    }
+}</style><style type="text/css" media="all">@media (min-width: 1020px) {
+.row.flex-ar {display: flex;flex-direction: row;align-content: stretch;}
+.row.flex-ar .sf_colsIn.col-sm-6.col-md-3{display:flex;flex-grow:1;;margin-bottom:2em;}
+    }
+.flex-ar img.mdc-card__media--4-3 {
+    aspect-ratio: 1/1;
+}</style><meta name="twitter:card" content="summary_large_image" /><link rel="canonical" href="https://www.who.int/health-topics/physical-activity" /><meta name="description" content="Physical activity is defined as any bodily movement produced by skeletal muscles that require energy expenditure. Popular ways to be active are through walking, cycling, sports and recreation, and can be done at any level of skill and for enjoyment." /><meta name="keywords" content="." /></head> <body class="sf-body "> <a class="visually-hidden-focusable" href="#content">Skip to main content</a> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttChzH_bH_8oN_s_nT_Gi4bPGf8e5n2fEMKPjzLdvKHVty-4ZMcWf8z4wR7Uoe9uwfRcpGME2zu76GUYKLUjE5oVOWl9suUmdsLOBTG0SyiZPAlK9FJAXJhhse1qDM4EhvGTqNsxl81NUrAtHLeXR4O4h0ZoaW0&amp;t=ffffffff90b6fa90" type="text/javascript"></script><script src="/ScriptResource.axd?d=74FHISOx3fOPKwLxL0RMYsy5CZ1ciqpScg89mHaoCwqm0f3BwT2yIdaPnYAdmSwbYEK1ZSsInvrc-K4nfMcj996OJpQwEQ_jiE7tNvBDDNTsWHMs1V-SmrapMyE1jEszh3aIe8dDrVFevv5g4Az8_4JW2NKXOBG4ECPm9aUN8Tqvcq1P0&amp;t=ffffffff90b6fa90" type="text/javascript"></script><script src="/ScriptResource.axd?d=BipRCKUteAIr0PTUVR7xo6LCrTtac4Cof8FsWeF6Rs8EdDSOktcsIs7LNHQe0q9fjlWLg7K_ACXChvDiB89LssRRoiAaWPfFtKZ5o-YMiaG0eBABoldv--hS66lgbT7E3_ovT6krZJ6OXhPP-uxrsovsKl2AJ6Y1yCcYG8mHshUopGyI0&amp;t=ffffffff90b6fa90" type="text/javascript"></script> <div class="sf-main-site main-site main"> <!-- header:on --> <!--noindex--><!--stopindex--> <header> <div id="sf-top-header" class="sf-top-header top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-container">
+        <nav class="sf-geo-navigation" aria-label="Regions">
+            
+            <ul class="sf-primary-geo-navigation">
+                
+
+                <li class="active sf-no-logo">
+                    <a href="https://www.who.int/" class="mobile nav-logo">
+                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+                    </a>
+                    <a href="https://www.who.int/" class="desktop">Global</a>
+                </li>
+
+                
+                <li class=" has-children">
+                    <a href="#">Regions</a>
+
+                    <div class="sf-secondary-geo-navigation-container">
+                        <div class="sf-secondary-geo-navigation-wrapper">
+                            <div class="sf-geo-navigation-title">
+                                <div class="nav-header">
+                                    <span class="nav-logo">
+                                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+                                    </span>
+
+
+                                    <span class="nav-title">WHO Regional websites</span>
+
+                                    <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                </div>
+
+
+                            </div>
+
+                            <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-region row">
+                                        <li class=" col-md-4">
+                                            <a href="https://www.afro.who.int/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/africa8bd96ad167204ac7ac4811b8ae1dfe2c.png?sfvrsn=3204f957_20" alt="Africa" />
+
+                                                <span>Africa</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.paho.org/hq/index.php?lang=en">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/americasdf9b2f184d3145259fb3a5336cd775c7.png?sfvrsn=9efd6df3_19" alt="Americas" />
+
+                                                <span>Americas</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/southeastasia">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/south-east-asia1c6bd1d9eb5b4cf0b5ad5da36ff3912d.png?sfvrsn=68e76dc2_17" alt="South-East Asia" />
+
+                                                <span>South-East Asia</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/europe/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/europeae57428b4f114210ae7067e1f5119e1a.png?sfvrsn=c7d5c5a5_19" alt="Europe" />
+
+                                                <span>Europe</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="http://www.emro.who.int/index.html">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/eastern-mediterraneanadf4e81056b84e75b83a1faed30a1e0a.png?sfvrsn=71211e18_17" alt="Eastern Mediterranean" />
+
+                                                <span>Eastern Mediterranean</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/westernpacific/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/western-pacifice1e576200c9b4fe59078eb28958428a9.png?sfvrsn=88cbdcd5_19" alt="Western Pacific" />
+
+                                                <span>Western Pacific</span>
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+ </div> <div class="sf_colsIn col-md-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <!--Navigation search:off--> 
+
+<div class="form-inline">
+<div class="form-group sf-search-input-wrapper" role="search">
+    <div class="srchaction-wrapper">
+        <span class="srchaction">
+            <i id="9f59de8f-d710-49e6-855f-76ba78f7590b" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+        </span>
+        <input type="search" title="Search input" placeholder="Search" id="c33d7812-f213-4e0f-81ea-21c7a4d41f35" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+    </div>
+    
+    <!--Toggle search:start-->
+    <span class="srchtoggle">
+        <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+    </span>
+    <!--Toggle search:end-->    
+    <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+</div>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/home/search-results" />
+<input type="hidden" data-sf-role="indexCatalogue" value="genericsearchindex1" />
+<input type="hidden" data-sf-role="wordsMode" value="AnyWord" />
+<input type="hidden" data-sf-role="disableSuggestions" value='true' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="siteId" value="15210d59-ad60-47ff-a542-7ed76645f0c7" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#c33d7812-f213-4e0f-81ea-21c7a4d41f35' />
+<input type="hidden" data-sf-role="searchButtonId" value='#9f59de8f-d710-49e6-855f-76ba78f7590b' />
+</div>
+
+
+
+
+ 
+
+<div class="dd sf-lang-selector language-selector">
+    <i class="fas fa-language" aria-hidden="true"></i>
+    <label for="language-selector">
+        Select language
+    </label>
+            <select onChange="openLink(value)" id="language-selector" name="language-selector">
+    <option disabled selected>Select language</option>
+
+        <option value="en" lang="en" class=selected>English</option>
+</select>
+
+<i class="fas fa-angle-down" aria-hidden="true"></i>
+
+</div>
+
+<style>
+    li.slicknav_addition.sf-lang-selector {
+        width: 100%;
+        position: relative
+    }
+
+        li.slicknav_addition.sf-lang-selector select {
+            min-width: 100%
+        }
+
+    #search-form label {
+        visibility: hidden
+    }
+
+    .language-selector label {
+        width: 0 !important;
+        height: 0;
+        display: inline-block;
+        overflow: hidden
+    }
+</style>
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation"> 
+ <div class="header-logo logos-container"> <a href="/" title="Home" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Home" class="logo svg" /> </a> </div> </div> <!--Donate button starts--> <div id="donate-div" style="position: absolute;"> <a href="#XWVXNQGG" style="display: none"></a> </div> <!--Donate button ends--> </div> </div> 
+<div class="row" data-sf-element="Row">
+    <div id="MainHeader_TEC2026FA002_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+     <div id="MainHeader_TEC2026FA002_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+     <div id="MainHeader_TEC2026FA002_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="MainHeader_TEC2026FA002_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+ </div> <!-- logo:off --> <!--Mobile donate button starts--> <div id="donate-div-mob" class="sf_colsIn col-md-6"> <a href="#XFEJCAUE" style="display: none"></a> </div> <!--Mobile donate button ends--> <div id="navigationToScrape" class="navigation"> 
+<div class="row navWrapper" data-sf-element="Row">
+    <div class="nav-container">
+        <!--Main desktop navigation:on-->
+        <ul class="nav"></ul>
+        <!--Main desktop navigation:off-->
+    </div>
+
+    <ul class="nav-mobile"></ul>
+
+    <div id="Navigation_TD9F2A204024_Col00" class="sf_colsIn col-md-12" data-sf-element="Menu Wrapper" data-placeholder-label="Menu Wrapper"><div class="navItemLayout navHomeItemLayout">
+    <div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="c85fc4097fa041c486b72f5267ce2d28" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/" target="_self">Home</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204025_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"></div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="17e774fa1aca4fcfb2e387d933b01b4c" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/mega-menu/health-topics" target="_self">Health Topics</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204029_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T75121FDA161_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204114_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/health-topics/" data-sf-ec-immutable="" data-sf-marked="">All topics</a></li><li><a href="/health-topics/#A" data-sf-ec-immutable="">A</a></li><li><a href="/health-topics/#B" data-sf-ec-immutable="">B</a></li><li><a href="/health-topics/#C" data-sf-ec-immutable="">C</a></li><li><a href="/health-topics/#D" data-sf-ec-immutable="">D</a></li><li><a href="/health-topics/#E" data-sf-ec-immutable="">E</a></li><li><a href="/health-topics/#F" data-sf-ec-immutable="">F</a></li><li><a href="/health-topics/#G" data-sf-ec-immutable="">G</a></li><li><a href="/health-topics/#H" data-sf-ec-immutable="">H</a></li><li><a href="/health-topics/#I" data-sf-ec-immutable="">I</a></li><li><a href="/health-topics/#J" data-sf-ec-immutable="">J</a></li><li><a href="/health-topics/#K" data-sf-ec-immutable="">K</a></li><li><a href="/health-topics/#L" data-sf-ec-immutable="">L</a></li><li><a href="/health-topics/#M" data-sf-ec-immutable="">M</a></li><li><a href="/health-topics/#N" data-sf-ec-immutable="">N</a></li><li><a href="/health-topics/#O" data-sf-ec-immutable="">O</a></li><li><a href="/health-topics/#P" data-sf-ec-immutable="">P</a></li><li><a href="/health-topics/#Q" data-sf-ec-immutable="">Q</a></li><li><a href="/health-topics/#R" data-sf-ec-immutable="">R</a></li><li><a href="/health-topics/#S" data-sf-ec-immutable="">S</a></li><li><a href="/health-topics/#T" data-sf-ec-immutable="">T</a></li><li><a href="/health-topics/#U" data-sf-ec-immutable="">U</a></li><li><a href="/health-topics/#V" data-sf-ec-immutable="">V</a></li><li><a href="/health-topics/#W" data-sf-ec-immutable="">W</a></li><li><a href="/health-topics/#X" data-sf-ec-immutable="">X</a></li><li><a href="/health-topics/#Y" data-sf-ec-immutable="">Y</a></li><li><a href="/health-topics/#Z" data-sf-ec-immutable="">Z</a></li></ul></div>
+</div>
+
+</div>
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="d66f25a4fdaa4891ab1cb35190500dcb" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/health-topics/resources" target="_self">Resources</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/fact-sheets" target="_self">Fact sheets</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/facts-in-pictures" target="_self">Facts in pictures</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/multimedia" target="_self">Multimedia</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/podcasts" target="_self">Podcasts</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/publications" target="_self">Publications</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/questions-and-answers" target="_self">Questions and answers</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/resources/tools-and-toolkits" target="_self">Tools and toolkits</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="cdde5d218ddc44519d3b9e7fad385b77" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/health-topics/popular" target="_self">Popular</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/health-topics/popular/dengue" target="_self">Dengue</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/popular/endometriosis" target="_self">Endometriosis</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/popular/excessive-heat" target="_self">Excessive heat</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/popular/herpes" target="_self">Herpes</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/popular/mental-disorders" target="_self">Mental disorders</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/health-topics/popular/mpox" target="_self">Mpox</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="91b8a18b20674f3abb72f54d4e555b54" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/mega-menu/countries" target="_self">Countries</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204027_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204039_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204043_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/countries">All countries</a></li><li><a href="/countries/#A">A</a></li><li><a href="/countries/#B">B</a></li><li><a href="/countries/#C">C</a></li><li><a href="/countries/#D">D</a></li><li><a href="/countries/#E">E</a></li><li><a href="/countries/#F">F</a></li><li><a href="/countries/#G">G</a></li><li><a href="/countries/#H">H</a></li><li><a href="/countries/#I">I</a></li><li><a href="/countries/#J">J</a></li><li><a href="/countries/#K">K</a></li><li><a href="/countries/#L">L</a></li><li><a href="/countries/#M">M</a></li><li><a href="/countries/#N">N</a></li><li><a href="/countries/#O">O</a></li><li><a href="/countries/#P">P</a></li><li><a href="/countries/#Q">Q</a></li><li><a href="/countries/#R">R</a></li><li><a href="/countries/#S">S</a></li><li><a href="/countries/#T">T</a></li><li><a href="/countries/#U">U</a></li><li><a href="/countries/#V">V</a></li><li><a href="/countries/#W">W</a></li><li><a href="/countries/#X">X</a></li><li><a href="/countries/#Y">Y</a></li><li><a href="/countries/#Z">Z</a></li></ul></div>
+</div>
+
+</div>
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="1e913c26cb7b49ed80fd8316910ff629" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/countries/regions" target="_self">Regions</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/countries/regions/africa" target="_self">Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/regions/americas" target="_self">Americas</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/regions/europe" target="_blank">Europe</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/regions/eastern-mediterranean" target="_self">Eastern Mediterranean</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/regions/south-east-asia" target="_self">South-East Asia
+</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/regions/western-pacific" target="_blank">Western Pacific</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="3f8e038718ac4a6ca3848debab3d963d" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/countries/who-in-countries" target="_self">WHO in countries</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/countries/who-in-countries/data-by-country" target="_self">Data by country</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/who-in-countries/country-presence" target="_self">Country presence&#160;</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/who-in-countries/country-cooperation-strategies" target="_self">Country cooperation strategies&#160;</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/who-in-countries/country-office-profiles" target="_self">Country office profiles</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/countries/who-in-countries/country-strengthening" target="_self">Strengthening country offices&#160;</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="2ca213cc84df4b65a409da6ae72b90d8" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/news-room" target="_self">Newsroom</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204028_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204038_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="0246e86280d5467cb22308fc5fcb6bed" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/news/all-news" target="_self">All news</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/news/all-news/releases" target="_self">News releases</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/statements" target="_self">Statements</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/campaigns" target="_self">Campaigns</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/events" target="_self">Events</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/feature-stories" target="_self">Feature stories</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/press-conferences" target="_self">Press conferences</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/speecheshub" target="_self">Speeches</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/commentaries" target="_self">Commentaries</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/news/all-news/photo-library" target="_blank">Photo library</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul><li><a href="/news-room/headlines">Headlines</a></li></ul></div>
+</div>
+
+
+
+<div id="listView" class="vertical-list"></div>
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="vertical-list-item">
+        <div class="info">
+            <a href="https://www.who.int/news/item#:ItemDefaultUrl #" aria-label="#: Title #">
+                <p class="heading">#: Title #</p>
+            </a>
+            <div class="date">
+                <span class="timestamp">#: FormatedDate #</span>
+                <div class="sf-tags-list">
+                    <div class="sf-tags-list-item">#: NewsType #</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script>
+    window.onload = function () {
+        var remoteDataSource = new kendo.data.DataSource({
+            type: "odata-v4",
+            transport: {
+                read: "/api/news/newsitems?sf_provider=OpenAccessDataProvider&sf_culture=en&$top=3&$orderby=PublicationDateAndTime%20desc&$select=Title,ItemDefaultUrl,FormatedDate,NewsType&$filter=publishingoffices/any(s:s eq df302c0e-1f59-4efb-b276-d154122d3760)"
+            }
+        });
+        $("#listView").kendoListView({
+            dataSource: remoteDataSource,
+            pageable: true,
+            template: kendo.template($("#template").html()),
+            dataBound: function () {
+                this.wrapper.removeClass("k-widget");
+                this.wrapper.removeClass("k-listview");
+            }
+        });
+    };
+</script>
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204040_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="8b11dbcbacf94e2aa87754f7c0f0d15b" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/mega-menu/emergencies" target="_self">Emergencies</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204040_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204090_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="6a10b4c8c8c44ba8bad0947e0bd936ab" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies" target="_self">Focus on</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/cholera" target="_self">Cholera&#160;</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/coronavirus-disease-(covio-19)" target="_self">Coronavirus disease (COVID-19)</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/greater-horn-of-africa" target="_self">Greater Horn of Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/israel-and-occupied-palestinian-territory" target="_self">Israel and occupied Palestinian territory</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/mpox" target="_self">Mpox</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/sudan" target="_self">Sudan</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/emergencies/ukraine-emergency" target="_self">Ukraine</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="14c5f8fbf54748d0b619552b5ad396c4" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/emergencies/news" target="_self">Latest</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/emergencies/news/disease-outbreak-news" target="_self">Disease Outbreak News</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/news/situation-reports" target="_self">Situation reports</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/news/rapid-risk-assessment" target="_self">Rapid risk assessments</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/news/weekly-epidemiological-record" target="_self">Weekly Epidemiological Record</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="390cbb4ec643405aabb1e77f1c8213e2" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies" target="_self">WHO in emergencies</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/surveillance" target="_self">Surveillance</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/alert-and-response" target="_self">Alert and response</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/operations" target="_self">Operations</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/research-development" target="_self">Research</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/funding" target="_self">Funding</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/partners" target="_self">Partners</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/health-emergency-appeal" target="_self">Health emergency appeals</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/international-health-regulations" target="_self">International Health Regulations</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory-committee" target="_self">Independent Oversight and Advisory Committee</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_T75121FDA215_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="666314d7cbdd41cb91f648e44c61759d" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/mega-menu/data" target="_self">Data</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_T75121FDA215_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T75121FDA217_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="5afe394d02e44c0fafdcd1d7e63ace33" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/data/data-at-who" target="_self">Data at WHO</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/data/data-at-who/data-hub" target="_self">Data hub</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-at-who/global-health-estimates" target="_self">Global Health Estimates</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-at-who/mortality" target="_self">Mortality</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-at-who/health-inequality" target="_self">Health inequality</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA217_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="2722914fb8904c06a48800e0bee293cf" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/data/dashboards" target="_self">Dashboards</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/data/dashboards/triple-billion-progress" target="_self">Triple Billion Progress</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/dashboards/health-inequality-monitor" target="_self">Health Inequality Monitor</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/dashboards/delivery-for-impact" target="_self">Delivery for impact</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/dashboards/covid-19-dashboard" target="_blank">COVID-19 dashboard</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA217_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="0a6c97d883a54cadb223909a8ccdb98d" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/data/data-collection" target="_self">Data collection</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/data/data-collection/classifications" target="_self">Classifications</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-collection/score" target="_self">SCORE</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-collection/surveys" target="_self">Surveys</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-collection/civil-registration-and-vital-statistics" target="_self">Civil registration and vital statistics</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-collection/routine-health-information-systems" target="_self">Routine health information systems</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-collection/harmonized-health-facility-assessment" target="_self">Harmonized health facility assessment</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/data-collection/gis-centre-for-health" target="_self">GIS centre for health</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA217_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="main-navigation--wrapper" id="8906842cfb7749b5a1e112bb45e7c7a2" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/data/reports" target="_blank">Reports</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/data/reports/world-health-statistics" target="_self">World Health Statistics</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/data/reports/uhc-global-monitoring-report" target="_self">UHC global monitoring report</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="8ab04cb73f0c457c91b6a4dc9d646ab8" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/mega-menu/about-us" target="_self">About WHO</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204026_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="97f89cf5ee8749de8a63d244fc8bae3a" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/about-us/about" target="_self">About WHO</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/about-us/about/partnerships-and-collaboration" target="_self">Partnerships</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/about/expert-groups" target="_self">Committees and advisory groups</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/about/collaborating-centres" target="_self">Collaborating centres</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/about/teams" target="_self">Technical teams</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/about/structure" target="_self">Organizational structure</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/about/who-we-are" target="_self">Who we are</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="b64462c66b6d428faf1bb5be6fa14b3b" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/about-us/our-work" target="_self">Our work</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/about-us/our-work/activities" target="_self">Activities</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/our-work/initiatives" target="_self">Initiatives</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/our-work/global-programme-of-work" target="_self">General Programme of Work</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/our-work/who-academy" target="_self">WHO Academy</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="fbfd71db11164946b97a1af9d7260e01" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/about-us/who-funding" target="_self">Funding</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/about-us/who-funding/investment-case" target="_self">Investment in WHO</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/who-funding/who-foundation" target="_self">WHO Foundation</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+<div class="main-navigation--wrapper" id="6c272b2a1133441197d55b1a5dbdc99c" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/about-us/accountability" target="_self">Accountability</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/about-us/accountability/audit" target="_self">External audit</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/accountability/financial-statements" target="_self">Financial statements</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/accountability/internal-audit-and-investigations" target="_self">Internal audit and investigations&#160;</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/accountability/budget" target="_self">Programme Budget</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/accountability/results-report" target="_self">Results reports</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="main-navigation--wrapper" id="279a8db2be0446e4b5a32301af47fd63" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/mega-menu/about-us/governance" target="_self">Governance</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/mega-menu/about-us/governance/governing-bodies-website" target="_blank">Governing bodies</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/governance/wha" target="_self">World Health Assembly</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/governance/eb" target="_self">Executive Board</a>
+
+    </li>
+    <li class="">
+        <a href="/mega-menu/about-us/governance/member-states-portal" target="_self">Member States Portal</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+ </div>
+</div>
+ </div> </header> <!--/noindex--><!--startindex--> <!-- header:off --> <section class="sf-content content" id="content" role="main" tabindex="-1"> 
+<div id="PageContent_TA51A0481002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+
+
+    <!--noindex--><!--stopindex-->
+    <nav id="e01e5d3653a94db485c515e78f8933c5" aria-label="You are here">
+        <ul class="sf-breadscrumb breadcrumb">
+                    <li><a href="/">Home</a><span aria-hidden="true">/</span></li>
+                    <li><a href="/health-topics">Health topics</a><span aria-hidden="true">/</span></li>
+                    <li class="active">Physical activity</li>
+        </ul>
+    </nav>
+    <!--/noindex--><!--startindex-->
+    <script type="application/ld+json">
+    {"itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.who.int","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.who.int/health-topics","name":"Health topics"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.who.int/health-topics/physical-activity","name":"Physical activity"}}],"itemListOrder":"ItemListOrderAscending","@context":"http://schema.org","@type":"BreadcrumbList"}
+    </script>
+
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_TA51A0481001_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Body content">
+
+
+
+        <script type="application/ld+json">
+            {"author":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"headline":"Physical activity","description":"<p>&nbsp;</p>\r\n<p>&nbsp;</p>","datePublished":"2019-05-17T09:53:04.0000000+00:00","image":"https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-0.jpeg?sfvrsn=fa9e9218_3","publisher":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"dateModified":"2019-05-17T09:53:04.0000000+00:00","mainEntityOfPage":"https://www.who.int/westernpacific/health-topics/physical-activity","@context":"http://schema.org","@type":"Article"};
+        </script>
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/multimedia-modal.min.js?v=14.0.7729.26487'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/magnific-popup.min.js?v=14.0.7729.26487'></script>    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    <article class="sf-detail-body-container sf-detail-body-wrapper health-topic--detail dynamic-content dynamic-content__article">
+        <header class="dynamic-content__header dynamic-content__container">
+            
+            <div class="sf-header-image dynamic-content__image dynamic-content__image" data-url="">
+                <div class="inner">
+                        <a class="magnific-popup"
+                           href="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-1920v.jpeg?sfvrsn=fa9e9218_3 1920w"
+                           title="Jacob Lund Kids enjoying together in park">
+                            <img sizes="(max-width: 479px) 280px,
+                                    (max-width: 549px) 440px,
+                                    (max-width: 768px) 660px,
+                                    (max-width: 1366px) 1024px,
+                                    1920px"
+                                 srcset="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-479v.jpeg?sfvrsn=fa9e9218_3 479w,
+                                     https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-549v.jpeg?sfvrsn=fa9e9218_3 549w,
+                                     https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-768v.jpeg?sfvrsn=fa9e9218_3 768w,
+                                     https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-1024v.jpeg?sfvrsn=fa9e9218_3 1024w,
+                                     https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-1366v.jpeg?sfvrsn=fa9e9218_3 1366w,
+                                     https://cdn.who.int/media/images/default-source/health-topics/physical-activity/kids_running_with_kite.tmb-1920v.jpeg?sfvrsn=fa9e9218_3 1920w"
+                                 class="single-image"
+                                 alt="Physical activity" />
+                        </a>
+                </div>
+
+
+
+
+
+    <div class="sf-image-credit">
+        
+        <div class="sf-image-credit__content">
+            <div class="sf-image-credit__inner">
+Jacob Lund
+                    <br />Kids enjoying together in park            </div>
+        </div>
+        
+        <div class="sf-image-credit__label">
+            <span class="sf-image-credit__copyright">&copy;</span>
+            <span class="sf-image-credit__text">Credits </span>
+
+            <i class="icon plus-icon"></i>
+        </div>
+    </div>
+    <script>
+        var imageCreditClass = document.getElementsByClassName("sf-image-credit");
+
+        var preventFunction = function () {
+            event.preventDefault()
+        };
+
+        for (var i = 0; i < imageCreditClass.length; i++) {
+            imageCreditClass[i].addEventListener('click', preventFunction);;
+        }
+    </script>
+            </div>
+
+            
+            <div class="dynamic-content__title">
+                    <h1 class="dynamic-content__title-text">Physical activity</h1>
+            </div>
+        </header>
+
+        
+        <section class="dynamic-content__section dynamic-content__container">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="dynamic-content__section-content">
+                        
+                        <div class="sf_cols tabWidget health-topic_tabWidget">
+                            <div class="sf_colsOut flex-clear" data-placeholder-label="Tab wrapper">
+                                <div class="ul-tabs--wrapper">
+                                    <ul class="tabs"></ul>
+                                </div>
+                                <div class="sf_colsIn single-tabContent">
+        <div class="sf_cols singleTabWrapper">
+            <div class="sf_colsOut tabHeaderWrapper" data-sf-element="Tab header" data-placeholder-label="Tab header">
+                <div class="sf_colsIn tabHeaderText">
+                    <div class="sf-content-block content-block">
+                        Overview
+                    </div>
+                </div>
+            </div>
+
+            <div class="sf_colsOut tabContent" data-sf-element="Tab contents" data-placeholder-label="Tab contents">
+                <div class="sf_colsIn">
+                    <p>Regular physical activity is proven to help prevent and manage noncommunicable diseases (NCDs) such as heart disease, hypertension, stroke, diabetes and several cancers. It also helps to maintain a healthy body weight and can improve mental health, quality of life and well-being.&nbsp;Physical activity refers to all movement. Popular ways to be active include walking, cycling, wheeling, sports, active recreation and play, and can be done at any level of skill and for enjoyment by everybody.&nbsp;Work such as household chores or jobs requiring physical labour is another way to be physically active. </p><p>Yet, current global estimates show 1 in 3 adults and 81% of adolescents do not do enough physical activity. Furthermore, as countries develop economically, levels of inactivity increase and can be as high as 70% due to changing transport patterns, increased use of technology for work and recreation, cultural values and increasing sedentary behaviour.</p><p>Sedentary behaviour is periods of low energy expenditure such as sitting and watching TV. Both sedentary behaviour and inadequate levels of physical activity have negative impacts on health systems, the environment, economic development, community and individual well-being and quality of life.</p>
+                </div>
+            </div>
+        </div>
+        <div class="sf_cols singleTabWrapper">
+            <div class="sf_colsOut tabHeaderWrapper" data-sf-element="Tab header" data-placeholder-label="Tab header">
+                <div class="sf_colsIn tabHeaderText">
+                    <div class="sf-content-block content-block">
+                        Impact
+                    </div>
+                </div>
+            </div>
+
+            <div class="sf_colsOut tabContent" data-sf-element="Tab contents" data-placeholder-label="Tab contents">
+                <div class="sf_colsIn">
+                    <p>Physical inactivity is one of the leading risk factors for noncommunicable diseases (NCDs) and death worldwide.&nbsp; Alternately, regular physical activity reduces risk of many types of cancer by 8&ndash;28%; heart disease and stroke by 19%; diabetes by 17%, depression and dementia by 28&ndash;32%.&nbsp; It is estimated that 4&ndash;5 million deaths per year could be averted if the global population was more active.</p><p>One in 4 adults and 4 in 5 adolescents don&rsquo;t do enough physical activity. Women and girls generally are less active than men and boys, widening health inequalities. Older adults and people living with disabilities are also less likely to be active and miss out on the physical, mental and social health benefits.&nbsp;Physical inactivity burdens society through the hidden and growing cost of medical care and loss of productivity.</p><p>WHO developed an <a href="https://www.thelancet.com/action/showPdf?pii=S2214-109X%2822%2900464-8">economic analysis</a> which predicts that nearly 500&nbsp;million new cases of preventable major NCDs will occur globally between 2020 and &nbsp;2030 if the prevalence of physical inactivity does not change. These NCDs will cost an estimated US&nbsp;$300&nbsp;billion in healthcare costs alone in that 11 year period, or about US$&nbsp;27&nbsp;billion per year. These estimates do not include the significant indirect costs including loss of productivity. </p><p>Failing to increase levels of physical activity will negatively impact attainment of global targets as well as multiple SDGs.</p>
+                </div>
+            </div>
+        </div>
+        <div class="sf_cols singleTabWrapper">
+            <div class="sf_colsOut tabHeaderWrapper" data-sf-element="Tab header" data-placeholder-label="Tab header">
+                <div class="sf_colsIn tabHeaderText">
+                    <div class="sf-content-block content-block">
+                        WHO response
+                    </div>
+                </div>
+            </div>
+
+            <div class="sf_colsOut tabContent" data-sf-element="Tab contents" data-placeholder-label="Tab contents">
+                <div class="sf_colsIn">
+                    <p>In response to the urgent need to address physical inactivity levels worldwide, WHO developed the<strong>&nbsp;</strong><a href="/publications/i/item/9789241514187">Global action plan on physical activity 2018&ndash;2030 (GAPPA): more active people for a healthier world</a>.<strong></strong></p><p>WHO<strong> </strong>supports countries and stakeholders to implement the recommended actions by:</p><ol type="1"><li>setting global      policy and guidelines,&nbsp;underpinned by latest evidence and consensus, which      are developed to help countries develop appropriate policies, investment      cases and financing mechanisms to increase levels of physical activity      among all populations;&nbsp;</li><li>providing global      tools and resources&nbsp;including toolkits and training packages to      promote key activities, such as walking and cycling; integrating physical      activity into primary health care; and innovations using digital platforms      to help change behaviours.&nbsp;Capacity building is supported with WHO      Academy courses, workshops and other knowledge exchange activities;</li><li>coordinating and      collaborating&nbsp;across sectors including sports, transport, education and      environment sectors to provide safe places and opportunities for physical      activity for everyone and to inform the development of norms and policy that      amplify key messages; and </li><li>monitoring global      progress on implementation of the <em>Global action plan on physical      activity</em> through the <em>Global status report</em>, and levels of      physical inactivity&nbsp;through instruments such as<strong>&nbsp;</strong><a href="/publications/m/item/global-physical-activity-questionnaire">Global physical activity questionnaire (GPAQ)</a> and the <a href="/teams/noncommunicable-diseases/surveillance/systems-tools/global-school-based-student-health-survey">Global school-based student health survey (GSHS)</a>.</li></ol><p>WHO reports to the World Health Assembly on the global progress to increase physical activity by 15% by 2030, and GAPPA milestones of 2026 and 2030.</p>
+                </div>
+            </div>
+        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="col-md-4 col-md-push-1">
+                    <div class="dynamic-content__sidebar">
+                        <div id="dynamic-content__accordion" class="dynamic-content__accordion sf-accordion">
+<div class="sf-accordion__panel"><div class="sf-accordion__title"><a href="#" class="sf-accordion__trigger-panel">Fact sheets <span class="sf-accordion__icon"></span></a></div><div class="sf-accordion__content"><ul><li class=""><a href="#"><a href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" title="Physical activity">Physical activity</a></a></li></ul></div></div></li><div class="sf-accordion__panel"><div class="sf-accordion__title"><a href="#" class="sf-accordion__trigger-panel">Databases and tools <span class="sf-accordion__icon"></span></a></div><div class="sf-accordion__content"><ul><li class=""><a href="#"><a href="/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance">Global physical activity questionnaire (GPAQ)</a></a></li><li class=""><a href="#"><a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-insufficient-physical-activity-among-school-going-adolescents-aged-11-17-years" data-sf-ec-immutable="">Global Health Observatory: Prevalence of insufficient physical activity among school going adolescents aged 11-17 years</a></a></li><li class=""><a href="#"><a href="/data/gho/data/themes/topics/indicator-groups/insufficient-physical-activity-indicator-group">Global Health Observatory: Prevalence of insufficient physical activity among adults aged 18+ years</a></a></li><li class=""><a href="#"><a href="https://platform.who.int/data/maternal-newborn-child-adolescent-ageing/indicator-explorer-new/mca/prevalence-of-insufficient-physical-activity-in-older-people-aged-70-or-over" data-sf-ec-immutable="">Global Health Observatory: Prevalence of insufficient physical activity in adults over 70</a></a></li></ul></div></div></li><div class="sf-accordion__panel"><div class="sf-accordion__title"><a href="#" class="sf-accordion__trigger-panel">Initiatives and groups <span class="sf-accordion__icon"></span></a></div><div class="sf-accordion__content"><ul><li class=""><a href="#"><a href="/initiatives/gappa">Let's be active </a></a></li></ul></div></div></li><div class="sf-accordion__panel"><div class="sf-accordion__title"><a href="#" class="sf-accordion__trigger-panel">Resolutions and decisions <span class="sf-accordion__icon"></span></a></div><div class="sf-accordion__content"><ul><li class=""><a href="#"><a href="https://apps.who.int/gb/ebwha/pdf_files/WHA77/A77_R12-en.pdf" data-sf-ec-immutable="">WHA 77.12 Strengthening health and well-being through sport events </a></a></li><li class=""><a href="#"><a href="https://apps.who.int/iris/bitstream/handle/10665/279499/A71_R6-en.pdf?sequence=1&amp;isAllowed=y " data-sf-ec-immutable="">WHA 71.6 WHO global action plan on physical activity&nbsp;</a></a></li><li class=""><a href="#"><a href="https://apps.who.int/iris/bitstream/handle/10665/78540/ewha5523.pdf?sequence=1&amp;isAllowed=y" data-sf-ec-immutable="">WHA 55.23 Diet, physical activity and health</a></a></li></ul></div></div></li><div class="sf-accordion__panel"><div class="sf-accordion__title"><a href="#" class="sf-accordion__trigger-panel">Technical work <span class="sf-accordion__icon"></span></a></div><div class="sf-accordion__content"><ul><li class=""><a href="#"><a href="/teams/health-promotion/physical-activity">More physical activity</a></a></li></ul></div></div></li>                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="row">
+                <div class="col-md-7">
+                </div>
+            </div>
+        </section>
+    </article>
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/accordion-list.min.js?v=14.0.7729.26487'></script>    <script type="text/javascript">
+        (function () { new AccordionJS('dynamic-content__accordion'); })();
+
+        function buildMagnificThumbnail() {
+            let imgUrl = $('.magnific-popup').attr('href');
+            if ($(window).width() < 480) {
+                imgUrl = imgUrl.replace(/1920/g, '479');
+            }
+            else if ($(window).width() >= 480 && $(window).width() < 550) {
+                imgUrl = imgUrl.replace(/1920/g, '549');
+            }
+            else if ($(window).width() >= 550 && $(window).width() < 769) {
+                imgUrl = imgUrl.replace(/1920/g, '768');
+            }
+            else if ($(window).width() >= 769 && $(window).width() < 1367) {
+                imgUrl = imgUrl.replace(/1920/g, '1024');
+            }
+            else if ($(window).width() >= 1367 && $(window).width() < 1920) {
+                imgUrl = imgUrl.replace(/1920/g, '1366');
+            }
+            $('.magnific-popup').attr('href', imgUrl);
+        }
+
+        function wrapSpanInAnchor() {
+            const listItems = document.querySelectorAll('ul.tabs li');
+
+            if (listItems.length === 0) {
+                setTimeout(wrapSpanInAnchor, 2000);
+                return;
+            }
+
+            listItems.forEach(li => {
+                const span = li.querySelector('span');
+                if (span) {
+                    const anchor = document.createElement('a');
+                    anchor.href = `#tab=${li.id}`;
+                    span.parentNode.insertBefore(anchor, span);
+                    anchor.appendChild(span);
+                }
+            });
+        }
+
+        function updateTabIndex() {
+            const panels = document.querySelectorAll('.sf-accordion__panel');
+            panels.forEach(panel => {
+                const links = panel.querySelectorAll('li a[href="#"]');
+                links.forEach(link => {
+                    link.setAttribute('tabindex', '-1');
+                });
+            });
+        }
+
+        $(document).ready(function () {
+            buildMagnificThumbnail();
+            $('.magnific-popup').magnificPopup({
+                type: 'image'
+            });
+            wrapSpanInAnchor();
+            updateTabIndex();
+        });
+    </script>
+
+<div id="PageContent_C006_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C277_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>News</h2>
+
+        <a href="https://www.who.int/news/item?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30">All →</a>
+</div>
+
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news/item/16-10-2024-qatar-who-partnership-leaves-legacy-for-safer--healthier-mega-sporting-events" class="link-container" aria-label="Qatar-WHO partnership leaves legacy for safer, healthier mega-sporting events" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/sport-and-health/qatar_staduim_football_30.tmb-768v.jpeg?sfvrsn=be9975aa_12" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/sport-and-health/qatar_staduim_football_30.tmb-549v.jpeg?sfvrsn=be9975aa_12')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">16 October 2024</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">News release</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">Qatar-WHO partnership leaves legacy for safer, healthier mega-sporting events</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news/item/18-09-2024-fifa-and-world-health-organization-launch-global-concussion-awareness-campaign" class="link-container" aria-label="FIFA and World Health Organization launch global concussion awareness campaign" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/football-tunisia.tmb-768v.jpg?sfvrsn=c5b5399_6" style="background-image: url('https://cdn.who.int/media/images/default-source/topics/health-and-well-being/mental-health-and-brain-health/football-tunisia.tmb-549v.jpg?sfvrsn=c5b5399_6')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">18 September 2024</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Joint News Release</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">FIFA and World Health Organization launch global concussion awareness campaign</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news/item/25-07-2024-who-teams-up-with-ioc-and-france-to-support-healthy-paris-olympics" class="link-container" aria-label="WHO teams up with IOC and France to support healthy Paris Olympics" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/people-and-partners/directors-general/tedros-adhanom-ghebreyesus/who-director-general-carrying-olympic-flame.tmb-768v.jpeg?sfvrsn=b70ce406_7" style="background-image: url('https://cdn.who.int/media/images/default-source/people-and-partners/directors-general/tedros-adhanom-ghebreyesus/who-director-general-carrying-olympic-flame.tmb-549v.jpeg?sfvrsn=b70ce406_7')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">25 July 2024</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">News release</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">WHO teams up with IOC and France to support healthy Paris Olympics</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news/item/26-06-2024-nearly-1.8-billion-adults-at-risk-of-disease-from-not-doing-enough-physical-activity" class="link-container" aria-label="Nearly 1.8 billion adults at risk of disease from not doing enough physical activity" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/who_052024_walk-cycle_parc.tmb-768v.jpg?sfvrsn=26f7036b_8" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/who_052024_walk-cycle_parc.tmb-549v.jpg?sfvrsn=26f7036b_8')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">26 June 2024</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">News release</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">Nearly 1.8 billion adults at risk of disease from not doing enough physical activity</p>
+                    </div>
+                </a>
+        </div>
+</div>
+<div class="section-heading">
+            <h2>Latest publications</h2>
+
+        <a href="https://www.who.int/publications/i?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30&amp;publishingoffices-hidden=true">All →</a>
+</div>
+
+
+<div class="sf-publications">
+    <div class="sf-publications-list sf-publications-list__horizontal row">
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/a121ae2c-4882-4b37-8ed7-7af082077978/content" alt="Noncommunicable diseases progress monitor 2025" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>5 June 2025</span>
+     </div>
+
+    <a href="/publications/i/item/9789240105775">
+     <h3 class="sf-publications-item__title">Noncommunicable diseases progress monitor 2025</h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>The fifth in a series, the World Health Organization's 2025 Noncommunicable Diseases (NCD) Progress Monitor provides a snapshot of country progress toward... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/7a228681-a190-4c29-b2a8-9d4255dc49d1/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/publications/i/item/9789240105775" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/1dd29ec8-48c2-49b7-bed1-a33c1cc1e579/content" alt="Promoting walking and cycling: a toolkit of policy options" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>8 May 2025</span>
+     </div>
+
+    <a href="/publications/i/item/9789240109902">
+     <h3 class="sf-publications-item__title">Promoting walking and cycling: a toolkit of policy options</h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>This toolkit presents a compendium of policy options for walking and cycling, highlighting the multiple benefits that promoting and enabling safe walking... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/a66e049b-c6b3-497f-b315-d17787b80210/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/publications/i/item/9789240109902" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/18335312-e728-42f6-927d-03707ba66399/content" alt="Getting children moving using active video games: a report of the GenMove programme" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>10 March 2025</span>
+     </div>
+
+    <a href="/publications/i/item/9789240107267">
+     <h3 class="sf-publications-item__title">Getting children moving using active video games: a report of the GenMove programme</h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>The GenMove programme was developed as part of Healthy FIFA World Cup Qatar 2022 &ndash; Creating a Legacy for Sport and Health. This report outlines the... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/58e643df-704b-4043-b5ec-922489bd2f92/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/publications/i/item/9789240107267" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/2f79f1a3-0307-4174-b451-b9360c14792e/content" alt="Integrated care for older people (‎ICOPE)‎: guidance for person-centred assessment and pathways in primary care, 2nd ed" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>29 December 2024</span>
+     </div>
+
+    <a href="/publications/i/item/9789240103726">
+     <h3 class="sf-publications-item__title">Integrated care for older people (‎ICOPE)‎: guidance for person-centred assessment and pathways in primary... </h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>The ICOPE handbook supports health and care workers to put evidence- based recommendations into practice in primary care including community. The handbook... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/7516b015-e205-43d1-883f-01f2c31af261/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/publications/i/item/9789240103726" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C287_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Our work</h2>
+
+        <a href="https://www.who.int/activities?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30">All →</a>
+</div>
+
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/activities/investing-in-physical-activity" class="link-container" aria-label="Building policy to promote physical activity" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/investing-in-physical-activity.tmb-768v.jpg?sfvrsn=6d74b665_2" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/investing-in-physical-activity.tmb-549v.jpg?sfvrsn=6d74b665_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Building policy to promote physical activity</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/activities/ensuring-sports-for-all" class="link-container" aria-label="Ensuring access to sports for all" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/grandfather_grandson_basketball.tmb-768v.jpg?sfvrsn=1916598d_2" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/grandfather_grandson_basketball.tmb-549v.jpg?sfvrsn=1916598d_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Ensuring access to sports for all</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/activities/promoting-walking-and-cycling" class="link-container" aria-label="Promoting walking, cycling and other forms of active mobility" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/promoting-walking-and-cycling.tmb-768v.jpg?sfvrsn=8ba06e9e_2" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/promoting-walking-and-cycling.tmb-549v.jpg?sfvrsn=8ba06e9e_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Promoting walking, cycling and other forms of active mobility</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/activities/strengthening-partnerships" class="link-container" aria-label="Strengthening partnerships across sectors to promote physical activity" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/partnerships.tmb-768v.jpg?sfvrsn=708a9b2f_2" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/partnerships.tmb-549v.jpg?sfvrsn=708a9b2f_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Strengthening partnerships across sectors to promote physical activity</p>
+                    </div>
+                </a>
+        </div>
+</div><div class="row" data-sf-element="Row">
+    <div id="PageContent_C292_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <p>Feature stories</p>
+
+        <a href="https://www.who.int/news-room/feature-stories?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30">All →</a>
+</div>
+
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news-room/feature-stories/detail/using-data-to-expand-safe-active-travel" class="link-container" aria-label="Using data to expand safe active travel" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/topics/health-systems-and-interventions/urban-health/bicycle-lane-in-dublin.tmb-768v.jpg?sfvrsn=6e02783f_2" style="background-image: url('https://cdn.who.int/media/images/default-source/topics/health-systems-and-interventions/urban-health/bicycle-lane-in-dublin.tmb-549v.jpg?sfvrsn=6e02783f_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">24 October 2025</span>
+
+                        </div>
+
+                        <p class="heading text-underline">Using data to expand safe active travel</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news-room/feature-stories/detail/basketball-star-and-childhood-obesity-control-champion-pau-gasol-joins-walk-the-talk-geneva" class="link-container" aria-label="Basketball star and childhood obesity control champion Pau Gasol joins Walk the Talk Geneva" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/pau-gasol-galactic-sports-event.tmb-768v.jpg?sfvrsn=6de306d4_1" style="background-image: url('https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/pau-gasol-galactic-sports-event.tmb-549v.jpg?sfvrsn=6de306d4_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">24 May 2024</span>
+
+                        </div>
+
+                        <p class="heading text-underline">Basketball star and childhood obesity control champion Pau Gasol joins Walk the Talk Geneva</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news-room/feature-stories/detail/olympic-champion-david-rudisha-to-lead-master-running-class-at-walk-the-talk-geneva" class="link-container" aria-label="Olympic champion David Rudisha to lead master running class at Walk the Talk Geneva" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/david-rudisha.tmb-768v.jpg?sfvrsn=7b622459_1" style="background-image: url('https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/david-rudisha.tmb-549v.jpg?sfvrsn=7b622459_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">24 May 2024</span>
+
+                        </div>
+
+                        <p class="heading text-underline">Olympic champion David Rudisha to lead master running class at Walk the Talk Geneva</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/news-room/feature-stories/detail/marcel-hug-world-champion-and-swiss-paralympic-wheelchair-racer-to-take-part-in-walk-the-talk-geneva" class="link-container" aria-label="Marcel Hug, world champion and Swiss Paralympic wheelchair racer, to take part in Walk the Talk Geneva" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/marcel-hug.tmb-768v.jpg?sfvrsn=33b457d1_1" style="background-image: url('https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/marcel-hug.tmb-549v.jpg?sfvrsn=33b457d1_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">3 May 2024</span>
+
+                        </div>
+
+                        <p class="heading text-underline">Marcel Hug, world champion and Swiss Paralympic wheelchair racer, to take part in Walk the Talk Geneva</p>
+                    </div>
+                </a>
+        </div>
+</div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+<div class="section-heading">
+            <p>Infographics</p>
+
+        <a href="https://www.who.int/multi-media?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30&amp;publishingoffices=e151ccb1-272b-45c7-ad09-ef2d5f04d539&amp;publishingoffices-hidden=true">All →</a>
+</div>
+
+
+
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/multimedia-modal.min.js?v=14.0.7729.26487'></script>    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    <div class="sf-multimedia">
+        <div class="sf-multimedia-list sf-multimedia-list__small row">
+                        <div class="sf-multimedia-item sf-multimedia-item__infographic col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/who-guidelines-on-physical-activity-and-sedentary-behaviour" target="_blank">
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/summary-infographic-guideline-on-physical-activity.tmb-549v.jpg?sfvrsn=246f54b7_3');"
+                                        role="img"
+                                        aria-label="WHO Guidelines on Physical Activity and Sedentary Behaviour"
+                                        title="WHO Guidelines on Physical Activity and Sedentary Behaviour">
+                                    <img src="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/summary-infographic-guideline-on-physical-activity.tmb-549v.jpg?sfvrsn=246f54b7_3" alt="WHO Guidelines on Physical Activity and Sedentary Behaviour" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__body-wrapper">
+                                        <div class="sf-multimedia-item__label">Infographic</div>
+                                        <h3 class="sf-multimedia-item__heading">WHO Guidelines on Physical Activity and Sedentary Behaviour</h3>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="sf-multimedia-item sf-multimedia-item__infographic col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/for-better-health-children-1-2-years-age-should-have-have-each-day" target="_blank">
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('/images/default-source/health-topics/physical-activity/for-better-health-children-1-2-years-age-en.tmb-549v.png?Culture=en&amp;sfvrsn=345adda3_3');"
+                                        role="img"
+                                        aria-label="for better health children 1-2 years age EN"
+                                        title="for better health children 1-2 years age EN">
+                                    <img src="/images/default-source/health-topics/physical-activity/for-better-health-children-1-2-years-age-en.tmb-549v.png?Culture=en&amp;sfvrsn=345adda3_3" alt="for better health children 1-2 years age EN" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__body-wrapper">
+                                        <div class="sf-multimedia-item__label">Infographic</div>
+                                        <h3 class="sf-multimedia-item__heading">For better health children 1-2 years age should have each day</h3>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="sf-multimedia-item sf-multimedia-item__infographic col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/for-better-health-children-3-4-years-age-should-have-have-each-day" target="_blank">
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('/images/default-source/health-topics/physical-activity/for-better-health-children-3-4-years-age-en.tmb-549v.png?Culture=en&amp;sfvrsn=fc71333c_3');"
+                                        role="img"
+                                        aria-label="for better health children 3-4 years age EN"
+                                        title="for better health children 3-4 years age EN">
+                                    <img src="/images/default-source/health-topics/physical-activity/for-better-health-children-3-4-years-age-en.tmb-549v.png?Culture=en&amp;sfvrsn=fc71333c_3" alt="for better health children 3-4 years age EN" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__body-wrapper">
+                                        <div class="sf-multimedia-item__label">Infographic</div>
+                                        <h3 class="sf-multimedia-item__heading">For better health children 3-4 years age should have each day</h3>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="sf-multimedia-item sf-multimedia-item__infographic col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/levels-of-physical-activity" target="_blank">
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('/images/default-source/health-topics/physical-activity/levels-of-physical-inactivity.tmb-549v.gif?Culture=en&amp;sfvrsn=b59929e0_3');"
+                                        role="img"
+                                        aria-label="Levels-of-physical-inactivity"
+                                        title="Levels-of-physical-inactivity">
+                                    <img src="/images/default-source/health-topics/physical-activity/levels-of-physical-inactivity.tmb-549v.gif?Culture=en&amp;sfvrsn=b59929e0_3" alt="Levels-of-physical-inactivity" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__body-wrapper">
+                                        <div class="sf-multimedia-item__label">Infographic</div>
+                                        <h3 class="sf-multimedia-item__heading">Levels of physical activity</h3>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+        </div>
+    </div>
+
+<div class="section-heading">
+            <p>Videos</p>
+
+        <a href="https://www.who.int/multi-media?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30&amp;publishingoffices=e151ccb1-272b-45c7-ad09-ef2d5f04d539&amp;publishingoffices-hidden=true">All →</a>
+</div>
+
+
+
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/multimedia-modal.min.js?v=14.0.7729.26487'></script>    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    <div class="sf-multimedia">
+        <div class="sf-multimedia-list sf-multimedia-list__small row">
+                        <div class="sf-multimedia-item sf-multimedia-item__video col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/global-data-on-levels-of-physical-inactivity-in-adult-populations--a-wakeup-call">
+                                <span class="sf-multimedia-item__link page-url play-button"></span>
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/health-promotion-(hpr)/more-physical-activity-(run)/video-image.tmb-549v.jpg?sfvrsn=1a7de779_1');"
+                                        role="img"
+                                        aria-label="Global data on levels of physical inactivity in adult populations -a wakeup call"
+                                        title="Global data on levels of physical inactivity in adult populations -a wakeup call">
+                                    <img src="https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/health-promotion-(hpr)/more-physical-activity-(run)/video-image.tmb-549v.jpg?sfvrsn=1a7de779_1" alt="Global data on levels of physical inactivity in adult populations -a wakeup call" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__date">19 July 2024</div>
+                                    <h3 class="sf-multimedia-item__heading">Global data on levels of physical inactivity in adult populations -a wakeup call</h3>
+                                    <div class="sf-multimedia-item__actions">
+                                        <div class="sf-multimedia-item__url">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="sf-multimedia-item sf-multimedia-item__video col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/let-s-get-moving!---who-s-statusl-report-on-physical-activity-2022">
+                                <span class="sf-multimedia-item__link page-url play-button"></span>
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/global-report-physical-activity-2022.tmb-549v.jpg?sfvrsn=a0a4b110_2');"
+                                        role="img"
+                                        aria-label="WHO status report on physical activity 2022"
+                                        title="WHO status report on physical activity 2022">
+                                    <img src="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/global-report-physical-activity-2022.tmb-549v.jpg?sfvrsn=a0a4b110_2" alt="WHO status report on physical activity 2022" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__date">19 October 2022</div>
+                                    <h3 class="sf-multimedia-item__heading">Let’s get moving! - WHO&#39;s status report on physical activity 2022</h3>
+                                    <div class="sf-multimedia-item__actions">
+                                        <div class="sf-multimedia-item__url">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="sf-multimedia-item sf-multimedia-item__video col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/every-move-counts">
+                                <span class="sf-multimedia-item__link page-url play-button"></span>
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('/images/default-source/health-topics/physical-activity/who-web-banner-2.tmb-549v.jpg?Culture=en&amp;sfvrsn=7e6eebb7_2');"
+                                        role="img"
+                                        aria-label="Every move counts"
+                                        title="Every move counts">
+                                    <img src="/images/default-source/health-topics/physical-activity/who-web-banner-2.tmb-549v.jpg?Culture=en&amp;sfvrsn=7e6eebb7_2" alt="Every move counts" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__date">25 November 2020</div>
+                                    <h3 class="sf-multimedia-item__heading">Every move counts</h3>
+                                    <div class="sf-multimedia-item__actions">
+                                        <div class="sf-multimedia-item__url">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="sf-multimedia-item sf-multimedia-item__video col-md-3 col-xs-6">
+                            <a class="sf-multimedia-item__container" href="/multi-media/details/let-s-be-active-for-health-for-all">
+                                <span class="sf-multimedia-item__link page-url play-button"></span>
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/let-s-be-active-for-health-for-all-video.tmb-549v.jpg?sfvrsn=b1d6bcee_4');"
+                                        role="img"
+                                        aria-label="Let&#39;s be active for health for all"
+                                        title="Let&#39;s be active for health for all">
+                                    <img src="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/let-s-be-active-for-health-for-all-video.tmb-549v.jpg?sfvrsn=b1d6bcee_4" alt="Let&#39;s be active for health for all" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__date">7 February 2020</div>
+                                    <h3 class="sf-multimedia-item__heading">Let&#39;s be active for health for all</h3>
+                                    <div class="sf-multimedia-item__actions">
+                                        <div class="sf-multimedia-item__url">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+        </div>
+    </div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C250_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Events</h2>
+
+        <a href="https://www.who.int/news-room/events/overview?healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30">All →</a>
+</div>
+
+
+
+<div class="list-view vertical-list sf-events-wrapper sf-events-list vertical-list--image">
+        <div class="list-view--item vertical-list-item">
+            <a href="/news-room/events/detail/2025/05/12/default-calendar/global-webinar-8th-un-global-road-safety-week--make-walking-and-cycling-safe" class="link-container table event-table" aria-label="Global webinar: 8th UN Global Road Safety Week “Make Walking and Cycling Safe”" role="link">
+                <div class="table-cell">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/headquarters/campaigns/un-global-road-safety-week/2025/two-girls-with-school-bags.tmb-768v.jpg?sfvrsn=6fc9c3d9_1" style="background-image: url('https://cdn.who.int/media/images/default-source/headquarters/campaigns/un-global-road-safety-week/2025/two-girls-with-school-bags.tmb-131v.jpg?sfvrsn=6fc9c3d9_1')"></div>
+                    </div>
+                </div>
+
+                <div class="table-cell info">
+
+                    <p class="heading text-underline">Global webinar: 8th UN Global Road Safety Week “Make Walking and Cycling Safe”</p>
+
+                    <span class="timestamp">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        12 May 2025 13:00 – 14:30 CET
+                    </span>
+                </div>
+            </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+            <a href="/news-room/events/detail/2024/07/03/default-calendar/webinar--a-deep-dive-into-the-development-of-new-who-global-comparable-estimates-of-physical-inactivity-in-adults" class="link-container table event-table" aria-label="Webinar: A deep dive into the development of new WHO global comparable estimates of physical inactivity in adults" role="link">
+                <div class="table-cell">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/health-promotion-(hpr)/more-physical-activity-(run)/graph-growth-money-finance-chart.tmb-768v.jpg?sfvrsn=cf94cd35_4" style="background-image: url('https://cdn.who.int/media/images/default-source/headquarters/teams/uhc-healthier-populations-(hep)/health-promotion-(hpr)/more-physical-activity-(run)/graph-growth-money-finance-chart.tmb-131v.jpg?sfvrsn=cf94cd35_4')"></div>
+                    </div>
+                </div>
+
+                <div class="table-cell info">
+
+                    <p class="heading text-underline">Webinar: A deep dive into the development of new WHO global comparable estimates of physical inactivity in adults</p>
+
+                    <span class="timestamp">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        3 July 2024 15:00 – 16:15 CET
+                    </span>
+                </div>
+            </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+            <a href="/news-room/events/detail/2024/07/02/default-calendar/launch-of-new-who-estimates-of-physical-inactivity-in-adults" class="link-container table event-table" aria-label="Launch of new WHO estimates of physical inactivity in adults" role="link">
+                <div class="table-cell">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/physical-activity/who-estimates-of-physical-inactivity-in-adults.tmb-768v.jpg?sfvrsn=44178cf_1" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/physical-activity/who-estimates-of-physical-inactivity-in-adults.tmb-131v.jpg?sfvrsn=44178cf_1')"></div>
+                    </div>
+                </div>
+
+                <div class="table-cell info">
+
+                    <p class="heading text-underline">Launch of new WHO estimates of physical inactivity in adults</p>
+
+                    <span class="timestamp">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        2 July 2024 14:00 – 15:30 CET
+                    </span>
+                </div>
+            </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+            <a href="/news-room/events/detail/2024/05/26/default-calendar/walk-the-talk-geneva-2024" class="link-container table event-table" aria-label="Walk the Talk Geneva 2024" role="link">
+                <div class="table-cell">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/wtt-2024-geneva-sherry-silver-dg.tmb-768v.jpg?sfvrsn=b134a474_1" style="background-image: url('https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2024/wtt-2024-geneva-sherry-silver-dg.tmb-131v.jpg?sfvrsn=b134a474_1')"></div>
+                    </div>
+                </div>
+
+                <div class="table-cell info">
+                        <div class="sf-tags-list">
+                            <div class="sf-tags-list-item">2024</div>
+                        </div>
+
+                    <p class="heading text-underline">Walk the Talk Geneva 2024</p>
+
+                    <span class="timestamp">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        26 May 2024 09:00 – 11:00 CET
+                    </span>
+                </div>
+            </a>
+        </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C289_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <p>Country profiles</p>
+
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+
+<style>
+    .filter-widget__wrapper {
+        background: none;
+        margin-top: 48px;
+        margin-bottom: 16px;
+        padding: 0px;
+    }
+
+    .cp-wrapper {
+        background-color: #00205c;
+        color: #fff;
+        padding: 48px;
+    }
+
+    #go-button {
+        border-color: #fff;
+        background-color: #00205c;
+        color: #fff;
+        float: right;
+    }
+
+    @media (max-width: 1019px) {
+        .cp-wrapper {
+            padding: 32px;
+        }
+
+        .main-filter .form-group {
+            padding: 0px;
+        }
+    }
+</style>
+
+
+
+<div class="row cp-wrapper">
+    <div class="col-md-6 labels-wrapper">
+        <h3>Country profiles</h3>
+        <div>
+            Country profiles present selected data, statistics and information to provide national health profiles at given points in time.
+        </div>
+    </div>
+    <div class="col-md-6 filters-wrapper">
+        <div class="filter-widget__wrapper" style="opacity: 1;">
+            <div class="main-filter">
+                <div class="form-group col-md-12 col-sm-12">
+                    <div style="margin-bottom: 1rem;">
+                        <input id="countries-dropdown" class="" placeholder="" aria-label="Country profiles" style="width: 100%;" />
+                    </div>
+                    <div id="go-button" class="button button-blue-background">
+                        <a id="cp-hub-url" role="button" href="https://www.who.int/publications/c">GO</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<script>
+    var fullUrl = "";
+
+    function setDefaultFilterUrl() {
+        fullUrl = "https://www.who.int/publications/c";
+
+        if ("healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30") {
+            fullUrl += "?" + "healthtopics=3e8f1453-f540-4b68-8bec-df87de3f0b30";
+        }
+
+        $("#cp-hub-url").attr("href", fullUrl);
+    }
+
+    $(document).ready(function () {
+
+        setDefaultFilterUrl();
+
+      $("#countries-dropdown").kendoComboBox({
+        dataTextField: "text",
+        dataValueField: "value",
+        dataSource: [{"value":"5ab0330a-3932-49ec-947b-e692a9d45cfe","text":"Afghanistan"},{"value":"612c1939-1fcc-4934-b91d-5a9586ab4258","text":"Albania"},{"value":"1284fc36-d5b4-4650-8476-fa9985c3a6aa","text":"Algeria"},{"value":"e7790fff-02e4-4eb7-923e-0482a0f6438b","text":"Andorra"},{"value":"c9354764-e748-4df8-9c39-64c5bb79acbb","text":"Angola"},{"value":"8188e95d-f5a3-4c80-ba42-5429035f34ed","text":"Antigua and Barbuda"},{"value":"1233bb35-ee4f-45f6-9f31-4198f11c173f","text":"Argentina"},{"value":"34e79edc-df61-489f-ad19-7c1765031a08","text":"Armenia"},{"value":"cadc5699-d8c4-4190-ab56-14824b2704de","text":"Australia"},{"value":"3b95d7fd-b92e-4dab-8898-a6232899d3d7","text":"Austria"},{"value":"3ed751f8-f9e4-4d82-b03c-5e606eda0bf4","text":"Azerbaijan"},{"value":"6bcc9f91-7189-4e09-b404-9c6b046ae9c1","text":"Bahamas"},{"value":"e0870344-188e-44f8-a1d2-4af149715d60","text":"Bahrain"},{"value":"3ae14e4e-ee89-42cf-9804-aee814c11de2","text":"Bangladesh"},{"value":"ec4c5eb8-379e-4f88-8563-33c6ad2dbda1","text":"Barbados"},{"value":"96fd6e90-c3f6-40e8-bd96-80fcf2459f29","text":"Belarus"},{"value":"64575b74-d1df-4feb-910e-7450d313f653","text":"Belgium"},{"value":"ff29cbe2-173b-4784-ab27-6c4f656de573","text":"Belize"},{"value":"e6d7e2b5-9a5d-4ca0-a14f-6a4b43ecf83e","text":"Benin"},{"value":"0905b9f5-f1ce-4f9c-9faa-4995acfb7937","text":"Bhutan"},{"value":"01969d42-e383-42c7-a334-6608034747bf","text":"Bolivia (Plurinational State of) "},{"value":"37249a07-350d-4fc0-ad11-c8c044dc6366","text":"Bosnia and Herzegovina"},{"value":"d0c8fca4-3ab4-4ece-a837-7c700b7054cc","text":"Botswana"},{"value":"ca5cde83-677c-4763-9937-a76ed9e6f9cc","text":"Brazil"},{"value":"4806576d-3475-49c2-a9cd-a777135386a0","text":"Brunei Darussalam"},{"value":"dd5687ef-b4cd-4965-85fe-83d92f39ab13","text":"Bulgaria"},{"value":"e68b92fa-4030-4136-89cc-89b9d22b35d2","text":"Burkina Faso"},{"value":"a07abd7b-abe0-484e-9e96-6e7d7c270615","text":"Burundi"},{"value":"c7557738-81cc-488f-9166-4a3b95fe2f69","text":"Cabo Verde"},{"value":"79cb7513-31dd-4513-a57d-6ee8dc0e3651","text":"Cambodia"},{"value":"0096d8bb-c6c9-4056-adf6-6749b855036f","text":"Cameroon"},{"value":"4706fc8a-e7c9-4fd0-86e9-b087dd9d466c","text":"Canada"},{"value":"1a7bcc89-82cc-42a1-94c0-65a369864417","text":"Central African Republic"},{"value":"993492b6-3bfc-4636-8df9-7c4317d9a2fe","text":"Chad"},{"value":"61f73a3c-a0ff-4bba-921a-e1509a54bac9","text":"China"},{"value":"3dc77e00-47aa-4c8c-995a-e4bd0dfb4547","text":"Colombia"},{"value":"fa505191-cc1f-4d0e-a7cc-f7875c38c210","text":"Comoros"},{"value":"e482d592-8b0c-465b-a948-55d0aebcd520","text":"Congo"},{"value":"76c3be79-4f8a-466a-9bdc-fc6d82763f40","text":"Cook Islands"},{"value":"0cfb4dfc-e48f-4da8-b306-e735c20195c4","text":"Costa Rica"},{"value":"36d014e8-beea-4017-889c-5b489359bc91","text":"Côte d’Ivoire"},{"value":"dc29aeec-8c1f-4fd7-885a-b8e0368e0bdf","text":"Croatia"},{"value":"b9a4619d-1b02-4c56-a815-5fd109ee5daf","text":"Cuba"},{"value":"c9a13611-93c3-4a32-8516-bc3143fab09a","text":"Cyprus"},{"value":"0aa8fc49-5ab7-42c2-8b09-205c644f587e","text":"Czechia"},{"value":"056d6949-a400-424a-8add-d3b8b91231e9","text":"Democratic People’s Republic of Korea"},{"value":"4b766cb3-608e-4e61-9aeb-c81804198ada","text":"Denmark"},{"value":"8d313ab8-0d19-4a17-aa1a-4794afe3f78d","text":"Djibouti"},{"value":"a7f71780-fdb1-4dfa-b4d3-30f91c8320cc","text":"Dominica"},{"value":"2c582e6d-7053-4966-8322-7cfac9e48cc8","text":"Dominican Republic"},{"value":"be705fdd-a8c0-4308-9e81-958cfbb75a31","text":"Ecuador"},{"value":"c56d47cf-d7b3-48ea-b10e-94767972c9fb","text":"Egypt"},{"value":"a458e5b3-a76f-44bb-9200-3d37c8c08960","text":"El Salvador"},{"value":"25d80c54-11c7-4d4a-a669-76f488de36ea","text":"Equatorial Guinea"},{"value":"3530005c-2f4d-4c42-b11d-6fbad7e0933d","text":"Eritrea"},{"value":"2e82bd9f-ca76-4d5c-84ce-9b91e509decc","text":"Estonia"},{"value":"8fe1492e-258c-44ff-9646-258a25548962","text":"Eswatini"},{"value":"d491601d-4233-4b24-9426-43fc3e5f3ad0","text":"Ethiopia"},{"value":"d997b542-9937-4155-9eb8-4a3de91bc7c5","text":"Fiji"},{"value":"7d3637f7-0533-4a38-84c8-0cfcdfed7f77","text":"Finland"},{"value":"dfffa7d3-3921-413b-8e4e-d99b46d98099","text":"France"},{"value":"8602deda-74df-47e0-97a4-fb03e31f3173","text":"Gabon"},{"value":"f48e998f-1874-4a3e-a446-e8b38571a7ce","text":"Gambia"},{"value":"20930535-626d-4a2b-a539-cbe61f50d48f","text":"Georgia"},{"value":"66325457-5a1e-46ed-a93c-17400be36632","text":"Germany"},{"value":"8d876603-d377-4223-a400-25748ba17668","text":"Ghana"},{"value":"db49e2b5-06d4-4cfa-956f-6e08040288cd","text":"Greece"},{"value":"4be75f06-bc4a-4e35-a6a6-6dd7c8f8392f","text":"Grenada"},{"value":"3c884b0a-826b-4e82-b878-2ef7277f368c","text":"Guatemala"},{"value":"9df902cb-a01a-42d4-9d30-de6b9f688062","text":"Guinea"},{"value":"61bfd03e-ca10-42b2-9e72-1a77a435a951","text":"Guinea-Bissau"},{"value":"e6d4b23c-d1f6-4f94-9a38-8d5c5c1bd72e","text":"Guyana"},{"value":"571e8de1-fad3-4ab5-8ae8-be355a52e8ea","text":"Haiti"},{"value":"32d97420-92c1-46e7-b69a-006312428d7d","text":"Honduras"},{"value":"7ceff8b7-b36d-4622-a3c0-6e51cd0335a3","text":"Hungary"},{"value":"f62c7ebd-78bc-4fcc-a2f1-4ab0a161bd37","text":"Iceland"},{"value":"8026b51f-a65f-4cec-8287-408360c62493","text":"India"},{"value":"07b6ab29-8e22-4822-90ba-550907430f0d","text":"Indonesia"},{"value":"6cc41eca-5e82-4c72-8550-952fd421db40","text":"Iran (Islamic Republic of) "},{"value":"a3552d46-74f3-4eca-a8aa-357b23c2cc75","text":"Iraq"},{"value":"02baec25-7354-40ae-aecf-673cfbd8e6a5","text":"Ireland"},{"value":"8301988e-e05c-43c1-8588-232fb27654d0","text":"Israel"},{"value":"ffa3e620-24e6-49c8-aed5-bff039843302","text":"Italy"},{"value":"b5b2a395-633b-4036-b389-d4db2a9bf63a","text":"Jamaica"},{"value":"b79c0427-b713-4fb5-afa3-4f0663d9d712","text":"Japan"},{"value":"d896b62f-fb71-4aae-a657-6ab44929b140","text":"Jordan"},{"value":"18023ce5-63f0-44b7-aef3-5aa3567e28b5","text":"Kazakhstan"},{"value":"fbba8f7e-b8ff-4177-9030-88f0bfb4ee7f","text":"Kenya "},{"value":"21553b02-0601-4e37-b57e-f206f6bbe03e","text":"Kiribati"},{"value":"949e9ef5-6d6e-48de-a622-83a6781a0a2f","text":"Kuwait"},{"value":"1bdb0565-2e07-4545-8a9f-355f3043ad8d","text":"Kyrgyzstan"},{"value":"aa625da5-1e85-47a6-8b16-df4e26c44750","text":"Lao People’s Democratic Republic"},{"value":"0e4a0f49-960d-41e4-9cdf-8c67daaef935","text":"Latvia"},{"value":"3bccd35c-9edd-4909-bb28-a6064a9635ca","text":"Lebanon"},{"value":"610adf9f-62a9-490e-b6c8-743757a2d036","text":"Lesotho"},{"value":"146701e0-bf6c-40b1-b2ba-bf2aad3f106a","text":"Liberia"},{"value":"f2a81b40-5463-4ba6-a959-12945ad81963","text":"Libya"},{"value":"da731ce1-8aa3-4f85-b0df-f7370b0c28bd","text":"Lithuania"},{"value":"09e52080-2302-4f61-90ae-156475a8d400","text":"Luxembourg"},{"value":"1fd25bd1-e3fa-4396-addb-a34590af8a9a","text":"Madagascar"},{"value":"fba9f391-8961-4e5e-aa65-c0331b5a61df","text":"Malawi"},{"value":"380ecd62-5c28-4636-88ae-36ffb5981d54","text":"Malaysia"},{"value":"9ee5a1b6-b6a7-4baa-ac9a-1ff04484d458","text":"Maldives"},{"value":"03f67248-bd73-4261-90c6-cbdae509c493","text":"Mali"},{"value":"437a5555-27c6-4dfa-a523-28d2667a30a4","text":"Malta"},{"value":"e1e88df5-53fe-4078-a7df-a57eb547f409","text":"Marshall Islands"},{"value":"2e5f25cd-124b-4855-8138-eca32f7ad9b3","text":"Mauritania"},{"value":"025d86e7-4324-419e-a002-3ec1896a2476","text":"Mauritius"},{"value":"c88d2866-7ba7-4cec-a3c1-7edea9562ff2","text":"Mexico"},{"value":"b0775ef9-ba5d-4fd9-ac33-8247db9bede2","text":"Micronesia (Federated States of)"},{"value":"1ec48849-7e59-4fe8-a480-36f84886a2aa","text":"Monaco"},{"value":"a155aa01-aaad-4d3c-8931-77f23a98dff5","text":"Mongolia"},{"value":"0f287272-15a0-407d-8df6-b385298d1f97","text":"Montenegro"},{"value":"f40c03e2-e3f5-408b-b5e6-e940c7d0bd34","text":"Morocco"},{"value":"baca04f1-009d-462f-9c80-5641969e2df0","text":"Mozambique"},{"value":"a0e5642e-870d-4764-ae64-c53e63267f4a","text":"Myanmar"},{"value":"0deccff6-ca73-4fe6-9b4c-ec5675c64172","text":"Namibia"},{"value":"bce767d5-4fa0-43e4-893a-0d0b2f3d5b13","text":"Nauru"},{"value":"a74d933c-208c-4c27-b3ad-1acfb81da3d7","text":"Nepal"},{"value":"25a56175-c0cf-4eb1-b527-f91ab8ac542b","text":"Netherlands"},{"value":"ed70f3ed-d2c7-4e20-ad9d-1fb321b6e75a","text":"New Zealand"},{"value":"e1314e93-cd5b-4d5b-becc-9725aff611c6","text":"Nicaragua"},{"value":"cebf625a-7c12-464d-a93e-5cc5bc64aeed","text":"Niger"},{"value":"7eaed2b5-61e5-440d-845a-da7d8762617e","text":"Nigeria"},{"value":"aad8c2c8-8d10-41c7-a603-462daaaca66a","text":"Niue"},{"value":"aae44981-c24a-4420-8e3d-7ca11eed263a","text":"North Macedonia"},{"value":"45639974-3d74-4135-87da-fea39adcf2c8","text":"Norway"},{"value":"8bff9ab1-73c5-4758-9863-9f1b51677e15","text":"Oman"},{"value":"c2ef3865-61bf-4bc2-89a5-a342633f39f7","text":"Pakistan"},{"value":"a8a99b3b-4c12-420a-a340-dd1fe5e23ad7","text":"Palau"},{"value":"aa74cf94-dfbe-4f29-818d-79818c0e303c","text":"Panama"},{"value":"15ffc26f-de82-440f-b7b0-98aace71dd03","text":"Papua New Guinea "},{"value":"44a8586e-0853-4e2a-af1a-8bad835a6c06","text":"Paraguay"},{"value":"1b729de1-ad6d-4f19-bda8-56cc7a991f31","text":"Peru"},{"value":"3b809605-0442-4348-b456-65f5df60adbd","text":"Philippines"},{"value":"0ffbab44-418b-470b-a7ab-63176f54daa8","text":"Poland"},{"value":"92faa0b5-3c2a-47b4-b8da-b268074348bd","text":"Portugal"},{"value":"a1bb3725-0a25-4e48-99e5-e186bb882e9f","text":"Qatar"},{"value":"960732f2-506a-4804-a270-936516386e77","text":"Republic of Korea"},{"value":"55a5991a-2c96-4663-b8f6-6548a251bd20","text":"Republic of Moldova"},{"value":"ccf048b3-0ecc-4d9e-97d6-36c3a0d3649f","text":"Romania"},{"value":"d1bdbe7a-447c-4899-ac7a-fae553c9f1e1","text":"Russian Federation"},{"value":"406378b9-882a-443b-9e02-92342af070d8","text":"Rwanda"},{"value":"81ebaf35-a2a7-43bc-9d80-4babca224062","text":"Saint Kitts and Nevis"},{"value":"0505a032-1307-49b4-954f-94445e3b267a","text":"Saint Lucia"},{"value":"6db1bf63-26dc-4196-99c3-4856bb4dff4d","text":"Saint Vincent and the Grenadines"},{"value":"d7c5492c-4bc8-4bc2-a481-9255d7b092ca","text":"Samoa"},{"value":"c227a3f7-97db-4601-b0d5-9772d2f51015","text":"San Marino"},{"value":"65ae4eac-755a-4769-9205-d36ce7990e39","text":"Sao Tome and Principe"},{"value":"cb48f725-8aa6-4600-aa8b-db362add150a","text":"Saudi Arabia"},{"value":"2f60ed82-c8fa-43f7-bd01-14d7daae60d2","text":"Senegal"},{"value":"9b20ead6-9f80-4d40-abdc-1fa473240b7e","text":"Serbia"},{"value":"0c426838-4022-4b03-ab45-82a0edc32d9b","text":"Seychelles"},{"value":"c0e11dcd-d9ba-4016-98f0-f4cb155cf481","text":"Sierra Leone"},{"value":"6bbab212-b0df-4bfd-b921-070a86f13dfb","text":"Singapore"},{"value":"b759fadf-ddc5-4071-9d74-394f2bb33b37","text":"Slovakia"},{"value":"1079b40b-4031-4814-a646-68f8d8768c20","text":"Slovenia"},{"value":"6bbc3a81-5361-4ec6-a82f-56e069ec417f","text":"Solomon Islands"},{"value":"8f879270-5f6d-4659-8023-d8d24180de81","text":"Somalia"},{"value":"f56c33e5-5524-4d5f-bad8-dcb0cc929df3","text":"South Africa"},{"value":"d820ad7d-1741-4b7e-bf6a-391fe7baa577","text":"South Sudan"},{"value":"fe04ee33-17d7-43fe-97cf-1539840b9b83","text":"Spain"},{"value":"75a3915b-d211-47af-ac81-344ffe76dc8e","text":"Sri Lanka"},{"value":"56cb9fa0-8062-4ce6-b7a9-a04921c8346d","text":"Sudan"},{"value":"dbe72db7-c7e5-4d26-8dbf-1a858f0bc84b","text":"Suriname"},{"value":"38e8d245-1058-44f9-83c8-0e7deb5e9eee","text":"Sweden"},{"value":"62cb8fc8-f91b-49be-a8e3-84bf0603f08b","text":"Switzerland"},{"value":"d4adaede-f448-4e96-9dfa-d9d0367921ec","text":"Syrian Arab Republic"},{"value":"ff8574e5-3375-460e-85d5-f255b1a2edcf","text":"Tajikistan "},{"value":"1e398bff-6f51-4848-b7d3-94b1c552e4a8","text":"Thailand"},{"value":"ca3af723-1a03-4b0b-bd05-65fd60bac0ec","text":"Timor-Leste "},{"value":"e9e3956a-2312-4dd1-9cec-d85ac15a42e6","text":"Togo"},{"value":"bdec6a77-bf4c-43d4-bd41-80f83725a6ce","text":"Tonga"},{"value":"a301469a-a6ea-4a23-8619-2703b4641af0","text":"Trinidad and Tobago"},{"value":"96cd3b76-5c19-4b13-87bb-84a8e5dd8488","text":"Tunisia "},{"value":"3f1fc8ba-fa58-4dae-aa43-7ea46a5ba30c","text":"Türkiye"},{"value":"fd703385-3030-452e-8257-a504438fac5f","text":"Turkmenistan"},{"value":"28c9764b-5f37-4f70-a664-50789ca67aac","text":"Tuvalu"},{"value":"b917786e-9977-4c6a-9ce7-9ad4d080b790","text":"Uganda"},{"value":"fa728943-1567-4ad7-b21f-509c18294f3d","text":"Ukraine"},{"value":"acde2686-10b8-4473-ad5b-798212039f70","text":"United Arab Emirates"},{"value":"b1943768-3f01-4c73-a51b-5aae6e1e368a","text":"United Kingdom of Great Britain and Northern Ireland"},{"value":"0925617a-786b-414e-97da-75360d0ff085","text":"United Republic of Tanzania"},{"value":"01ce068b-acc0-46cf-8d47-ad34711eb9a7","text":"United States of America"},{"value":"a6ba06be-a16d-4bac-b644-dc0f69f488d6","text":"Uruguay"},{"value":"d8d8332f-b11e-4d24-a6b5-593d3ebc39fa","text":"Uzbekistan"},{"value":"d99c9e57-4f39-472b-b993-81baaed71dda","text":"Vanuatu"},{"value":"d11ce292-ac5b-48ff-be33-651496911c89","text":"Venezuela (Bolivarian Republic of)"},{"value":"abb3cd2b-2b05-44e5-99f6-63b6ebfdf54a","text":"Viet Nam"},{"value":"077da640-2471-4f41-9164-96286f313c54","text":"Yemen"},{"value":"46094a25-6ee0-4b39-818a-b18d2df6d97c","text":"Zambia"},{"value":"300f32c8-0415-4e0a-a036-48fb58cb5110","text":"Zimbabwe"}],
+        filter: "contains",
+        placeholder: "Choose a country",
+        suggest: true,
+        enable: 194 > 0
+      });
+    });
+
+    $('#countries-dropdown').on('change', function () {
+        // get filter value from option value
+        var selectedCountryId = this.value;
+
+        setDefaultFilterUrl();
+
+        if (selectedCountryId) {
+            if (fullUrl.indexOf("?") == -1) {
+                fullUrl += "?";
+            } else {
+                fullUrl += "&";
+            }
+
+            fullUrl += "regionscountries=" + selectedCountryId;
+        }
+
+        $("#cp-hub-url").attr("href", fullUrl);
+    });
+</script>
+
+<div class="section-heading">
+            <h2>Related health topics</h2>
+
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C247_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="list-view vertical-list vertical-list--image">
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/air-pollution" class="link-container table" aria-label="Air pollution" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/air-pollution/air-pollution-mix-of-outdoor-and-indoor-air-pollution.tmb-768v.jpeg?sfvrsn=b5fbc279_18" style="background-image: url('https://cdn.who.int/media/images/default-source/air-pollution/air-pollution-mix-of-outdoor-and-indoor-air-pollution.tmb-131v.jpeg?sfvrsn=b5fbc279_18')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Physical environment</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Air pollution</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/cardiovascular-diseases" class="link-container table" aria-label="Cardiovascular diseases" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/default-album/who-diabetes-vn-ha-nam-who-diabetes-vn-hanoi-dsc07650.tmb-768v.jpg?sfvrsn=94b9b70a_6" style="background-image: url('https://cdn.who.int/media/images/default-source/default-album/who-diabetes-vn-ha-nam-who-diabetes-vn-hanoi-dsc07650.tmb-131v.jpg?sfvrsn=94b9b70a_6')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Diseases and conditions</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Cardiovascular diseases</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/diabetes" class="link-container table" aria-label="Diabetes" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/departments/ncds/diabetes/diabetes-testing.tmb-768v.jpg?Culture=en&amp;sfvrsn=d2d7331f_7" style="background-image: url('/images/default-source/departments/ncds/diabetes/diabetes-testing.tmb-131v.jpg?Culture=en&amp;sfvrsn=d2d7331f_7')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Diseases and conditions</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Diabetes</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/health-promotion" class="link-container table" aria-label="Health promotion" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/wpro/health-topic/health-promotion/health-promotion-ht.tmb-768v.jpg?Culture=en&amp;sfvrsn=42eb5e94_3" style="background-image: url('/images/default-source/wpro/health-topic/health-promotion/health-promotion-ht.tmb-131v.jpg?Culture=en&amp;sfvrsn=42eb5e94_3')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Behavioural interventions</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Health promotion</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/hypertension" class="link-container table" aria-label="Hypertension" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/departments/ncds/cardiovascular-diseases/who-005446-orig.tmb-768v.jpg?Culture=en&amp;sfvrsn=27864450_10" style="background-image: url('/images/default-source/departments/ncds/cardiovascular-diseases/who-005446-orig.tmb-131v.jpg?Culture=en&amp;sfvrsn=27864450_10')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Diseases and conditions</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Hypertension</p>
+                    </div>
+                </a>
+        </div>
+
+</div>
+
+
+    </div>
+    <div id="PageContent_C247_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="list-view vertical-list vertical-list--image">
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/mental-health" class="link-container table" aria-label="Mental health" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/mental-health-and-substance-abuse/adobestock_178067240_preview.tmb-768v.jpeg?sfvrsn=8c73c66c_6" style="background-image: url('https://cdn.who.int/media/images/default-source/mental-health-and-substance-abuse/adobestock_178067240_preview.tmb-131v.jpeg?sfvrsn=8c73c66c_6')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Health and wellbeing</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Mental health</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/nutrition" class="link-container table" aria-label="Nutrition" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/departments/nutrition-colorful-vegetables-en.tmb-768v.jpg?Culture=en&amp;sfvrsn=330f13a6_21" style="background-image: url('/images/default-source/departments/nutrition-colorful-vegetables-en.tmb-131v.jpg?Culture=en&amp;sfvrsn=330f13a6_21')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Human behaviour</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Nutrition</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/obesity" class="link-container table" aria-label="Obesity" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/wpro/health-topic/obesity-and-overweight/f2-300032016-ph-06620.tmb-768v.jpg?Culture=en&amp;sfvrsn=5964939_20" style="background-image: url('/images/default-source/wpro/health-topic/obesity-and-overweight/f2-300032016-ph-06620.tmb-131v.jpg?Culture=en&amp;sfvrsn=5964939_20')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Conditions</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Obesity</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/road-safety" class="link-container table" aria-label="Road traffic injuries" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/health-topics/road-traffic-injuries/conorashleig-who-2018-thailand-phc-highres-56.tmb-768v.jpg?sfvrsn=be9fd429_1" style="background-image: url('https://cdn.who.int/media/images/default-source/health-topics/road-traffic-injuries/conorashleig-who-2018-thailand-phc-highres-56.tmb-131v.jpg?sfvrsn=be9fd429_1')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Physical environment</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Road traffic injuries</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item vertical-list-item">
+                <a href="https://www.who.int/health-topics/urban-health" class="link-container table" aria-label="Urban health" role="link">
+                    <div class="table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/wpro/health-topic/urban-health/urban-health---city-view.tmb-768v.jpg?Culture=en&amp;sfvrsn=e2adde90_3" style="background-image: url('/images/default-source/wpro/health-topic/urban-health/urban-health---city-view.tmb-131v.jpg?Culture=en&amp;sfvrsn=e2adde90_3')"></div>
+                        </div>
+                    </div>
+
+                    <div class="table-cell info">
+                        <div class="date">
+                                <div class="timestamp">
+                                    <div class="sf-tags-list-item">Socio-political determinants</div>
+                                </div>
+                        </div>
+                        <p class="heading text-underline">Urban health</p>
+                    </div>
+                </a>
+        </div>
+
+</div>
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C239_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C239_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C214_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C283_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C283_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+<div id="PageContent_C186_Col00" class="sf_colsIn background-widget" data-sf-element="Background widget" data-placeholder-label="Background widget">
+</div>
+ </section> <!-- footer:on --> <!--noindex--><!--stopindex--> <footer id="sf-footer"> <div class="main-footer"> 
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA252_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="f71184fefa9a4442822d84d95dd3e0c9" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/footer/regions" target="_self">Regions</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/regions/africa" target="_blank">Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/americas" target="_blank">Americas</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/eastern-mediterranen" target="_blank">Eastern Mediterranean</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/europe" target="_blank">Europe</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/south-east-asia" target="_self">South-East Asia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/western-pacific" target="_self">Western Pacific</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies" target="_self">Policies</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies/cybersecurity" target="_self">Cybersecurity</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies/ethics" target="_self">Ethics</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies/information-disclosure" target="_blank">Information disclosure</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies/permissions-and-licensing" target="_self">Permissions and licensing</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies/preventing-sexual-exploitation" target="_self">Preventing sexual exploitation</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/who-policies/terms-of-use" target="_self">Terms of use</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us" target="_self">About us</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/careers" target="_self">Careers</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/frequently-asked-questions" target="_self">Frequently asked questions</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/library" target="_self">Library</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/procurement" target="_self">Procurement</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/publications" target="_self">Publications</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_T75121FDA252_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<nav id="ea66feefc47e4f01a16803d4de51c93a" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/about/contact-us" target="_self">Contact us</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><div class="button button-dark-background" style="text-align:center;"><a href="/redirect-pages/footer/about-us/newsletters">Newsletters</a></div></div>
+</div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><div class="button button-dark-background" style="text-align:center;"><a href="/about/ethics/integrity-hotline">Report misconduct</a></div></div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA199_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+    </div>
+</div>
+
+</div>
+ 
+ <div class="footer-logo"> <a href="/" title="Home"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Home" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="/about/policies/privacy">Privacy policy</a></div>
+</div>
+ </div> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block socialmedia-icons" >
+    <div ><a href="https://www.youtube.com/user/who?sub_confirmation=1" title="Follow WHO on Youtube" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" fill="white"></path></svg></a>
+<a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=who" title="Follow WHO on Twitter" target="_blank" data-sf-ec-immutable=""><svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"></path></svg></a>
+<a href="https://www.facebook.com/WHO" title="Follow WHO on Facebook" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" fill="white"></path></svg></a>
+
+<a href="https://instagram.com/who" title="Follow WHO on Instagram" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" fill="white"></path></svg></a>
+
+<a href="https://www.linkedin.com/company/world-health-organization" title="Follow WHO on LinkedIn" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" fill="white"></path></svg></a>
+<a href="https://www.snapchat.com/add/who" title="Follow WHO on Snapchat" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M496.926,366.6c-3.373-9.176-9.8-14.086-17.112-18.153-1.376-.806-2.641-1.451-3.72-1.947-2.182-1.128-4.414-2.22-6.634-3.373-22.8-12.09-40.609-27.341-52.959-45.42a102.889,102.889,0,0,1-9.089-16.12c-1.054-3.013-1-4.724-.248-6.287a10.221,10.221,0,0,1,2.914-3.038c3.918-2.591,7.96-5.22,10.7-6.993,4.885-3.162,8.754-5.667,11.246-7.44,9.362-6.547,15.909-13.5,20-21.278a42.371,42.371,0,0,0,2.1-35.191c-6.2-16.318-21.613-26.449-40.287-26.449a55.543,55.543,0,0,0-11.718,1.24c-1.029.224-2.059.459-3.063.72.174-11.16-.074-22.94-1.066-34.534-3.522-40.758-17.794-62.123-32.674-79.16A130.167,130.167,0,0,0,332.1,36.443C309.515,23.547,283.91,17,256,17S202.6,23.547,180,36.443a129.735,129.735,0,0,0-33.281,26.783c-14.88,17.038-29.152,38.44-32.673,79.161-.992,11.594-1.24,23.435-1.079,34.533-1-.26-2.021-.5-3.051-.719a55.461,55.461,0,0,0-11.717-1.24c-18.687,0-34.125,10.131-40.3,26.449a42.423,42.423,0,0,0,2.046,35.228c4.105,7.774,10.652,14.731,20.014,21.278,2.48,1.736,6.361,4.24,11.246,7.44,2.641,1.711,6.5,4.216,10.28,6.72a11.054,11.054,0,0,1,3.3,3.311c.794,1.624.818,3.373-.36,6.6a102.02,102.02,0,0,1-8.94,15.785c-12.077,17.669-29.363,32.648-51.434,44.639C32.355,348.608,20.2,352.75,15.069,366.7c-3.868,10.528-1.339,22.506,8.494,32.6a49.137,49.137,0,0,0,12.4,9.387,134.337,134.337,0,0,0,30.342,12.139,20.024,20.024,0,0,1,6.126,2.741c3.583,3.137,3.075,7.861,7.849,14.78a34.468,34.468,0,0,0,8.977,9.127c10.019,6.919,21.278,7.353,33.207,7.811,10.776.41,22.989.881,36.939,5.481,5.778,1.91,11.78,5.605,18.736,9.92C194.842,480.951,217.707,495,255.973,495s61.292-14.123,78.118-24.428c6.907-4.24,12.872-7.9,18.489-9.758,13.949-4.613,26.163-5.072,36.939-5.481,11.928-.459,23.187-.893,33.206-7.812a34.584,34.584,0,0,0,10.218-11.16c3.434-5.84,3.348-9.919,6.572-12.771a18.971,18.971,0,0,1,5.753-2.629A134.893,134.893,0,0,0,476.02,408.71a48.344,48.344,0,0,0,13.019-10.193l.124-.149C498.389,388.5,500.708,376.867,496.926,366.6Zm-34.013,18.277c-20.745,11.458-34.533,10.23-45.259,17.137-9.114,5.865-3.72,18.513-10.342,23.076-8.134,5.617-32.177-.4-63.239,9.858-25.618,8.469-41.961,32.822-88.038,32.822s-62.036-24.3-88.076-32.884c-31-10.255-55.092-4.241-63.239-9.858-6.609-4.563-1.24-17.211-10.341-23.076-10.739-6.907-24.527-5.679-45.26-17.075-13.206-7.291-5.716-11.8-1.314-13.937,75.143-36.381,87.133-92.552,87.666-96.719.645-5.046,1.364-9.014-4.191-14.148-5.369-4.96-29.189-19.7-35.8-24.316-10.937-7.638-15.748-15.264-12.2-24.638,2.48-6.485,8.531-8.928,14.879-8.928a27.643,27.643,0,0,1,5.965.67c12,2.6,23.659,8.617,30.392,10.242a10.749,10.749,0,0,0,2.48.335c3.6,0,4.86-1.811,4.612-5.927-.768-13.132-2.628-38.725-.558-62.644,2.84-32.909,13.442-49.215,26.04-63.636,6.051-6.932,34.484-36.976,88.857-36.976s82.88,29.92,88.931,36.827c12.611,14.421,23.225,30.727,26.04,63.636,2.071,23.919.285,49.525-.558,62.644-.285,4.327,1.017,5.927,4.613,5.927a10.648,10.648,0,0,0,2.48-.335c6.745-1.624,18.4-7.638,30.4-10.242a27.641,27.641,0,0,1,5.964-.67c6.386,0,12.4,2.48,14.88,8.928,3.546,9.374-1.24,17-12.189,24.639-6.609,4.612-30.429,19.343-35.8,24.315-5.568,5.134-4.836,9.1-4.191,14.149.533,4.228,12.511,60.4,87.666,96.718C468.629,373.011,476.119,377.524,462.913,384.877Z" fill="white"></path></svg></a>
+<a href="https://www.tiktok.com/@who?lang=en" title="Follow WHO on TikTok" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" fill="white"></path></svg></a></div>
+</div>
+ </div> <div class="col-md-4 copyright"> <span>
+                                ©
+                            </span>
+
+                            2025
+
+                            
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="/about/policies/terms-of-use">WHO</a></div>
+</div>
+ </div> </div> </div> </div> </footer> <!--/noindex--><!--startindex--> <!-- footer:off --> </div> <script>
+        window.__define = window.define;
+        window.__require = window.require;
+        window.define = undefined;
+        window.require = undefined;
+    </script> <script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js" type="text/javascript"></script><script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/responsivelylazy.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollToPlugin.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/parallax.min.js?package=WHO" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?package=WHO&amp;v=LTE0MDUxNjI1MjI%3d" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Navigation/Mvc/Scripts/LanguageSelector/language-selector.min.js?package=WHO&amp;v=LTUzMTEwMTcx" type="text/javascript"></script><script src="/Mvc/Scripts/ContentBlock/content-block.min.js?package=WHO" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"3b44fddf-cb6e-4efa-9ca5-628584c91b5a"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPuVWylniiuH85dElS4-sTWByH4RE8E5E1AceaaoCFAJqZaJ0XO7-0paGWvgZTYHK6HfSMq7_7jIhS9QthTeHBDUU0pberHuOZvwLatBEXp3F8dWshLi8dFLqd-R5ePILXLxt9fP0bczWzQjlYINayIOpB5YnfTHc2ZyRpWOgtz7dNZw0Q5MPTr0UAPNLDUP5XStYynM1&amp;t=638874968480000000">
+
+</script><input data-sf-role='en' type='hidden' value='https://www.who.int/health-topics/physical-activity'> <!-- js to scrape:on --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/accordion-footer-list.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=14.0.7729.26487'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=14.0.7729.26487'></script> <!-- js to scrape:off --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=14.0.7729.26487'></script> <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "Physical activity",
+            "description": "."
+            }
+        </script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=14.0.7729.26487'></script> <script>
+        window.define = window.__define;
+        window.require = window.__require;
+        window.__define = undefined;
+        window.__require = undefined;
+    </script> </body> </html>
+ title 17 Physical activity contentType 9 text/html url 55 https://www.who.int:443/health-topics/physical-activity responseCode 3 200 

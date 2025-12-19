@@ -1,0 +1,632 @@
+yiakxixomeuagkdmsepmiggmpmrssezqlqrokqjc length 5 24032 page 24032 <!doctype html>
+<html lang="en" class="h-100">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Sports | Iowa State University Library Vocabularies</title>
+<link rel="shortcut icon" type="image/x-icon" href="/isulv/favicon.ico">
+<!--
+
+  _____     ____        __  _           ___       _ __   __       
+ / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
+/ /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
+\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
+                                                                
+    built with CollectionBuilder-CSV
+    https://github.com/CollectionBuilder/collectionbuilder-csv
+-->
+<meta name="generator" content="collectionbuilder-csv" />
+<meta http-equiv="Content-Language" content="en-us" >
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"><link rel="stylesheet" href="/isulv/assets/lib/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="/isulv/assets/css/cb.css" type="text/css">
+
+
+
+
+<!-- DC meta -->
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" /><meta name="DCTERMS.title" content="Sports" xml:lang="en" />
+<meta name="DCTERMS.publisher" content="Library of Congress" xml:lang="en" />
+<meta name="DCTERMS.rights" content="http://opendatacommons.org/licenses/pddl/1.0/" xml:lang="en" />
+
+<!-- Open Graph meta -->
+<meta property="og:title" content="Sports" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Item from Iowa State University Library Vocabularies. " />
+
+<meta property="og:site_name" content="Iowa State University Library Vocabularies" />
+<meta property="og:url" content="https://digital.lib.iastate.edu/isulv/items/isut257.html" />
+<meta property="og:locale" content="en_US" />
+<!-- schema.org JSON-LD -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "CreativeWork",
+    "headline": "Sports",
+    "isPartOf": "Iowa State University Library Vocabularies",
+    
+    
+    "url": "https://digital.lib.iastate.edu/isulv/items/isut257.html"
+}
+</script>
+<!-- breadcrumbs schema -->
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "BreadcrumbList", "itemListElement": [{ "@type": "ListItem", "position": 1, "item": { "@id": "https://digital.lib.iastate.edu/isulv/", "name": "Iowa State University Library Vocabularies" } },{ "@type": "ListItem", "position": 2, "item": { "@id": "https://digital.lib.iastate.edu/isulv/browse.html", "name": "Browse Collection" } },{ "@type": "ListItem", "position": 3, "item": { "@id": "https://digital.lib.iastate.edu/isulv/items/isut257.html", "name": "Sports" } }] }</script>
+<!-- ISU vocab JSON-LD -->
+<script type="application/ld+json">
+    {
+        "@context": {
+            "dc": "http://purl.org/dc/terms/",
+            "madsrdf": "http://www.loc.gov/mads/rdf/v1#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "schema": "http://schema.org/",
+            "skos": "http://www.w3.org/2004/02/skos/core#"
+        },
+        "rdf:type": ["skos:Concept", "madsrdf:Authority", "http://www.loc.gov/mads/rdf/v1#Authority", "http://www.loc.gov/mads/rdf/v1#Topic"],
+        "skos:prefLabel": "Sports",
+        "dc:type": "http://purl.org/dc/dcmitype/Text",
+        "dc:title": "Sports",
+        "dc:identifier": "https://digital.lib.iastate.edu/isulv/items/isut257.html",
+        "skos:inScheme": "https://digital.lib.iastate.edu/isulv/vocab/vocab003.html",
+        "skos:definition": "Preferred topical term for use in Iowa State University Library metadata.",
+        "skos:scopeNote": "Use this term to describe resources about the topic. See exact matches in external vocabularies for more information about this term. Review and assign broader, narrower, or related terms as appropriate.",
+        "skos:historyNote": "Term added to ISULV, 2024-05-02. The ISU Thesaurus working group selected this term from an external vocabulary for local use. The form and usage of the term have not been modified.",
+        "skos:altLabel": [],
+        "dc:subject": "Arts and culture",
+        "skos:broader": "",
+        "skos:narrower": "",
+        "skos:closeMatch": [],
+        "skos:exactMatch": "http://id.loc.gov/authorities/subjects/sh00007735",
+        "skos:related": [],
+        "skos:related": [],
+        "madsrdf:associatedLocale": [],
+        "madsrdf:associatedLanguage": ["eng"],
+        "madsrdf:establishDate": "",
+        "madsrdf:terminateDate": "",
+        "madsrdf:birthDate": "",
+        "madsrdf:deathDate": "",
+        "madsrdf:hasSource": ["ISU Thesaurus working group"],
+        "dc:publisher": "http://id.loc.gov/authorities/names/n78089035",
+        "dc:rights": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+    </script>
+
+
+<!-- Analytics -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZYMPY53XG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-VZYMPY53XG');
+</script>
+
+<!-- Last build date: 2025-11-19 -->
+  </head>
+  <body class="d-flex flex-column h-100">
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <div class="container">
+    <div class="row align-items-center">
+        <div id="title" class="col-md-9">
+            <h1><a class="text-dark font-weight-normal" href="/isulv/" >Iowa State University Library Vocabularies</a></h1>	 
+            <p>Linked data vocabularies for local resource description</p>
+        </div>
+        
+        <div class="col-md-3 d-none d-lg-block text-end">
+            <a class="btn btn-outline-light" href="https://www.lib.iastate.edu/" target="_blank" rel="noopener">
+                <img class="img-fluid" src="https://isuu00001library102stg.z21.web.core.windows.net/assets/media/ISU_Library_Center_Red.png" title="Iowa State University Library" alt="Iowa State University Library home" >
+            </a>
+        </div>
+        
+    </div>
+</div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <span class="d-lg-none text-end">
+            <a href="https://www.lib.iastate.edu/" target="_blank" rel="noopener">
+                <img class="img-fluid" id="mobile-nav-image" src="https://isuu00001library102stg.z21.web.core.windows.net/assets/media/ISU_Library_Center_White.png" title="Iowa State University Library" alt="Iowa State University Library home" >
+            </a>
+        </span>
+        
+        <div class="collapse navbar-collapse" id="page-nav">
+            <ul class="navbar-nav me-auto">
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/">Home</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/browse.html">Browse</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/data.html">Data</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/locations.html">Locations</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/terms.html">Terms</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/vocab/">Vocabularies</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/isulv/about.html">About</a>
+                </li></ul>
+            
+            <script>
+    function site_search() {
+        var query = document.getElementById("site-search").value;
+        window.open("/isulv/search/index.html?q=" + encodeURIComponent(query), "_self" );
+    }
+</script>
+<form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
+    <div class="input-group">
+        <input id="site-search" class="form-control " type="text" placeholder="Search" aria-label="Search box">
+        <button class="btn btn-light" type="submit">
+            <span id="search-icon"><svg viewBox="0 0 1024 974" height="16px" width="20px"><path d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"/></svg></span>
+            <span class="visually-hidden">Search</span>
+        </button>
+    </div>
+</form>
+            
+        </div>
+    </div>
+</nav>
+
+    <main id="maincontent" role="main" class="flex-shrink-0">
+      <div class="container py-3">
+
+    <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="text-dark" href="/isulv/">Home</a></li>
+    <li class="breadcrumb-item"><a class="text-dark" href="/isulv/browse.html">Items</a></li>
+    <li class="breadcrumb-item active text-dark" aria-current="page">Sports</li>
+</ol>
+    <div class="my-0 h5 small">RECORD </div>
+    <h2 class="mb-3">Sports 
+        
+    </h2>
+
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-10">
+
+        <div class="mb-4 text-center">
+
+</div>
+
+
+        </div>
+
+        <div class="col-12 col-md-10" id="metadata">
+
+            <div id="item-metadata">
+    <dl>
+        <dt class="field">URI:</dt>
+        <dd class="field-value"><a class="me-3" href="https://digital.lib.iastate.edu/isulv/items/isut257.html" style="margin-right: .3rem !important;">https://digital.lib.iastate.edu/isulv/items/isut257.html</a><button type="button" 
+        class="copy-btn " 
+        data-copy="https://digital.lib.iastate.edu/isulv/items/isut257.html"
+        title="Copy URI"
+        aria-label="Copy URI">
+    <svg class="bi copy-icon" role="img" aria-hidden="true">
+        <use xlink:href="/isulv/assets/lib/cb-icons.svg#icon-copy"/>
+    </svg>
+</button>
+        </dd>
+        
+        
+        <dt class="field">Preferred form:</dt>
+        <dd class="field-value">
+            
+            Sports
+        </dd>
+        
+        
+        <dt class="field">Term type:</dt>
+        <dd class="field-value">
+            
+            
+            
+            <a class="me-3" href="/isulv/browse.html#Authority">Authority</a>
+            
+            <a class="me-3" href="/isulv/browse.html#Topic">Topic</a>
+            
+            
+        </dd>
+        
+        
+        <dt class="field">Vocabulary:</dt>
+        <dd class="field-value">
+        <a class="me-1" href="/isulv/vocab/vocab003.html">Iowa State University thesaurus</a>
+        </dd>
+        
+        
+        <dt class="field">Language of term:</dt>
+        <dd class="field-value">
+            
+            eng
+        </dd>
+        
+        
+        <dt class="field">Definition:</dt>
+        <dd class="field-value">
+            
+            Preferred topical term for use in Iowa State University Library metadata.
+        </dd>
+        
+        
+        <dt class="field">Usage:</dt>
+        <dd class="field-value">
+            
+            Use this term to describe resources about the topic. See exact matches in external vocabularies for more information about this term. Review and assign broader, narrower, or related terms as appropriate.
+        </dd>
+        
+        
+        <dt class="field">History:</dt>
+        <dd class="field-value">
+            
+            Term added to ISULV, 2024-05-02. The ISU Thesaurus working group selected this term from an external vocabulary for local use. The form and usage of the term have not been modified.
+        </dd>
+        
+        
+        <dt class="field">Subject area:</dt>
+        <dd class="field-value">
+            
+            
+            
+            <a class="me-3" href="/isulv/browse.html#Arts%20and%20culture">Arts and culture</a>
+            
+            
+        </dd>
+        
+        
+        <dt class="field">Exact match in external vocabulary:</dt>
+        <dd class="field-value">
+            
+            
+            
+            
+            <a class="me-1" href="http://id.loc.gov/authorities/subjects/sh00007735" target="_blank" rel="noopener">Sports</a>
+            
+        </dd>
+        
+        
+        <dt class="field">Source:</dt>
+        <dd class="field-value">
+            
+            ISU Thesaurus working group
+        </dd>
+        
+        
+        <dt class="field">Publisher:</dt>
+        <dd class="field-value">
+            
+            
+            
+            
+            <a class="me-1" href="http://id.loc.gov/authorities/names/n78089035" target="_blank" rel="noopener">Library of Congress</a>
+            
+        </dd>
+        
+        
+        <dt class="field">Rights:</dt>
+        <dd class="field-value">
+            
+            <a href="http://opendatacommons.org/licenses/pddl/1.0/" target="_blank" rel="noopener">http://opendatacommons.org/licenses/pddl/1.0/</a>
+            
+        </dd>
+        
+    </dl>
+</div>
+
+        </div>
+
+    </div><div class="text-center">
+  <a class="btn btn-secondary" href="/isulv/items/isut256.html" id="prev-page-button">&laquo; Previous</a>
+  <a class="btn btn-secondary" href="/isulv/browse.html">Back to Browse</a>
+  <a class="btn btn-secondary" href="/isulv/items/isut258.html" id="next-page-button">Next &raquo;</a>
+</div>
+<div id="item-nav">
+  <div class="d-none d-md-block">
+    <a class="previous btn btn-lg btn-secondary" href="/isulv/items/isut256.html">&laquo;</a>
+    <a class="next btn btn-lg btn-secondary" href="/isulv/items/isut258.html">&raquo;</a>
+  </div>
+</div>
+<script>
+  function leftArrowPressed() {
+    location.href = document.getElementById("prev-page-button").href;
+  };
+
+  function rightArrowPressed() {
+    location.href = document.getElementById("next-page-button").href;
+  };
+
+  function leftModalArrowPressed() {
+    // Get the modal element.
+    var modalshow = document.querySelector(".modal.show");
+    // If the modal exists, get the prev button element.
+    if (modalshow) {
+      const prevButton = modalshow.querySelector(".prev-child-button");
+      // If the prev button exists, click it.
+      if (prevButton) {
+        prevButton.click();
+      }
+    }
+  };
+
+  function rightModalArrowPressed() {
+    // Get the modal element.
+    var modalshow = document.querySelector(".modal.show");
+    // If the modal exists, get the prev button element.
+    if (modalshow) {
+      const nextButton = modalshow.querySelector(".next-child-button");
+      // If the prev button exists, click it.
+      if (nextButton) {
+        nextButton.click();
+      }
+    }
+  };
+
+  function isModalShown() {
+    // Get the modal element.
+    const modal = document.querySelector(".modal.show");
+
+    // Check if the modal has the "show" class.
+    return modal && modal.classList.contains("show");
+  };
+
+  function isSpotlightModalShown() {
+    // Get the modal element.
+    const spotlight = document.getElementById("spotlight");
+    // Check if the modal has the "show" class.
+    return spotlight && spotlight.classList.contains("show");
+  };
+
+
+  document.onkeydown = function (evt) {
+    if (isSpotlightModalShown()) {
+
+
+    } else if (isModalShown()) {
+      // The modal is shown.
+      evt = evt || window.event;
+      switch (evt.keyCode) {
+        case 37:
+          leftModalArrowPressed();
+            break;
+        case 39:
+          rightModalArrowPressed();
+            break;
+      }
+    }
+    else {
+      // The modal is not shown.
+      evt = evt || window.event;
+      switch (evt.keyCode) {
+        case 37:
+          leftArrowPressed();
+            break;
+        case 39:
+          rightArrowPressed();
+            break;
+      }
+    }
+
+  };
+</script></div>
+    </main>
+    <footer class="bg-dark pt-4 mt-auto container-fluid">
+
+    <div class="row border-bottom border-white pb-4 mb-2">
+
+        <div class="col-md-7  px-4 mt-2">
+
+            <h2 class="h4"><a href="/isulv/" class="text-white font-weight-normal">Iowa State University Library Vocabularies</a></h2>
+            <p class="text-white"><small>Curated lists of preferred subject headings, genre terms, names, and other concepts used to describe resources created by and about the Iowa State University community</small></p>
+            <nav>
+                <ul id="footer-nav" class="nav nav-pills ">
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/browse.html">Browse</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/data.html">Data</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/locations.html">Locations</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/terms.html">Terms</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/vocab/">Vocabularies</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/isulv/about.html">About</a>
+                    </li></ul>
+            </nav>
+
+        </div>
+
+        <div class="col-md-5 mt-2 text-end">
+
+            <p class="text-end">
+                <a href="https://www.lib.iastate.edu/" target="_blank" rel="noopener">
+                    <img id="footer-logo" class="img-fluid" src="https://isuu00001library102stg.z21.web.core.windows.net/assets/media/ISU_Library_Center_White.png" alt="Iowa State University Library home">
+                </a>
+            </p>
+            
+            <p class="text-white text-md-end" id="footer-credits">
+                <small><em>built with</em>
+                    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" class="text-white text-decoration-underline" >CollectionBuilder</a>
+                </small>
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-12 text-center pt-3 pb-1">
+        <p class="text-white">Last updated 2025</p>
+    </div>
+
+</footer>
+    <!-- Bootstrap bundle JS -->
+<script src="/isulv/assets/lib/bootstrap.bundle.min.js"></script>
+<!-- load other js -->
+<script src="/isulv/assets/lib/lazysizes.min.js" async></script>
+
+<script>
+/* copy to clipboard functionality */
+(function() {
+    'use strict';
+    
+    /* create feedback element once */
+    let feedbackElement = null;
+    
+    function createFeedbackElement() {
+        if (!feedbackElement) {
+            feedbackElement = document.createElement('div');
+            feedbackElement.className = 'copy-feedback';
+            feedbackElement.setAttribute('aria-live', 'polite');
+            document.body.appendChild(feedbackElement);
+        }
+        return feedbackElement;
+    }
+    
+    function showFeedback(message, success = true) {
+        const feedback = createFeedbackElement();
+        feedback.textContent = message;
+        feedback.className = success ? 'copy-feedback' : 'copy-feedback copy-error';
+        feedback.classList.add('show');
+        
+        setTimeout(() => {
+            feedback.classList.remove('show');
+        }, 2000);
+    }
+    
+    function copyToClipboard(text, button) {
+        /* modern clipboard api */
+        if (navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(text).then(() => {
+                showFeedback('Copied to clipboard!');
+                highlightButton(button);
+            }).catch(() => {
+                fallbackCopy(text, button);
+            });
+        } else {
+            fallbackCopy(text, button);
+        }
+    }
+    
+    function fallbackCopy(text, button) {
+        /* fallback for older browsers */
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.style.position = 'fixed';
+        textArea.style.left = '-999999px';
+        textArea.style.top = '-999999px';
+        document.body.appendChild(textArea);
+        
+        textArea.focus();
+        textArea.select();
+        
+        try {
+            const successful = document.execCommand('copy');
+            if (successful) {
+                showFeedback('Copied to clipboard!');
+                highlightButton(button);
+            } else {
+                showFeedback('Copy failed. Please copy manually.', false);
+            }
+        } catch (err) {
+            showFeedback('Copy failed. Please copy manually.', false);
+        }
+        
+        document.body.removeChild(textArea);
+    }
+    
+    function highlightButton(button) {
+        button.classList.add('copied');
+        setTimeout(() => {
+            button.classList.remove('copied');
+        }, 1000);
+    }
+    
+    /* initialize copy buttons when DOM is ready */
+    function initCopyButtons() {
+        const copyButtons = document.querySelectorAll('[data-copy]');
+        
+        copyButtons.forEach(button => {
+            button.addEventListener('click', function(e) {
+                e.preventDefault();
+                const textToCopy = this.getAttribute('data-copy');
+                copyToClipboard(textToCopy, this);
+            });
+            
+            /* add keyboard support */
+            button.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    const textToCopy = this.getAttribute('data-copy');
+                    copyToClipboard(textToCopy, this);
+                }
+            });
+        });
+    }
+    
+    /* initialize when DOM is loaded */
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initCopyButtons);
+    } else {
+        initCopyButtons();
+    }
+    
+    /* re-initialize if new copy buttons are added dynamically */
+    window.initCopyButtons = initCopyButtons;
+})();
+</script>
+
+    <script>
+    // When the user scrolls down from the top of the document, show the button
+    window.onscroll = function () {
+        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+            document.getElementById("scroll-to-top").style.display = "block";
+        } else {
+            document.getElementById("scroll-to-top").style.display = "none";
+        }
+    }
+    // scroll to top function
+    function scrollToTop() {
+        window.scroll({
+            top: 0, 
+            left: 0, 
+            behavior: 'smooth'
+        });
+    }
+</script>
+<button id="scroll-to-top" type="button" class="btn btn-link" onclick="scrollToTop();" title="Back to Top" aria-label="Back to Top">
+    <svg class="bi icon-sprite" role="img" aria-label="Up Arrow">
+        <use xlink:href="/isulv/assets/lib/cb-icons.svg#icon-back-to-top"/>
+    </svg>
+</button>
+  </body>
+</html> title 51 Sports | Iowa State University Library Vocabularies contentType 9 text/html url 60 https://digital.lib.iastate.edu:443/isulv/items/isut257.html responseCode 3 200 

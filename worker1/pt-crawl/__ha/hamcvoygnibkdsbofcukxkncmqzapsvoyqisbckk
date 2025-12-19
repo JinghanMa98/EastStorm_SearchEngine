@@ -1,0 +1,422 @@
+hamcvoygnibkdsbofcukxkncmqzapsvoyqisbckk length 5 26844 page 26844 <!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""><![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang=""><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang=""><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+    <!--<![endif]-->
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Cordra</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <link rel="apple-touch-icon" href="/assets/img/various/apple-touch-icon.png"> -->
+        <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700%7COpen+Sans:300,400,700,800' rel='stylesheet' />
+        <link href='https://fonts.googleapis.com/css?family=Rasa:400,700%7COpen+Sans:300,400,700,800' rel='stylesheet' />
+        <link rel="stylesheet" href="/assets/js/libs/font-awesome/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="/assets/js/libs/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="/assets/css/icons/nucleo.css" />
+        <link rel="stylesheet" href="/assets/js/libs/animate.css/animate.min.css" />
+        <link rel="stylesheet" href="/assets/css/blog.css" />
+        <link rel="stylesheet" href="/assets/css/buttons.css" />
+        <link rel="stylesheet" href="/assets/css/colors.css" />
+        <link rel="stylesheet" href="/assets/css/footers.css" />
+        <link rel="stylesheet" href="/assets/css/widgets.css" />
+        <link rel="stylesheet" href="/assets/css/main.css" />
+        <link rel="stylesheet" href="/assets/css/nav.css" />
+<!--        <link rel="stylesheet" href="/assets/css/preloader.css" />-->
+        <link rel="stylesheet" href="/assets/css/themes.css" />
+        <link rel="stylesheet" href="/assets/css/ui.css" />
+        <link rel="stylesheet" href="/assets/css/pages.css" />
+        <link rel="stylesheet" href="/assets/css/form.css" />
+        
+    </head>
+
+    <body class="header-light theme-blue">
+        <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+
+        <div id="wrapper">
+
+            <!-- BEGIN LATERAL NAVIGATION -->
+            <aside id="aside-nav">
+                <div id="main-aside-navigation">
+                    <div class="main-nav-wrapper">
+                        <div class="close-aside-nav">
+                            <i class="nc-icon-outline ui-1_simple-remove"></i>
+                        </div>
+                        <div id="aside-logo">
+                            <a href="/index.html" data-logo-light="/assets/img/logo/cordra-light.png" data-logo-dark="/assets/img/logo/cordra-primary-blue.png">
+                                <img width="170" height="166" src="/assets/img/logo/cordra-primary-blue.png" alt="logo">
+                            </a>
+                        </div>
+                        <nav id="main-aside-menu">
+                            <ul>
+                                <li class="submenu">
+                                    <a href="/cordra.html">What's Cordra?</a>
+                                </li>
+                                <li class="submenu">
+                                    <a href="/getstarted.html">Get Started</a>
+                                </li>
+                                <li class="submenu">
+                                    <a href="/download.html">Download</a>
+                                </li>
+                                <li class="submenu">
+                                    <a href="/documentation/introduction/introduction.html">Developer Resources</a>
+                                </li>
+                                <li class="submenu">
+                                    <a href="/standards.html">Standards</a>
+                                </li>
+                                <li class="submenu">
+                                    <a href="/doip.html">DOIP</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </aside>
+            <!-- END LATERAL NAVIGATION -->
+
+            <!-- BEGIN MAIN NAVIGATION -->
+            <header id="header">
+                <div id="main-navigation">
+                    <div class="main-nav-wrapper">
+                        <div class="container-fluid">
+                            <div class="nav-left">
+                                <div id="logo">
+                                    <a href="/index.html" data-logo-light="/assets/img/logo/cordra-light.png" data-logo-dark="/assets/img/logo/cordra-primary-blue.png">
+                                        <img width="145" height="36" src="/assets/img/logo/cordra-primary-blue.png" alt="logo">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="nav-right">
+                                <nav id="main-menu">
+                                    <ul>
+                                        <li class="mega-menu menu-layouts">
+                                            <a href="/cordra.html">What's Cordra?</a>
+                                        </li>
+                                        <li class="mega-menu menu-layouts">
+                                            <a href="/getstarted.html">Get Started</a>
+                                        </li>
+                                        <li>
+                                            <a href="/download.html">Download</a>
+                                        </li>
+                                        <li class="mega-menu">
+                                            <a href="/documentation/introduction/introduction.html">Developer Resources</a>
+                                        </li>
+                                        <li class="mega-menu">
+                                            <a href="/standards.html">Standards</a>
+                                        </li>
+                                        <li class="mega-menu">
+                                            <a href="/doip.html">DOIP</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                                <ul class="nav-tools">
+                                    <li class="mobile-menu-btn">
+                                        <button class="toggle-menu" data-toggle="mobile-menu" data-effect="hover">
+                                            <span class="menu-label label-left">Menu</span>
+                                            <i class="nc-icon-outline ui-2_menu-35"></i>
+                                        </button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- END MAIN NAVIGATION -->
+
+            <!-- BEGIN MAIN CONTENT -->
+            <div id="main-content">
+
+                
+                <!-- BEGIN PAGE TITLE -->
+<!--                <section id="intro" class="section section-dark" data-bg-img="background/AF18.jpg" data-0="background-position: -100px 1050px;" data-500="background-position: -100px 650px;">-->
+                <section id="intro" class="section section-dark" data-bg-img="background/AF18.jpg">
+                    <div class="section-overlay bg-primary" style="opacity: 0.92;"></div>
+                    <div class="table-wrapper">
+                        <div class="row">
+                            <div class="container t-center">
+                                <div class="col-md-12 m-t-100">
+                                    <h1 class="big-title m-t-40">Cordra</h1>
+                                    <h5 class="w-400">open source software</h5>
+                                    <h2 class="m-t-40">Highly configurable software for managing digital objects at scale.</h2>
+                                    <div class="m-t-60 w-300">
+                                        <a class="btn btn-lg btn-white m-r-20" href="./cordra.html">Learn More</a>
+                                        <a href="/download.html" class="btn btn-lg btn-white btn-bordered"><span>Download Now</span></a>
+                                    </div>
+                                   <div class="m-t-40 m-b-100 w-500 c-white">
+                                       <p class="c-white bigger-120">
+                                        Use the <a href="/doip.html#section-client-libraries" class="header-link">DOIP client libraries</a>
+                                        to interact with Cordra using <a href="/doip.html" class="header-link">DOIP</a>.<br/>
+                                        Use the <a href="/doip.html#doip-mcp-connector" class="header-link">DOIP-MCP Connector</a>
+                                        to enable AI and LLM client applications to access Cordra and other DOIP services.
+                                       </p>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- END PAGE TITLE -->
+                <!-- BEGIN Section Why Use Cordra -->
+                <section class="section section-lg customblue lighten-5 p-t-20 animated" data-animation="fadeIn">
+                    <div class="container">
+                        <div class="col-lg-12">
+                            <div class="title title-center">
+                                <h2>What is Cordra?</h2>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="feature-box feature-sm m-t-20 animated fadeIn visible" data-animation="fadeIn" data-animation-delay="200">
+                                        <div class="icon icon-simple">
+                                            <i class="nc-icon-outline design_vector c-primary"></i>
+                                        </div>
+                                        <div class="feature-content">
+                                            <h2 class="feature-title no-top-padding font-handwriting c-dark-gray f-18"><span class="bold">Cordra</span> is a highly configurable open source software offered to software developers for managing
+                                                digital objects with resolvable identifiers at scale.</h2>
+                                        </div>
+                                    </div>
+                                    <div class="feature-box feature-sm  animated fadeIn visible" data-animation="fadeIn" data-animation-delay="200">
+                                        <div class="icon icon-simple">
+                                            <i class="nc-icon-outline files_single-copies c-primary"></i>
+                                        </div>
+                                        <div class="feature-content">
+                                            <h2 class="feature-title no-top-padding font-handwriting c-dark-gray f-18">Optimized for handling NoSQL information.</h2>
+                                        </div>
+                                    </div>
+                                    <div class="feature-box feature-sm  animated fadeIn visible" data-animation="fadeIn" data-animation-delay="200">
+                                        <div class="icon icon-simple">
+                                            <i class="nc-icon-outline objects_support-17 c-primary"></i>
+                                        </div>
+                                        <div class="feature-content">
+                                            <h2 class="feature-title no-top-padding font-handwriting c-dark-gray f-18">Integrates popular storage and indexing solutions, and presents a unified interface.</h2>
+                                        </div>
+                                    </div>
+                                    <div class="feature-box feature-sm  m-t-40 animated fadeIn visible" data-animation="fadeIn" data-animation-delay="200">
+                                        <div class="icon icon-simple">
+                                            <i class="nc-icon-outline ui-1_settings-gear-63 c-primary"></i>
+                                        </div>
+                                        <div class="feature-content">
+                                            <h2 class="feature-title no-top-padding font-handwriting c-dark-gray f-18">Provides configurable hooks to validate and update information at various stages of a digital object lifecycle.</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-12 t-center">
+                                    <a class="btn btn-lg btn-primary m-r-40 m-b-20" href="cordra.html">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                </section>
+                <!-- BEGIN FEATURES -->
+                <section class="section section-lg blue-white p-t-20 animated" data-animation="fadeIn">
+                    <div class="container">
+                        <div class="col-lg-12">
+                            <div class="title title-center">
+                                <h2 class="c-white">Cordra Features</h2>
+                                <p class="action-subtitle c-white">Cordra comes built-in with many features.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="feature-box">
+                                    <div class="icon icon-simple">
+                                        <i class="nc-icon-outline ui-1_settings c-white"></i>
+                                    </div>
+                                    <div class="feature-content">
+                                        <h3 class="feature-title font-handwriting c-white bold">Configurability</h3>
+                                        <p class="c-white">Schemas, business rules, access controls, and much more can be configured using settings and lifecycle hooks, all using the built-in admin interface.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="feature-box">
+                                    <div class="icon icon-simple">
+                                        <i class="nc-icon-outline files_archive-paper-check c-white"></i>
+                                    </div>
+                                    <div class="feature-content">
+                                        <h3 class="feature-title font-handwriting c-white bold">Data Consistency</h3>
+                                        <p class="c-white">Enables robust internal machinery to withstand partial system/network failures to ensure consistent system states between storage and indexing services.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="feature-box">
+                                    <div class="icon icon-simple">
+                                        <i class="nc-icon-outline ui-2_tile-56 c-white"></i>
+                                    </div>
+                                    <div class="feature-content">
+                                        <h3 class="feature-title font-handwriting c-white bold">Scalability</h3>
+                                        <p class="c-white">Enables horizontal scaling and concurrency techniques to support large-scale demand. Provides a load-sharing front to backend services.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="feature-box">
+                                    <div class="icon icon-simple">
+                                        <i class="nc-icon-outline arrows-2_computer-upload c-white"></i>
+                                    </div>
+                                    <div class="feature-content">
+                                        <h3 class="feature-title font-handwriting c-white bold">APIs</h3>
+                                        <p class="c-white">Provides REST, DOIP, and IRP interfaces. REST APIs reduce the entry barrier. DOIP operations allow extensibility and interoperability. IRP enables identifier resolution.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="feature-box">
+                                    <div class="icon icon-simple">
+                                        <i class="nc-icon-outline ui-1_edit-76 c-white"></i>
+                                    </div>
+                                    <div class="feature-content">
+                                        <h3 class="feature-title font-handwriting c-white bold">Developer Friendly</h3>
+                                        <p class="c-white">Requires little to no coding to store, protect, search, and retrieve digital objects. Client libraries in Java and JavaScript are provided.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="feature-box">
+                                    <div class="icon icon-simple">
+                                        <i class="nc-icon-outline objects_key-26 c-white"></i>
+                                    </div>
+                                    <div class="feature-content">
+                                        <h3 class="feature-title font-handwriting c-white bold">PKI and Hashing</h3>
+                                        <p class="c-white">Server and client authentications can be handled via PKI in addition to passwords. Digital objects can be hashed and linked for ensuring integrity.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row m-t-40">
+                            <div class="col-lg-12 t-center">
+                                <a class="btn btn-lg btn-white btn-bordered m-r-40 m-b-20" href="/documentation/design/introduction.html">And Many Others</a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- END Section Cordra Features -->
+                <!-- BEGIN Section Scale Applications -->
+                <section class="section section-lg grey lighten-4 p-t-40 animated" data-animation="fadeIn">
+                    <div class="container">
+                        <div class="col-lg-12">
+                            <div class="title title-center">
+                                <h2>Scalable and Durable</h2>
+                                <p>Scales horizontally. Enables cross-continent and cross-cloud replication.</p>
+                            </div>
+                            <div class="row">
+                                <p class="justify c-dark f-18">Cordra enables distributed concurrency support to handle user requests made at multiple Cordra instances.</p>
+                                <p class="justify c-dark f-18">Scalable storage backends such as MongoDB and Amazon S3 are supported. Scalable indexing backends such as ElasticSearch and Apache Solr are supported.</p>
+                                <p class="justify c-dark f-18">Techniques are implemented to allow information to be replicated across clouds and regions.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- BEGIN Section CTA -->
+                <section class="section-call-to-action action-center action-boxed grey lighten-2 p-t-120 p-b-120">
+                    <div class="action-wrapper">
+                        <div class="container">
+                            <div class="action-text">
+                                <h3 class="action-title">Ready to build a scalable data infrastructure?</h3>
+                            </div>
+                            <div class="action-btn">
+                                <a href="getstarted.html" class="btn btn-lg btn-dark"><span>Get Started</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- END Section CTA -->
+
+
+            </div>
+            <!-- BEGIN FOOTER -->
+            <footer id="footer">
+                <div id="footer-main" class="container-large">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="widget widget-text">
+                                <h3 class="widget-title">Who are we?</h3>
+                                <!-- <img width="200" height="50" class="footer-logo" src="/assets/img/logo/cordra-light.png" alt="logo"> -->
+                                <p>CNRI is a not-for-profit organization formed in 1986 to undertake, foster, and promote research on information infrastructure in the public interest.</p>
+                                <p><i class="nc-icon-outline ui-1_home-minimal"></i> Corporation for National Research Initiatives</p>
+                                <p><i class="nc-icon-outline location_position-marker"></i> 1895 Preston White Drive, Suite 100, Reston, Virginia 20191, USA</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs-down">
+                            <div class="widget widget-links">
+                                <div class="widget-title">
+                                    <h3 class="widget-title">Quick Links</h3>
+                                </div>
+                                <ul>
+                                    <li>
+                                        <a href="/cordra.html">What's Cordra</a>
+                                    </li>
+                                    <li>
+                                        <a href="/download.html">Download</a>
+                                    </li>
+                                    <li>
+                                        <a href="/documentation/introduction/introduction.html">Developer Resources</a>
+                                    </li>
+                                    <li>
+                                        <a href="/download.html#section-licenses">Licenses</a>
+                                    </li>
+                                    <li>
+                                        <a href="/privacypolicy.html">Privacy Policy</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs-down t-justify">
+                            <div class="widget">
+                                <h3 class="widget-title">Contact Us</h3>
+                                <p>Drop us an
+                                    <span class="f-18 c-white w-700 font-handwriting"><a href="#" onclick="document.getElementById('emailAddress').style.display = 'block'; return false;" class="c-white">email.</a>
+                                        <span id="emailAddress" style="display: none;" class="c-white text-sm w-100">support@cordra.org</span>
+                                    </span>
+                                </p>
+                                <p>Join us on <a href="https://hdl.handle.net/20.5000/cordra-slack" target="_blank"><img width="100px" height="100px" src="/assets/img/slack_white.png" alt="Slack" class="m-l--10" /></a><span
+                                          class="f-18 c-white w-700 font-handwriting m-l--10">.</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="footer-bottom">
+                    <div class="container-large">
+                        <div class="row">
+                            <div class="col-sm-12 t-center">
+                                <p class="copyright">Copyright&copy; 2025. Corporation for National Research Initiatives. Cordra&reg; is a trademark of Corporation for National Research Initiatives.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- END FOOTER -->
+
+        </div>
+
+        <a href="#" class="scrollup">
+            <i class="nc-icon-outline arrows-1_minimal-up"></i>
+        </a>
+
+        <script src="/assets/js/libs/jquery/dist/jquery.min.js"></script>
+        <script src="/assets/js/libs/jquery-ui/jquery-ui.min.js"></script>
+        <script src="/assets/js/libs/gsap/src/minified/TweenMax.min.js"></script>
+        <script src="/assets/js/libs/gsap/src/minified/plugins/ScrollToPlugin.min.js"></script>
+        <script src="/assets/js/libs/tether/dist/js/tether.min.js"></script>
+        <script src="/assets/js/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="/assets/js/libs/appear/jquery.appear.js"></script>
+        <script src="/assets/js/libs/skrollr/dist/skrollr.min.js"></script>
+        <script src="/assets/js/navigation.js"></script>
+        <script src="/assets/js/main.js"></script>
+        
+
+    </body>
+
+</html>
+ title 6 Cordra contentType 9 text/html url 27 https://www.cordra.org:443/ responseCode 3 200 

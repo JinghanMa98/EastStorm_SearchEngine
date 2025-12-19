@@ -1,0 +1,676 @@
+bkvmqebibmecfmagpiocqqcqdkamcameoavqkclq page 45700 <!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Technology for Cricket</title>
+
+<meta name="Description" content="Cricket Technology articles and information - using technological changes to the game that will impact cricket players and spectators" />
+<!-- #BeginLibraryItem "/add-head-tags.php" -->
+<link rel="icon" href="/favicon.ico">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PLHR2G');
+</script>
+<!-- End Google Tag Manager -->
+<link rel="canonical" href="https://www.topendsports.com/sport/cricket/technology.htm">
+<link rel="preload" href="/fonts/montserrat-400-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/images/header-bg.webp" as="image">
+<script type="speculationrules">
+  {
+    "prerender": [
+      {
+        "where": {
+          "and": [
+            { "href_matches": "/*" }
+          ]
+        }
+      }
+    ]
+  }
+</script>
+<meta property="og:title" content="Topend Sports | Sports Science, Fitness Testing &amp; Event Analysis" />
+<meta property="og:description" content="Topend Sports provides you with various resources and information about sports, fitness, nutrition and science since 1997." />
+<meta property="og:image" content="https://www.topendsports.com/images/topendsports-og.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.topendsports.com/sport/cricket/technology.htm" />
+<meta property="og:site_name" content="Topend Sports" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Topend Sports | Sports Science, Fitness Testing &amp; Event Analysis" />
+<meta name="twitter:description" content="Topend Sports provides you with various resources and information about sports, fitness, nutrition and science since 1997." />
+<meta name="twitter:image" content="https://www.topendsports.com/images/topendsports-og.png" />
+<meta name="twitter:site" content="@topendsports" />
+<meta name="twitter:creator" content="@topendsports" />
+<!-- #EndLibraryItem -->
+
+<link href="../../style.css" rel="stylesheet" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8ENDVN0S6S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8ENDVN0S6S');
+</script>
+
+<script>
+var author = "Robert Wood";
+var published = "August 2009";
+var url = location.href.split(location.search||location.hash||/[?#]/)[0];
+var today = new Date().toLocaleDateString(); 
+</script>
+
+<script data-cfasync="false" nonce="a9370d5f-6297-4ac3-87ae-082a8c34f969">try{(function(w,d){!function(j,k,l,m){if(j.zaraz)console.error("zaraz is loaded twice");else{j[l]=j[l]||{};j[l].executed=[];j.zaraz={deferred:[],listeners:[]};j.zaraz._v="5874";j.zaraz._n="a9370d5f-6297-4ac3-87ae-082a8c34f969";j.zaraz.q=[];j.zaraz._f=function(n){return async function(){var o=Array.prototype.slice.call(arguments);j.zaraz.q.push({m:n,a:o})}};for(const p of["track","set","debug"])j.zaraz[p]=j.zaraz._f(p);j.zaraz.init=()=>{var q=k.getElementsByTagName(m)[0],r=k.createElement(m),s=k.getElementsByTagName("title")[0];s&&(j[l].t=k.getElementsByTagName("title")[0].text);j[l].x=Math.random();j[l].w=j.screen.width;j[l].h=j.screen.height;j[l].j=j.innerHeight;j[l].e=j.innerWidth;j[l].l=j.location.href;j[l].r=k.referrer;j[l].k=j.screen.colorDepth;j[l].n=k.characterSet;j[l].o=(new Date).getTimezoneOffset();if(j.dataLayer)for(const t of Object.entries(Object.entries(dataLayer).reduce((u,v)=>({...u[1],...v[1]}),{})))zaraz.set(t[0],t[1],{scope:"page"});j[l].q=[];for(;j.zaraz.q.length;){const w=j.zaraz.q.shift();j[l].q.push(w)}r.defer=!0;for(const x of[localStorage,sessionStorage])Object.keys(x||{}).filter(z=>z.startsWith("_zaraz_")).forEach(y=>{try{j[l]["z_"+y.slice(7)]=JSON.parse(x.getItem(y))}catch{j[l]["z_"+y.slice(7)]=x.getItem(y)}});r.referrerPolicy="origin";r.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(j[l])));q.parentNode.insertBefore(r,q)};["complete","interactive"].includes(k.readyState)?zaraz.init():j.addEventListener("DOMContentLoaded",zaraz.init)}}(w,d,"zarazData","script");window.zaraz._p=async d$=>new Promise(ea=>{if(d$){d$.e&&d$.e.forEach(eb=>{try{const ec=d.querySelector("script[nonce]"),ed=ec?.nonce||ec?.getAttribute("nonce"),ee=d.createElement("script");ed&&(ee.nonce=ed);ee.innerHTML=eb;ee.onload=()=>{d.head.removeChild(ee)};d.head.appendChild(ee)}catch(ef){console.error(`Error executing script: ${eb}\n`,ef)}});Promise.allSettled((d$.f||[]).map(eg=>fetch(eg[0],eg[1])))}ea()});zaraz._p({"e":["(function(w,d){})(window,document)"]});})(window,document)}catch(e){throw fetch("/cdn-cgi/zaraz/t"),e;};</script></head>
+<body><!-- #BeginLibraryItem "/Library/all-header.lbi" --> <!-- HEADER GLOBAL -->
+<header class="site-header header-bg">
+  <button class="menu-toggle" aria-label="Open menu"></button>
+  <a href="/index.htm" class="site-logo">
+    <picture>
+      <source srcset="/images/tes-logo.webp" type="image/webp">
+      <img src="/images/tes-logo.png" alt="TopendSports: sports, science, health, fitness and nutrition" width="188" height="46" fetchpriority="high" loading="eager" decoding="async">
+    </picture>
+  </a>
+  <button class="menu-search" aria-label="Search"></button>
+</header>
+
+<!-- NAV (panel mobile + barre desktop) -->
+<nav class="nav-main" aria-label="Main navigation">
+  <div class="nav-panel-header header-bg">
+    <button class="menu-close" aria-label="Close menu"></button>
+    <a href="/index.htm" class="nav-logo">
+      <img src="/images/tes-logo.png" alt="TopendSports" width="188" height="46">
+    </a>
+  </div>
+  <div class="nav-container">
+  <ul class="nav-list">
+    <li class="nav-item"><a href="/sport/index.htm" class="nav-link">Sports</a></li>
+    <li class="nav-item"><a href="/events/index.htm" class="nav-link">Events</a></li>
+    <li class="nav-item"><a href="/testing/index.htm" class="nav-link">Fitness Testing</a></li>
+    <li class="nav-item"><a href="/calculators/index.htm" class="nav-link">Calculators</a></li>
+    <li class="nav-item"><a href="/world/index.htm" class="nav-link">World of Sport</a></li>
+    <li class="nav-item"><a href="/fitness/index.htm" class="nav-link">Fitness</a></li>
+    <li class="nav-item"><a href="/resources/index.htm" class="nav-link">Resources</a></li>
+
+    <li class="nav-item custom-search-container" role="search">
+      <div class="custom-search-wrapper">
+        <input type="text" class="custom-search-input" placeholder="Search" autocomplete="off">
+        <button class="custom-search-icon search-icon" type="button" aria-label="Search">
+            <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="7" cy="7" r="4.5" stroke="#3E3E3E"/>
+                <path d="M10 10L14 14" stroke="#3E3E3E"/>
+            </svg>
+        </button>
+        <button class="custom-search-icon clear-icon" type="button" aria-label="Clear search" style="display: none;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14.0278 13.3152L13.6743 13.6687L13.3198 14.0212L1.97607 2.65991L2.68311 1.95288L14.0278 13.3152Z" fill="#3E3E3E"/>
+                <path d="M1.97314 13.3142L2.32666 13.6687L2.6792 14.0222L14.0522 2.66187L13.3452 1.95483L1.97314 13.3142Z" fill="#3E3E3E"/>
+            </svg>
+        </button>
+      </div>
+      <div class="hidden-google-search" style="display: none;">
+        <script src="https://cse.google.com/cse.js?cx=partner-pub-2714899191075238:2538253498" async=""></script>
+        <div class="gcse-searchbox-only"></div>
+      </div>
+    </li>
+  </ul>
+  </div>
+</nav>
+<div class="nav-backdrop" aria-hidden="true"></div>
+<div class="mobile-search-overlay" aria-hidden="true">
+    <div class="mobile-search-backdrop"></div>
+
+    <div class="mobile-search-card">
+        <div class="custom-search-container custom-search-container--mobile">
+            <div class="custom-search-wrapper">
+                <input
+                        type="text"
+                        class="custom-search-input"
+                        placeholder="Search"
+                        autocomplete="off"
+                >
+                <button class="custom-search-icon search-icon" type="button" aria-label="Search">
+                    <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="7" cy="7" r="4.5" stroke="#3E3E3E"/>
+                        <path d="M10 10L14 14" stroke="#3E3E3E"/>
+                    </svg>
+                </button>
+                <button class="custom-search-icon clear-icon" type="button" aria-label="Clear search" style="display:none;">
+                       <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M14.0278 13.3152L13.6743 13.6687L13.3198 14.0212L1.97607 2.65991L2.68311 1.95288L14.0278 13.3152Z" fill="#3E3E3E"/>
+                           <path d="M1.97314 13.3142L2.32666 13.6687L2.6792 14.0222L14.0522 2.66187L13.3452 1.95483L1.97314 13.3142Z" fill="#3E3E3E"/>
+                       </svg>
+                </button>
+            </div>
+            <!-- suggestions injected here -->
+        </div>
+    </div>
+</div>
+
+<script>
+    (() => {
+        const body     = document.body;
+        const navMain  = document.querySelector('.nav-main');
+        const btnOpen  = document.querySelector('.menu-toggle');
+        const btnClose = document.querySelector('.menu-close');
+        const backdrop = document.querySelector('.nav-backdrop');
+
+        if (btnOpen) btnOpen.addEventListener('click', () => { closeMobileSearch(); body.classList.add('nav-open'); });
+        if (btnClose) btnClose.addEventListener('click', () => body.classList.remove('nav-open'));
+        if (backdrop) backdrop.addEventListener('click', () => body.classList.remove('nav-open'));
+
+        if (navMain) {
+            navMain.addEventListener('click', (e) => {
+                const toggle = e.target.closest('.nav-toggle-sub');
+                if (!toggle) return;
+
+                e.preventDefault();
+                const item = toggle.closest('.nav-item.has-sub');
+                if (!item || !item.parentElement) return;
+
+                const parentList = item.parentElement;
+                const isOpen = item.classList.contains('open');
+
+                parentList.querySelectorAll('.nav-item.has-sub.open').forEach(other => {
+                    if (other !== item) other.classList.remove('open');
+                });
+
+                item.classList.toggle('open', !isOpen);
+            });
+
+            navMain.addEventListener('mouseleave', () => {
+                if (window.innerWidth >= 1025) {
+                    navMain.querySelectorAll('.nav-item.has-sub.open')
+                        .forEach(item => item.classList.remove('open'));
+                }
+            });
+        }
+
+        document.addEventListener('click', (e) => {
+            if (window.innerWidth >= 1025 && navMain && !navMain.contains(e.target)) {
+                navMain.querySelectorAll('.nav-item.has-sub.open')
+                    .forEach(item => item.classList.remove('open'));
+            }
+        });
+
+        // SEARCH
+        const cache = new Map();
+        let abortController = null;
+
+        function debounce(func, wait) {
+            let timeout;
+            return function(...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func.apply(this, args), wait);
+            };
+        }
+
+        async function fetchSuggestions(query) {
+            if (cache.has(query)) return cache.get(query);
+            if (abortController) abortController.abort();
+
+            abortController = new AbortController();
+            try {
+                const response = await fetch(
+                    `/api/search/autocomplete.php?q=${encodeURIComponent(query)}&limit=4`,
+                    { signal: abortController.signal }
+                );
+
+                if (!response.ok) {
+                    console.warn('API error:', response.status);
+                    return [];
+                }
+
+                const results = await response.json();
+
+                if (cache.size > 50) {
+                    const firstKey = cache.keys().next().value;
+                    cache.delete(firstKey);
+                }
+                cache.set(query, results);
+                return results;
+            } catch (error) {
+                if (error.name === 'AbortError') return [];
+                console.error('Fetch error:', error);
+                return [];
+            }
+        }
+
+        function setupSearch(container) {
+            const input = container.querySelector('.custom-search-input');
+            const searchIcon = container.querySelector('.search-icon');
+            const clearIcon = container.querySelector('.clear-icon');
+            if (!input || !searchIcon || !clearIcon) return;
+
+            const suggestionsEl = document.createElement('div');
+            suggestionsEl.className = 'search-suggestions';
+            container.appendChild(suggestionsEl);
+
+            function updateIcons() {
+                const hasValue = input.value.trim().length > 0;
+                const isFocused = document.activeElement === input;
+                searchIcon.style.display = (hasValue || isFocused) ? 'none' : 'flex';
+                clearIcon.style.display = hasValue ? 'flex' : 'none';
+            }
+
+            function hideSuggestions() {
+                suggestionsEl.classList.remove('show');
+                suggestionsEl.innerHTML = '';
+            }
+
+            function escapeRegExp(str) {
+                return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            }
+
+            function showSuggestions(list, query) {
+                if (!list.length) {
+                    hideSuggestions();
+                    return;
+                }
+
+                const q = escapeRegExp(query);
+                const reg = new RegExp(`(${q})`, 'gi');
+
+                suggestionsEl.innerHTML = list.map((item, i) => `
+                    <div class="search-suggestion-item" data-index="${i}">
+                      <div class="search-suggestion-icon"></div>
+                      <div class="search-suggestion-text">
+                        ${item.replace(reg, '$1')}
+                      </div>
+                      <div class="search-suggestion-arrow"></div>
+                    </div>
+                `).join('');
+
+                suggestionsEl.querySelectorAll('.search-suggestion-item').forEach(el => {
+                    el.addEventListener('click', () => {
+                        const value = list[el.dataset.index];
+                        input.value = value;
+                        updateIcons();
+                        hideSuggestions();
+                        runSearch(value);
+                    });
+                });
+
+                suggestionsEl.classList.add('show');
+            }
+
+            const debouncedFetch = debounce(async (query) => {
+                if (input.value.trim().toLowerCase() !== query) return;
+                const suggestions = await fetchSuggestions(query);
+                if (input.value.trim().toLowerCase() !== query) return;
+                showSuggestions(suggestions, query);
+            }, 50);
+
+            input.addEventListener('input', (e) => {
+                const q = e.target.value.trim().toLowerCase();
+                updateIcons();
+
+                if (!q || q.length < 1) {
+                    hideSuggestions();
+                    if (abortController) abortController.abort();
+                    return;
+                }
+
+                debouncedFetch(q);
+            });
+
+            input.addEventListener('focus', updateIcons);
+            input.addEventListener('blur', updateIcons);
+
+            input.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    e.preventDefault();
+                    const q = input.value.trim();
+                    if (q) {
+                        hideSuggestions();
+                        runSearch(q);
+                    }
+                }
+            });
+
+            searchIcon.addEventListener('click', () => {
+                const q = input.value.trim();
+                if (q) {
+                    hideSuggestions();
+                    runSearch(q);
+                }
+            });
+
+            clearIcon.addEventListener('click', () => {
+                input.value = '';
+                updateIcons();
+                hideSuggestions();
+                input.focus();
+            });
+
+            document.addEventListener('click', (e) => {
+                if (!container.contains(e.target)) hideSuggestions();
+            });
+
+            updateIcons();
+        }
+
+        function runSearch(query) {
+            const wrapper = document.querySelector('.hidden-google-search');
+            if (!wrapper) return;
+
+            const hiddenInput = wrapper.querySelector('input.gsc-input');
+            if (!hiddenInput) return;
+
+            hiddenInput.value = query;
+
+            const searchBtn = wrapper.querySelector('button.gsc-search-button-v2, button.gsc-search-button');
+            if (searchBtn) {
+                hiddenInput.dispatchEvent(new Event('input', { bubbles: true }));
+                searchBtn.click();
+            } else {
+                const form = hiddenInput.closest('form');
+                if (form) form.submit();
+            }
+        }
+
+        document.querySelectorAll('.custom-search-container').forEach(setupSearch);
+
+        function populateSearchFromURL() {
+            const q = new URLSearchParams(window.location.search).get('q');
+            if (!q) return;
+            document.querySelectorAll('.custom-search-input').forEach(input => {
+                input.value = q;
+                input.dispatchEvent(new Event('input', { bubbles: true }));
+            });
+        }
+
+        populateSearchFromURL();
+
+        // SEARCH MOBILE
+        const mobileSearchOverlay  = document.querySelector('.mobile-search-overlay');
+        const mobileSearchToggle   = document.querySelector('.menu-search');
+        const mobileSearchBackdrop = mobileSearchOverlay
+            ? mobileSearchOverlay.querySelector('.mobile-search-backdrop')
+            : null;
+
+        function openMobileSearch() {
+            if (!mobileSearchOverlay) return;
+            body.classList.add('mobile-search-open');
+            mobileSearchOverlay.setAttribute('aria-hidden', 'false');
+
+            const input = mobileSearchOverlay.querySelector('.custom-search-input');
+            if (input) {
+                input.focus();
+                input.select();
+            }
+        }
+
+        function closeMobileSearch() {
+            if (!mobileSearchOverlay) return;
+            body.classList.remove('mobile-search-open');
+            mobileSearchOverlay.setAttribute('aria-hidden', 'true');
+        }
+
+        if (mobileSearchToggle && mobileSearchOverlay) {
+            mobileSearchToggle.addEventListener('click', () => {
+                if (body.classList.contains('mobile-search-open')) {
+                    closeMobileSearch();
+                } else {
+                    body.classList.remove('nav-open');
+                    openMobileSearch();
+                }
+            });
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && body.classList.contains('mobile-search-open')) {
+                closeMobileSearch();
+            }
+        });
+    })();
+</script>
+
+<!-- #BeginInLibrary "GeoBanner" -->
+
+       <div class="banner-container">
+          <style data-styled="true" data-styled-version="6.1.15">.dDpoWS{container-type:inline-size;container-name:widget;}/*!sc*/
+data-styled.g291[id="sc-eVKXxW"]{content:"dDpoWS,"}/*!sc*/
+.CGvEa{position:relative;display:flex;justify-content:center;align-items:center;left:50%;width:100vw;max-width:100vw;padding:0;margin:20px 0 20px -50vw;text-decoration:none;color:inherit;cursor:pointer;}/*!sc*/
+@container (min-width: 501px){.CGvEa{width:100%;max-width:100%;left:0;margin:20px 0;}}/*!sc*/
+@container (min-width: 899px){.CGvEa{margin:30px 0!important;}}/*!sc*/
+data-styled.g292[id="sc-gbGwTR"]{content:"CGvEa,"}/*!sc*/
+.kElLbt{position:relative;left:2px;width:calc(100% + 4px);max-width:calc(100% + 4px);height:auto;margin:0!important;padding:0!important;display:block!important;float:none!important;}/*!sc*/
+@container (min-width: 501px){.kElLbt{left:0;border-radius:5px;width:100%;max-width:100%;}}/*!sc*/
+data-styled.g293[id="sc-dflMnQ"]{content:"kElLbt,"}/*!sc*/
+</style><p style="display:none"> dcKey <!-- -->cd5f67344a5df7a390caa3f47062942d</p><div id="id7f949036-839f-4a88-b199-d9084d2108a2" class="sc-eVKXxW dDpoWS umbrella-widget umbrella-widget--geobanner" data-nosnippet="true"><a href="/go/keto-glow-nutra/?wid=id7f949036-839f-4a88-b199-d9084d2108a2" target="_blank" rel="nofollow" id="tes-diet-product-banners-20251126" class="sc-gbGwTR CGvEa"><img src="/content/cms-images/253afff7a9939af05ccef91c2257779e84f1f2f6-1400x350.webp" loading="eager" fetchpriority="high" class="sc-dflMnQ kElLbt"/></a></div>
+       </div>
+    <!-- #EndInLibrary -->
+ <!-- #EndLibraryItem --><div id="container">
+  <div id="content">
+<!-- #BeginLibraryItem "/Library/header-widget.lbi" -->  <!-- #EndLibraryItem -->
+<p class="breadcrumbs"><a href="/index.htm">Home</a> &gt; <a href="../index.htm">Sports</a> &gt; <a href="../list/index.htm">List</a> &gt; <a href="index.htm">Cricket</a> &gt; <a href="equipment.htm">Equipment</a> &gt; Technology</p>
+ <div id="headline" > 
+ <h1>Cricket Technology </h1></div>
+      
+  <p>Cricket is a very traditional sport, and changes to the rules and playing conditions are not taken lightly. Sports have varied in their take up of  modern technology. Fortunately, cricket has not ignored the possibilities of using technology to aid the game, for  the players, umpires and specatators. </p>
+  <p>Over the years cricket has incorporated into the game a few of the latest technological advances available, such as decision reviews for catches, LBW, no balls and run-outs. There have also been some rejections of technology, such as the use of aluminum cricket bats, but generally the ICC has been rightly cautious about making changes to the game that will impact the players and spectators.</p>
+
+
+
+<p>Here are discussions about a few of the technological innovations that are in cricket or are being discussed  to be included.</p>
+  <h2>Third Umpire</h2>
+  <p>In international cricket, the third umpire has been used to supplement the role of the two umpires on the ground. The third umpire is equally qualified, and sits off the ground with access to TV replays of certain situations (such as disputed catches and boundaries) to advise the central umpires. The umpires out on the field are in communication via wireless technology with the other umpire. The third umpire is also asked to adjudicate on run out decisions, which he uses video replay and makes a decision without consultation with the two central umpires.</p>
+  <h2><img src="images/2020tvimage.jpg" alt="cricket on tv" width="307" height="230"  />Decision Review System (DRS)</h2>
+  <p>Cricket has joined some other world sports and has included  an  umpire referral system in some international matches. Such a system was first trialled in 2008 (in a Test series  between Sri Lanka and India). Unlike in tennis where the challenge and  referral decision is clear cut using hawke-eye technology, the cricket  referral is adjudicated by the third umpire, and is open to further  errors. The actual way it works may change and develop, but when it was  first brought in this is how it worked.</p>
+  <blockquote>
+    <p>Players are allowed to challenge decisions made by the on-field  umpires, and have them referred to the TV official. For each innings of  the Test, each team can challenge any decisions, though they will be  limited to three unsuccessful challenges per innings. Only the batsman  on the receiving end of the umpire’s original decision or the captain  of the fielding side can appeal by making a “T” sign with both forearms  at shoulder height. The third umpire uses the technology of the hot  spot and slow-motion replays at different angles to gain information  and make decisions.</p>
+  </blockquote>
+<p>It all sounds great for the players and viewers at home, but the  pressure is on the umpires. In reality, the process often takes too long and  can distract from the game. When the teams have challenges remaining near the end  of an innings, players tend to make frivolous challenges on the off-chance of getting a decision overturned. So there are still problems  that need to be ironed out, but the referral system is a great step forward for cricket.</p>
+  <h2>TV Technology</h2>
+  <ul>
+    <li><a href="equipment-hawkeye.htm">Hawkeye</a> &#8212;  A computer system first used in 2001 for showing the path of a cricket ball. It is commonly used and an indispensable   tool for cricket commentators around the world to confirm the  decisions of the umpires. It is used as part of the DRS for adjudicating LBW decisions. Read <a href="equipment-hawkeye.htm">more</a>.</li>
+    <li><a href="equipment-snicko-meter.htm">Snick-o-Meter</a> &#8212; a very sensitive microphone located in one of the stumps, which can pick up the sound when the ball nicks the bat. This technology is only used to give  television audiences more information and to show if the ball did or did not  hit the bat. Unfortunately at this stage, the umpires do not get the benefit of hearing 'snicko', though a Real-time Snickometer is being developed to supplement Hot Spot technology. Read <a href="equipment-snicko-meter.htm">more</a>.<img src="images/rpm.jpg" width="300" height="244" alt="rpm sky sports" /></li>
+    <li><strong>Ball Spin RPM</strong> - Starting during the TV coverage by Sky sports for the 2013 Ashes series, they were able to show an RPM (revolutions per minute) counter, showing how  fast the ball was spinning after release. It is not clear how this is measured, though it would need a high-speed camera focused on the ball, possibly using the same images that are captured for the Hawkeye system.</li>
+    <li><strong>Hot Spot</strong> - the hot spot technology is mostly used to review whether the bat has hit the ball, particularly when there is a small nick. If there is contact, the small amount of heat generated is indicated by a change to that area of the bat. Hot Spot uses two infra-red cameras positioned at either end of the ground. These cameras sense and measure heat from friction generated by a collision, such as ball on pad, ball on bat, ball on ground or ball on glove. Using a subtraction technique, a series of black-and-white negative frames is generated into a computer, precisely localizing the ball's point of contact. Following some controversy after the 2012 UK Ashes series, there is doubt over the accuracy of Hot Spot.</li>
+    <li><strong>Front-foot Technology</strong> - the third umpire  monitors the landing foot of bowlers after each ball and communicates to their on-field counterparts whether it was a legal delivery. They were previously doing this after each wicket, but the technology is now quick enough and accurate enough to do it for every ball.</li>
+  </ul>
+  <h2>New Technology</h2>
+  <p>Cricket is a sport steeped in tradition. Making changes to the rules that have been in place for a long time is not taken lightly. In addition to the uses of technology that are discussed above, here are a couple more ideas</p>
+  <ul>
+    <li><strong>Immediate No Ball Calls</strong>  - give the umpires  immediate feedback about whether a front foot no ball has been made. It would be simple to include  some technology that gives the umpire a beeping sound if the bowler crosses the popping crease, like in tennis for let or fault calls. This will mean that the umpire does not need to be distracted and looking down as the bowler delivers the ball, and can focus on what the batsman and fielders are doing.</li>
+    <li><strong>No Balls</strong> for chucking - It is difficult to monitor each bowling delivery during a match for bent arm throwing, but new technology is being developed that could possibly be used for such a thing. Previously, any player reported for an illegal bowling action had to undertake 3D biomechanical analysis of their action in a laboratory. New technology using inertial sensors is being developed that could possibly be used to test a bowling action during matches to see if they are bending their arm too much during the bowling delivery. Inertial sensors use similar technology to that used  in mobile phones. These sensors  will be light, cost-effective and wearable on the bowler’s arm and most importantly will not hinder bowling performance while still allowing information about the bowling action to be assessed in near real-time in both match and training environments.</li>
+    </ul>
+  <h2>Other Technology and Rule Change Ideas</h2>
+  <ul>
+    <li>Helmet       cams</li>
+    <li>Use       of lasers to compliment run out decisions.</li>
+    <li>Use       of sensors in bails and in the boundary rope to determine if the batsman       is out OR hit a 4.</li>
+    <li>Use       of a stump camera to determine close catching decisions.</li>
+    <li>Use of       yellow &amp; red cards to suspend players from the game for repeatedly       flouting rules.</li>
+    <li>Use       of technology to give the distance the ball carried (e.g. how far a 6 is hit)</li>
+    <li>Use       of biodegradable paint to color the infield and outfield.</li>
+  </ul><!-- #BeginLibraryItem "/Library/all-sharing.lbi" -->  <!-- #EndLibraryItem --><h2>Related Pages</h2>
+  <ul>
+    <li><a href="equipment-hawkeye.htm">Hawk-Eye Technology for Cricket</a></li>
+    <li><a href="equipment-snicko-meter.htm">Snick-o-Meter in Cricket</a></li>
+    <li><a href="../tennis/hawkeye.htm">Hawk-Eye Technology for Tennis</a></li>
+  </ul><!-- #BeginLibraryItem "/Library/comments.lbi" -->  <script src="/randomstuff.js?v=1.2.1"></script>
+
+<div class="highlight">
+	<a href="/comment.htm"><img src="/images/letter-icon.png" width="35" height="36" alt="send us a comment" loading="lazy" /></a>
+		 <em>Any comments, suggestions, or corrections? <a href="/comment.htm">Please let us know</a>.</em>
+</div>  <!-- #EndLibraryItem --></div><div id="grouping"><!-- #BeginLibraryItem "/Library/all-search.lbi" -->  <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/cricket-sidemenu.lbi" --> <div class="extra">
+  <h2>More Cricket</h2>
+  <ul>
+    <li><a href="/sport/cricket/index.htm">Cricket Home</a></li>
+    <li><a href="/sport/cricket/fitness.htm">Fitness</a></li>
+    <li><a href="/sport/cricket/testing.htm">Fitness Testing</a></li>
+    <li><a href="/sport/cricket/equipment.htm">Equipment</a></li>
+    <li><a href="/sport/cricket/technique/index.htm">Technique</a></li>
+    <li><a href="/events/cricket/index.htm">Major Events</a></li>
+    <li><a href="/athletes/cricket/index.htm">Player Profiles</a></li>
+    <li><a href="/events/calendar-cricket.htm">Cricket Calendar</a></li>
+  </ul>
+</div> <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/sport-sidemenu.lbi" --> <div class="extra">
+  <h2>Sport Extra</h2>
+  <p>Check out the 800+ sports in the <a href="/sport/encyclopedia.htm">Encyclopedia of Every Sport</a>. Well not every sport, as there is a list of <a href="/sport/unusual/index.htm">unusual sports</a>, <a href="/sport/extinct/index.htm">extinct sports</a> and <a href="/sport/new/index.htm">newly created sports</a>. How to get on these lists? See <a href="/sport/what-is-a-sport.htm">What is a sport?</a> We also have sports <a href="/resources/lists.htm">winners lists</a>, and about <a href="/events/index.htm">major sports events</a> and a <a href="/world/timeline/index.htm">summary of  every year</a>. </p>
+</div>
+ <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/all-sidebar.lbi" --> <section class="disclosure-box" aria-labelledby="disclosure-title" style="margin-bottom: 15px;"><header class="disclosure-header"><svg class="disclosure-icon" aria-hidden="true" width="20" height="25" viewBox="0 0 20 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M10 2.5C15.5228 2.5 20 6.97715 20 12.5C20 18.0228 15.5228 22.5 10 22.5C4.47715 22.5 0 18.0228 0 12.5C0 6.97715 4.47715 2.5 10 2.5ZM9.98926 10.0371C9.59989 10.0372 9.28405 10.1734 9.04199 10.4365C8.79991 10.6997 8.67385 11.0997 8.67383 11.626V15.8896C8.67389 16.4051 8.80011 16.8047 9.04199 17.0889C9.28405 17.373 9.59988 17.5107 9.98926 17.5107C10.3787 17.5107 10.7054 17.3733 10.958 17.0996C11.2105 16.826 11.3369 16.4262 11.3369 15.8896V11.5527C11.3369 11.0791 11.2106 10.6997 10.958 10.4365C10.7054 10.1734 10.3787 10.0371 9.98926 10.0371ZM10.0107 6.18359C9.65285 6.18359 9.34693 6.31063 9.07324 6.55273C8.79982 6.80529 8.66309 7.1105 8.66309 7.48926C8.66309 7.91031 8.80032 8.22643 9.06348 8.45801C9.32657 8.67887 9.64248 8.79492 10.0107 8.79492C10.3684 8.79488 10.6735 8.67866 10.9365 8.44727C11.1997 8.21569 11.3262 7.91031 11.3262 7.48926C11.3262 7.06826 11.1899 6.74156 10.9268 6.52051C10.6637 6.2995 10.3685 6.18364 10.0107 6.18359Z" fill="currentColor"></path>
+    </svg>
+<h3 class="disclosure-title" id="disclosure-title">Advertisement Disclosure</h3>
+</header>
+<div class="disclosure-content">
+<p><a href="/index.htm">Topendsports.com</a> features links to partner sportsbooks. If you click on these affiliate links and create an account or deposit funds, we may receive a commission at no extra cost to you. While partnerships may affect which brands are featured or their position in some lists, all reviews and ratings are based on independent analysis and remain entirely unbiased.</p>
+</div>
+</section>
+<div class="extra">
+<h2>Latest Pages</h2>
+<ul>
+<li><a href="/events/motorsports/daytona-500/winners-list.htm">Daytona 500 Winners</a></li>
+<li><a href="/sport/gridiron/heisman-trophy-winners-list.htm">Heisman Trophy Winners</a></li>
+<li><a href="/sport/weight-lifting/mr-olympia-winners-list.htm">Mr. Olympia Winners</a></li>
+<li><a href="/sport/anthropometry.htm">Height &amp; Weight by Sport</a></li>
+<li><a href="/head2head/vo2max-sports-comparison.htm">VO2 Max by Sport</a></li>
+</ul>
+<h2>Popular Calculators</h2>
+<ul>
+<li><a href="/testing/calculators/kg-lbs.htm">Kg to Lbs Converter</a></li>
+<li><a href="/testing/calculators/cm-feet-inches.htm">Height Converter</a></li>
+<li><a href="/testing/calculators/speeds.htm">Speed &amp; Pace Calculator</a></li>
+<li><a href="/testing/calculators/1repmax.htm">1 Rep Max Calculator</a></li>
+<li><a href="/nutrition/calculators/bmi-metric.htm">BMI Calculator</a></li>
+</ul>
+<h2>Popular Pages</h2>
+<ul>
+<li><a href="/sport/soccer/list-player-of-the-year-ballondor.htm">Ballon d'Or Winners</a></li>
+<li><a href="/events/worldcupsoccer/winners.htm">World Cup Winners</a></li>
+<li><a href="/events/super-bowl/winners-list.htm">Super Bowl Winners</a></li>
+<li><a href="/events/soccer/fa-cup/winners.htm">FA Cup Winners</a></li>
+</ul>
+<h2>Current Season</h2>
+<ul>
+<li><a href="/events/nfl-season-2025.htm">NFL Season Schedule</a></li>
+<li><a href="/sport/gridiron/nfl/betting.htm">NFL Betting Guide</a></li>
+<li><a href="/events/calendar-2025.htm">2025 Events Calendar</a></li>
+</ul>
+<h2>Sports Betting</h2>
+<ul>
+<li><a href="/sport/betting/index.htm">Best Sports Betting Sites</a></li>
+<li><a href="/sport/betting/best-apps.htm">Top Betting Apps</a></li>
+<li><a href="/sport/betting/best-bonuses.htm">Sportsbook Promos</a></li>
+<li><a href="/sport/betting/best-prop-betting-sites.htm">Prop Betting Sites</a></li>
+<li><a href="/sport/betting/best-sgp-sites.htm">Same Game Parlay Sites</a></li>
+<li><a href="/sport/betting/best-parlay-betting-sites-and-apps.htm">Parlay Betting Sites &amp; Apps</a></li>
+<li><a href="/sport/betting/best-live-betting-sites.htm">Live Betting Sites</a></li>
+<li><a href="/sport/betting/paypal-betting-sites.htm">PayPal Betting Sites</a></li>
+<li><a href="/sport/betting/new-betting-sites.htm">New Betting Sites</a></li>
+<li><a href="/sport/betting/soccer/index.htm">Soccer Betting Sites &amp; Apps</a></li>
+<li><a href="/sport/betting/soccer/world-cup-2026.htm">World Cup Betting Sites, Apps &amp; Offers</a></li>
+<li><a href="/sport/betting/compare-sportsbooks.htm">Sportsbook Comparison</a></li>
+<li><a href="/sport/betting/sportsbook-reviews/index.htm">Sportsbook Reviews</a></li>
+</ul>
+</div> <!-- #EndLibraryItem --></div><!--end of grouping-->
+<div class="clearfix"></div>
+</div><!--end of container--><!-- #BeginLibraryItem "/Library/all-citation.lbi" --> <div id="citation">
+  <p> <script> 
+var md = new Date()	
+var months = new Array ("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write(" <strong>CITE THIS PAGE:</strong> "+ author + ", &quot;" + document.title + ".&quot; Topend Sports Website, first published "+ published + ", "+ url + ", Accessed " + md.getDate()+" " + months[md.getMonth()]	+ " " + md.getFullYear());
+</script> 
+ &nbsp;&#8594; <a href="/citations.htm">How to Cite</a> </p>
+</div>  <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/all-footer.lbi" --> <div id="footer">
+    <div class="footer-container">
+        <div class="footer-header">
+            <div class="footer-logo">
+                 <a href="/index.htm">
+                    <picture>
+                        <source srcset="/images/tes-logo.svg" type="image/webp" />
+                        <img src="/images/tes-logo.svg" alt="Topend Sports" width="350" height="86" fetchpriority="high" loading="lazy" decoding="async">
+                    </picture>
+                 </a>
+            </div>
+            <style data-styled="true" data-styled-version="6.1.15">.ekJdHn{container-type:inline-size;max-width:100%!important;width:100%;}/*!sc*/
+.ekJdHn p{font-weight:400;color:#FFFFFF;font-size:14px;padding:20px 0 50px 0;margin:0!important;text-align:Left!important;}/*!sc*/
+@container (min-width: 430px){.ekJdHn p{padding:20px 0;}}/*!sc*/
+.ekJdHn p a{font-weight:400;color:#FFFFFF;font-size:14px;text-decoration:none;cursor:pointer;}/*!sc*/
+.ekJdHn p a:hover{text-decoration:underline;}/*!sc*/
+data-styled.g265[id="sc-dRRvfZ"]{content:"ekJdHn,"}/*!sc*/
+.eiAkUb{container-type:inline-size;display:flex;width:100%;flex-direction:column;align-items:center;background:transparent;flex-wrap:wrap;justify-content:flex-start;}/*!sc*/
+.eiAkUb #logo{margin:unset;}/*!sc*/
+@container (min-width: 678px){.eiAkUb{flex-direction:row;}}/*!sc*/
+.eiAkUb span{padding:0 0 30px 0;}/*!sc*/
+@container (min-width: 678px){.eiAkUb span{padding:0 30px 0 0;}}/*!sc*/
+data-styled.g266[id="sc-HzvkS"]{content:"eiAkUb,"}/*!sc*/
+.bCtvjz{max-height:25px;padding:0 0 30px 0;}/*!sc*/
+@container (min-width: 678px){.bCtvjz{padding:0 30px 0 0;}}/*!sc*/
+data-styled.g267[id="sc-iPzZWv"]{content:"bCtvjz,"}/*!sc*/
+.eoMToz{max-height:25px;width:auto;object-fit:contain;}/*!sc*/
+data-styled.g268[id="sc-jlvdqA"]{content:"eoMToz,"}/*!sc*/
+.gxJftR{container-type:inline-size;container-name:widget;display:block;padding:0!important;row-gap:0!important;}/*!sc*/
+data-styled.g269[id="sc-gdZYDh"]{content:"gxJftR,"}/*!sc*/
+.cTmgoS{padding:40px 30px!important;}/*!sc*/
+@container (min-width: 768px){.cTmgoS{padding:40px!important;}}/*!sc*/
+@container (min-width: 1025px){.cTmgoS{max-width:1050px;margin:0 auto;padding:49px!important;}}/*!sc*/
+data-styled.g270[id="sc-iVWIdN"]{content:"cTmgoS,"}/*!sc*/
+</style><p style="display:none"> dcKey <!-- -->2a5efcb695f34a45b2c850c426e2ab70</p><div id="ida193384b-958e-4362-87ec-8d1ddb953cdd" class="sc-gdZYDh gxJftR umbrella-widget"><div class="sc-iVWIdN cTmgoS"><div id="ida193384b-958e-4362-87ec-8d1ddb953cdd" class="sc-dRRvfZ ekJdHn disclaimer-text umbrella-widget"><p>  </p></div><div id="ida193384b-958e-4362-87ec-8d1ddb953cdd" class="sc-HzvkS eiAkUb logo-block umbrella-widget"><span><img id="logo" src="/content/cms-images/e4858a3bc35f2073b3016527548f427739c96c7a-31x30.webp" alt="21+" class="sc-jlvdqA eoMToz"/></span><a href="https://www.ncpgambling.org/help-treatment/" rel="nofollow" target="_blank" style="pointer-events:auto" class="sc-iPzZWv bCtvjz"><img id="logo" src="/content/cms-images/ac8764b57a495bf5ba6e5b6cf8b2422521af5887-113x30.webp" alt="1-800-GAMBLER" class="sc-jlvdqA eoMToz"/></a></div></div></div>
+        </div>
+        <div class="footer-links">
+            <div class="footer-box">
+                    <a href="/index.htm">Home</a>
+                    <a href="/search.htm">Search</a>
+                    <a href="/sitemap.htm">Sitemap</a>
+                    <a href="/resources/storefront.htm">Store</a>
+            </div>
+            <div class="footer-box">
+                       <a href="/comment.htm">Contact</a>
+                       <a href="/aboutrob.htm">Author Info</a>
+                       <a href="/advertising.htm">Advertising</a>
+                       <a href="/editorial-principles.htm">Editorial Principles</a>
+                       <a href="/newsletter/index.htm">Newsletter</a>
+            </div>
+            <div class="footer-box">
+                       <a href="/privacy.htm">Privacy Policy</a>
+                       <a href="/disclaimer.htm">Disclaimer</a>
+                       <a href="/copyright.htm">Copyrights</a>
+                       <a href="/terms-and-conditions.htm">Terms & Conditions</a>
+                       <a href="/responsible-gambling.htm">Responsible Gambling</a>
+            </div>
+        </div>
+        <div class="footer-social">
+            <strong>Follow us:</strong>
+            <div class='footer-social-links'>
+                <a href="https://x.com/topendsports" title="X(Twitter)">
+                    <img src="/images/icon-x.svg" width="30" height="30" alt="X(twitter) link" loading="lazy">
+                </a>
+                <a href="https://www.youtube.com/@topend-sports" title="Youtube">
+                     <img src="/images/icon-youtube.svg" width="30" height="30" alt="Youtube link" loading="lazy">
+                </a>
+                <a href="https://www.instagram.com/topendsports/" title="Instagram">
+                    <img src="/images/icon-instagram.svg" width="30" height="30" alt="Instagram link" loading="lazy">
+                </a>
+                <a href="https://www.facebook.com/topendsports" title="Facebook">
+                    <img src="/images/icon-facebook.svg" width="30" height="30" alt="Facebook link" loading="lazy">
+                </a>
+                <a href="https://www.tiktok.com/@topend.sports" title="Tiktok">
+                    <img src="/images/icon-tiktok.svg" width="30" height="30" alt="Tiktok link" loading="lazy">
+                </a>
+            </div>
+        </div>
+        <p class='footer-copyright'>
+            &copy;1997-2025 Topend Sports |
+            <script>
+                var md = new Date(document.lastModified)
+                var months = new Array("January", "February", "March", "April", "May", "June", "July",
+                    "August", "September", "October", "November", "December")
+                document.write("Page modified: " + md.getDate() + " " + months[md.getMonth()]
+                    + " " + md.getFullYear());
+            </script>
+        </p>
+    </div>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLHR2G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+ <!-- #EndLibraryItem --><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a8e230aba3241d9',t:'MTc2NDg4MTAxNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9a8e230aba3241d9","version":"2025.9.1","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"fa2f8c0ac18a4185ad1a6f7b9d67cacb","b":1}' crossorigin="anonymous"></script>
+</body></html>
+ title 22 Technology for Cricket contentType 9 text/html url 61 https://www.topendsports.com:443/sport/cricket/technology.htm responseCode 3 200 

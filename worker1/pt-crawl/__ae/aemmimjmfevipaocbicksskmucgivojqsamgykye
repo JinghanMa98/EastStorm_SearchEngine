@@ -1,0 +1,1235 @@
+aemmimjmfevipaocbicksskmucgivojqsamgykye page 93627 <!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js section-soccer format-medium tone-news app-article page-theme-standard has-comments has-large-lede" itemid="http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html" itemtype="http://schema.org/NewsArticle" itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-soccer format-medium tone-news app-article page-theme-standard has-comments has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-soccer format-medium tone-news app-article page-theme-standard has-comments has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-soccer format-medium tone-news app-article page-theme-standard has-comments has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html","20150527083026","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1432715426");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <title>FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them - NYTimes.com</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/favicon.ico"/>
+<link rel="apple-touch-icon-precomposed" sizes="144×144" href="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/icons/ios-ipad-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114×114" href="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/icons/ios-iphone-114x144.png"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png"/>
+<meta name="sourceApp" content="nyt-v5"/>
+<meta id="applicationName" name="applicationName" content="article"/>
+<meta id="foundation-build-id" name="foundation-build-id" content=""/>
+<link rel="canonical" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html"/>
+<link rel="alternate" href="https://web.archive.org/web/20150527083026/http://mobile.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html"/>
+<link rel="standout" href="http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html"/>
+<meta name="robots" content="noarchive"/>
+<meta itemprop="alternativeHeadline" name="hdl_p" content="Arrests Sweep Governing Body of Global Soccer"/>
+<meta name="channels" content="NytNow"/>
+<meta itemprop="description" name="description" content="As FIFA leaders gathered for a meeting, Swiss law enforcement officials arrived unannounced and made arrests at the Justice Department’s request on charges including racketeering and money laundering."/>
+<meta itemprop="genre" content="News"/>
+<meta itemprop="identifier" name="articleid" content="100000003705417"/>
+<meta itemprop="usageTerms" name="usageTerms" content="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html"/>
+<meta itemprop="inLanguage" content="en-US"/>
+<meta name="hdl" content="FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them"/>
+<meta name="col" content="" id="column-name"/>
+<meta name="pdate" content="20150527"/>
+<meta name="utime" content="20150527040716"/>
+<meta name="ptime" content="20150527035626"/>
+<meta name="DISPLAYDATE" content="May 27, 2015"/>
+<meta name="dat" content="May 27, 2015"/>
+<meta name="lp" content="As FIFA leaders gathered for a meeting, Swiss law enforcement officials arrived unannounced and made arrests at the Justice Department’s request on charges including racketeering and money laundering."/>
+<meta name="msapplication-starturl" content="http://www.nytimes.com"/>
+<meta name="cre" content="The New York Times"/>
+<meta name="slug" content="28soccer"/>
+<meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/sports/soccer/index.jsonp"/>
+<meta name="sectionfront_jsonp" content="http://json8.nytimes.com/services/json/sectionfronts/sports/soccer/index.jsonp"/>
+<meta property="og:url" content="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them"/>
+<meta property="og:description" content="As FIFA leaders gathered for a meeting, Swiss law enforcement officials arrived unannounced and made arrests at the Justice Department’s request on charges including racketeering and money laundering."/>
+<meta property="article:published" itemprop="datePublished" content="2015-05-27"/>
+<meta property="article:section" itemprop="articleSection" content="Soccer"/>
+<meta property="article:section-taxonomy-id" itemprop="articleSection" content="DE2B278B-2783-4506-AAD5-C15A5BB6DA1A"/>
+<meta property="article:section_url" content=""/>
+<meta property="fb:app_id" content="9869919170"/>
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:site" value="@nytimes"/>
+<meta property="twitter:url" content="http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html"/>
+<meta property="twitter:title" content="FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them"/>
+<meta property="twitter:description" content="As FIFA leaders gathered for a meeting, Swiss law enforcement officials arrived unannounced and made arrests at the Justice Department’s request on charges including racketeering and money laundering."/>
+<meta name="author" content="Matt Apuzzo, Michael S. Schmidt, William K. Rashbaum and Sam Borden"/>
+<meta name="tone" content="news" id="article-tone"/>
+<meta name="byl" content="By MATT APUZZO, MICHAEL S. SCHMIDT, WILLIAM K. RASHBAUM and SAM BORDEN"/>
+<meta name="PT" content="article"/>
+<meta name="CG" content="sports"/>
+<meta name="SCG" content="soccer"/>
+<meta name="PST" content="News"/>
+<meta name="tom" content="News"/>
+<meta name="edt" content="NewYork"/>
+<meta property="og:image" content="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-facebookJumbo-v2.jpg"/>
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/a/matt_apuzzo/index.html"/>
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/s/michael_s_schmidt/index.html"/>
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/r/william_k_rashbaum/index.html"/>
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/b/sam_borden/index.html"/>
+<meta property="article:tag" content="Soccer"/>
+<meta name="des" content="Soccer"/>
+<meta property="article:tag" content="International Federation of Association Football (FIFA)"/>
+<meta name="org" content="International Federation of Association Football (FIFA)"/>
+<meta property="article:tag" content="Blatter, Sepp"/>
+<meta name="per" content="Blatter, Sepp"/>
+<meta property="article:tag" content="Ethics and Official Misconduct"/>
+<meta name="des" content="Ethics and Official Misconduct"/>
+<meta property="article:tag" content="Corruption (Institutional)"/>
+<meta name="des" content="Corruption (Institutional)"/>
+<meta property="article:tag" content="Zurich (Switzerland)"/>
+<meta name="geo" content="Zurich (Switzerland)"/>
+<meta name="keywords" content="Soccer,International Federation of Association Football (FIFA),Blatter  Sepp,Ethics and Official Misconduct,Corruption (Institutional),Zurich (Switzerland)"/>
+<meta name="news_keywords" content="Soccer;FIFA;Sepp Blatter;Ethics Misconduct Malfeasance;Corruption;Zurich"/>
+<meta property="article:modified" itemprop="dateModified" content="2015-05-27"/>
+<meta name="thumbnail_150" content="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-thumbLarge-v2.jpg"/>
+<meta name="thumbnail_150_height" content="150"/>
+<meta name="thumbnail_150_width" content="150"/>
+<meta property="twitter:image" content="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-thumbLarge-v2.jpg"/>
+<meta itemprop="thumbnailUrl" name="thumbnail" content="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-thumbStandard-v2.jpg"/>
+<meta name="thumbnail_height" content="75"/>
+<meta name="thumbnail_width" content="75"/>
+    
+                <!--[if (gt IE 9)|!(IE)]> <!-->
+        <link rel="stylesheet" type="text/css" media="screen" href="https://web.archive.org/web/20150527083026cs_/http://a1.nyt.com/assets/article/20150520-163317/css/article/article/styles.css"/>
+    <!--<![endif]-->
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150520-163317/css/article/article/styles-ie.css" />
+    <![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="https://web.archive.org/web/20150527083026cs_/http://a1.nyt.com/assets/article/20150520-163317/css/article/article/styles-print.css"/>
+                        	<script id="ad-config-data" type="text/json">
+{"adconfig":{"ledeMediaSize":"large","adxKeywords":["article-medium","has-embedded-interactive"]}}</script>
+    <script id="display_overrides">
+            []    </script>
+
+	<script src="https://web.archive.org/web/20150527083026js_/http://a1.nyt.com/assets/article/20150520-163317/js/article/ad-loader.js"></script>
+<script id="abtestconfig" type="application/json">
+[
+    {
+        "testId": "0002",
+        "testName": "promotron",
+        "throttle": 1.0,
+        "allocation": 0.5,
+        "variants": 1
+    },
+    {
+        "testId": "0012",
+        "testName": "tallWatchingModule",
+        "throttle": 1.0,
+        "allocation": 0.9,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0033",
+        "testName": "recommendedLabelTest",
+        "throttle": 1,
+        "allocation": 0.833,
+        "variants": 5,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0034",
+        "testName": "whatsNextLdaVideo",
+        "throttle": 1.0,
+        "allocation": 0.75,
+        "variants": 3,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0035",
+        "testName": "randomMostEmailed",
+        "throttle": 1,
+        "allocation": 0.6,
+        "variants": 2,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0036",
+        "testName": "velcroSocialFollow",
+        "throttle": 0.1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article", "homepage"]
+    },
+    {
+        "testId": "0037",
+        "testName": "styledMostEmailed",
+        "throttle": 1,
+        "allocation": 0.667,
+        "variants": 2,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0038",
+        "testName": "shuffleRecommendations",
+        "throttle": 1.0,
+        "allocation": 0.667,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0046",
+        "testName": "anonymousRecommendations",
+        "throttle": 1,
+        "allocation": 1,
+        "variants": 1,
+        "applications": ["article"]
+    }
+]
+
+</script>
+
+<script>
+var require = {
+    baseUrl: 'https://web.archive.org/web/20150527083026/http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20150520-163317/js/foundation',
+        'shared': 'article/20150520-163317/js/shared',
+        'article': 'article/20150520-163317/js/article',
+        'application': 'article/20150520-163317/js/article/article',
+        'videoFactory': 'https://web.archive.org/web/20150527083026/http://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'https://web.archive.org/web/20150527083026/http://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'https://web.archive.org/web/20150527083026/http://static01.nyt.com/js/mtr',
+        'auth/growl': 'https://web.archive.org/web/20150527083026/http://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'https://web.archive.org/web/20150527083026/http://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    },
+    map: {
+        '*': {
+            'article/main': 'article/article/main'
+        }
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="https://web.archive.org/web/20150527083026js_/http://a1.nyt.com/assets/article/20150520-163317/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/article/20150520-163317/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+window.magnum.processFlags(["limitFabrikSave","criticsPickAdditionalInfo","restaurantAttributes","followFeature","whatsNextVideoIcon","restaurantReviewAdditionalDetails","restaurantReviewHideInfoBox","restaurantReviewShowRestaurantName","restaurantReviewShowGoogleMap","restaurantReviewShowNotes","restaurantReviewShowLastUpdated","velcroSocialFollow","recommendedLabelTest","videoVHSCover","allTheEmphases"]);
+</script>
+<script>
+require(['foundation/main'], function () {
+    require(['auth/mtr', 'auth/growl']);
+});
+</script>
+</head>
+<body>
+    
+    <style>
+    .lt-ie9 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie9 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie9 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie9 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie9 .messenger.suggestions .alert-icon {
+        background: url('https://web.archive.org/web/20150527083026im_/http://i1.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie9 .masthead,
+    .lt-ie9 .navigation,
+    .lt-ie9 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie9 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 8 or earlier. Please upgrade your browser.</span>
+                    <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/content/help/site/ie8-support.html" class="action-link">LEARN MORE »</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="shell" class="shell">
+    <header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+                        <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+                                    <a class="button skip-button skip-to-mobile visually-hidden focusable" href="https://web.archive.org/web/20150527083026/http://mobile.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html">View mobile version</a>
+                    </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/">
+                    <script>window.magnum.writeLogo('small', 'https://web.archive.org/web/20150527083026/http://a1.nyt.com/assets/article/20150520-163317/images/foundation/logos/', 'sports', 'masthead-theme-standard', 'standard');</script>
+                </a>
+            </h2>
+        </div><!-- close branding -->
+                <div class="story-meta">
+            <h6 class="kicker"><span class="kicker-label"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/sports/soccer/index.html">Soccer</a></span><span class="pipe">|</span>FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them</h6>
+        </div><!-- close story-meta -->        <div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div></div>
+        <div class="user-tools">
+            <div id="sharetools-masthead" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-masthead  " data-shares="email,facebook,twitter,show-all|More" data-url="https://web.archive.org/web/20150527083026oe_/http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html" data-title="FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them" data-media="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-jumbo-v2.jpg" data-description="As FIFA leaders gathered for a meeting, Swiss law enforcement officials arrived unannounced and made arrests at the Justice Department’s request on charges including racketeering and money laundering." data-publish-date="May 27, 2015">
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>            <div class="user-tools-button-group button-group">
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                <button class="button comments-button  button-masthead" data-skip-to-para-id="">
+</button>                                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <div class="ad">
+        <small class="ad-sponsor">search sponsored by</small>
+        <div id="SponsorAd" class="sponsor-ad"></div>
+    </div>
+    <nav class="search-form-control form-control layout-horizontal">
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com"/>
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+<span class="story-short-url"><a href="https://web.archive.org/web/20150527083026/http://nyti.ms/1LGiBqK">http://nyti.ms/1LGiBqK</a></span></header>
+            <nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+            <li class="collection ribbon-loader">
+                <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+</nav>
+<div class="ribbon-fixed"></div>
+        <nav id="navigation" class="navigation" role="navigation">
+</nav> <!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+</nav>
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+    <div id="page" class="page">
+        <main id="main" class="main" role="main">
+        <div id="TopAd" class="ad top-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div></div>
+
+<article id="story" class="story theme-main">
+
+        
+    <header id="story-header" class="story-header">
+        
+                <div id="story-meta" class="story-meta ">
+                            <button class="button comments-button  theme-kicker" data-skip-to-para-id="">
+</button>                                        <h3 class="kicker">
+                        <span class="kicker-label"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/sports/soccer/index.html">Soccer</a></span>                                                                </h3>
+                        	<h1 itemprop="headline" id="story-heading" class="story-heading">FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them</h1>
+                        <div id="story-meta-footer" class="story-meta-footer">
+                                
+
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person" itemid="http://topics.nytimes.com/top/reference/timestopics/people/a/matt_apuzzo/index.html">By <a href="https://web.archive.org/web/20150527083026/http://topics.nytimes.com/top/reference/timestopics/people/a/matt_apuzzo/index.html" rel="author" title="More Articles by MATT APUZZO"><span class="byline-author" data-byline-name="MATT APUZZO" itemprop="name">MATT APUZZO</span></a>, </span><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person" itemid="http://topics.nytimes.com/top/reference/timestopics/people/s/michael_s_schmidt/index.html"><a href="https://web.archive.org/web/20150527083026/http://topics.nytimes.com/top/reference/timestopics/people/s/michael_s_schmidt/index.html" rel="author" title="More Articles by MICHAEL S. SCHMIDT"><span class="byline-author" data-byline-name="MICHAEL S. SCHMIDT" itemprop="name" data-twitter-handle="MichaelSSchmidt">MICHAEL S. SCHMIDT</span></a>, </span><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person" itemid="http://topics.nytimes.com/top/reference/timestopics/people/r/william_k_rashbaum/index.html"><a href="https://web.archive.org/web/20150527083026/http://topics.nytimes.com/top/reference/timestopics/people/r/william_k_rashbaum/index.html" rel="author" title="More Articles by WILLIAM K. RASHBAUM"><span class="byline-author" data-byline-name="WILLIAM K. RASHBAUM" itemprop="name">WILLIAM K. RASHBAUM</span></a> and </span><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person" itemid="http://topics.nytimes.com/top/reference/timestopics/people/b/sam_borden/index.html"><a href="https://web.archive.org/web/20150527083026/http://topics.nytimes.com/top/reference/timestopics/people/b/sam_borden/index.html" rel="author" title="More Articles by SAM BORDEN"><span class="byline-author" data-byline-name="SAM BORDEN" itemprop="name" data-twitter-handle="SamBorden">SAM BORDEN</span></a></span><time class="dateline" datetime="2015-05-27">MAY 27, 2015</time>
+</p>                                    <div class="inside-story">
+                        <span class="menu-label">Inside</span>
+                        <ul class="inside-story-menu"></ul>
+                    </div>
+                                <div class="ad sponsortile-ad hidden nocontent robots-nocontent">
+                    <div class="caption">Supported By</div>
+                    <div id="sponsortile" class="ad sponsortile-ad-creative"></div>
+                </div>
+            </div><!-- close story-meta-footer -->
+        </div><!-- close story-meta -->
+    </header>
+
+    <div id="story-body" class="story-body">
+
+        
+        
+        <div class="lede-container">
+            <figure id="media-100000003705313" class="media photo lede layout-large-horizontal" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-master675-v2.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-master675-v2.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="https://web.archive.org/web/20150527083026/http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-superJumbo-v2.jpg" data-mediaviewer-caption="FIFA officials were escorted out behind sheets at the Baur au Lac hotel in Zurich." data-mediaviewer-credit="Pascal Mora for The New York Times" itemprop="url" itemid="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-master675-v2.jpg"/>
+            <meta itemprop="height" content="456"/>
+            <meta itemprop="width" content="675"/>
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">FIFA officials were escorted out behind sheets at the Baur au Lac hotel in Zurich.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Pascal Mora for The New York Times        </span>
+            </figcaption>
+    </figure>
+            <div class="lede-container-ads">
+                                                            <div id="XXL" class="ad xxl-ad marginalia-anchor-ad nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                        <div id="MiddleRight" class="ad middle-right-ad marginalia-anchor-ad nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                                                                                </div>
+        </div>
+
+        <div id="byline-sharetools-container" class="byline-sharetools-container">
+                                                    <div id="sharetools-story" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-story  " data-shares="email,facebook|Share,twitter|Tweet,save,show-all|more,ad" data-url="https://web.archive.org/web/20150527083026oe_/http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html" data-title="FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them" data-media="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-1/27soccer-hp-1-jumbo-v2.jpg" data-description="As FIFA leaders gathered for a meeting, Swiss law enforcement officials arrived unannounced and made arrests at the Justice Department’s request on charges including racketeering and money laundering." data-publish-date="May 27, 2015">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<div id="MiddleLeft" class="ad middle-left-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->                    </div>
+
+
+                
+        <p class="story-body-text story-content" data-para-count="204" data-total-count="204" itemprop="articleBody" id="story-continues-1">ZURICH — Swiss authorities conducted an extraordinary early-morning operation here Wednesday to arrest several top soccer officials and extradite them to the United States on federal corruption charges.</p><p class="story-body-text story-content" data-para-count="345" data-total-count="549" itemprop="articleBody">As leaders of FIFA, soccer’s global governing body, gathered for their annual meeting, more than a dozen plain-clothed Swiss law enforcement officials arrived unannounced at the Baur au Lac hotel, an elegant five-star property with views of the Alps and Lake Zurich. They went to the front desk to get keys and proceeded upstairs to the rooms.</p><p class="story-body-text story-content" data-para-count="232" data-total-count="781" itemprop="articleBody">The arrests were carried out peacefully. One FIFA official, Eduardo Li of Costa Rica, was led by the authorities from his room to a side-door exit of the hotel. He was allowed to bring his luggage, which was adorned with FIFA logos.</p>    <aside class="marginalia related-coverage-marginalia nocontent robots-nocontent" data-marginalia-type="sprinkled" role="complementary" module="RelatedCoverage-Marginalia">
+        <div class="nocontent robots-nocontent">
+            <a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+
+                <header>
+        <h2 class="module-heading">
+                            Related Coverage
+                    </h2>
+    </header>
+
+            <ul>
+                                                            <li>
+<article class="story theme-summary">
+    <a class="story-link" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2011/07/18/sports/soccer/18iht-fifa18.html">
+
+        
+        <h2 class="story-heading">
+                                                    <span class="story-heading-text">For FIFA Executives, A Haven of Luxury and Cash</span><time class="dateline" datetime="2011-07-17">JULY 17, 2011</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2013/10/02/sports/soccer/in-fifa-politics-blatter-is-the-consummate-player.html">
+
+                    <div class="thumb">
+                <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2013/10/02/sports/blatter1/blatter1-thumbStandard-v2.jpg" alt="Sepp Blatter became president of FIFA in 1998. He has held other jobs with the organization."/>
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">In FIFA Politics, Blatter Is the Consummate Player</span><time class="dateline" datetime="2013-10-01">OCT. 1, 2013</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2014/12/18/sports/soccer/michael-j-garcia-resigns-as-fifa-prosecutor-in-protest.html">
+
+                    <div class="thumb">
+                <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2014/12/18/sports/18fifa/18fifa-thumbStandard-v2.jpg" alt="Michael J. Garcia's resignation as FIFA's chief ethics investigator made clear that he did not consider the organization capable of reforming itself."/>
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">FIFA Investigator Michael J. Garcia Quits in Dispute Over Report</span><time class="dateline" datetime="2014-12-17">DEC. 17, 2014</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2014/12/20/sports/soccer/fifa-report-world-cup-soccer-bidding.html">
+
+                    <div class="thumb">
+                <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2014/12/20/sports/Y-JP-FIFA/Y-JP-FIFA-thumbStandard.jpg" alt="FIFA President Sepp Blatter said at a news conference Friday that the votes for the 2018 and 2022 World Cups would not be reopened."/>
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">FIFA Agrees to Release Redacted Ethics Report</span><time class="dateline" datetime="2014-12-19">DEC. 19, 2014</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2010/12/03/sports/soccer/03worldcup.html">
+
+                    <div class="thumb">
+                <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2010/12/03/sports/WORLD-CUP-REFER/WORLD-CUP-REFER-thumbStandard.jpg" alt="Tiny Qatar will be the first Middle East nation to host the World Cup, in 2022. Russia was named the host in 2018."/>
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">Russia and Qatar Expand Soccer&#8217;s Global Footprint</span><time class="dateline" datetime="2010-12-02">DEC. 2, 2010</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/2015/03/07/sports/soccer/a-prince-who-would-be-king-challenges-blatter-for-fifa-presidency.html">
+
+                    <div class="thumb">
+                <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/03/06/sports/ONSOCCER/ONSOCCER-thumbStandard-v3.jpg" alt="Prince Ali bin al-Hussein of Jordan is running against Sepp Blatter, the president of FIFA. “As popular as football is around the world, the impression of FIFA is the exact opposite,” the prince said."/>
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">A Prince Who Would Be King Challenges Sepp Blatter for FIFA’s Presidency</span><time class="dateline" datetime="2015-03-06">MARCH 6, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                </ul>
+        </div><!-- close nocontent -->
+    </aside>
+<p class="story-body-text story-content" data-para-count="263" data-total-count="1044" itemprop="articleBody" id="story-continues-2">The charges, backed by an F.B.I. investigation, allege widespread corruption in FIFA over the past two decades, involving bids for World Cups as well as marketing and broadcast deals, according to three law enforcement officials with direct knowledge of the case.</p><figure id="FIFA-VOICE" class="interactive interactive-embedded  has-adjacency has-lede-adjacency limit-small layout-small">
+    <a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+
+    
+    <figcaption class="interactive-caption">
+            </figcaption>
+
+        <div class="interactive-graphic">
+        <script type="text/javascript" src="//web.archive.org/web/20150527083026js_/http://int.nyt.com/applications/voicebox/assets/voicebox-cc0895fe5dcea7f0a614774031499e61.js"></script>
+<div id="vbwrapper-nytintvb-1432703430001"></div>
+<script type="text/javascript">
+(function() {
+var elemId = 'vbwrapper-nytintvb-1432703430001';
+var config = {
+  slug: 'fifatweets',
+  configUrl: null,
+  layout: 'inline-190',
+  contentType: 'tweet',
+  feedType: 'twitter',
+  feedUrl: 'https://web.archive.org/web/20150527083026/http://int-shared-data.nytimes.com/voicebox/twitter/fifatweets.jsonp',
+  referUrl: '',
+  effect: 'fade',
+  autoplay: true,
+  effectSpeed: '800',
+  effectPause: '3500',
+  limit: '',
+  title: 'REPORTS FROM ZURICH'
+};
+if (typeof define === "function" && define.amd) {
+  require(['foundation/main'], function(main) {
+    require(['voicebox'], function(Voicebox) {
+      Voicebox.vox(elemId, config);
+    });
+  });
+} else {
+  NYTD.NYTINT.Voicebox.vox(elemId, config);
+}
+})();
+</script>    </div>
+    
+    <div class="footer">
+
+        
+        
+        
+    </div>
+</figure>
+<p class="story-body-text story-content" data-para-count="461" data-total-count="1505" itemprop="articleBody" id="story-continues-3">The indictment names 14 people on charges including racketeering, wire fraud and money laundering conspiracy. In addition to senior soccer officials, the indictment is also expected to name sports-marketing executives from the United States and South America who are accused of paying more than $150 million in bribes and kickbacks in exchange for media deals associated with major soccer tournaments, according to one government official briefed on the matter.</p><p class="story-body-text story-content" data-para-count="206" data-total-count="1711" itemprop="articleBody">The law enforcement official said the soccer officials charged are Jeffrey Webb, Eugenio Figueredo, Jack Warner, Eduardo Li, Julio Rocha, Costas Takkas, Rafael Esquivel, José Maria Marin and Nicolás Leoz.</p><p class="story-body-text story-content" data-para-count="227" data-total-count="1938" itemprop="articleBody">Charges were also expected against the sports-marketing executives Alejandro Burzaco, Aaron Davidson, Hugo Jinkis and Mariano Jinkis. Authorities also charged José Margulies as an intermediary who facilitated illegal payments.</p><p class="story-body-text story-content" data-para-count="302" data-total-count="2240" itemprop="articleBody">“We’re struck by just how long this went on for and how it touched nearly every part of what FIFA did,” said a law enforcement official. “It just seemed to permeate every element of the federation and was just their way of doing business. It seems like this corruption was institutionalized.”</p><p class="story-body-text story-content" data-para-count="79" data-total-count="2319" itemprop="articleBody">The Justice Department, the F.B.I. and FIFA did not have any immediate comment.</p><aside class="marginalia comments-marginalia  featured-comment-marginalia" data-marginalia-type="sprinkled" data-skip-to-para-id="story-continues-4">
+</aside><p class="story-body-text story-content" data-para-count="183" data-total-count="2502" itemprop="articleBody" id="story-continues-4">The arrests were a startling blow to FIFA, a multibillion-dollar organization that governs the world’s most popular sport but has been plagued by accusations of bribery for decades.</p><p class="story-body-text story-content" data-para-count="381" data-total-count="2883" itemprop="articleBody">The inquiry is also a major threat to Sepp Blatter, FIFA’s longtime president who is generally recognized as the most powerful person in sports, though he was not charged. He has for years acted as a de facto head of state. Politicians, star players, national soccer officials and global corporations that want their brands attached to the sport have long genuflected before him.</p><figure id="media-100000003705314" class="media photo embedded has-adjacency layout-large-horizontal media-100000003705314 ratio-tall" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-2/27soccer-hp-2-articleLarge.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-2/27soccer-hp-2-articleLarge.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="https://web.archive.org/web/20150527083026/http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-2/27soccer-hp-2-superJumbo.jpg" data-mediaviewer-caption="The arrests were carried out peacefully, with at least two men being ushered out of the hotel without handcuffs." data-mediaviewer-credit="Pascal Mora for The New York Times" itemprop="url" itemid="http://static01.nyt.com/images/2015/05/27/sports/27soccer-hp-2/27soccer-hp-2-articleLarge.jpg"/>
+            <meta itemprop="height" content="400"/>
+            <meta itemprop="width" content="600"/>
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">The arrests were carried out peacefully, with at least two men being ushered out of the hotel without handcuffs.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Pascal Mora for The New York Times        </span>
+            </figcaption>
+    </figure>
+<p class="story-body-text story-content" data-para-count="107" data-total-count="2990" itemprop="articleBody">An election, seemingly pre-ordained to give Mr. Blatter a fifth term as president, is scheduled for Friday.</p><p class="story-body-text story-content" data-para-count="343" data-total-count="3333" itemprop="articleBody">The case is the most significant yet for United States Attorney General Loretta E. Lynch, who took office last month. She previously served as the United States attorney in Brooklyn, where she supervised the FIFA investigation. Ms. Lynch and F.B.I. Director James Comey were expected to hold a news conference on Wednesday morning in New York.</p><div class="ad ad-placeholder nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div>
+    	<div id="MiddleRightN" class="ad text-ad middle-right-ad nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="430" data-total-count="3763" itemprop="articleBody" id="story-continues-5">With more than $1.5 billion in reserves, FIFA is as much a global financial conglomerate as a sports organization. With countries around the world competing aggressively to win the bid to host the World Cup, Mr. Blatter has commanded the fealty of anyone who wanted a piece of that revenue stream. He and FIFA have weathered corruption controversies in the past, but none involved charges of federal crimes in United States court.</p><aside class="marginalia comments-marginalia  comment-prompt-marginalia" data-marginalia-type="sprinkled" data-skip-to-para-id="story-continues-6">
+</aside><p class="story-body-text story-content" data-para-count="337" data-total-count="4100" itemprop="articleBody" id="story-continues-6">United States law gives the Justice Department wide authority to bring cases against foreign nationals living abroad, an authority that prosecutors have used repeatedly in international terrorism cases. Those cases can hinge on the slightest connection to the United States, like the use of an American bank or Internet service provider.</p><figure id="media-100000003704993" class="media photo embedded has-adjacency layout-small-vertical media-100000003704993" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/05/27/sports/27warner/27warner-master180.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/05/27/sports/27warner/27warner-master180.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="https://web.archive.org/web/20150527083026/http://static01.nyt.com/images/2015/05/27/sports/27warner/27warner-superJumbo.jpg" data-mediaviewer-caption="Jack Warner, a former FIFA vice president, is among those expected to face charges in the United States." data-mediaviewer-credit="Luis Acosta/Agence France-Presse — Getty Images" itemprop="url" itemid="http://static01.nyt.com/images/2015/05/27/sports/27warner/27warner-master180.jpg"/>
+            <meta itemprop="height" content="216"/>
+            <meta itemprop="width" content="180"/>
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">Jack Warner, a former FIFA vice president, is among those expected to face charges in the United States.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Luis Acosta/Agence France-Presse — Getty Images        </span>
+            </figcaption>
+    </figure>
+<aside class="marginalia comments-marginalia  selected-comment-marginalia" data-marginalia-type="sprinkled" data-skip-to-para-id="story-continues-7">
+</aside><p class="story-body-text story-content" data-para-count="257" data-total-count="4357" itemprop="articleBody" id="story-continues-7">Switzerland’s treaty with the United States is unusual in that it gives Swiss authorities the power to refuse extradition for tax crimes, but on matters of general criminal law, the Swiss have agreed to turn people over for prosecution in American courts.</p><p class="story-body-text story-content" data-para-count="626" data-total-count="4983" itemprop="articleBody">Critics of FIFA point to the lack of transparency regarding executive salaries and resource allocations for an organization that, by its own admission, had revenue of $5.7 billion from 2011 to 2014. Policy decisions are also often taken without debate or explanation, and a small group of officials — known as the executive committee — operates with outsize power. FIFA has for years functioned with little oversight and even less transparency. Alexandra Wrage, a governance consultant who once unsuccessfully attempted to help overhaul FIFA’s methods, famously labeled the organization “byzantine and impenetrable.”</p><p class="story-body-text story-content" data-para-count="345" data-total-count="5328" itemprop="articleBody">Law enforcement officials said much of the inquiry involves Concacaf, one of the six regional confederations that compose FIFA. Concacaf — which stands for Confederation of North, Central America and Caribbean Association Football — includes major countries like the United States and Mexico, and also tiny ones like Barbados and Montserrat.</p><p class="story-body-text story-content" data-para-count="416" data-total-count="5744" itemprop="articleBody">According to the indictment, several international soccer events were tainted by bribes and kickbacks involving media and marketing rights: World Cup qualifiers in the Concacaf region; the Gold Cup; the Concacaf Champions League; the Copa América; and the Copa Libertadores. The indictment also claims that bribes and kickbacks were found in connection with the selection of the host country for the 2010 World Cup.</p><p class="story-body-text story-content" data-para-count="402" data-total-count="6146" itemprop="articleBody">Concacaf was led from 1990 to 2011 by Mr. Warner, the longtime head of Trinidad &amp; Tobago’s federation. A key powerbroker in FIFA’s governing executive committee, Mr. Warner had been dogged by accusations of corruption. He was accused of illegally profiting from the resale of tickets to the 2006 World Cup, and of withholding the bonuses of the Trinidad players who participated in that tournament.</p><figure id="media-100000003704940" class="media photo embedded layout-large-horizontal media-100000003704940 ratio-tall" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/05/27/sports/27soccerweb-3/27soccerweb-3-articleLarge-v2.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="https://web.archive.org/web/20150527083026im_/http://static01.nyt.com/images/2015/05/27/sports/27soccerweb-3/27soccerweb-3-articleLarge-v2.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="https://web.archive.org/web/20150527083026/http://static01.nyt.com/images/2015/05/27/sports/27soccerweb-3/27soccerweb-3-superJumbo-v2.jpg" data-mediaviewer-caption="Jeffrey Webb, left, the president of Concacaf, with FIFA’s president, Sepp Blatter, during the Concacaf U-17 championships in 2013." data-mediaviewer-credit="Arnulfo Franco/Associated Press" itemprop="url" itemid="http://static01.nyt.com/images/2015/05/27/sports/27soccerweb-3/27soccerweb-3-articleLarge-v2.jpg"/>
+            <meta itemprop="height" content="437"/>
+            <meta itemprop="width" content="600"/>
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">Jeffrey Webb, left, the president of Concacaf, with FIFA’s president, Sepp Blatter, during the Concacaf U-17 championships in 2013.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Arnulfo Franco/Associated Press        </span>
+            </figcaption>
+    </figure>
+<p class="story-body-text story-content" data-para-count="347" data-total-count="6493" itemprop="articleBody">Mr. Warner resigned his positions in FIFA, Concacaf and his national association in 2011 amid mounting evidence that he had been part of an attempt to buy the votes of Caribbean federation officials in the 2010 FIFA presidential election. A <a href="https://web.archive.org/web/20150527083026/http://www.guardian.co.tt/sites/default/files/story/FinalReport.PDF">2013 Concacaf report</a> also found that he had received tens of millions of dollars in misappropriated funds.</p><p class="story-body-text story-content" data-para-count="253" data-total-count="6746" itemprop="articleBody">But according to the rules of FIFA at the time, Mr. Warner’s resignation led to the immediate closure of all ethics committee cases against him. “The presumption of innocence is maintained,” FIFA said in a short statement announcing his departure.</p>
+        
+                                        <footer class="story-footer story-content">
+    <div class="story-meta">
+                <div class="story-notes"><p>Michael S. Schmidt and Sam Borden reported from Zurich; Matt Apuzzo from Washington; and William K. Rashbaum from New York.</p></div>
+        
+        
+        <p class="story-print-citation">A version of this article appears in print on May 27, 2015, on page A1 of the <span itemprop="printEdition">New York edition</span> with the headline: Arrests Sweep Governing Body of Global Soccer. <span class="story-footer-links">  <span><a href="https://web.archive.org/web/20150527083026/https://s100.copyright.com/AppDispatchServlet?contentID=http%3A%2F%2Fwww.nytimes.com%2F2015%2F05%2F28%2Fsports%2Fsoccer%2Ffifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html&amp;publisherName=The+New+York+Times&amp;publication=nytimes.com&amp;token=&amp;orderBeanReset=true&amp;postType=&amp;wordCount=1056&amp;title=FIFA+Officials+Arrested+on+Corruption+Charges%3B+Blatter+Isn%E2%80%99t+Among+Them&amp;publicationDate=May+27%2C+2015&amp;author=By Matt Apuzzo, Michael S. Schmidt, William K. Rashbaum and Sam Borden" target="_blank">Order Reprints</a><span class="pipe">|</span></span>  <span><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/todayspaper/index.html" target="_blank">Today's Paper</a><span class="pipe">|</span></span><span><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/subscriptions/Multiproduct/lp839RF.html?campaignId=48JQY" target="_blank">Subscribe</a></span>
+</span>
+</p>
+    </div><!-- close story-meta -->
+    </footer>
+
+        
+                                <nav id="next-in"></nav><!-- close next-in -->
+                        </div><!-- close story-body -->
+</article>
+<aside class="marginalia most-emailed-marginalia hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside><section id="whats-next" class="whats-next nocontent robots-nocontent">
+    <div class="nocontent robots-nocontent">
+        <div class="loader-container">
+            <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+        </div>
+    </div><!-- close nocontent -->
+</section>
+<div id="TopAd1" class="text-ad bottom-left-ad nocontent robots-nocontent"></div><div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+                    <div class="search-overlay"></div>
+            </main><!-- close main -->
+            <section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/">
+                <script>window.magnum.writeLogo('small', 'https://web.archive.org/web/20150527083026/http://a1.nyt.com/assets/article/20150520-163317/images/foundation/logos/', '', '', 'standard');</script>
+         </a>
+        </h2>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/nyregion/index.html">New York</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/technology/index.html">Technology</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/science/index.html">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/opinion/index.html#roomfordebate">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/video/opinion/">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/arts/design/index.html">Art &amp; Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://artsbeat.blogs.nytimes.com/">ArtsBeat</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/video/arts/">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/fashion/index.html">Fashion &amp; Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/garden/index.html">Home &amp; Garden</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/t-magazine/index.html">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/travel/index.html">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings &amp; Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings &amp; More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/marketing/tools-and-services/">Tools &amp; Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://wordplay.blogs.nytimes.com/cartoons/">Cartoons</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/video/">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/https://www.nytimes.com/store/?&amp;t=qry542&amp;utm_source=nytimes&amp;utm_medium=HPB&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP&amp;module=SectionsNav&amp;action=click®ion=TopBar&amp;version=BrowseTree&amp;contentCollection=NYT%20Store&amp;contentPlacement=2&amp;pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/times-journeys/?utm_source=nytimes&amp;utm_medium=HPLink&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/tpnav">Times Premier</a>
+    </li>
+
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="nyt-opinion">
+        <i class="icon sprite-icon"></i>
+        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/opinionindex">NYT Opinion</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://web.archive.org/web/20150527083026/https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="https://web.archive.org/web/20150527083026/http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+                <li>
+            <a href="https://web.archive.org/web/20150527083026/http://subscribe.inyt.com/">International New York Times</a>
+        </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+
+            <footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+         <ul>
+             <li>
+                <a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2015</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span><meta itemprop="tickerSymbol" content="NYSE NYT"/></span>
+                </a>
+            </li>
+            <li class="visually-hidden"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/">Home</a></li>
+            <li class="visually-hidden"><a href="https://web.archive.org/web/20150527083026/http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20150527083026/http://www.nytco.com/careers">Work With Us</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.whsites.net/mediakit">Advertise</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="wide-viewport-item last-item"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <ul>
+            <li><a href="https://web.archive.org/web/20150527083026/http://spiderbites.nytimes.com/">Site Map</a></li>
+            <li><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://web.archive.org/web/20150527083026/https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="wide-viewport-item last-item"><a href="https://web.archive.org/web/20150527083026/http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>        </div><!-- close page -->
+    </div><!-- close shell -->
+    <script>
+require(['foundation/main'], function () {
+    require(['article/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['https://web.archive.org/web/20150527083026/http://static01.nyt.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+    <div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"4491457","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUA=","queueTime":0,"applicationTime":100,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 08:30:26 May 27, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:42:48 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.163
+  exclusion.robots: 0.155
+  exclusion.robots.policy: 0.136
+  esindex: 0.013
+  cdx.remote: 26.822
+  LoadShardBlock: 270.909 (3)
+  PetaboxLoader3.datanode: 120.299 (4)
+  PetaboxLoader3.resolve: 98.868 (2)
+  load_resource: 133.255
+--> title 87 FIFA Officials Arrested on Corruption Charges; Blatter Isn’t Among Them - NYTimes.com contentType 9 text/html url 169 https://web.archive.org:443/web/20150527083026/http://www.nytimes.com/2015/05/28/sports/soccer/fifa-officials-arrested-on-corruption-charges-blatter-isnt-among-them.html responseCode 3 200 

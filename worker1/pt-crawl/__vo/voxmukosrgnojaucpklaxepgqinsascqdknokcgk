@@ -1,0 +1,313 @@
+voxmukosrgnojaucpklaxepgqinsascqdknokcgk length 5 10524 page 10524 
+
+
+
+
+
+
+
+
+
+
+<html dir='LTR' lang = 'en'>
+
+
+<HEAD>
+      <title>ADAMS Login</TITLE>
+      <META name="pageId" content="login">
+      <link rel="stylesheet" type="text/css" href="/adams/enterpriseAdamsEditionSkin/css/main.css">
+      <link rel="stylesheet" type="text/css" href="/adams/enterpriseAdamsEditionSkin/css/form.css">
+       <link rel="shortcut icon" href="/adams/favicon.ico">
+
+<link rel="stylesheet" type="text/css" href="/adams/js/yui/build/fonts/fonts-min.css" />
+<link rel="stylesheet" type="text/css" href="/adams/js/yui/build/button/assets/skins/sam/button.css" />
+<link rel="stylesheet" type="text/css" href="/adams/js/yui/build/container/assets/skins/sam/container.css" />
+
+    
+
+
+
+<!-- OneTrust Cookies Consent Notice start, it must be put before any javascript on this page -->
+
+
+    <script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="d5678d4f-3ae5-45dc-9a11-82dbe15ede37"></script>
+
+
+<script type="text/javascript">
+    function OptanonWrapper() { }
+</script>
+
+<!-- OneTrust Cookies Consent Notice end -->
+    
+<script type="text/javascript" src="/adams/js/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="/adams/js/yui/build/connection/connection-min.js"></script>
+<script type="text/javascript" src="/adams/js/yui/build/element/element-min.js"></script>
+<script type="text/javascript" src="/adams/js/yui/build/button/button-min.js"></script>
+<script type="text/javascript" src="/adams/js/yui/build/dragdrop/dragdrop-min.js"></script>
+<script type="text/javascript" src="/adams/js/yui/build/container/container-min.js"></script>
+
+
+<style type="text/css">
+#adams {
+    height:30em;
+}
+
+.yui-pe .yui-pe-content {
+    display:none;
+}
+
+table.picture{background-image: url( /adams/images/test.gif);
+             background-repeat:none}
+
+</style>
+
+
+</HEAD>
+   <script type="text/javascript">
+
+
+   YAHOO.namespace("adams.container");
+YAHOO.util.Event.onDOMReady(function () {
+  // Remove progressively enhanced content class, just before creating the module
+    YAHOO.util.Dom.removeClass("dialog1", "yui-pe-content");
+
+    var handleCancel = function() {
+        this.cancel();
+    };
+
+});
+
+      function closeWindow(win){
+         if(win.opener != null && win.opener!=win){ //if it's a pop-up window
+            win.close();
+            return closeWindow(win.opener);
+         } else {
+            return win;
+         }
+      }
+
+      function selfFocus() {
+         var noPopup="";
+         var a = window.open("/adams/blank.html", "test","width=1,height=1");
+         if (a){
+            a.close();
+         }else{
+            noPopup="nopopup=true";
+         }
+         var topWin = self;
+         if(self.opener != null){//if it's a pop-up window
+            topWin = closeWindow(self);
+         }
+         if(topWin != topWin.parent){//if it's a frame
+            topWin.top.location = "/adams/login.do?prompt=true&"+noPopup;
+            return;
+         } else {//if it's the top window
+            document.login.j_username.focus();
+         }
+         
+         if (noPopup!=""){
+            topWin.top.location = "/adams/login.do?prompt=true&"+noPopup;
+         }
+         
+
+      }
+
+   function showHideCapsOn(e) {
+       if (!e) {
+           e = window.event;
+       }
+
+       var kc = e.keyCode ? e.keyCode : e.which;
+       var sk = e.shiftKey ? e.shiftKey : ((kc == 16) ? true : false);
+ 
+       if (((kc >= 65 && kc <= 90) && !sk) || ((kc >= 97 && kc <= 122) && sk)) {
+    	   document.getElementById("dialog1_c").style.visibility="visible";
+       } else {
+    	   document.getElementById("dialog1_c").style.visibility="hidden";
+       }
+   }
+
+
+       function verifyFields() {
+           if (document.login.j_username.value.length==0) {
+               document.getElementById("errorTable").style.display="inline";
+               document.getElementById("errorMsgId").innerHTML='Please enter your user name';
+               return false;
+           }
+           document.getElementById("errorTable").style.display="none";
+           document.getElementById("errorMsgId").innerHTML="";
+           return true;
+       }
+   </script>
+<BODY class="loginPage" onload="selfFocus();">
+
+
+   <div id="bulletinMessage"  >
+      <table align="center" >
+         <tr>
+            <td align="center" class="textstyle" nowrap="nowrap" >
+               Important Bulletin
+
+            </td>
+         </tr>
+         <tr>
+         <td align="center">
+            <div id="bulletinSubDiv" colspace="1" style="font-family:verdana;font-size:11; color:#000000; background-color:#F8F8F8;border:1px solid #cccccc;height:150px; width: 640px;overflow:auto;">
+            <p align="center">
+<strong>ADAMS Status Page – Reminder</strong><br>
+Please consult the ADAMS status page to stay informed about the operational status of the applications:<br>
+<a href="https://app-status.wada-ama.org/" style="color:#0645AD; text-decoration:underline;">
+    https://app-status.wada-ama.org/
+</a><br>
+</p>
+<p align="center">-----------------------------------------</p>
+<p align="center">
+<strong>Page de statut ADAMS – Rappel</strong><br>
+Merci de consulter la page de statut ADAMS afin de prendre connaissance du fonctionnement des applications :<br>
+<a href="https://app-status.wada-ama.org/" style="color:#0645AD; text-decoration:underline;">
+    https://app-status.wada-ama.org/
+</a><br>
+</p>
+            </div>
+         </td>
+         </tr>
+      </table>
+   </div>
+   
+
+
+<table cellSpacing="0" cellPadding="0" width="100%" border="0" height="50%" >
+  
+   
+   
+      
+         
+      
+   
+     
+   <tr><td>&nbsp;</td></tr>
+   <tr><td>&nbsp;</td></tr>
+
+   <tr>
+      <td width="100%" >
+         <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="2" class="mainTopSliceBackground">
+            <tr>
+               <td valign="middle"><img src="/adams/images/logo.png"  border="0" width="150"/>
+               </td>
+
+               
+            </tr>
+            <tr>
+             <td colspan="5" style="background-color:#000000;" class=liststyle>&nbsp;</td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" valign="top">
+
+        <table border="0" width="100%">
+         <tr>
+            <td vAlign="top" align="center">
+               <form name="login" method="POST" action="/adams/login.do" onsubmit="return verifyFields();">
+                 <table cellSpacing="0" cellPadding="0" align="center" border="0">
+                  <tr>
+                     <td class="textstyle" nowrap="nowrap" width="70" >User Name&nbsp;&nbsp;</td>
+                     <td width="200"><INPUT type="text" name="j_username" maxLength="255" style="width:150" autocomplete="off">
+                     </td>
+                      <td>
+                      	<div class="yui-skin-sam">
+                           <div class="yui-panel-container yui-dialog yui-overlay-hidden shadow" id="dialog1_c" style="visibility: hidden; z-index: 2;">
+                           		<div id="dialog1" class="yui-module yui-overlay yui-panel" style="visibility: inherit; width: 200px; height: 100px;">
+                           			<div class="hd" id="dialog1_h" style="cursor: move;">
+                           				<div class="tl" style="color:red; align=" center"="">CAPS LOCK is On</div>
+                           			</div>
+                           			<div class="bd" style="height: 55px;">
+                           				<span class="liststyle">Your ADAMS password is case sensitive.</span>
+                           				<form name="frm_dialog1"></form>
+                           			</div>
+                           		</div>
+                           	</div>
+						 </div>
+                      </td>
+                  </tr>
+                     </table>
+                   
+                     
+                   <table cellSpacing="0" cellPadding="0" align="center" border="0" id="errorTable" style="display:none">
+                       <tr><td  colspan="3">&nbsp;</td></tr>
+                       <tr>
+                          <td class="redStyle" style="font-weight:bold;font-size:13px" colspan="3">
+                             <span id="errorMsgId"></span>
+                          </td>
+                       </tr>
+                       </table>
+
+                   <table cellSpacing="0" cellPadding="0" align="center" border="0">
+                  <tr>
+                     <td width="70" >&nbsp;&nbsp;&nbsp;</td>
+                     <td height="50"  width="150" style='text-align: right;'>
+                        <button class="button" type="submit" id="login_button_id" style='width:150'>
+                           Next
+                        </button>
+                     </td>
+                      <td width="50">&nbsp; </td>
+                  </tr>
+
+                    <tr>
+                     <td>&nbsp;&nbsp;&nbsp;</td>
+                     <td height="50" class="blackBigTextstyle" align="center">
+                         &nbsp;
+                     </td>
+                     <td>&nbsp; </td>
+                  </tr>
+               </table>
+               </form>
+
+            </td>
+         </tr>
+      </table>
+      </td>
+   </tr>
+        
+<tr><td  align="center"  class="blackTextstyle" valign="bottom">
+               The ADAMS website has been optimized for use with Internet Explorer 8+, as well as Firefox 3.6+ <br>Although tested with other browsers, sections have been shown not to function as effectively.
+    </td></tr>
+               
+</table>
+
+<style type="text/css">
+    #ot-sdk-btn.ot-sdk-show-settings, #ot-sdk-btn.optanon-show-settings {
+        color: #595959;
+        border: 1px solid #595959;
+        height: auto;
+        white-space: normal;
+        word-wrap: break-word;
+        padding: 0.8em 2em;
+        font-size: 0.8em;
+        line-height: 1.2;
+        cursor: pointer;
+        -moz-transition: 0.1s ease;
+        -o-transition: 0.1s ease;
+        -webkit-transition: 1s ease;
+        transition: 0.1s ease;
+    }
+
+    #ot-sdk-btn.ot-sdk-show-settings:hover, #ot-sdk-btn.optanon-show-settings:hover {
+        color: #fff;
+        background-color: #cfcfcf;
+    }
+
+</style>
+
+<div  style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+    <!-- OneTrust Cookies Settings button start -->
+    <button id="ot-sdk-btn" class="ot-sdk-show-settings"> Cookie Settings</button>
+    <!-- OneTrust Cookies Settings button end -->
+</div>
+
+
+
+</body>
+</html>
+ title 11 ADAMS Login contentType 9 text/html url 74 https://adams.wada-ama.org:443/adams/login.do?prompt=true&amp;nopopup=true responseCode 3 200 

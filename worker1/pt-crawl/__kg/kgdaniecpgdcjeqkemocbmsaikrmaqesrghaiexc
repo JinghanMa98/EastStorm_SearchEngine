@@ -1,0 +1,2357 @@
+kgdaniecpgdcjeqkemocbmsaikrmaqesrghaiexc page 134990 
+<!DOCTYPE html>
+
+
+    <html  class="html__responsive " lang="en">
+
+    <head>
+
+        <title>Sports Stack Exchange</title>
+        <link rel="shortcut icon" href="https://sports.stackexchange.com/Content/Sites/sports/Img/favicon.ico?v=ec9baeffe7fc">
+        <link rel="apple-touch-icon" href="https://sports.stackexchange.com/Content/Sites/sports/Img/apple-touch-icon.png?v=5dea8d52aab3">
+        <link rel="image_src" href="https://sports.stackexchange.com/Content/Sites/sports/Img/apple-touch-icon.png?v=5dea8d52aab3"> 
+        <link rel="search" type="application/opensearchdescription+xml" title="Sports Stack Exchange" href="/opensearch.xml">
+        <meta name="description" content="Q&amp;A for participants in team and individual sport activities"/>
+        <link rel="canonical" href="https://sports.stackexchange.com/" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+        <meta property="og:type" content= "website" />
+        <meta property="og:url" content="https://sports.stackexchange.com/" />
+        <meta property="og:site_name" content="Sports Stack Exchange" />
+        <meta property="og:image" content="https://sports.stackexchange.com/Content/Sites/sports/Img/apple-touch-icon@2.png?v=d42132738a0f" />
+            <script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://sports.stackexchange.com/#website",
+      "name": "Sports Stack Exchange",
+      "url": "https://sports.stackexchange.com",
+      "image": "https://sports.stackexchange.com/Content/Sites/sports/Img/apple-touch-icon@2.png?v=d42132738a0f",
+      "publisher": {
+        "@id": "https://stackoverflow.com/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "name": "Sports Stack Exchange",
+      "description": "Q\u0026A for participants in team and individual sport activities",
+      "url": "https://sports.stackexchange.com/",
+      "image": "https://sports.stackexchange.com/Content/Sites/sports/Img/apple-touch-icon@2.png?v=d42132738a0f",
+      "primaryImageOfPage": "https://sports.stackexchange.com/Content/Sites/sports/Img/apple-touch-icon@2.png?v=d42132738a0f",
+      "publisher": {
+        "@id": "https://stackoverflow.com/#organization"
+      },
+      "isPartOf": {
+        "@id": "https://sports.stackexchange.com/#website"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://stackoverflow.com/#organization",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com",
+      "logo": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/logo.png?v=e47b208316da",
+      "sameAs": [
+        "https://stackoverflow.co/",
+        "https://www.facebook.com/officialstackoverflow/",
+        "https://x.com/stackoverflow",
+        "https://www.linkedin.com/company/stack-overflow",
+        "https://www.youtube.com/c/StackOverflowOfficial",
+        "https://twitter.com/stackoverflow"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "Customer support",
+          "url": "https://stackoverflow.com/contact"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "Stack Ads",
+          "url": "https://stackoverflow.co/advertising/"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "Stack Internal",
+          "url": "https://stackoverflow.co/teams/"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "Stack Data Licensing",
+          "url": "https://stackoverflow.co/api-solutions/"
+        }
+      ],
+      "description": "Q\u0026A for professional and enthusiast programmers"
+    }
+  ]
+}
+</script>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:domain" content="sports.stackexchange.com"/>
+        <meta name="twitter:title" property="og:title" content="Sports Stack Exchange" />
+        <meta name="twitter:description" property="og:description" content="Q&amp;A for participants in team and individual sport activities" />
+    <script id="webpack-public-path" type="text/uri-list">https://sports.stackexchange.com/Content/</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script defer src="https://sports.stackexchange.com/Content/Js/third-party/npm/@stackoverflow/stacks/dist/js/stacks.min.js?v=c7bcc7a1b4fd"></script>
+    <script src="https://sports.stackexchange.com/Content/Js/stub.en.js?v=c184083d0bdd"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://sports.stackexchange.com/Content/Shared/stacks.css?v=b2264ccf0463">
+    <link rel="stylesheet" type="text/css" href="https://sports.stackexchange.com/Content/Sites/sports/primary.css?v=f797ccb6705f">
+
+
+    
+        <link rel="alternate" type="application/atom+xml" title="Feed of recent questions" href="/feeds">
+        <script>
+            StackExchange.ready(function() {
+                StackExchange.realtime.subscribeToActiveQuestions('411', 'home-active');
+            });
+        </script>
+
+        
+        
+        
+        <link rel="stylesheet" type="text/css" href="https://sports.stackexchange.com/Content/Shared/Channels/channels.css?v=2c98e83b4da0">
+
+        
+        
+
+    
+
+
+    <script>
+        StackExchange.ready(function () {
+            StackExchange.realtime.init('wss://qa.sockets.stackexchange.com');
+                StackExchange.realtime.subscribeToReputationNotifications('411');
+        StackExchange.realtime.subscribeToTopBarNotifications('411');
+        });
+    </script>
+    <script type="application/json" data-role="module-args" data-module-name="args/options.mod">{"options":{"locale":"en","serverTime":1764881304,"routeName":"Home/Index","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","site":{"name":"Sports Stack Exchange","description":"Q\u0026A for participants in team and individual sport activities","isNoticesTabEnabled":true,"enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":411,"cookieDomain":".stackexchange.com","childUrl":"https://sports.meta.stackexchange.com","negativeVoteScoreFloor":null,"enableSocialMediaInSharePopup":true,"protocol":"https"},"user":{"fkey":"823b93d181eb3a38cfe9dde450ad5d33a233d4818b582d17f75f54cdc30ca1d7","tid":"3ad10c3d-c8e1-44af-ba1b-44b6efa91dc8","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true},"realtime":{"newest":true,"active":true,"tagged":true,"staleDisconnectIntervalInHours":0},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}}}}</script>
+<script type="application/json" data-role="module-args" data-module-name="args/settings.mod">{"settings":{"auth":{"oauthInPopup":true},"elections":{"opaVoteResultsBaseUrl":"https://www.opavote.com/results/"},"questions":{"enableQuestionTitleLengthLiveWarning":true,"maxTitleSize":150,"enableSavesFeature":true,"questionTitleLengthStartLiveWarningChars":50},"accounts":{"currentPasswordRequiredForChangingStackIdPassword":true},"site":{"stacksEditorPreviewEnabled":true,"enableUserHovercards":true,"forceHttpsImages":true,"enableImageHttps":true,"allowImageUploads":true},"subscriptions":{"defaultFreemiumMaxTrueUpSeats":50,"defaultBasicMaxTrueUpSeats":250,"defaultMaxTrueUpSeats":1000},"image":{"maxImageUploadSizeInBytes":10485760,"maxImageUploadSizeInBytesAnimatedGif":2097152},"flags":{"allowRetractingCommentFlags":true,"allowRetractingFlags":true},"tags":{},"snippets":{"stacksEditorSnippetsEnabledFor":{"Metadata":{"Name":"UserMessagingSettings.ShowAnnouncementBannerEnabledFor","Filter":0},"AppliedFilter":0,"IsNobody":true,"All":false,"Anonymous":false,"LoggedIn":false,"ChannelsMembers":false,"Moderators":false,"Employees":false,"Developers":false,"TeamAdmins":false,"AccountIds":[],"ExcludedAccountIds":[],"Serialization":""},"renderDomain":"stacksnippets.net"},"questionLinkTitleReplacement":{"maxNumberOfSitesProcessed":10,"maxReplacementsPerSite":20},"mentions":{"maxNumUsersInDropdown":50},"markdown":{"enableTables":true},"legal":{"useCustomConsent":false,"oneTrustTCFConfigId":"cb0f3c87-b769-4e66-bbaa-377f9194216d"},"paths":{"jQueryUIJSPath":"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js","jQueryUICSSPath":"https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/smoothness/jquery-ui.css"},"intercom":{"appId":"inf0secd"},"search":{},"userMessaging":{},"comments":{}}}</script>
+<script>StackExchange.init();</script>
+
+    <script>
+        StackExchange.using.setCacheBreakers({"Js/adops.en.js":"6da43f5e0a84","Js/ask.en.js":"","Js/begin-edit-event.en.js":"dd955babf04d","Js/events.en.js":"","Js/explore-qlist.en.js":"ee2a4f8c3992","Js/full-anon.en.js":"11142b09fe4d","Js/full.en.js":"bd052bfe8fb3","Js/highlightjs-loader.en.js":"a4156c37da06","Js/inline-tag-editing.en.js":"8517756a2cb6","Js/keyboard-shortcuts.en.js":"c255a5a5979b","Js/markdown-it-loader.en.js":"9e901e1e3a2c","Js/mentions-transpiled.en.js":"adcf85e61d88","Js/moderator.en.js":"d3d27c3bdefd","Js/postCollections-transpiled.en.js":"27fabb0f4bf8","Js/post-validation.en.js":"44d59ccfc490","Js/question-editor.en.js":"","Js/review-v2-transpiled.en.js":"e327edff3102","Js/revisions.en.js":"9dd135bb585f","Js/stacks-editor.en.js":"0542c0190afe","Js/tageditor.en.js":"5b8f289d02ef","Js/tageditornew.en.js":"8a29c1ec524c","Js/tagsuggestions.en.js":"c54b483b692e","Js/wmd.en.js":"e65961906f11"});
+        StackExchange.using("gps", function() {
+             StackExchange.gps.init(false);
+        });
+    </script>
+    <noscript id="noscript-css"><style>body,.s-topbar{margin-top:1.9em}</style></noscript>
+
+
+            <script type="text/javascript">var abp;</script>
+            <script type="text/javascript" src="/px.js?ch=1"></script>
+            <script type="text/javascript" src="/px.js?ch=2"></script>
+    </head>
+    <body class="home-page unified-theme"><a href="https://sports.stackexchange.com/cdn-cgi/content?id=6071m7MtpgDjb4FiDzqu0JS1eVfLkslOPhIp8UlnLig-1764881304-1.1.1.1-UWhtCvj8OBlhMpzWE9sggfE2S90bTOnHH2eJ3dIj7ow" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"></a>
+        
+<div id="signup-modal-container"></div>
+<script type="application/json" data-role="module-args" data-module-name="islands/signup-modal/index.mod">{"ContainerElementId":"signup-modal-container","FKey":"823b93d181eb3a38cfe9dde450ad5d33a233d4818b582d17f75f54cdc30ca1d7","TriggerEvent":"signupModalShow","OauthInPopup":true,"ReturnUrl":"https://sports.stackexchange.com/","ReturnUrlForPopup":"https://sports.stackexchange.com/users/after-signup/oauth-only","SiteName":"Sports","SiteLogoPath":"https://sports.stackexchange.com/Content/Sites/sports/Img/icon-48.png?v=52efaa6bc28b","AuthProviders":["Google"],"ParentSiteUrl":"","IsInitiallyVisible":false}</script>
+<script defer src="https://sports.stackexchange.com/Content/Js/webpack-chunks/svelte.en.js?v=18cfe3f37799"></script><script defer src="https://sports.stackexchange.com/Content/Js/webpack-chunks/stacks-svelte.en.js?v=96ea86654128"></script><script defer src="https://sports.stackexchange.com/Content/Js/webpack-chunks/8901.en.js?v=9ff34567d3a5"></script><script defer src="https://sports.stackexchange.com/Content/Js/islands/signup-modal.en.js?v=8cac2378811e"></script>
+
+<script defer>
+    dispatchEvent(new CustomEvent("openSignupModal"));
+</script>
+    
+        <div id="one-tap-container"></div>
+<script type="application/json" data-role="module-args" data-module-name="islands/one-tap/index.mod">{"ContainerElementId":"one-tap-container","FKey":"823b93d181eb3a38cfe9dde450ad5d33a233d4818b582d17f75f54cdc30ca1d7","GoogleClientId":"717762328687-iludtf96g1hinl76e4lc1b9a82g457nn.apps.googleusercontent.com","Autoselect":false,"ReturnUrl":"https%253a%252f%252fsports.stackexchange.com%252f"}</script><script defer src="https://sports.stackexchange.com/Content/Js/webpack-chunks/svelte.en.js?v=18cfe3f37799"></script><script defer src="https://sports.stackexchange.com/Content/Js/islands/one-tap.en.js?v=fd64ec49bac4"></script>    <div id="notify-container"></div>
+    <div id="custom-header"></div>
+        
+
+<header class="s-topbar ps-fixed t0 l0 js-top-bar">
+    <a href="#content" class="s-topbar--skip-link">Skip to main content</a>
+	<div class="s-topbar--container">
+			<a href="#" class="s-topbar--menu-btn js-left-sidebar-toggle" aria-haspopup="true" aria-controls="left-sidebar" aria-expanded="false"><span></span></a>
+			<div class="topbar-dialog leftnav-dialog js-leftnav-dialog dno">
+				<div class="left-sidebar js-unpinned-left-sidebar" data-can-be="left-sidebar" data-is-here-when="sm"></div>
+			</div>
+			<a href="#" class="s-topbar--logo network-logo js-gps-track js-network-logo"
+		   data-gps-track="stack_exchange_popup.show" aria-haspopup="true" aria-controls="topbar-network-logo-dialog" aria-expanded="false">
+                <svg aria-hidden="true" class="native mtn1 svg-icon iconSEAlternativeSm" width="107" height="15"  viewBox="0 0 107 15"><path fill="#FEFEFE" d="m48.41 11.93-1.96-3.2-1.04 1.16v2.04h-1.42V2.18h1.42v6.01L48.14 5h1.72l-2.44 2.7 2.74 4.22zm-7.06.08c-1.59 0-3.14-.96-3.14-3.56s1.55-3.54 3.14-3.54c.97 0 1.65.27 2.31.97l-.97.93c-.44-.48-.79-.66-1.34-.66q-.84.01-1.3.62c-.31.38-.42.87-.42 1.68s.1 1.32.41 1.7c.3.4.76.62 1.3.62.56 0 .9-.18 1.35-.66l.97.92c-.66.7-1.34.98-2.31.98m-5.66-3.15h-1.65c-.83 0-1.26.37-1.26 1s.4.99 1.3.99c.53 0 .93-.04 1.3-.4q.32-.29.31-1.03zm.03 3.07v-.63c-.51.5-1 .71-1.87.71s-1.46-.2-1.89-.63a2 2 0 0 1-.55-1.49c0-1.16.82-2 2.42-2h1.86v-.5c0-.87-.44-1.3-1.54-1.3-.77 0-1.15.18-1.54.68l-.92-.86c.66-.77 1.35-1 2.52-1q2.9 0 2.9 2.38v4.64zm-5.9 0c-1.32 0-1.93-.93-1.93-1.93V6.18h-.8V5.1h.8V3h1.41v2.1h1.36v1.07H29.3v3.75c0 .5.25.81.78.81h.58v1.2zm-6.33.08c-1.48 0-2.55-.34-3.49-1.28l1-.98c.72.72 1.51.94 2.52.94 1.3 0 2.04-.55 2.04-1.5q0-.65-.39-1.01c-.25-.23-.5-.33-1.08-.41l-1.16-.17a3.4 3.4 0 0 1-1.88-.78 2.4 2.4 0 0 1-.72-1.86c0-1.7 1.25-2.86 3.3-2.86 1.3 0 2.22.33 3.07 1.1l-.96.94a3 3 0 0 0-2.15-.75c-1.16 0-1.8.65-1.8 1.52q-.02.54.37.9c.25.22.65.38 1.11.45l1.13.17c.91.13 1.42.35 1.84.72.54.47.8 1.17.8 2 0 1.8-1.48 2.86-3.55 2.86"/><path fill="#2F96E8" d="M104.16 7.09c-.2-.42-.6-.74-1.2-.74s-.99.32-1.18.74c-.1.25-.15.44-.16.75h2.7a2 2 0 0 0-.16-.75m-2.54 1.96c0 .9.56 1.57 1.55 1.57.78 0 1.16-.21 1.61-.66l1.08 1.04a3.4 3.4 0 0 1-2.7 1.11c-1.68 0-3.29-.76-3.29-3.62 0-2.3 1.26-3.6 3.1-3.6 1.97 0 3.1 1.44 3.1 3.37v.79zm-5.48-2.57C95.1 6.48 95 7.37 95 8.3s.1 1.85 1.15 1.85 1.18-.91 1.18-1.85c0-.93-.13-1.82-1.18-1.82m-.17 8.22c-1.1 0-1.84-.21-2.58-.92l1.1-1.11c.4.38.8.54 1.4.54 1.06 0 1.43-.74 1.43-1.46v-.72c-.47.51-1 .7-1.7.7-.69 0-1.29-.23-1.68-.62-.67-.66-.73-1.57-.73-2.8 0-1.24.06-2.13.73-2.8.4-.39 1-.62 1.7-.62.75 0 1.24.2 1.73.75v-.67h1.72v6.8c0 1.7-1.21 2.93-3.12 2.93m-5.76-2.67V7.76c0-.96-.61-1.28-1.17-1.28s-1.18.32-1.18 1.28v4.27h-1.78V4.97h1.73v.65a2.4 2.4 0 0 1 1.78-.73q1.07.02 1.67.62c.58.57.73 1.24.73 2v4.52zm-7.1-2.98h-1.4c-.64 0-1 .3-1 .8 0 .49.33.81 1.02.81.5 0 .8-.04 1.12-.34q.28-.25.26-.89zm.04 2.98v-.6c-.48.47-.93.67-1.74.67q-1.2 0-1.82-.62c-.38-.4-.58-.97-.58-1.59 0-1.12.77-2.05 2.42-2.05h1.68V7.5c0-.77-.38-1.11-1.32-1.11-.68 0-1 .16-1.37.58l-1.13-1.1c.7-.75 1.38-.97 2.57-.97q3 0 3.02 2.5v4.64zm-6.93 0v-4.3c0-.94-.6-1.25-1.15-1.25-.56 0-1.15.32-1.15 1.24v4.31h-1.77V2.38h1.77v3.24a2.4 2.4 0 0 1 1.7-.73c1.56 0 2.38 1.08 2.38 2.57v4.57zm-6.96.08c-1.42 0-3.18-.76-3.18-3.62 0-2.85 1.76-3.6 3.18-3.6.98 0 1.72.3 2.34.95l-1.2 1.2c-.36-.4-.68-.56-1.14-.56q-.62-.01-1.01.46c-.27.33-.4.8-.4 1.55s.13 1.24.4 1.58q.39.46 1 .46c.47 0 .79-.16 1.15-.56l1.2 1.18c-.62.65-1.36.96-2.34.96m-5.53-.08-1.3-2.11-1.3 2.11H59l2.45-3.6-2.35-3.46h2.12L62.42 7l1.21-2.02h2.13L63.4 8.43l2.46 3.6zm-11.75 0V2.06h6.6V3.8h-4.65v2.33h3.96v1.74h-3.96v2.42h4.65v1.74z"/><path fill="#8FD8F7" d="M0 3c0-1.1.9-2 2-2h8a2 2 0 0 1 2 2z"/><path fill="#155397" d="M12 10H0c0 1.1.9 2 2 2h5v3l3-3a2 2 0 0 0 2-2"/><path fill="#46A2D9" d="M0 4h12v2H0z"/><path fill="#2D6DB5" d="M0 7h12v2H0z"/></svg>
+			</a>
+			<div class="topbar-dialog network-logo-dialog js-network-logo-dialog dno" id="topbar-network-logo-dialog" role="dialog" aria-labelledby="topbar-network-logo-dialog-title" aria-describedby="topbar-network-logo-dialog-body">
+				<div class="dialog-content">
+					<h4 class="bold" id="topbar-network-logo-dialog-title">Stack Exchange Network</h4>
+					<p id="topbar-network-logo-dialog-body">
+						Stack Exchange network consists of 183 Q&amp;A communities including <a href="https://stackoverflow.com">Stack Overflow</a>, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					</p>
+					<a class="s-btn s-btn__filled" href="https://stackexchange.com"
+				   data-gps-track="stack_exchange_popup.click">Visit Stack Exchange</a>
+					<button class="s-btn s-btn__muted p0 ps-absolute t16 r16 js-close-button" aria-label="Close"><svg aria-hidden="true" class="svg-icon iconClear" width="18" height="18"  viewBox="0 0 18 18"><path  d="M15 4.41 13.59 3 9 7.59 4.41 3 3 4.41 7.59 9 3 13.59 4.41 15 9 10.41 13.59 15 15 13.59 10.41 9z"/></svg></button>
+				</div>
+			</div>
+
+
+
+
+
+		        <form id="search" role="search" action=/search class="s-topbar--searchbar js-searchbar " autocomplete="off">
+                        <div class="s-topbar--searchbar--input-group">
+                            <input name="q"
+                                   type="text"
+                                   role="combobox"
+                                   placeholder="Search on Sports&#x2026;"
+                                   value=""
+                                   autocomplete="off"
+                                   maxlength="240"
+                                   class="s-input s-input__search js-search-field wmn1 "
+                                   aria-label="Search"
+                                   aria-controls="top-search" 
+                                   data-controller="s-popover"
+                                   data-action="focus->s-popover#show"
+                                   data-s-popover-placement="bottom-start" />
+                            <svg aria-hidden="true" class="s-input-icon s-input-icon__search svg-icon iconSearch" width="18" height="18"  viewBox="0 0 18 18"><path  d="m18 16.5-5.14-5.18h-.35a7 7 0 1 0-1.19 1.19v.35L16.5 18zM12 7A5 5 0 1 1 2 7a5 5 0 0 1 10 0"/></svg>
+                            <div class="s-popover p0 wmx100 wmn4 sm:wmn-initial js-top-search-popover" id="top-search" role="menu">
+    <div class="s-popover--arrow"></div>
+    <div class="s-popover--content">
+        <div class="js-spinner p24 d-flex ai-center jc-center d-none">
+            <div class="s-spinner s-spinner__sm fc-orange-400">
+                <div class="v-visible-sr">Loading&#x2026;</div>
+            </div>
+        </div>
+
+        <span class="v-visible-sr js-screen-reader-info"></span>
+        <div class="js-ac-results overflow-y-auto hmx3 d-none"></div>
+
+        <div class="js-search-hints" aria-describedby="Tips for searching"></div>
+    </div>
+</div>
+                        </div>
+                </form>
+		
+
+<nav class="h100 ml-auto overflow-x-auto pr12" aria-label="Topbar">
+    <ol class="s-topbar--content">
+    
+        <li>
+            <a href="/help" class="s-topbar--item js-help-button" title="Help Center and other resources" aria-haspopup="true" aria-controls="topbar-help-dialog"
+           data-ga="[&quot;top navigation&quot;,&quot;help menu click&quot;,null,null,null]"><svg aria-hidden="true" class="svg-icon iconHelp" width="18" height="18"  viewBox="0 0 18 18"><path  d="M9 1C4.64 1 1 4.64 1 9s3.64 8 8 8 8-3.64 8-8-3.64-8-8-8m.81 12.13c-.02.71-.55 1.15-1.24 1.13-.66-.02-1.17-.49-1.15-1.2.02-.72.56-1.18 1.22-1.16.7.03 1.2.51 1.17 1.23M11.77 8c-.59.66-1.78 1.09-2.05 1.97a4 4 0 0 0-.09.75c0 .05-.03.16-.18.16H7.88c-.16 0-.18-.1-.18-.15.06-1.35.66-2.2 1.83-2.88.39-.29.7-.75.7-1.24.01-1.24-1.64-1.82-2.35-.72-.21.33-.18.73-.18 1.1H5.75c0-1.97 1.03-3.26 3.03-3.26 1.75 0 3.47.87 3.47 2.83 0 .57-.2 1.05-.48 1.44"/></svg></a>
+            <div class="topbar-dialog help-dialog js-help-dialog dno" id="topbar-help-dialog" role="menu">
+                <div class="modal-content">
+                    <ul>
+                            <li>
+                                <a href="/tour" class="js-gps-track s-block-link" data-gps-track="help_popup.click({ item_type:1 })"
+                           data-ga="[&quot;top navigation&quot;,&quot;tour submenu click&quot;,null,null,null]">
+                                    Tour
+                                    <span class="item-summary">
+                                        Start here for a quick overview of the site
+                                    </span>
+                                </a>
+                            </li>
+                        <li>
+                            <a href="/help" class="js-gps-track s-block-link"
+                           data-gps-track="help_popup.click({ item_type:4 })"
+                           data-ga="[&quot;top navigation&quot;,&quot;help center&quot;,null,null,null]">
+                                Help Center
+                                <span class="item-summary">
+                                    Detailed answers to any questions you might have
+                                </span>
+                            </a>
+                        </li>
+                                    <li>
+                                        <a href="https://sports.meta.stackexchange.com" class="js-gps-track s-block-link" data-gps-track="help_popup.click({ item_type:2 })"
+                           data-ga="[&quot;top navigation&quot;,&quot;meta submenu click&quot;,null,null,null]">
+                                            Meta
+                                            <span class="item-summary">
+                                                Discuss the workings and policies of this site
+                                            </span>
+                                        </a>
+                                    </li>
+                                <li>
+                                    <a href="https://stackoverflow.co/" class="js-gps-track s-block-link" data-gps-track="help_popup.click({ item_type:6 })"
+                           data-ga="[&quot;top navigation&quot;,&quot;about us submenu click&quot;,null,null,null]">
+                                        About Us
+                                        <span class="item-summary">
+                                            Learn more about Stack Overflow the company, and our products
+                                        </span>
+                                    </a>
+                                </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="https://stackexchange.com" class="s-topbar--item js-site-switcher-button js-gps-track" data-gps-track="site_switcher.show"
+           aria-label="Site switcher"
+           title="A list of all 183 Stack Exchange sites"
+           aria-haspopup="true" aria-expanded="false"
+           data-ga="[&quot;top navigation&quot;,&quot;stack exchange click&quot;,null,null,null]">
+                <svg aria-hidden="true" class="svg-icon iconStackExchange" width="18" height="18"  viewBox="0 0 18 18"><path  d="M15 1H3a2 2 0 0 0-2 2v2h16V3a2 2 0 0 0-2-2M1 13c0 1.1.9 2 2 2h8v3l3-3h1a2 2 0 0 0 2-2v-2H1zm16-7H1v4h16z"/></svg>
+            </a>
+        </li>
+    
+    
+        <li class="js-topbar-dialog-corral">
+                
+
+    <div class="topbar-dialog siteSwitcher-dialog dno" role="menu">
+        <div class="header fw-wrap">
+            <h3 class="flex--item">
+                <a href="https://sports.stackexchange.com">current community</a>
+            </h3>
+            <div class="flex--item fl1">
+                <div class="ai-center d-flex jc-end">
+                    <button
+                        class="js-close-button s-btn s-btn__muted p0 ml8 d-none sm:d-block"
+                        type="button"
+                        aria-label="Close"
+                    >
+                        <svg aria-hidden="true" class="svg-icon iconClear" width="18" height="18"  viewBox="0 0 18 18"><path  d="M15 4.41 13.59 3 9 7.59 4.41 3 3 4.41 7.59 9 3 13.59 4.41 15 9 10.41 13.59 15 15 13.59 10.41 9z"/></svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="modal-content bg-blue-200 current-site-container">
+            <ul class="current-site">
+                    <li class="d-flex">
+                            <div class="fl1">
+                <a href="https://sports.stackexchange.com"  
+       class="current-site-link d-flex gx8 site-link js-gps-track"
+       data-id="411"
+       data-gps-track="site_switcher.click({ item_type:3 })">
+        <div class="favicon favicon-sports site-icon flex--item" title="Sports"></div>
+        <span class="flex--item fl1">
+            Sports
+        </span>
+    </a>
+
+    </div>
+    <div class="related-links">
+            <a href="https://sports.stackexchange.com/help" class="js-gps-track" data-gps-track="site_switcher.click({ item_type:14 })">help</a>
+            <a href="https://chat.stackexchange.com/?tab=all&amp;sort=active" class="js-gps-track" data-gps-track="site_switcher.click({ item_type:6 })">chat</a>
+    </div>
+
+                    </li>
+                    <li class="related-site d-flex">
+                            <div class="L-shaped-icon-container">
+        <span class="L-shaped-icon"></span>
+    </div>
+
+                            <a href="https://sports.meta.stackexchange.com"  
+       class="s-block-link px16 d-flex gx8 site-link js-gps-track"
+       data-id="413"
+       data-gps-track="site.switch({ target_site:413, item_type:3 }),site_switcher.click({ item_type:4 })">
+        <div class="favicon favicon-sportsmeta site-icon flex--item" title="Sports Meta"></div>
+        <span class="flex--item fl1">
+            Sports Meta
+        </span>
+    </a>
+
+                    </li>
+            </ul>
+        </div>
+
+        <div class="header" id="your-communities-header">
+            <h3>
+your communities            </h3>
+
+        </div>
+        <div class="modal-content" id="your-communities-section">
+
+                <div class="call-to-login">
+<a href="https://sports.stackexchange.com/users/signup?ssrc=site_switcher&amp;returnurl=https%3a%2f%2fsports.stackexchange.com%2f" class="login-link js-gps-track" data-gps-track="site_switcher.click({ item_type:10 })">Sign up</a> or <a href="https://sports.stackexchange.com/users/login?ssrc=site_switcher&amp;returnurl=https%3a%2f%2fsports.stackexchange.com%2f" class="login-link js-gps-track" data-gps-track="site_switcher.click({ item_type:11 })">log in</a> to customize your list.                </div>
+        </div>
+
+        <div class="header">
+            <h3><a href="https://stackexchange.com/sites">more stack exchange communities</a>
+            </h3>
+            <a href="https://stackoverflow.blog" class="float-right">company blog</a>
+        </div>
+        <div class="modal-content">
+                <div class="child-content"></div>
+        </div>        
+    </div>
+
+        </li>
+    
+            <li><button class="s-topbar--item s-btn s-btn__icon s-btn__muted d-none sm:d-inline-flex js-searchbar-trigger" aria-label="Search" aria-haspopup="true" aria-controls="search" title="Click to show search"><svg aria-hidden="true" class="svg-icon iconSearch" width="18" height="18"  viewBox="0 0 18 18"><path  d="m18 16.5-5.14-5.18h-.35a7 7 0 1 0-1.19 1.19v.35L16.5 18zM12 7A5 5 0 1 1 2 7a5 5 0 0 1 10 0"/></svg></button></li>
+                        <li>
+                            <a href="https://sports.stackexchange.com/users/login?ssrc=head&returnurl=https%3a%2f%2fsports.stackexchange.com%2f" class="s-topbar--item s-topbar--item__unset s-btn s-btn__outlined ws-nowrap js-gps-track" rel="nofollow"
+                               data-gps-track="login.click" data-ga="[&quot;top navigation&quot;,&quot;login button click&quot;,null,null,null]">Log in</a>
+                        </li>
+                        <li><a href="https://sports.stackexchange.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fsports.stackexchange.com%2f" class="s-topbar--item s-topbar--item__unset ml4 s-btn s-btn__filled ws-nowrap js-signup-button js-gps-track" rel="nofollow" data-gps-track="signup.topbar.click" data-ga="[&quot;sign up&quot;,&quot;Sign Up Navigation&quot;,&quot;Header&quot;,null,null]">Sign up</a></li>
+    </ol>
+</nav>
+
+
+	</div>
+</header>
+
+	<script>
+		StackExchange.ready(function () { StackExchange.topbar.init(); });
+		StackExchange.scrollPadding.setPaddingTop(50, 10); 
+	</script>
+
+
+
+
+        <header class="site-header">
+            <div class="site-header--container">
+            <a class="site-header--link fs-headline1 fw-bold" href="https://sports.stackexchange.com">
+Sports            </a>
+
+            </div>
+        </header>
+
+    <div class="container">
+            <script defer src="https://sports.stackexchange.com/Content/Js/sprinkles/left-nav-events.en.js?v=2ac13fd60bf6"></script>    
+
+
+
+<div id="left-sidebar" data-is-here-when="md lg" class="left-sidebar js-pinned-left-sidebar ps-relative">
+    <div class="left-sidebar--sticky-container js-sticky-leftnav">
+        <nav aria-label="Primary">
+            <ol class="nav-links">
+                <li>
+                    <ol class="nav-links">
+                        
+
+<li class="ps-relative  youarehere"  aria-current="true">
+
+
+    <a
+    href="/"
+    class="s-block-link pl8 js-gps-track nav-links--link -link__with-icon"
+    
+    data-gps-track="top_nav.click({is_current: true, location:1, destination:8,  has_activity_notification:False});home_nav.click({location:1})"
+    aria-controls=" "
+    data-controller="  "
+    data-s-popover-placement="right"
+    data-left-nav-events-navigation-destination-value=""
+    data-left-nav-events-navigation-location-value=""
+    data-left-nav-events-navigation-activity-notification-value=""
+    data-action=""
+    aria-current="page"
+    data-s-popover-auto-show="true" data-s-popover-hide-on-outside-click="never"
+    >
+        <div class="d-flex ai-center">
+<svg aria-hidden="true" class="svg-icon iconHome" width="18" height="18"  viewBox="0 0 18 18"><path  d="M15 10v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-5H0l9-9 9 9zm-8 1v6h4v-6z"/></svg>                <span class="-link--channel-name pl8">Home</span>
+
+        </div>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+                        
+
+<li class="ps-relative"  aria-current="false">
+
+
+    <a id="nav-questions"
+    href="/questions"
+    class="s-block-link pl8 js-gps-track nav-links--link -link__with-icon"
+    
+    data-gps-track="top_nav.click({is_current: false, location:1, destination:1,  has_activity_notification:False})"
+    aria-controls=" "
+    data-controller="  "
+    data-s-popover-placement="right"
+    data-left-nav-events-navigation-destination-value=""
+    data-left-nav-events-navigation-location-value=""
+    data-left-nav-events-navigation-activity-notification-value=""
+    data-action=""
+    aria-current="false"
+    data-s-popover-auto-show="true" data-s-popover-hide-on-outside-click="never"
+    >
+        <div class="d-flex ai-center">
+<svg aria-hidden="true" class="svg-icon iconQuestion" width="18" height="18"  viewBox="0 0 18 18"><path  d="m4 15-3 3V4c0-1.1.9-2 2-2h12c1.09 0 2 .91 2 2v9c0 1.09-.91 2-2 2zm7.75-3.97c.72-.83.98-1.86.98-2.94 0-1.65-.7-3.22-2.3-3.83a4.4 4.4 0 0 0-3.02 0 3.8 3.8 0 0 0-2.32 3.83q0 1.93 1.03 3a3.8 3.8 0 0 0 2.85 1.07q.94 0 1.71-.34.97.66 1.06.7.34.2.7.3l.59-1.13a5 5 0 0 1-1.28-.66m-1.27-.9a5 5 0 0 0-1.5-.8l-.45.9q.5.18.98.5-.3.1-.65.11-.92 0-1.52-.68c-.86-1-.86-3.12 0-4.11.8-.9 2.35-.9 3.15 0 .9 1.01.86 3.03-.01 4.08"/></svg>                <span class="-link--channel-name pl8">Questions</span>
+
+        </div>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+                            
+
+<li class="ps-relative"  aria-current="false">
+
+
+    <a id="nav-unanswered"
+    href="/unanswered"
+    class="s-block-link pl8 js-gps-track nav-links--link -link__with-icon"
+    
+    data-gps-track="top_nav.click({is_current: false, location:1, destination:5,  has_activity_notification:False})"
+    aria-controls=" "
+    data-controller="  "
+    data-s-popover-placement="right"
+    data-left-nav-events-navigation-destination-value=""
+    data-left-nav-events-navigation-location-value=""
+    data-left-nav-events-navigation-activity-notification-value=""
+    data-action=""
+    aria-current="false"
+    data-s-popover-auto-show="true" data-s-popover-hide-on-outside-click="never"
+    >
+        <div class="d-flex ai-center">
+<svg aria-hidden="true" class="svg-icon iconAnswer" width="18" height="18"  viewBox="0 0 18 18"><path  d="M14 15H3c-1.09 0-2-.91-2-2V4c0-1.1.9-2 2-2h12c1.09 0 2 .91 2 2v14zm-1.02-3L9.82 4H8.14l-3.06 8h1.68l.65-1.79h3.15l.69 1.79zm-2.93-3.12H7.9l1.06-2.92z"/></svg>                <span class="-link--channel-name pl8">Unanswered</span>
+
+        </div>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+                            
+
+<li class="ps-relative"  aria-current="false">
+
+
+    <a id="nav-askstack"
+    href="https://stackoverflow.com/ai-assist"
+    class="s-block-link h32 pl8 ai-center js-disable-askstack-new-link js-gps-track nav-links--link -link__with-icon"
+    
+    data-gps-track="top_nav.click({is_current: false, location:1, destination:33,  has_activity_notification:False})"
+    aria-controls=" "
+    data-controller="  "
+    data-s-popover-placement="right"
+    data-left-nav-events-navigation-destination-value=""
+    data-left-nav-events-navigation-location-value=""
+    data-left-nav-events-navigation-activity-notification-value=""
+    data-action=""
+    aria-current="false"
+    data-s-popover-auto-show="true" data-s-popover-hide-on-outside-click="never"
+    >
+        <div class="d-flex ai-center">
+<div class="d-flex ai-center mln8 mrn8 myn8 bg-purple-400 baw3 bas-solid bc-purple-200 bar-circle fc-white p4"><svg aria-hidden="true" class="fc-white bg-transparent h16 w16 svg-icon iconAnswerAI" width="18" height="18"  viewBox="0 0 18 18"><path  d="M15 1a2 2 0 0 1 2 2v14l-3-3H3c-1.09 0-2-.91-2-2V3c0-1.09.91-2 2-2zM8.2 4.13a.2.2 0 0 0-.37 0l-.57 1.31a3.5 3.5 0 0 1-1.82 1.82l-1.3.57a.2.2 0 0 0 0 .36l1.3.57c.82.35 1.47 1 1.82 1.82l.57 1.3c.07.17.3.17.36 0l.57-1.3a3.5 3.5 0 0 1 1.82-1.82l1.3-.57a.2.2 0 0 0 0-.36l-1.3-.57a3.5 3.5 0 0 1-1.82-1.82zm4.9-1.07a.1.1 0 0 0-.2 0l-.28.66c-.17.4-.5.73-.9.9l-.66.29a.1.1 0 0 0 0 .18l.66.29c.4.17.73.5.9.9l.29.66a.1.1 0 0 0 .18 0l.29-.66c.17-.4.5-.73.9-.9l.66-.29a.1.1 0 0 0 0-.18l-.66-.29c-.4-.17-.73-.5-.9-.9z"/></svg></div>                <span class="-link--channel-name pl8">AI Assist</span>
+
+        </div>
+    </a>
+</li>
+
+
+
+
+
+    <script>
+        $('.js-disable-askstack-new-link').on("click", function(e) {
+            StackExchange.helpers.toggleAccountPreferenceFlags(4194304, true);
+            return true;
+        });
+    </script>
+
+
+
+
+                        
+
+<li class="ps-relative"  aria-current="false">
+
+
+    <a
+    href="/tags"
+    class="s-block-link pl8 js-gps-track nav-links--link -link__with-icon"
+    
+    data-gps-track="top_nav.click({is_current: false, location:1, destination:2,  has_activity_notification:False})"
+    aria-controls=" "
+    data-controller="  "
+    data-s-popover-placement="right"
+    data-left-nav-events-navigation-destination-value=""
+    data-left-nav-events-navigation-location-value=""
+    data-left-nav-events-navigation-activity-notification-value=""
+    data-action=""
+    aria-current="false"
+    data-s-popover-auto-show="true" data-s-popover-hide-on-outside-click="never"
+    >
+        <div class="d-flex ai-center">
+<svg aria-hidden="true" class="svg-icon iconTags" width="18" height="18"  viewBox="0 0 18 18"><path  d="M9.24 1a3 3 0 0 0-2.12.88l-5.7 5.7a2 2 0 0 0-.38 2.31 3 3 0 0 1 .67-1.01l6-6A3 3 0 0 1 9.83 2H14a3 3 0 0 1 .79.1A2 2 0 0 0 13 1z" opacity=".4"/><path  d="M9.83 3a2 2 0 0 0-1.42.59l-6 6a2 2 0 0 0 0 2.82L6.6 16.6a2 2 0 0 0 2.82 0l6-6A2 2 0 0 0 16 9.17V5a2 2 0 0 0-2-2zM12 9a2 2 0 1 1 0-4 2 2 0 0 1 0 4"/></svg>                <span class="-link--channel-name pl8">Tags</span>
+
+        </div>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+                        <li class="pb24"></li>
+
+
+                            <li class="ps-relative">
+                                <a id="nav-chat"
+                                href=https://chat.stackexchange.com/rooms/158962/stack-exchange-lobby
+                                class="s-block-link pl8 ai-center js-disable-chat-new-link js-ch-popover-controller js-gps-track nav-links--link -link__with-icon"
+                                aria-expanded="true"
+                                aria-current="false"
+                                data-gps-track="chat.click({ is_registered:false, rep_bucket:'new', origin:'Sports Stack Exchange' })"
+                                data-controller=" "
+                                >
+                                    <div class="d-flex ai-center">
+                                        <div class="d-flex ai-center mln8 mrn8 myn8 bg-purple-400 baw3 bas-solid bc-purple-200 bar-circle fc-white p4"><svg aria-hidden="true" class="fc-white bg-transparent  svg-icon iconChatTest" width="18" height="18"  viewBox="0 0 18 16"><path d="M17 3C17 1.89543 16.1046 1 15 1H7C5.89543 1 5 1.89543 5 3V5C5 6.10457 5.89543 7 7 7H15C16.1046 7 17 6.10457 17 5V3ZM7 3H15V5H7V3Z" /><path d="M17 10C17 8.89543 16.1046 8 15 8H7C5.89543 8 5 8.89543 5 10V14C5 15.1046 5.89543 16 7 16H15C16.1046 16 17 15.1046 17 14V10ZM7 10H15V14H7V10Z" /><path d="M1 9C1 8.44771 1.44772 8 2 8H3C3.55228 8 4 8.44772 4 9V10C4 10.5523 3.55228 11 3 11H2C1.44772 11 1 10.5523 1 10V9Z" /><path d="M2 1C1.44772 1 1 1.44772 1 2V3C1 3.55228 1.44772 4 2 4H3C3.55228 4 4 3.55228 4 3V2C4 1.44772 3.55228 1 3 1H2Z" /></svg></div>
+                                    </div>
+                                    <span class="-link--channel-name pl8">Chat</span>
+                                   </a>
+                            </li>
+
+
+                        
+
+<li class="ps-relative"  aria-current="false">
+
+
+    <a id="nav-users"
+    href="/users"
+    class="s-block-link pl8 js-gps-track nav-links--link -link__with-icon"
+    
+    data-gps-track="top_nav.click({is_current: false, location:1, destination:3,  has_activity_notification:False})"
+    aria-controls=" "
+    data-controller="  "
+    data-s-popover-placement="right"
+    data-left-nav-events-navigation-destination-value=""
+    data-left-nav-events-navigation-location-value=""
+    data-left-nav-events-navigation-activity-notification-value=""
+    data-action=""
+    aria-current="false"
+    data-s-popover-auto-show="true" data-s-popover-hide-on-outside-click="never"
+    >
+        <div class="d-flex ai-center">
+<svg aria-hidden="true" class="svg-icon iconPeople" width="18" height="18"  viewBox="0 0 18 18"><path  d="M17 14c0 .44-.45 1-1 1H9a1 1 0 0 1-1-1H2c-.54 0-1-.56-1-1 0-2.63 3-4 3-4s.23-.4 0-1c-.84-.62-1.06-.59-1-3s1.37-3 2.5-3 2.44.58 2.5 3-.16 2.38-1 3c-.23.59 0 1 0 1s1.55.71 2.42 2.09c.78-.72 1.58-1.1 1.58-1.1s.23-.4 0-1c-.84-.61-1.06-.58-1-3s1.37-3 2.5-3 2.44.59 2.5 3c.05 2.42-.16 2.39-1 3-.23.6 0 1 0 1s3 1.38 3 4"/></svg>                <span class="-link--channel-name pl8">Users</span>
+
+        </div>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+                        <li class="pb24"></li>
+
+
+
+
+                    </ol>
+                </li>
+
+                
+
+        
+
+<li class="js-freemium-cta ps-relative mt32 mb8">
+
+
+    <div class="fs-fine tt-uppercase fc-black-600 fw-bold ml8 mt16 mb8">Stack Internal</div>
+
+    <div class="px8 pt12 pb4 mb12 fc-medium overflow-hidden">        
+        <svg aira-hidden="true" class="svg-icon d-block w100 h-auto mb12" height="19" viewBox="0 0 140 19" width="140"><path d="m69.5 6.48047-4.667 4.66603-2.333-2.33302v-2.33301l2.333 2.33301 4.667-4.66602z"/><path d="m72.4971 1.14648c.8282.00028 1.5.67274 1.5 1.50098v11.50004l.0029 1.5918-.0039.1162c-.0819 1.1463-1.3924 1.7776-2.3399 1.1269l-.0937-.0693-3.4561-2.7656h-8.5986v-1.4981h-1.5019v-10.00194c0-.77642.5906-1.41508 1.3466-1.49219l.1534-.00879zm-12.9912 11.50102h9.1269l.4102.3291 3.457 2.7656-.0029-1.5918v-11.50294h-12.9912z"/><path d="m90.5 16.647h16.5v1.5h-18v-17.995145h1.5z"/><path d="m97 15.147h-5v-8.00003h5zm-3.5-1.5h2v-5.00003h-2z"/><path d="m102.494 3.64209h1.506v11.50491h-5v-13.00003h3.494zm-1.994 10.00491h2v-10.00003h-2z"/><path d="m34.9473 6.76648-1.3789 1.38769-1.378-1.38769 1.378-1.3877z"/><path d="m35.2119 1.11023c.4614.00007.9048.18196 1.2324.50684l7.1387 7.08007-1.0605 1.06153 1.0615 1.06053-5.5957 5.6836c-.6762.6868-1.7803.6979-2.4697.0244l-6.9913-6.83201c-.3369-.32927-.5273-.78082-.5273-1.25195v-5.78711c0-.85366.6922-1.5459 1.5459-1.5459zm-5.666 1.5c-.0252 0-.0459.02067-.0459.0459v5.78711c0 .06722.0272.13168.0752.17871l6.9922 6.83205c.0985.096.256.095.3525-.003l5.6035-5.69331-7.1357-7.07519c-.0467-.04625-.11-.0722-.1758-.07227z"/><path d="m11.9995 6.24072v9.23828c-.0003.8629-.6558 1.5736-1.4961 1.6592l-.1709.0088h-8.80473v-1.5h8.80473c.0921-.0002.1667-.0759.167-.168v-9.33203h-3.64263v-3.5h-5.19043c-.09187.00032-.1666.07514-.16699.16699v12.83304h-1.49999932v-12.83304c.00039166-.92028.74669232-1.66667 1.66698932-1.66699h5.33008z"/><path d="m9.21039 13.647h-6.20996v-1.5h6.20996z"/><path d="m9.21039 10.647h-6.20996v-1.50003h6.20996z"/><path d="m5.21625 7.64697h-2.21582v-1.5h2.21582z"/><path d="m124.417 1.22765c1.305-1.3049487 3.422-1.3050445 4.728 0 .739.73976 1.059 1.74043.96 2.70605.966-.09884 1.967.22211 2.707.96191 1.305 1.30543 1.306 3.42196 0 4.72754l-6.668 6.66895 1.332 1.332c.292.2928.292.7677 0 1.0606-.293.2927-.768.2928-1.061 0l-1.509-1.5088c-.488-.4881-.488-1.2794 0-1.7676l6.846-6.84569c.719-.7198.718-1.88681-.001-2.60645-.72-.71944-1.887-.71944-2.606 0l-5.52 5.51954c-.293.2927-.768.2928-1.061 0-.292-.2928-.292-.7676 0-1.0606l5.52-5.51949c.719-.71968.719-1.8867 0-2.60644-.72-.71944-1.887-.71944-2.606 0l-7.198 7.19726c-.293.29274-.767.29262-1.06 0-.293-.29287-.293-.76764 0-1.06054z"/><path d="m126.277 3.088c.293-.29232.768-.29236 1.061 0 .293.29274.292.76761 0 1.06054l-5.44 5.43946c-.704.705-.703 1.8489.001 2.5537.705.7043 1.848.7045 2.553 0l5.439-5.43945c.293-.29255.768-.29278 1.061 0 .292.29278.292.76776 0 1.06055l-5.439 5.4395c-1.291 1.2902-3.383 1.2901-4.674 0-1.291-1.2907-1.292-3.3841-.001-4.67485z"/></svg>
+        
+        <p class="fs-fine">
+            Stack Overflow for Teams is now called <strong>Stack Internal</strong>. Bring the best of human thought and AI automation together at your work.
+        </p>
+        <a href="https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=sports-community&utm_campaign=side-bar&utm_content=explore-teams"
+           class="w100 s-btn s-btn__filled s-btn__xs js-gps-track pt8 pr7 pb6 pl7"
+           data-gps-track="teams.create.left-sidenav.click({ Action: 6 })"
+           data-ga="[&quot;teams left navigation - anonymous&quot;,&quot;left nav free cta&quot;,&quot;stackoverflow.com/teams/create/free&quot;,null,null]">Try for free</a>
+        <a href="https://stackoverflow.co/internal/?utm_medium=referral&utm_source=sports-community&utm_campaign=side-bar&utm_content=explore-teams"
+           class="w100 s-btn s-btn__muted s-btn__xs mt1 js-gps-track"
+           data-gps-track="teams.create.left-sidenav.click({ Action: 5 })"
+           data-ga="[&quot;teams left navigation - anonymous&quot;,&quot;left nav free cta&quot;,&quot;stackoverflow.com/teams&quot;,null,null]">Learn more</a>
+    </div>
+</li>
+
+
+    <li class="d-flex ai-center jc-space-between ml8 mt32 mb8 js-create-team-cta d-none">
+
+        <a href="javascript:void(0)"
+            class="s-link d-flex fl-grow1 fc-black-400 h:fc-black-600 fs-fine js-gps-track"
+            role="button"
+            aria-controls="popover-teams-create-cta"
+            data-controller="s-popover"
+            data-action="s-popover#toggle"
+            data-s-popover-placement="bottom-start"
+            data-s-popover-toggle-class="is-selected"
+            data-gps-track="teams.create.left-sidenav.click({ Action: ShowInfo })"
+            data-ga="[&quot;teams left navigation - anonymous&quot;,&quot;left nav show teams info&quot;,null,null,null]"
+         >
+            <div class="flex--item fl-grow1 fc-black-600 fw-bold tt-uppercase">Stack Internal</div>
+            <div class="flex--item px12">
+                <svg aria-hidden="true" class="svg-icon iconPlusSm" width="14" height="14"  viewBox="0 0 14 14"><path  d="M8 2H6v4H2v2h4v4h2V8h4V6H8z"/></svg>
+            </div>
+        </a>
+    </li>
+    <li class="ps-relative js-create-team-cta d-none">
+        <p class="fs-fine pr8 pl8 pb4 fc-black-400">
+            Bring the best of human thought and AI automation together at your work.
+            <a href="https://stackoverflow.co/internal/?utm_medium=referral&utm_source=sports-community&utm_campaign=side-bar&utm_content=explore-teams-compact" class="s-link s-link__grayscale s-link__underlined fw-bold">Learn more</a>
+        </p>
+    </li> 
+
+            </ol>
+        </nav>
+    </div>
+
+
+
+        <div class="s-popover ws2"
+        id="popover-teams-create-cta"
+        role="menu"
+        aria-hidden="true">
+            <div class="s-popover--arrow"></div>
+
+            <div class="ps-relative overflow-hidden">
+                <p class="mb2"><strong>Stack Internal</strong></p>
+                <p class="mb12 fs-caption fc-black-400">Knowledge at work</p>
+                <p class="mb12 fs-caption fc-black-500">Bring the best of human thought and AI automation together at your work.</p>
+                <a href="https://stackoverflow.co/internal/?utm_medium=referral&utm_source=sports-community&utm_campaign=side-bar&utm_content=explore-teams-compact-popover"
+                class="js-gps-track s-btn s-btn__filled s-btn__xs"
+                data-gps-track="teams.create.left-sidenav.click({ Action: CtaClick })"
+                data-ga="[&quot;teams left navigation - anonymous&quot;,&quot;left nav cta&quot;,&quot;stackoverflow.com/teams&quot;,null,null]">
+                    Explore Stack Internal
+                </a>
+            </div>
+
+            <div class="ps-absolute t8 r8">
+                <svg aria-hidden="true" class="fc-orange-400 svg-spot spotPeople" width="48" height="48"  viewBox="0 0 48 48"><path  d="M13.5 28a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9M7 30a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v5h11v-5a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2H33v5a1 1 0 0 1-1 1H20a1 1 0 0 1-1-1v-5H8a1 1 0 0 1-1-1zm25-6.5a4.5 4.5 0 1 0 9 0 4.5 4.5 0 0 0-9 0M24.5 34a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9" opacity=".2"/><path  d="M16.4 26.08A6 6 0 1 0 7.53 26C5.64 26.06 4 27.52 4 29.45V40a1 1 0 0 0 1 1h9a1 1 0 1 0 0-2h-4v-7a1 1 0 1 0-2 0v7H6v-9.55c0-.73.67-1.45 1.64-1.45H16a1 1 0 0 0 .4-1.92M12 18a4 4 0 1 1 0 8 4 4 0 0 1 0-8m16.47 14a6 6 0 1 0-8.94 0A3.6 3.6 0 0 0 16 35.5V46a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V35.5c0-1.94-1.64-3.42-3.53-3.5M20 28a4 4 0 1 1 8 0 4 4 0 0 1-8 0m-.3 6h8.6c1 0 1.7.75 1.7 1.5V45h-2v-7a1 1 0 1 0-2 0v7h-4v-7a1 1 0 1 0-2 0v7h-2v-9.5c0-.75.7-1.5 1.7-1.5M42 22c0 1.54-.58 2.94-1.53 4A3.5 3.5 0 0 1 44 29.45V40a1 1 0 0 1-1 1h-9a1 1 0 1 1 0-2h4v-7a1 1 0 1 1 2 0v7h2v-9.55A1.5 1.5 0 0 0 40.48 28H32a1 1 0 0 1-.4-1.92A6 6 0 1 1 42 22m-2 0a4 4 0 1 0-8 0 4 4 0 0 0 8 0"/><g  opacity=".35"><path d="M17 10a1 1 0 011-1h12a1 1 0 110 2H18a1 1 0 01-1-1m1-5a1 1 0 100 2h12a1 1 0 100-2zM14 1a1 1 0 00-1 1v12a1 1 0 001 1h5.09l4.2 4.2a1 1 0 001.46-.04l3.7-4.16H34a1 1 0 001-1V2a1 1 0 00-1-1zm1 12V3h18v10h-5a1 1 0 00-.75.34l-3.3 3.7-3.74-3.75a1 1 0 00-.71-.29z"/></g></svg>
+            </div>
+        </div>
+
+
+
+
+</div>
+
+
+
+        <div id="content" class="">
+
+            
+<div class="inner-content">
+    <div id="mainbar">
+        
+        
+
+        <div class="d-flex">
+            <h1 class="flex--item fl1 fs-headline1">
+                Explore our questions
+            </h1>
+            <div class="ml12 aside-cta flex--item print:d-none">
+                    <a href="/questions/ask" class="ws-nowrap s-btn s-btn__filled">
+        Ask Question
+    </a>
+
+            </div>
+        </div>
+    <div class="d-flex ai-end mb16 sm:fd-column">
+        <div class="flex--item fl1 fs-body1 sm:mb16">
+            <a href="/?tags=rules" class="s-tag post-tag no-tag-menu" title="Show questions relating to rules" aria-label="Show questions relating to rules" rel="tag" aria-labelledby="tag-rules-tooltip-container" data-tag-menu-origin="Unknown">rules</a><a href="/?tags=football" class="s-tag post-tag no-tag-menu" title="Show questions relating to football" aria-label="Show questions relating to football" rel="tag" aria-labelledby="tag-football-tooltip-container" data-tag-menu-origin="Unknown">football</a><a href="/?tags=cricket" class="s-tag post-tag no-tag-menu" title="Show questions relating to cricket" aria-label="Show questions relating to cricket" rel="tag" aria-labelledby="tag-cricket-tooltip-container" data-tag-menu-origin="Unknown">cricket</a><a href="/?tags=baseball" class="s-tag post-tag no-tag-menu" title="Show questions relating to baseball" aria-label="Show questions relating to baseball" rel="tag" aria-labelledby="tag-baseball-tooltip-container" data-tag-menu-origin="Unknown">baseball</a><a href="/?tags=trivia" class="s-tag post-tag no-tag-menu" title="Show questions relating to trivia" aria-label="Show questions relating to trivia" rel="tag" aria-labelledby="tag-trivia-tooltip-container" data-tag-menu-origin="Unknown">trivia</a><a href="/?tags=american-football" class="s-tag post-tag no-tag-menu" title="Show questions relating to american-football" aria-label="Show questions relating to american-football" rel="tag" aria-labelledby="tag-american-football-tooltip-container" data-tag-menu-origin="Unknown">american-football</a><a href="/?tags=basketball" class="s-tag post-tag no-tag-menu" title="Show questions relating to basketball" aria-label="Show questions relating to basketball" rel="tag" aria-labelledby="tag-basketball-tooltip-container" data-tag-menu-origin="Unknown">basketball</a><a href="/?tags=tennis" class="s-tag post-tag no-tag-menu" title="Show questions relating to tennis" aria-label="Show questions relating to tennis" rel="tag" aria-labelledby="tag-tennis-tooltip-container" data-tag-menu-origin="Unknown">tennis</a><a href="/?tags=officiating" class="s-tag post-tag no-tag-menu" title="Show questions relating to officiating" aria-label="Show questions relating to officiating" rel="tag" aria-labelledby="tag-officiating-tooltip-container" data-tag-menu-origin="Unknown">officiating</a><a href="/?tags=nfl" class="s-tag post-tag no-tag-menu" title="Show questions relating to nfl" aria-label="Show questions relating to nfl" rel="tag" aria-labelledby="tag-nfl-tooltip-container" data-tag-menu-origin="Unknown">nfl</a>        <a class="more-tags" href="/tags">more&nbsp;tags</a>
+
+        </div>
+        <div class="flex--item ml16 fl-shrink0">
+            <div class=" s-btn-group js-filter-btn" >
+        <a
+            href="?tab=active"
+            class="flex--item s-btn s-btn__muted js-sort-preference-change"
+            title="Questions that have been asked, answered, or updated recently"
+            data-nav-xhref=""
+            data-shortcut="A"
+            data-value="active">
+            <span class="s-btn--text" data-text="Active">Active</span>
+        </a>
+        <a
+            href="?tab=hot"
+            class="flex--item s-btn s-btn__muted js-sort-preference-change"
+            title="Questions with the most views, most answers, and highest score over the last few days"
+            data-nav-xhref=""
+            data-shortcut="H"
+            data-value="hot">
+            <span class="s-btn--text" data-text="Hot">Hot</span>
+        </a>
+        <a
+            href="?tab=week"
+            class="flex--item s-btn s-btn__muted js-sort-preference-change"
+            title="Questions with the most views, most answers, and highest score this week"
+            data-nav-xhref=""
+            data-shortcut="W"
+            data-value="week">
+            <span class="s-btn--text" data-text="Week">Week</span>
+        </a>
+        <a
+            href="?tab=month"
+            class="flex--item s-btn s-btn__muted js-sort-preference-change"
+            title="Questions with the most views, most answers, and highest score this month"
+            data-nav-xhref=""
+            data-shortcut="M"
+            data-value="month">
+            <span class="s-btn--text" data-text="Month">Month</span>
+        </a>
+</div>
+
+        </div>
+    </div>
+
+
+<div id="qlist-wrapper" class="flush-left">
+    <div id="question-mini-list">
+        <div>
+                            
+
+        <div id="question-summary-30180"
+            class="s-post-summary    js-post-summary"
+            data-post-id="30180"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 2">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                2
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="77 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                77
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/30180/a-technical-question-regarding-forward-passes-in-rugby" class="s-link">A technical question regarding forward passes in rugby</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-rugby-union t-rugby t-rugby-league">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/rugby-union" class="s-tag post-tag flex--item mt0 js-tagname-rugby-union" title="show questions tagged &#39;rugby-union&#39;" aria-label="show questions tagged &#39;rugby-union&#39;" rel="tag" aria-labelledby="tag-rugby-union-tooltip-container" data-tag-menu-origin="Unknown">rugby-union</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/rugby" class="s-tag post-tag flex--item mt0 js-tagname-rugby" title="show questions tagged &#39;rugby&#39;" aria-label="show questions tagged &#39;rugby&#39;" rel="tag" aria-labelledby="tag-rugby-tooltip-container" data-tag-menu-origin="Unknown">rugby</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/rugby-league" class="s-tag post-tag flex--item mt0 js-tagname-rugby-league" title="show questions tagged &#39;rugby-league&#39;" aria-label="show questions tagged &#39;rugby-league&#39;" rel="tag" aria-labelledby="tag-rugby-league-tooltip-container" data-tag-menu-origin="Unknown">rugby-league</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/30180/a-technical-question-regarding-forward-passes-in-rugby?lastactivity" class="s-link s-link__muted">modified <span title='2025-12-04 17:02:45Z' class='relativetime'>3 hours ago</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-29115"
+            class="s-post-summary    js-post-summary"
+            data-post-id="29115"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 0">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                0
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="219 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                219
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/29115/how-do-you-compare-nfl-betting-lines" class="s-link">How do you compare NFL betting lines?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-american-football t-nfl t-betting">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/american-football" class="s-tag post-tag flex--item mt0 js-tagname-american-football" title="show questions tagged &#39;american-football&#39;" aria-label="show questions tagged &#39;american-football&#39;" rel="tag" aria-labelledby="tag-american-football-tooltip-container" data-tag-menu-origin="Unknown">american-football</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/nfl" class="s-tag post-tag flex--item mt0 js-tagname-nfl" title="show questions tagged &#39;nfl&#39;" aria-label="show questions tagged &#39;nfl&#39;" rel="tag" aria-labelledby="tag-nfl-tooltip-container" data-tag-menu-origin="Unknown">nfl</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/betting" class="s-tag post-tag flex--item mt0 js-tagname-betting" title="show questions tagged &#39;betting&#39;" aria-label="show questions tagged &#39;betting&#39;" rel="tag" aria-labelledby="tag-betting-tooltip-container" data-tag-menu-origin="Unknown">betting</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/29115/how-do-you-compare-nfl-betting-lines?lastactivity" class="s-link s-link__muted">modified <span title='2025-12-02 18:05:35Z' class='relativetime'>2 days ago</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-29954"
+            class="s-post-summary    js-post-summary"
+            data-post-id="29954"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 1">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">vote</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="229 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                229
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/29954/what-is-the-difference-of-masters-and-open-in-badminton-competitions" class="s-link">What is the difference of &#39;masters&#39; and &#39;open&#39; in badminton competitions?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-badminton">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/badminton" class="s-tag post-tag flex--item mt0 js-tagname-badminton" title="show questions tagged &#39;badminton&#39;" aria-label="show questions tagged &#39;badminton&#39;" rel="tag" aria-labelledby="tag-badminton-tooltip-container" data-tag-menu-origin="Unknown">badminton</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/29954/what-is-the-difference-of-masters-and-open-in-badminton-competitions?lastactivity" class="s-link s-link__muted">modified <span title='2025-12-02 10:04:00Z' class='relativetime'>2 days ago</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-27720"
+            class="s-post-summary    js-post-summary"
+            data-post-id="27720"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 0">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                0
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="134 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                134
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/27720/are-you-out-if-a-bat-slips-from-your-hand-and-flies-into-the-striker-s-wicket" class="s-link">Are you out if a bat slips from your hand and flies into the striker’s wicket?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-cricket">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/cricket" class="s-tag post-tag flex--item mt0 js-tagname-cricket" title="show questions tagged &#39;cricket&#39;" aria-label="show questions tagged &#39;cricket&#39;" rel="tag" aria-labelledby="tag-cricket-tooltip-container" data-tag-menu-origin="Unknown">cricket</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/27720/are-you-out-if-a-bat-slips-from-your-hand-and-flies-into-the-striker-s-wicket?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-28 11:09:30Z' class='relativetime'>Nov 28 at 11:09</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-29091"
+            class="s-post-summary    js-post-summary"
+            data-post-id="29091"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -2">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                -2
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="3 answers">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                3
+            </span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="291 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                291
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/29091/how-many-different-mvp-awards-are-there-in-the-nba" class="s-link">How many different MVP awards are there in the NBA?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-basketball t-nba t-awards">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/basketball" class="s-tag post-tag flex--item mt0 js-tagname-basketball" title="show questions tagged &#39;basketball&#39;" aria-label="show questions tagged &#39;basketball&#39;" rel="tag" aria-labelledby="tag-basketball-tooltip-container" data-tag-menu-origin="Unknown">basketball</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/nba" class="s-tag post-tag flex--item mt0 js-tagname-nba" title="show questions tagged &#39;nba&#39;" aria-label="show questions tagged &#39;nba&#39;" rel="tag" aria-labelledby="tag-nba-tooltip-container" data-tag-menu-origin="Unknown">nba</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/awards" class="s-tag post-tag flex--item mt0 js-tagname-awards" title="show questions tagged &#39;awards&#39;" aria-label="show questions tagged &#39;awards&#39;" rel="tag" aria-labelledby="tag-awards-tooltip-container" data-tag-menu-origin="Unknown">awards</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/36213/jimmy" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="36213">        <div class="gravatar-wrapper-16">
+            <img src="https://i.sstatic.net/kEgkFL0b.png?s=32" alt="Jimmy&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/36213/jimmy" class="flex--item"><span itemprop="name">Jimmy</span></a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/29091/how-many-different-mvp-awards-are-there-in-the-nba?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-28 08:47:18Z' class='relativetime'>Nov 28 at 8:47</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-30199"
+            class="s-post-summary    js-post-summary"
+            data-post-id="30199"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 7">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                7
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="2 answers">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                2
+            </span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="989 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                989
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/30199/when-exactly-does-the-game-clock-start-during-an-american-football-kickoff" class="s-link">When exactly does the game clock start during an American football kickoff?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-american-football t-nfl t-game-time">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/american-football" class="s-tag post-tag flex--item mt0 js-tagname-american-football" title="show questions tagged &#39;american-football&#39;" aria-label="show questions tagged &#39;american-football&#39;" rel="tag" aria-labelledby="tag-american-football-tooltip-container" data-tag-menu-origin="Unknown">american-football</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/nfl" class="s-tag post-tag flex--item mt0 js-tagname-nfl" title="show questions tagged &#39;nfl&#39;" aria-label="show questions tagged &#39;nfl&#39;" rel="tag" aria-labelledby="tag-nfl-tooltip-container" data-tag-menu-origin="Unknown">nfl</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/game-time" class="s-tag post-tag flex--item mt0 js-tagname-game-time" title="show questions tagged &#39;game-time&#39;" aria-label="show questions tagged &#39;game-time&#39;" rel="tag" aria-labelledby="tag-game-time-tooltip-container" data-tag-menu-origin="Unknown">game-time</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/36207/mike-a" class="s-avatar s-avatar__16 s-user-card--avatar" data-user-id="36207">        <div class="gravatar-wrapper-16">
+            <img src="https://lh3.googleusercontent.com/a/AEdFTp5iH5jVKq3zfGEtrm0B4iVhzKdv_b1lcWXes3La4A=k-s32" alt="Mike A&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/36207/mike-a" class="flex--item"><span itemprop="name">Mike A</span></a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/30199/when-exactly-does-the-game-clock-start-during-an-american-football-kickoff?lastactivity" class="s-link s-link__muted">answered <span title='2025-11-28 01:28:27Z' class='relativetime'>Nov 28 at 1:28</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-29877"
+            class="s-post-summary    js-post-summary"
+            data-post-id="29877"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 1">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">vote</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="108 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                108
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/29877/where-can-we-find-these-diamond-layouts-for-active-rosters" class="s-link">Where can we find these diamond layouts for active rosters?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-mlb">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/mlb" class="s-tag post-tag flex--item mt0 js-tagname-mlb" title="show questions tagged &#39;mlb&#39;" aria-label="show questions tagged &#39;mlb&#39;" rel="tag" aria-labelledby="tag-mlb-tooltip-container" data-tag-menu-origin="Unknown">mlb</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/29877/where-can-we-find-these-diamond-layouts-for-active-rosters?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-26 23:00:55Z' class='relativetime'>Nov 26 at 23:00</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-29741"
+            class="s-post-summary    js-post-summary"
+            data-post-id="29741"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 0">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                0
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="97 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                97
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/29741/how-does-a-frisbee-compare-to-disc-golf-discs" class="s-link">How does a frisbee compare to disc golf discs</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-disc-golf">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/disc-golf" class="s-tag post-tag flex--item mt0 js-tagname-disc-golf" title="show questions tagged &#39;disc-golf&#39;" aria-label="show questions tagged &#39;disc-golf&#39;" rel="tag" aria-labelledby="tag-disc-golf-tooltip-container" data-tag-menu-origin="Unknown">disc-golf</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/29741/how-does-a-frisbee-compare-to-disc-golf-discs?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-26 22:01:05Z' class='relativetime'>Nov 26 at 22:01</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-29805"
+            class="s-post-summary    js-post-summary"
+            data-post-id="29805"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 1">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">vote</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="101 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                101
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/29805/why-are-test-matches-ending-in-more-wins-and-losses-on-tougher-pitches-compared" class="s-link">Why Are Test Matches Ending in More Wins and Losses on Tougher Pitches Compared to the Past?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-cricket t-statistics">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/cricket" class="s-tag post-tag flex--item mt0 js-tagname-cricket" title="show questions tagged &#39;cricket&#39;" aria-label="show questions tagged &#39;cricket&#39;" rel="tag" aria-labelledby="tag-cricket-tooltip-container" data-tag-menu-origin="Unknown">cricket</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/statistics" class="s-tag post-tag flex--item mt0 js-tagname-statistics" title="show questions tagged &#39;statistics&#39;" aria-label="show questions tagged &#39;statistics&#39;" rel="tag" aria-labelledby="tag-statistics-tooltip-container" data-tag-menu-origin="Unknown">statistics</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/29805/why-are-test-matches-ending-in-more-wins-and-losses-on-tougher-pitches-compared?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-23 05:03:55Z' class='relativetime'>Nov 23 at 5:03</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-17324"
+            class="s-post-summary    js-post-summary"
+            data-post-id="17324"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 3">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                3
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers has-accepted-answer" title="one of the answers was accepted as the correct answer">
+<svg aria-hidden="true" class="svg-icon iconCheckmarkSm" width="14" height="14"  viewBox="0 0 14 14"><path  d="M13 3.41 11.59 2 5 8.59 2.41 6 1 7.41l4 4z"/></svg>            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                2
+            </span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item is-warm" title="6664 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                7k
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/17324/nfl-fields-missing-team-logo" class="s-link">NFL fields missing team logo</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-trivia t-american-football t-nfl">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/trivia" class="s-tag post-tag flex--item mt0 js-tagname-trivia" title="show questions tagged &#39;trivia&#39;" aria-label="show questions tagged &#39;trivia&#39;" rel="tag" aria-labelledby="tag-trivia-tooltip-container" data-tag-menu-origin="Unknown">trivia</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/american-football" class="s-tag post-tag flex--item mt0 js-tagname-american-football" title="show questions tagged &#39;american-football&#39;" aria-label="show questions tagged &#39;american-football&#39;" rel="tag" aria-labelledby="tag-american-football-tooltip-container" data-tag-menu-origin="Unknown">american-football</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/nfl" class="s-tag post-tag flex--item mt0 js-tagname-nfl" title="show questions tagged &#39;nfl&#39;" aria-label="show questions tagged &#39;nfl&#39;" rel="tag" aria-labelledby="tag-nfl-tooltip-container" data-tag-menu-origin="Unknown">nfl</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/9578/bowlofred" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="9578">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/e1b95b7e493f2a2ae9ccc4926a9de771?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2" alt="BowlOfRed&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/9578/bowlofred" class="flex--item"><span itemprop="name">BowlOfRed</span></a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">7,570</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/17324/nfl-fields-missing-team-logo?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-21 03:16:10Z' class='relativetime'>Nov 21 at 3:16</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-30196"
+            class="s-post-summary    js-post-summary"
+            data-post-id="30196"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of -1">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                -1
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="59 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                59
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/30196/is-this-legal-in-rugby-league" class="s-link">Is this legal in rugby league</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-rules t-rugby-league">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/rules" class="s-tag post-tag flex--item mt0 js-tagname-rules" title="show questions tagged &#39;rules&#39;" aria-label="show questions tagged &#39;rules&#39;" rel="tag" aria-labelledby="tag-rules-tooltip-container" data-tag-menu-origin="Unknown">rules</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/rugby-league" class="s-tag post-tag flex--item mt0 js-tagname-rugby-league" title="show questions tagged &#39;rugby-league&#39;" aria-label="show questions tagged &#39;rugby-league&#39;" rel="tag" aria-labelledby="tag-rugby-league-tooltip-container" data-tag-menu-origin="Unknown">rugby-league</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/19980/the-footsie" class="s-avatar s-avatar__16 s-user-card--avatar" data-user-id="19980">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/8f508131964648631521f824d1435ebd?s=32&amp;d=identicon&amp;r=PG" alt="The Footsie&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/19980/the-footsie" class="flex--item"><span itemprop="name">The Footsie</span></a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">337</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/30196/is-this-legal-in-rugby-league?lastactivity" class="s-link s-link__muted">answered <span title='2025-11-20 10:53:28Z' class='relativetime'>Nov 20 at 10:53</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-30197"
+            class="s-post-summary    js-post-summary"
+            data-post-id="30197"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 2">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                2
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item  " title="0 answers">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                0
+            </span>
+            <span class="s-post-summary--stats-item-unit">answers</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="35 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                35
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/30197/nba-rule-distinction-between-stopping-the-clock-and-resetting-time-after-a-foul" class="s-link">NBA Rule: Distinction Between Stopping the Clock and Resetting Time After a Foul</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-nba t-game-time">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/nba" class="s-tag post-tag flex--item mt0 js-tagname-nba" title="show questions tagged &#39;nba&#39;" aria-label="show questions tagged &#39;nba&#39;" rel="tag" aria-labelledby="tag-nba-tooltip-container" data-tag-menu-origin="Unknown">nba</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/game-time" class="s-tag post-tag flex--item mt0 js-tagname-game-time" title="show questions tagged &#39;game-time&#39;" aria-label="show questions tagged &#39;game-time&#39;" rel="tag" aria-labelledby="tag-game-time-tooltip-container" data-tag-menu-origin="Unknown">game-time</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/36124/jose-santiago" class="s-avatar s-avatar__16 s-user-card--avatar" data-user-id="36124">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/b5092a0023f878575ca8fba7a29cfb15?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2" alt="Jose Santiago&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/36124/jose-santiago" class="flex--item"><span itemprop="name">Jose Santiago</span></a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">21</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/30197/nba-rule-distinction-between-stopping-the-clock-and-resetting-time-after-a-foul" class="s-link s-link__muted">asked <span title='2025-11-19 15:37:01Z' class='relativetime'>Nov 19 at 15:37</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-30194"
+            class="s-post-summary    js-post-summary"
+            data-post-id="30194"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 3">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                3
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="62 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                62
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/30194/what-is-the-difference-between-football-video-support-fvs-and-video-assisted-r" class="s-link">What is the difference between Football Video Support (FVS) and Video Assisted Referee (VAR)?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-football t-video-review">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/football" class="s-tag post-tag flex--item mt0 js-tagname-football" title="show questions tagged &#39;football&#39;" aria-label="show questions tagged &#39;football&#39;" rel="tag" aria-labelledby="tag-football-tooltip-container" data-tag-menu-origin="Unknown">football</a></li><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/video-review" class="s-tag post-tag flex--item mt0 js-tagname-video-review" title="show questions tagged &#39;video-review&#39;" aria-label="show questions tagged &#39;video-review&#39;" rel="tag" aria-labelledby="tag-video-review-tooltip-container" data-tag-menu-origin="Unknown">video-review</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/6216/imclarky" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="6216">        <div class="gravatar-wrapper-16">
+            <img src="https://i.sstatic.net/fBZHu.jpg?s=32" alt="ImClarky&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/6216/imclarky" class="flex--item"><span itemprop="name">ImClarky</span></a>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">3,176</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/30194/what-is-the-difference-between-football-video-support-fvs-and-video-assisted-r?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-19 12:32:48Z' class='relativetime'>Nov 19 at 12:32</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+                            
+
+        <div id="question-summary-24822"
+            class="s-post-summary    js-post-summary"
+            data-post-id="24822"
+            data-post-type-id="1"
+            
+            >
+        <div class="s-post-summary--stats js-post-summary-stats">
+        <div class="s-post-summary--stats-item s-post-summary--stats-item__emphasized" title="Score of 3">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                3
+            </span>
+            <span class="s-post-summary--stats-item-unit">votes</span>
+        </div>
+        <div class="s-post-summary--stats-item has-answers " title="1 answer">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                1
+            </span>
+            <span class="s-post-summary--stats-item-unit">answer</span>
+        </div>
+        <div class="s-post-summary--stats-item " title="257 views">
+            <span 
+                class="s-post-summary--stats-item-number"
+                >
+                257
+            </span>
+            <span class="s-post-summary--stats-item-unit">views</span>
+        </div>
+
+
+
+        </div>
+        <div class="s-post-summary--content">
+
+
+            <h3 class="s-post-summary--content-title">
+            
+                <a href="/questions/24822/are-there-fewer-professional-heavyweight-boxers-today-than-there-were-in-the-gol" class="s-link">Are there fewer professional heavyweight boxers today than there were in the Golden Age of boxing in the 1970s?</a>
+            </h3>
+            <div class="s-post-summary--meta">
+                <div class="s-post-summary--meta-tags d-inline-block tags js-tags t-boxing">
+
+<ul class='ml0 list-ls-none js-post-tag-list-wrapper d-inline'><li class='d-inline mr4 js-post-tag-list-item'><a href="/questions/tagged/boxing" class="s-tag post-tag flex--item mt0 js-tagname-boxing" title="show questions tagged &#39;boxing&#39;" aria-label="show questions tagged &#39;boxing&#39;" rel="tag" aria-labelledby="tag-boxing-tooltip-container" data-tag-menu-origin="Unknown">boxing</a></li></ul>
+                </div>
+                
+
+
+<div class="s-user-card s-user-card__minimal" aria-live="polite">
+
+                <a href="/users/-1/community" class="s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target" data-user-id="-1">        <div class="gravatar-wrapper-16">
+            <img src="https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&amp;d=identicon&amp;r=PG" alt="Community&#39;s user avatar" width="16" , height="16" class="s-avatar--image" />
+        </div>
+</a>
+
+    <div class="s-user-card--info">
+            <div class="s-user-card--link d-flex gs4" >
+                <a href="/users/-1/community" class="flex--item"><span itemprop="name">Community</span></a><span class="flex--item s-badge ml2  s-badge__xs " title="Community Bot — not a real person. Replies to this bot are not monitored.">Bot</span>
+            </div>
+        
+                <ul class="s-user-card--awards">
+            <li class="s-user-card--rep"><span class="todo-no-class-here" title="reputation score " dir="ltr">1</span></li>
+
+        </ul>
+
+        
+    </div>
+
+        <time class="s-user-card--time">
+                <a href="/questions/24822/are-there-fewer-professional-heavyweight-boxers-today-than-there-were-in-the-gol?lastactivity" class="s-link s-link__muted">modified <span title='2025-11-17 13:09:05Z' class='relativetime'>Nov 17 at 13:09</span></a>
+            </time>
+</div>
+
+            </div>
+       
+        </div>
+        </div>
+
+        </div>
+    </div>
+</div>
+    <a class="s-btn s-btn__filled float-right" href="/questions">Browse more Questions</a>
+    <script>
+        StackExchange.using('exploreQuestions', function() {
+StackExchange.exploreQuestions.init({count:14});StackExchange.exploreQuestions.gps();        });
+    </script>
+<script>
+    StackExchange.ready(function() { StackExchange.question.initShareLinks(); });
+</script>
+
+    </div>
+        <div id="sidebar">
+
+
+            
+            
+            
+            
+            
+<div id="hot-network-questions" class="module tex2jax_ignore">
+    <h4>
+        <a href="https://stackexchange.com/questions?tab=hot"
+           class="js-gps-track s-link s-link__inherit" 
+           data-gps-track="posts_hot_network.click({ item_type:1, location:8 })">
+            Hot Network Questions
+        </a>
+    </h4>
+    <ul>
+            <li >
+                <div class="favicon favicon-diy" title="Home Improvement Stack Exchange"></div><a href="https://diy.stackexchange.com/questions/326815/how-to-protect-100-year-old-wooden-floors-for-the-next-100-years" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:73 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    How to protect 100-year-old wooden floors for the next 100 years?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-travel" title="Travel Stack Exchange"></div><a href="https://travel.stackexchange.com/questions/201753/how-to-pay-with-pix-as-a-tourist-in-brazil" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:273 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    How to pay with Pix as a tourist in Brazil?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-philosophy" title="Philosophy Stack Exchange"></div><a href="https://philosophy.stackexchange.com/questions/133324/a-couple-of-questions-on-wheelers-it-from-bit-and-pregeometry-ideas" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:265 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    A couple of questions on Wheeler&#x27;s &quot;it from bit&quot; and &quot;pregeometry&quot; ideas
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-politics" title="Politics Stack Exchange"></div><a href="https://politics.stackexchange.com/questions/93930/who-is-patrick-and-why-is-he-referred-to-at-anti-afd-demonstrations" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:475 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Who is Patrick and why is he referred to at anti-AfD demonstrations?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-biology" title="Biology Stack Exchange"></div><a href="https://biology.stackexchange.com/questions/118153/what-insect-lays-these-relatively-large-flat-tan-eggs" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:375 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What insect lays these relatively large flat tan eggs?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-puzzling" title="Puzzling Stack Exchange"></div><a href="https://puzzling.stackexchange.com/questions/135123/pse-advent-calendar-2025-day-1-the-wish-list" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:559 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    PSE Advent Calendar 2025 (Day 1): The Wish List
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-gaming" title="Arqade"></div><a href="https://gaming.stackexchange.com/questions/416223/what-do-wts-wtb-h-radshare-etc-mean" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:41 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What do WTS, WTB, H, radshare, etc mean?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-mathoverflow" title="MathOverflow"></div><a href="https://mathoverflow.net/questions/504634/define-a-domain-of-ball-in-finite-element-anlaysis-using-fenics" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:504 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Define a domain of ball in finite element anlaysis using fenics
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-aviation" title="Aviation Stack Exchange"></div><a href="https://aviation.stackexchange.com/questions/113700/what-is-this-g1000-mfd-symbol" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:528 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What is this G1000 MFD symbol?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-scifi" title="Science Fiction &amp; Fantasy Stack Exchange"></div><a href="https://scifi.stackexchange.com/questions/301322/tv-series-about-a-vampire-schoolboy" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:186 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    TV series about a vampire schoolboy
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-gaming" title="Arqade"></div><a href="https://gaming.stackexchange.com/questions/416224/how-much-damage-do-ancient-arrows-do" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:41 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    How much damage do Ancient Arrows do?
+                </a>
+
+            </li>
+            <li >
+                <div class="favicon favicon-aviation" title="Aviation Stack Exchange"></div><a href="https://aviation.stackexchange.com/questions/113693/one-engine-inoperative-aerodynamics" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:528 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    One engine Inoperative - Aerodynamics
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-tex" title="TeX - LaTeX Stack Exchange"></div><a href="https://tex.stackexchange.com/questions/755749/the-defined-date-command-doesnt-work-before-today-when-invoking-babel" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:85 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    The defined date command doesn&#x27;t work before \today when invoking babel
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-travel" title="Travel Stack Exchange"></div><a href="https://travel.stackexchange.com/questions/201756/visiting-uk-with-a-valid-visa-but-a-soon-expiring-passport" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:273 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Visiting UK with a valid visa but a soon-expiring passport
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-gaming" title="Arqade"></div><a href="https://gaming.stackexchange.com/questions/416216/does-unequipping-gear-make-me-stealthier" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:41 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Does unequipping gear make me stealthier?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-cs" title="Computer Science Stack Exchange"></div><a href="https://cs.stackexchange.com/questions/174901/determining-regular-expression-for-language-defined-recursively-in-terms-of-itse" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:419 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    determining regular expression for language defined recursively in terms of itself
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-askubuntu" title="Ask Ubuntu"></div><a href="https://askubuntu.com/questions/1560398/download-is-performed-unsandboxed-as-root-why-am-i-getting-this-message-and-h" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:89 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Download is performed unsandboxed as root - Why am I getting this message, and how do I fix it?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-space" title="Space Exploration Stack Exchange"></div><a href="https://space.stackexchange.com/questions/70147/what-do-the-terms-postponement-slip-and-scrub-mean-in-the-context-of-the-space" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:508 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    What do the terms postponement, slip and scrub mean in the context of the space shuttle program?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-diy" title="Home Improvement Stack Exchange"></div><a href="https://diy.stackexchange.com/questions/326763/how-long-can-a-portable-power-supply-run-my-fridge-in-an-outage" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:73 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    How long can a portable power supply run my fridge in an outage?
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-superuser" title="Super User"></div><a href="https://superuser.com/questions/1931026/crontab-for-nth-monday-of-month-weirdness-at-dec-1-2025" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:3 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Crontab for nth Monday of month weirdness at Dec 1 2025
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-physics" title="Physics Stack Exchange"></div><a href="https://physics.stackexchange.com/questions/865265/energy-in-molecular-physics" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:151 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Energy in molecular physics
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-rpg" title="Role-playing Games Stack Exchange"></div><a href="https://rpg.stackexchange.com/questions/218203/storm-sphere-and-obstruction" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:122 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Storm Sphere and Obstruction
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-chess" title="Chess Stack Exchange"></div><a href="https://chess.stackexchange.com/questions/47526/king-defense-setups" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:435 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    King defense setups
+                </a>
+
+            </li>
+            <li class="dno js-hidden">
+                <div class="favicon favicon-dba" title="Database Administrators Stack Exchange"></div><a href="https://dba.stackexchange.com/questions/349367/postgres-logical-replication-to-restored-snapshot" class="js-gps-track question-hyperlink mb0" data-gps-track="site.switch({ item_type:8, target_site:182 }); posts_hot_network.click({ item_type:2, location:8 })">
+                    Postgres logical replication to restored snapshot
+                </a>
+
+            </li>
+    </ul>
+
+        <a href="#" 
+           class="show-more js-show-more js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:3, location:8 })">
+            more hot questions
+        </a>
+</div>            
+
+                        <div id="feed-link" class="js-feed-link">
+        <a href="/feeds" title="The 30 most recent questions">
+            <svg aria-hidden="true" class="fc-orange-400 svg-icon iconRss" width="18" height="18"  viewBox="0 0 18 18"><path  d="M3 1a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2zm0 1.5c6.9 0 12.5 5.6 12.5 12.5H13C13 9.55 8.45 5 3 5zm0 5c4.09 0 7.5 3.41 7.5 7.5H8c0-2.72-2.28-5-5-5zm0 5c1.36 0 2.5 1.14 2.5 2.5H3z"/></svg>
+            Recent questions feed
+        </a>
+    </div>
+    <aside class="s-modal js-feed-link-modal" tabindex="-1" role="dialog" aria-labelledby="feed-modal-title" aria-describedby="feed-modal-description" aria-hidden="true">
+        <div class="s-modal--dialog js-modal-dialog wmx4" role="document"  data-controller="se-draggable">
+            <h1 class="s-modal--header fw-bold js-first-tabbable" id="feed-modal-title" data-se-draggable-target="handle" tabindex="0">
+                Subscribe to RSS
+            </h1>
+            <div class="d-flex gs4 gsy fd-column">
+                <div class="flex--item">
+                    <label class="d-block s-label c-default" for="feed-url">
+                        Recent questions feed
+                        <p class="s-description mt2" id="feed-modal-description">To subscribe to this RSS feed, copy and paste this URL into your RSS reader.</p>
+                    </label>
+                </div>
+                <div class="d-flex ps-relative">
+                    <input class="s-input" type="text" name="feed-url" id="feed-url" readonly="readonly" value="https://sports.stackexchange.com/feeds" />
+                    <svg aria-hidden="true" class="s-input-icon fc-orange-400 svg-icon iconRss" width="18" height="18"  viewBox="0 0 18 18"><path  d="M3 1a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2zm0 1.5c6.9 0 12.5 5.6 12.5 12.5H13C13 9.55 8.45 5 3 5zm0 5c4.09 0 7.5 3.41 7.5 7.5H8c0-2.72-2.28-5-5-5zm0 5c1.36 0 2.5 1.14 2.5 2.5H3z"/></svg>
+                </div>
+            </div>
+            <a class="s-modal--close s-btn s-btn__muted js-modal-close js-last-tabbable" href="#" aria-label="Close">
+                <svg aria-hidden="true" class="svg-icon iconClearSm" width="14" height="14"  viewBox="0 0 14 14"><path  d="M12 3.41 10.59 2 7 5.59 3.41 2 2 3.41 5.59 7 2 10.59 3.41 12 7 8.41 10.59 12 12 10.59 8.41 7z"/></svg>
+            </a>
+        </div>
+    </aside>
+
+        </div>
+</div>
+        </div>
+    </div>
+
+    
+
+    
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+
+        gtag('consent', 'default', {
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied',
+            'ad_user_data': 'denied',
+            'ad_personalization': 'denied'
+        });
+    </script>
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-S812YQPLT2"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+            </script>
+        <script>
+            StackExchange.ready(function() {
+
+                var ga3Settings = {
+                    autoLink: ["stackoverflow.blog","info.stackoverflowsolutions.com","stackoverflowsolutions.com"],
+                    sendTitles: true,
+                    tracker: window.ga,
+                    trackingCodes: [
+                        'UA-108242619-5'
+                    ],
+                    checkDimension: 'dimension42'
+                };
+
+                var customGA4Dimensions = {};
+
+
+                customGA4Dimensions["requestid"] = "852db059-75b0-4da7-b4cd-02d23d85ad7c";
+
+                    customGA4Dimensions["routename"] = "Home/Index";
+
+
+
+
+
+
+                var ga4Settings = {
+                    tracker: gtag,
+                    trackingCodes: [
+                        'G-S812YQPLT2'
+                    ],
+                    consentsToPerformanceCookies: "denied",
+                    consentsToTargetingCookies: "denied",
+                    eventParameters: customGA4Dimensions,
+                    checkForAdBlock: true,
+                    sendTitles: true,
+                    trackClicks: false,
+                };
+
+                StackExchange.ga.init({ GA3: ga3Settings, GA4: ga4Settings });
+
+
+
+
+                StackExchange.ga.setDimension('dimension3', 'Home/Index');
+
+
+                StackExchange.ga.setDimension('dimension7', "1764881304.1645313523");
+
+                StackExchange.ga.trackPageView();
+            });
+        </script>
+
+                <script src="https://cdn.cookielaw.org/scripttemplates/gpp.stub.js"></script>
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-document-language="true" data-domain-script="cb0f3c87-b769-4e66-bbaa-377f9194216d"></script>
+<script defer src="https://sports.stackexchange.com/Content/Js/sprinkles/cookie-consent.en.js?v=7ee6963139c5"></script>
+
+        
+    <footer id="footer" class="site-footer js-footer" role="contentinfo">
+        <div class="site-footer--container">
+            <nav class="site-footer--nav" aria-label="Footer">
+                    <div class="site-footer--col">
+                        <h5 class="-title"><a href="/">Sports</a></h5>
+                        <ul class="-list js-primary-footer-links">
+                                    <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 2 })" href="/tour">Tour</a></li>
+                                <li><a href="/help" class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 3 })">Help</a></li>
+                                    <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 5 })" href="https://chat.stackexchange.com/?tab=all&sort=active">Chat</a></li>
+                            <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 13 })" href="/contact">Contact</a></li>
+                                <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 14 })" href="https://sports.meta.stackexchange.com">Feedback</a></li>
+                        </ul>
+                    </div>
+                <div class="site-footer--col">
+                    <h5 class="-title"><a class="js-gps-track" data-gps-track="footer.click({ location: 1, link: 1 })" href="https://stackoverflow.co/">Company</a></h5>
+                    <ul class="-list">
+                            <li><a href="https://stackoverflow.com" class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 15})">Stack Overflow</a></li>
+                            <li><a href="https://stackoverflow.co/internal/" class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 29 })">Stack Internal</a></li>
+                            <li><a href="https://stackoverflow.co/data-licensing/" class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 44 })">Stack Data Licensing</a></li>
+                            <li><a href="https://stackoverflow.co/advertising/" class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 21 })">Stack Ads</a></li>  
+                                <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 1 })" href="https://stackoverflow.co/">About</a></li>
+                        <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 27 })" href="https://stackoverflow.co/company/press/">Press</a></li>
+                        <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 7 })" href="https://stackoverflow.com/legal">Legal</a></li>
+                        <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 8 })" href="https://stackoverflow.com/legal/privacy-policy">Privacy Policy</a></li>
+                        <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 37 })" href="https://stackoverflow.com/legal/terms-of-service/public">Terms of Service</a></li>
+        <li id="consent-footer-link"><button type="button" data-controller="cookie-settings" data-action="click->cookie-settings#toggle" class="s-btn s-btn__link py4 js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 38 })" data-consent-popup-loader="footer">
+Your Privacy Choices <svg aria-hidden="true" class="svg-icon iconCCPA" width="29" height="14"  viewBox="0 0 29 14"><path fill="#06F" d="M6.95 0h15.1A7 7 0 0 1 29 7c0 3.9-3.08 7-6.95 7H6.95A6.93 6.93 0 0 1 0 7c0-3.9 3.08-7 6.95-7m0 1.2A5.8 5.8 0 0 0 1.2 7c0 3.2 2.58 5.8 5.76 5.8h6.76l3.07-11.6zm17.08 3.6c.2-.2.2-.6 0-.8a.6.6 0 0 0-.79 0l-2.19 2.2L18.87 4a.6.6 0 0 0-.8 0c-.2.2-.2.6 0 .8l2.2 2.2-2.09 2.2c-.2.2-.2.6 0 .8s.6.2.8 0l2.18-2.2 2.19 2.2c.2.2.6.2.8 0s.2-.6 0-.8L21.93 7zM12.7 4.1c.2.2.3.6.1.8L8.6 9.8c-.1.1-.2.2-.3.2-.2.1-.5.1-.7-.1L5.4 7.7a.6.6 0 0 1 0-.8c.2-.2.6-.2.8 0L8 8.6l3.8-4.5c.2-.2.6-.2.9 0"/></svg>        </button></li>
+                        <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link: 39 })" href="https://policies.stackoverflow.co/stack-overflow/cookie-policy">Cookie Policy</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer--col site-footer--categories-nav">
+                    <div>
+                        <h5 class="-title"><a href="https://stackexchange.com" data-gps-track="footer.click({ location: 1, link: 30 })">Stack Exchange Network</a></h5>
+                        <ul class="-list">
+                            <li>
+                                <a href="https://stackexchange.com/sites#technology" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Technology
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://stackexchange.com/sites#culturerecreation" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Culture &amp; recreation
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://stackexchange.com/sites#lifearts" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Life &amp; arts
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://stackexchange.com/sites#science" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Science
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://stackexchange.com/sites#professional" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Professional
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://stackexchange.com/sites#business" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Business
+                                </a>
+                            </li>
+
+                            <li class="mt16 md:mt0">
+                                <a href="https://api.stackexchange.com/" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    API
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="https://data.stackexchange.com/" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 24 })">
+                                    Data
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="site-footer--copyright fs-fine md:mt24">
+                <ul class="-list -social md:mb8">
+                    <li><a class="js-gps-track -link" data-gps-track="footer.click({ location: 1, link:4 })" href="https://stackoverflow.blog?blb=1">Blog</a></li>
+                    <li><a href="https://www.facebook.com/officialstackoverflow/" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 31 })">Facebook</a></li>
+                    <li><a href="https://twitter.com/stackoverflow" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 32 })">Twitter</a></li>
+                    <li><a href="https://linkedin.com/company/stack-overflow" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 33 })">LinkedIn</a></li>
+                    <li><a href="https://www.instagram.com/thestackoverflow" class="-link js-gps-track" data-gps-track="footer.click({ location: 1, link: 36 })">Instagram</a></li>
+                </ul>
+
+                <p class="md:mb0">
+                    <span>Site design / logo © 2025 Stack Exchange Inc; </span>
+                    <span>user contributions licensed under </span>
+                    <a class="-link s-link td-underline" href="https://stackoverflow.com/help/licensing">CC BY-SA</a>
+                    <span>. </span>
+                    <span id="svnrev">rev&nbsp;2025.12.4.37651</span>
+                </p>
+            </div>
+        </div>
+
+    </footer>
+
+
+    
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a8e2a196bfb643e',t:'MTc2NDg4MTMwNC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+    </html>
+ title 21 Sports Stack Exchange contentType 9 text/html url 37 https://sports.stackexchange.com:443/ responseCode 3 200 

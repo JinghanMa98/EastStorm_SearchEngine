@@ -1,0 +1,1012 @@
+jmvcnqbagkcmbipsqorqxiwmncjmiogoxagivqlg length 5 20149 page 20149 <!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon"  href="/static/vocabulary/favicon/favicon.ico" sizes="any">
+<link rel="icon" href="/static/vocabulary/favicon/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="/static/vocabulary/favicon/manifest.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/vocabulary/favicon/apple-touch-icon.png" />
+<link rel="stylesheet" href="/static/css/style.css">
+<link rel="stylesheet" href="/static/pygments.css">
+<script src="/static/vendor/jquery/jquery.min.js"></script>
+<script src="/static/vendor/datatable/datatables.js"></script>
+<script type="text/javascript" src="/static/js/table.js"></script>
+<meta property="og:site_name" content="Creative Commons" />
+<meta property="og:title" content="" />
+
+
+
+<meta property="og:url" content="/" />
+<meta property="og:type" content="article" />
+
+
+  
+  
+
+  
+    
+  
+
+  
+
+  
+
+  <meta property="og:image" content="https://cc-og-image.vercel.app/Open Source at CC.png?&amp;md=1&amp;fontFamily=roboto-condensed&amp;fontSize=100px&amp;images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource" />
+  <meta name="description" content="Open Source at CC - CC Open Source" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
+
+<meta name="twitter:site" content="@creativecommons">
+<meta name="twitter:creator" content="@creativecommons">
+<title>Welcome — Creative Commons Open Source</title>
+
+<body  class="home-page" >
+
+<a class="skip-to-content" href="#main-content-marker">Skip to content</a>
+<header>
+    <div class="masthead">
+        <h1><a class="identity-logo product" href="/">Open source</a></h1>
+        <button class="expand-menu">Menu</button>
+        <nav class="primary-menu">
+            <ul>
+                <li><a href="/blog/entries/">Blog</a></li>
+                <li><a href="/contributing-code/">Contribute</a></li>
+                <li><a href="/community/">Community</a></li>
+                <li><a href="/programs/">Work Programs</a></li>
+            </ul>
+            <!--TODO: Evaluate use of dropdown/secondary menu-->
+        </nav>
+
+        <nav class="ancillary-menu">
+            <ul>
+                <li><a class="donate icon-attach fa-heart" href="https://www.classy.org/give/313412/#!/donation/checkout?c_src=website&c_src2=top-of-page-banner" target="_blank">Donate</a></li>
+                <li><button class="explore">Explore CC</button></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="explore-panel">
+    <!-- (optional main CC logo, p, link on non-home site back to main site) -->
+    <aside>
+      <a
+        class="identity-logo"
+        href="https://creativecommons.org"
+        >Creative Commons</a
+      >
+      <h2>Our Work Relies On You!</h2>
+      <p>Help us keep the internet free and open.</p>
+    </aside>
+    <nav class="explore-menu">
+        <ul>
+            <li>
+                <a href="https://network.creativecommons.org/" target="_blank">Global Network</a>
+                <p>Join a  global community working to strengthen the Commons</p>
+            </li>
+            <li>
+                <a href="https://certificate.creativecommons.org/" target="_blank">Certificate</a>
+                <p>Become an expert in creating and engaging with openly licensed materials</p>
+            </li>
+            <li>
+                <a href="/choose" target="_blank">Chooser</a>
+                <p>Get help choosing the appropriate license for your work</p>
+            </li>
+            <li>
+                <a href="https://search.creativecommons.org/"  target="_blank">Search Portal</a>
+                <p>Find engines to search openly licensed material for creative and educational reuse</p>
+            </li>
+        </ul>
+    </nav>
+    </div>
+
+</header>
+
+  <!-- Breadcrumb -->
+   <!--TODO: EVALUATE USE OF BREADCRUMB;REMOVE OR KEEP-->
+  
+  <!-- Body -->
+  <span id="main-content-marker"></span>
+  <main>
+  
+    
+        <article class="topic-summary">
+    <h2> We have been building free software at Creative Commons (CC) for over a decade. </h2>
+    <figure>
+        <img class="image" src="./github.svg" />
+    </figure>
+    <div class="description">
+        <p>We work on code and products that support digital creativity and sharing, from usability of our legal tools to enabling discovery of CC-licensed content.</p>
+  <!-- Button linking to the developer community page -->
+  <a href="/community">
+    Join the Developer Community
+    <!-- TODO: Evaluate legacy design button -->
+  </a>
+
+<p>This site is for developers looking to contribute, but anyone can use CC tools to share their works.</p>
+  <!-- Button linking to the Creative Commons "Share your work" page -->
+  <a href="https://creativecommons.org/share-your-work/">
+    Share your work using our licenses/tools
+    <!-- TODO: Evaluate legacy design button -->
+  </a>
+
+<!--TODO: Refactor code for the get involved section? -->
+    </div>
+    
+</article>
+    
+        <article class="projects">
+  <h2><h2>Get Involved</h2>
+<p>Help CC’s mission by contributing to our products, integrating our tools into your project, or using our plugins. We have a small team and really appreciate your involvement!</p></h2>
+  <ul>
+    <li>
+      <article class="project">
+        <h3><img src="./product.svg">
+
+<h4>Help us build our products</h4>
+
+<div>
+  <h5><a href="/contributing-code/">Contribution Guidelines</a></h5>
+  <p>Learn how to contribute and then get started.</p>
+
+  <h5><a href="/community/community-team/">Community Team</a></h5>
+  <p>Become a member of our community volunteer team.</p>
+
+  <h5><a href="/contributing-code/projects/">All Available Projects</a></h5>
+  <p>See all of our open source projects in one place.</p>
+</div></h3>
+      </article>
+    </li>
+    <li>
+      <article class="project">
+        <h3><img src="./integrate.svg">
+
+<h4>Integrate CC licenses</h4>
+
+<div>
+  <h5><a href="https://github.com/creativecommons/chooser/">Chooser</a></h5>
+  <p>CC license selection tool for your project.</p>
+
+  <h5><a href="https://creativecommons.org/platform/toolkit/">Platform Toolkit</a></h5>
+  <p>Give users the option to openly license their content.</p>
+</div></h3>
+        <!--Evaluate: Vocabulary markup uses <a> tags here also. To retain?-->
+      </article>
+    </li>
+  </ul>
+</article>
+    
+        
+
+<article class="posts">
+  <h2>  Recent Blog Posts </h2>
+    <ul>
+      
+        
+        
+          
+  <li>
+    <article class="post">
+      <header>
+        <h3 class="title"><a href="/blog/entries/2025-12-01-avoiding-gen-ai-tools/">Avoiding generative AI development tools</a></h3>
+          <span class="byline"> by <a class="author-name" href="/blog/authors/TimidRobot/">Timid Robot Zehta</a> on 2025-12-01
+ </span>
+            <span class="categories">
+              
+              
+                <a href="/blog/categories/community">Community</a>
+              , 
+              
+                <a href="/blog/categories/open-source">Open-source</a>
+              
+              
+              
+            </span>
+        <!-- TODO: add excerpt back in -->
+        <!--
+        <div class="excerpt">
+          
+            At this time, the Creative Commons (CC) Technology team has concluded that generative AI...
+          
+        </div>
+        -->
+      </header>
+
+      <figure>
+        
+  
+    
+    
+    
+    <header>
+      <figure class="image blog-image">
+        
+          <img class="profile" src="https://secure.gravatar.com/avatar/5324367e4af9d821ff3b388c04c42e7e?size=200&d=mp" alt="author's gravatar" />
+        
+      </figure>
+    </header>
+  
+
+      </figure>
+   </article>
+ </li>
+
+        
+      
+        
+        
+          
+  <li>
+    <article class="post">
+      <header>
+        <h3 class="title"><a href="/blog/entries/2025-10-06-refactoring-the-cc-chooser-pt-2/">Refactoring and Releasing the new CC Chooser: Part 2</a></h3>
+          <span class="byline"> by <a class="author-name" href="/blog/authors/sara/">Sara Lovell</a> on 2025-10-06
+ </span>
+            <span class="categories">
+              
+              
+                <a href="/blog/categories/open-source">Open-source</a>
+              , 
+              
+                <a href="/blog/categories/cc-chooser">Cc-chooser</a>
+              , 
+              
+                <a href="/blog/categories/cc-vocabulary">Cc-vocabulary</a>
+              
+              
+              
+            </span>
+        <!-- TODO: add excerpt back in -->
+        <!--
+        <div class="excerpt">
+          
+            This blog is part two of a three part series: Refactoring and Releasing the new CC Chooser.
+          
+        </div>
+        -->
+      </header>
+
+      <figure>
+        
+  
+    
+    
+    
+    <header>
+      <figure class="image blog-image">
+        
+          <img class="profile" src="https://secure.gravatar.com/avatar/898c4d3ca8cabbee04ffe00bde6df9ab?size=200&d=mp" alt="author's gravatar" />
+        
+      </figure>
+    </header>
+  
+
+      </figure>
+   </article>
+ </li>
+
+        
+      
+        
+        
+          
+  <li>
+    <article class="post">
+      <header>
+        <h3 class="title"><a href="/blog/entries/2025-07-11-refactoring-the-cc-chooser-pt-1/">Refactoring and Releasing the new CC Chooser: Part 1</a></h3>
+          <span class="byline"> by <a class="author-name" href="/blog/authors/sara/">Sara Lovell</a> on 2025-07-11
+ </span>
+            <span class="categories">
+              
+              
+                <a href="/blog/categories/open-source">Open-source</a>
+              , 
+              
+                <a href="/blog/categories/cc-chooser">Cc-chooser</a>
+              , 
+              
+                <a href="/blog/categories/cc-vocabulary">Cc-vocabulary</a>
+              
+              
+              
+            </span>
+        <!-- TODO: add excerpt back in -->
+        <!--
+        <div class="excerpt">
+          
+            This blog is part one of a three part series: Refactoring and Releasing the new CC Chooser.
+          
+        </div>
+        -->
+      </header>
+
+      <figure>
+        
+  
+    
+    
+    
+    <header>
+      <figure class="image blog-image">
+        
+          <img class="profile" src="https://secure.gravatar.com/avatar/898c4d3ca8cabbee04ffe00bde6df9ab?size=200&d=mp" alt="author's gravatar" />
+        
+      </figure>
+    </header>
+  
+
+      </figure>
+   </article>
+ </li>
+
+        
+      
+        
+        
+          
+  <li>
+    <article class="post">
+      <header>
+        <h3 class="title"><a href="/blog/entries/2025-03-06-AWS-RDS-blog-post/">Migrating from MariaDB 10.4 to 10.11 on AWS RDS</a></h3>
+          <span class="byline"> by <a class="author-name" href="/blog/authors/shafiya/">Shafiya Heena</a> on 2025-03-24
+ </span>
+            <span class="categories">
+              
+              
+                <a href="/blog/categories/open-source">Open-source</a>
+              , 
+              
+                <a href="/blog/categories/collaboration">Collaboration</a>
+              
+              
+              
+            </span>
+        <!-- TODO: add excerpt back in -->
+        <!--
+        <div class="excerpt">
+          
+            As part of AWS’s request to migrate the RDS DB engine from MariaDB 10.4 to 10.11, this blog post...
+          
+        </div>
+        -->
+      </header>
+
+      <figure>
+        
+  
+    
+    
+    
+    <header>
+      <figure class="image blog-image">
+        
+          <img class="profile" src="https://secure.gravatar.com/avatar/f49628fb50324d628379b469c7f008c6?size=200&d=mp" alt="author's gravatar" />
+        
+      </figure>
+    </header>
+  
+
+      </figure>
+   </article>
+ </li>
+
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    </ul>
+   <a class="more" href="/blog/entries">See all posts</a>
+  </article>
+    
+        <article class="projects">
+    <h2>Featured Projects</h2>
+    <ul>
+      
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li>
+            <article class="project">
+                <h3><a href="https://github.com/creativecommons/cc-legal-tools-app">CC Legal Tools Application</a></h3>
+                <p>Legal tool (licenses, public domain dedication, etc.) management application for Creative Commons</p>
+            </article>
+        </li>
+
+
+
+
+
+
+
+
+
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li>
+            <article class="project">
+                <h3><a href="https://github.com/creativecommons/chooser">CC Chooser</a></h3>
+                <p>The new and improved CC license selection tool.</p>
+            </article>
+        </li>
+
+
+
+
+
+
+
+
+
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <li>
+            <article class="project">
+                <h3><a href="https://github.com/creativecommons/quantifying">Quantifying the Commons</a></h3>
+                <p>quantify the size and diversity of the commons--the collection of works that are openly licensed or in the public domain</p>
+            </article>
+        </li>
+
+
+
+
+
+
+
+
+
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    </ul>
+</article>
+    
+
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <a class="identity-logo" href="https://www.creativecommons.org">Creative Commons</a>
+
+    <nav class="footer-menu" aria-label="Footer menu">
+        <ul>
+          <li>
+            <a href="https://creativecommons.org/about/contact/" target="_blank">Contact</a>
+          </li>
+          <li>
+            <a href="https://mail.creativecommons.org/subscribe" target="_blank">Newsletter</a>
+          </li>
+          <li>
+            <a href="https://creativecommons.org/privacy/" target="_blank">Privacy</a>
+          </li>
+          <li>
+            <a href="https://creativecommons.org/policies/" target="_blank">Policies</a>
+          </li>
+          <li>
+            <a href="https://creativecommons.org/terms/" target="_blank">Terms</a>
+          </li>
+        </ul>
+    </nav>
+
+    <div class="contact">
+    <h2>Contact Us</h2>
+    <p>Creative Commons <br /> PO Box 1866, Mountain View, CA 94042</p>
+    <p><a href="mailto:info@creativecommons.org">info@creativecommons.org</a></p>
+
+    <nav class="social-menu" aria-label="Social menu">
+        <ul>
+            <li><a class="icon-replace fa-bluesky" href="https://bsky.app/profile/creativecommons.bsky.social" target="_blank">Bluesky</a></li>
+            <li><a class="icon-replace fa-mastodon" href="https://mastodon.social/@creativecommons" target="_blank">Mastodon</a></li>
+            <li><a class="icon-replace fa-linkedin" href="https://www.linkedin.com/company/creative-commons/" target="_blank">LinkedIn</a></li>
+        </ul>
+    </nav>
+    </div>
+
+    <div class="subscribe">
+    <h2>Subscribe to our Newsletter</h2>
+    <form action="https://creativecommons.us4.list-manage.com/subscribe/post?u=fd30364b6577b471373d6076c&amp;id=4603fe102a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate newsletter" target="_blank">
+        <input type="email" value="" name="EMAIL" class="email input" id="mce-EMAIL" placeholder="Your email" required>
+        <div style="position: absolute; left: -5000px" aria-hidden="true">
+          <input type="text" name="b_fd30364b6577b471373d6076c_4603fe102a" tabindex="-1" value="">
+        </div>
+        <input type="submit" value="subscribe" id="mc-embedded-subscribe" class="button small">
+      </form>
+    </div>
+
+    <div class="donate">
+        <h2>Support Our Work</h2>
+        <p>Our work relies on you! Help us keep the Internet free and open.</p>
+        <a class="donate icon-attach cc-heart-filled" href="https://www.classy.org/give/313412/#!/donation/checkout?c_src=website&c_src2=top-of-page-banner" target="_blank">Donate Now</a>
+    </div>
+
+
+    <div class="license">
+        <p>Except where otherwise <a href="https://creativecommons.org/policies/#license">noted</a>, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>. Icons by <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>.</p>
+
+        <svg>
+            <use href="/static/vocabulary/svg/cc/icons/cc-icons.svg#cc-logo"></use>
+        </svg>
+        <svg>
+            <use href="/static/vocabulary/svg/cc/icons/cc-icons.svg#cc-by"></use>
+        </svg>
+    </div>
+  </footer>
+  <script src="/static/vocabulary/js/vocabulary.js"></script>
+ </body>
+</html>
+ title 40 Welcome — Creative Commons Open Source contentType 9 text/html url 43 https://opensource.creativecommons.org:443/ responseCode 3 200 

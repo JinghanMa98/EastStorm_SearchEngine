@@ -1,0 +1,744 @@
+wceebeectmjokqmqdoikhgzgcejexqbslcbqiiec page 39696 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+  <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+  <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+  <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+  <head>
+      <title>KBpedia: HorseRace Reference Concept</title>
+
+      <link rel="alternate" type="application/rss+xml" title="" href="/feeds/news.xml" />
+      
+      <!-- Meta -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="">
+      <meta name="author" content="">
+
+      <!-- Favicon -->
+      <link rel="shortcut icon" href="/favicon.ico">
+
+      <!-- CSS Global Compulsory -->
+      <link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
+      <link rel="stylesheet" href="/assets/css/style.css">
+
+      <!-- CSS Implementing Plugins -->
+      <link rel="stylesheet" href="/assets/plugins/line-icons/line-icons.css">
+      <link rel="stylesheet" href="/assets/plugins/font-awesome/css/font-awesome.min.css">
+
+      <!-- CSS Theme -->    
+      <link rel="stylesheet" href="/assets/css/theme-colors/default.css">
+      <link rel="stylesheet" href="/assets/css/footers/footer-v1.css">
+      <link rel="stylesheet" href="/assets/css/headers/header-v1.css">
+
+      <!-- CSS Customization -->
+      <link rel="stylesheet" href="/css/custom.css">
+      
+      <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">    
+  </head>        
+  
+  <body>
+  <div class="wrapper">    <div class="header-v1">
+      <!-- Topbar -->
+      <div class="topbar">
+        <div class="container">
+          <div class="col-md-1">   </div>
+          <a class="navbar-brand" href="/">
+            <img id="logo-header" src="/imgs/kbpedia-logo-420-horz.png" height="75" alt="KBpedia Knowledge Structure" name="logo-header"> 
+          </a>        
+        </div>
+      </div><!-- End Topbar -->
+      <!-- Navbar -->
+      <div class="navbar navbar-default mega-menu" role="navigation">
+        <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+              <span class="sr-only">Toggle navigation</span>
+            </button> 
+          </div>
+          <div style="clear:both; height: 1px;">
+            &nbsp;
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+		         <div class="col-md-1">
+          &nbsp;
+        </div><!--/col-md-1-->
+
+          <div class="collapse navbar-collapse navbar-responsive-collapse col-md-10">
+            <ul class="nav navbar-nav pull-left">
+              <!-- Demo -->
+              <li>
+                <a href="/">Home</a>
+              </li>              
+              <!-- Home -->
+              <li>
+                <a href="/knowledge-graph/">knowledge Graph</a>
+              </li>  			  
+              <li>
+                <a href="https://sparql.kbpedia.org/">SPARQL</a>
+              </li>              
+              <!-- Background -->
+              <li class="dropdown">
+                <a href="/background/">Background</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="/background/overview/">Overview</a>
+                  </li>
+                  <li>
+                    <a href="/background/features-and-benefits/">Features & Benefits</a>
+                  </li>
+                  <li>
+                    <a href="/background/data-and-knowledge-structures/">Data and Knowledge Structures</a>
+                  </li>
+                  <li>
+                    <a href="/background/technology/">Technology</a>
+                  </li>
+                  <li>
+                    <a href="/background/machine-learning/">Machine Learning</a>
+                  </li>
+                  <li>
+                    <a href="/background/uses/">Uses</a>
+                  </li>
+                </ul>
+              </li><!-- End Uses -->                 
+              <li class="dropdown">
+                <a href="/use-cases/">Use Cases</a>
+                <ul class="dropdown-menu">
+                  <li class="dropdown-submenu">
+                    <a href="/use-cases/knowledge-graph/">Knowledge Graph (KG)</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="/use-cases/browse-the-knowledge-graph/">Browse the Knowledge Graph</a></li>
+                      <li><a href="/use-cases/search-the-knowledge-graph/">Search the Knowledge Graph</a></li>
+                      <li><a href="/use-cases/expand-queries-using-semsets/">Expand Queries Using Semsets</a></li>
+                      <li><a href="/use-cases/use-and-control-of-inferencing/">Uses and Control of Inferencing</a></li>
+                    </ul>                    
+                  </li>
+                  <li class="dropdown-submenu">
+                    <a href="/use-cases/machine-learning-use-case/">Machine Learning (KBAI)</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="/use-cases/text-classification-using-esa-and-svm/">Create Supervised Learning Training Sets</a></li>
+                      <li><a href="/use-cases/document-specific-word2vec-training-corpuses/">Create Word Embedding Corpuses</a></li>
+                      <li><a href="/use-cases/extending-kbpedia-with-kbpedia-categories/">Create Graph Embedding Corpuses</a></li>
+                      <li><a href="/use-cases/text-classification-using-esa-and-svm/">Classify Text</a></li>
+                      <li><a href="/use-cases/dynamic-machine-learning/">Create 'Gold Standards' for Tuning Learners</a></li>
+                      <li><a href="/use-cases/disambiguating-kbpedia-knowledge-graph-concepts/">Disambiguate KG Concepts</a></li>
+                      <li><a href="/use-cases/dynamic-machine-learning/">Dynamic Machine Learning Using the KG</a></li>
+                    </ul>                    
+                  </li>
+                  <li class="dropdown-submenu">
+                    <a href="/use-cases/mapping-use-case/">Mapping</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="/use-cases/mapping-external-data-and-schema/">Map Concepts</a></li>
+                      <li><a href="/use-cases/extending-kbpedia-with-kbpedia-categories/">Extend KBpedia with Wikipedia</a></li>
+                      <li><a href="/use-cases/benefits-from-extending-kbpedia-with-private-datasets/">Extend KBpedia for Domains</a></li>
+                      <li><a href="/use-cases/mapping-external-data-and-schema/">General Use of the Mapper</a></li>
+                    </ul>                    
+                  </li>
+                </ul>   
+              </li>
+              <li class="dropdown">
+                <a href="/resources/">Resources</a>
+                <ul class="dropdown-menu">
+				 <li><a href="/resources/downloads/">Download KBpedia</a></li>
+                 <li><a href="/resources/about/">About KBpedia</a></li>
+			     <li><a href="/resources/faq/">KBpedia FAQ</a></li>
+				 <li><a href="/resources/news/">News About KBpedia</a></li>
+			     <li><a href="/resources/statistics/">KBpedia Statistics</a></li>
+			     <li><a href="/resources/documentation/">Additional Documentation</a></li>
+                 <li><a href="/resources/support/">Support for KBpedia</a>.</li>                  
+                </ul>
+              </li>              
+            </ul>
+          </div><!--/navbar-collapse-->
+		  		         <div class="col-md-1">
+          &nbsp;
+        </div><!--/col-md-1-->
+        </div>
+      </div><!-- End Navbar -->
+    </div><!--=== End Header ===-->
+    <!--=== Breadcrumbs ===-->
+    <div class="breadcrumbs">
+      <div class="container">
+        <div class="col-md-1">
+          &nbsp;
+        </div><!--/col-md-1-->
+        <div class="col-md-10">
+          <span class="label rounded-2x label-primary pull-left" style="position: relative; top: 10px; padding: 10px;"><span class="label label-info rounded" style="margin-right: 10px; font-weight: bold;">version 2.50</span> (6/15/2020)</span>
+          <a class="btn-u btn-u-red btn-u-xs  rounded pull-left" 
+             style="position: relative; top: 15px; left: 10px;"
+             href="mailto:info@cognonto.com?subject=Problem with: KBpedia:HorseRace&body=[Please describe the problem here]">See a problem? Tell us.</a>
+
+          <div class="pull-right breadcrumb-search-bar">
+            <div class="input-group-search">
+              <span class="input-group-addon" id="type-search-tip">Reference Concepts</span>
+              <input type="text" class="form-control" id="search-input" class="form-control ui-autocomplete-input" name="query" autocomplete="off">
+              
+              <div class="input-group-btn">
+                <button type="button" class="btn btn-info" id="search-btn">Search</button>
+                <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
+                  <span class="caret"></span>
+                  <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a id="search-filter-reference-concepts">Reference Concepts</a></li>
+                  <li><a id="search-filter-entities">Entities</a></li>
+                </ul>
+              </div>              
+            </div><!-- /input-group -->              
+          </div>
+        </div><!--/col-md-10-->
+        <div class="col-md-1">
+          &nbsp;
+        </div><!--/col-md-1-->
+      </div>
+    </div>
+    <!--/breadcrumbs-->
+    <!--=== End Breadcrumbs ===-->
+    <!--=== Content Part ===-->
+    <div class="container content">
+      
+      <div class="row">
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->
+        <div class="col-md-8">
+          <h1 id="rc-pref-label"></h1>
+<p id="rc-uri"></p>
+<p id="rc-uri"></p>
+          <h5 id="rc-alt-labels" style=""></h5>             
+          <p id="rc-description"></p>
+        </div>
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->
+      </div><!--/row-->     
+       
+      <div class="row">&nbsp;</div>
+      
+      <div class="row" id="core-structure-row">
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->        
+        <div class="col-md-8">
+          <div class="panel panel-info">
+            <div class="panel-heading" data-toggle="collapse" data-target="#core-structure-panel">
+              <h3 class="panel-title"><i class="fa fa-link"></i>Core Structure<i class="chevron fa fa-fw pointer pull-right"></i></h3>
+            </div>
+            <div class="collapse in" id="core-structure-panel">
+              <div class="tag-box tag-box-v2" style="margin-bottom: 0px;">
+                <h4>
+                  <small>
+                    These are the structural linkages among the core knowledge bases for this <code>HorseRace</code> RC: <a id="extend-description-btn-1" onclick="extendDescription(this, 'extend-description-1')" style="cursor: pointer;">... more</a>
+                  </small>
+                </h4>
+                
+                <div class="collapse" id="extend-description-1">
+                  <h4>
+                    <small>
+                      The <a href="/docs/core-knowledge-bases">core structure</a> for KBpedia is derived from six (6) main knowledge bases — <a href="https://en.wikipedia.org/wiki/Cyc">OpenCyc</a>, <a href="https://en.wikipedia.org/wiki/UMBEL">UMBEL</a>, <a href="https://en.wikipedia.org/wiki/GeoNames">GeoNames</a>, <a href="https://en.wikipedia.org/wiki/DBpedia">DBpedia</a>, <a href="https://en.wikipedia.org/wiki/Wikipedia">Wikipedia</a> and <a href="https://en.wikipedia.org/wiki/Wikidata">Wikidata</a>. The conceptual relationships in the KBpedia Knowledge Ontology (KKO) are largely drawn from OpenCyc and UMBEL, though any of the other four sources may contribute local knowledge graph structure. Additional reference concepts (RCs) are contributed primarily from GeoNames and Wikipedia. Wikidata contributes the bulk of the instance data, though instance records are actually drawn from all sources. DBpedia and Wikidata are also the primary sources for attribute characterizations of the instances.
+
+                      Two characteristics define what is a core contributor to the KBpedia structure: 1) the scale and completeness of the source; and 2) its contribution of a large number of RCs to the overall KKO knowledge graph. The KBs in the core structure play a central role in the scope and definition of KBpedia. This core structure of KBpedia is supplemented by mappings to about 20 additional <a href="/docs/extended-mappings">external linkages</a>, which are highly useful for interoperability purposes, but do not themselves contribute to the same extent to the RC scope of the KKO graph.
+
+                      Instances (or entities) are related to the KKO graph via the <code>rdfs:type</code> predicate, which assigns an entity to one or more parental classes. RCs within the KKO graph may be equivalent (<code>owl:equivalentClass</code>), a parent super class (<code>kko:superClassOf</code>), a child sub class (<code>rdfs:subClassOf</code>), or a closely related concept (<code>kko:isCloselyRelated</code>). These relationships define the edges between the nodes in the graph structure, and are also the basis for logical inferencing. 
+                    </small>
+                  </h4>
+                </div>            
+              </div>
+              <table class="table table-striped">
+                <tbody>
+                  <tr id="core-structure-sub-classes-td" class="hide">
+                    <td><b><span class="text-border text-border-blue tooltips" data-original-title="External classes that have been linked to this KBpedia concept as its sub-class" data-toggle="tooltip">Sub-Classes</span></b></td>
+                    <td>                
+                      <div class="tab-v2">
+                        <ul class="nav nav-tabs">
+                          <li class="active">
+                            <a data-toggle="tab" id="core-structure-direct-sub-classes-tab" href="#core-structure-direct-sub-classes" aria-expanded="true">Direct</a>
+                          </li>                
+                          <li class="">
+                            <a data-toggle="tab" id="core-structure-inferred-sub-classes-tab" href="#core-structure-inferred-sub-classes" aria-expanded="false">Inferred</a>
+                          </li>
+                        </ul>
+                        <div class="tab-content" style="padding: 0px;">
+                          <div id="core-structure-direct-sub-classes" class="tab-pane fade active in">
+                            <table class="table-transparent" id="core-structure-sub-classes-canvas">
+                              <tbody>
+                              </tbody>
+                            </table>
+                          </div>
+                          <div id="core-structure-inferred-sub-classes" class="tab-pane fade">
+                            <table class="table-transparent" id="core-structure-inferred-sub-classes-canvas">
+                              <tbody>
+                              </tbody>
+                            </table>
+                            <button id="core-structure-inferred-sub-classes-show-all-btn" 
+                                    type="button" 
+                                    class="btn rounded btn-info hide"
+                                    onclick="showAll(this, 'core-structure-inferred-sub-classes-canvas-more')">Show all</button>
+                            <table class="table-transparent hide" id="core-structure-inferred-sub-classes-canvas-more">
+                              <tbody>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </div>                      
+                    </td>
+                  </tr>
+                  <tr id="core-structure-super-classes-td" class="hide">
+                    <td><b><span class="text-border text-border-blue tooltips" data-original-title="External classes that have been linked to this KBpedia concept as its super-class" data-toggle="tooltip">Super-Classes</span></b></td>
+                    <td>
+                      <div class="tab-v2">
+                        <ul class="nav nav-tabs">
+                          <li class="active">
+                            <a data-toggle="tab" id="core-structure-direct-super-classes-tab" href="#core-structure-direct-super-classes" aria-expanded="true">Direct</a>
+                          </li>                
+                          <li class="">
+                            <a data-toggle="tab" id="core-structure-inferred-super-classes-tab" href="#core-structure-inferred-super-classes" aria-expanded="false">Inferred</a>
+                          </li>
+                        </ul>
+                        <div class="tab-content" style="padding: 0px;">
+                          <div id="core-structure-direct-super-classes" class="tab-pane fade active in">
+                            <table class="table-transparent" id="core-structure-super-classes-canvas">
+                              <tbody>
+                              </tbody>
+                            </table>
+                          </div>
+                          <div id="core-structure-inferred-super-classes" class="tab-pane fade">
+                            <table class="table-transparent" id="core-structure-inferred-super-classes-canvas">
+                              <tbody>
+                              </tbody>
+                            </table>
+                            <button id="core-structure-inferred-super-classes-show-all-btn" 
+                                    type="button" 
+                                    class="btn rounded btn-info hide"
+                                    onclick="showAll(this, 'core-structure-inferred-super-classes-canvas-more')">Show all</button>
+                            <table class="table-transparent hide" id="core-structure-inferred-super-classes-canvas-more">
+                              <tbody>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                      </div> 
+                    </td>
+                  </tr>
+                  <tr id="core-structure-equivalent-classes-td" class="hide">
+                    <td><b><b><span class="text-border text-border-blue tooltips" data-original-title="External classes that have been linked to this KBpedia concept as its equivalent class" data-toggle="tooltip">Equivalent Classes</span></b></b></td>
+                    <td>
+                      <table class="table-transparent" id="core-structure-equivalent-classes-canvas">
+                        <tbody>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr id="core-structure-same-as-td" class="hide">
+                    <td><b><span class="text-border text-border-blue tooltips" data-original-title="External classes that have been linked to this KBpedia concept as the same class" data-toggle="tooltip">Same As</span></b></td>
+                    <td>
+                      <table class="table-transparent" id="core-structure-same-as-canvas">
+                        <tbody>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr id="core-structure-is-related-to-td" class="hide">
+                    <td><b><span class="text-border text-border-blue tooltips" data-original-title="External related entities that have been related to this KBpedia concept" data-toggle="tooltip">Is Related To</span></b></td>
+                    <td>
+                      <table class="table-transparent hide" id="core-structure-is-related-to-canvas">
+                        <tbody>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->
+      </div>            
+
+      <div class="row">&nbsp;</div>
+      
+      <div class="row hide" id="entities-row">
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->        
+        <div class="col-md-8">
+          <div class="panel panel-info">
+            <div class="panel-heading" data-toggle="collapse" data-target="#entities-panel">
+               <h3 class="panel-title"><i class="fa fa-database"></i>Entities<i class="chevron fa fa-fw pointer pull-right"></i></h3>               
+            </div>
+            <div class="collapse in" id="entities-panel">
+              <div class="tag-box tag-box-v2" style="margin-bottom: 0px;">
+                <h4>
+                  <small>
+                    Here are some entities for this reference concept: <a id="extend-description-btn-3" onclick="extendDescription(this, 'extend-description-3')" style="cursor: pointer;">... more</a>
+                  </small>
+                </h4>
+                
+                <div class="collapse" id="extend-description-3">
+                  <h4>
+                    <small>
+                      <b><em>Entities</em></b> are distinct, nameable, individual things. Entities may be physical objects or conceptual works or discrete ideas, so long as they may be characterized by attributes shared by other instances. Entities may be parts of other things, so long as they have a distinct identity and character. Entities with shared attributes that are the essence of the things may be grouped into natural types, called <b><em>entity types</em></b>. These entity types may be further related to other entity types in natural groupings or hierarchies depending on the attributes and their essences that are shared among them.
+
+                      For the current RC, which is by definition an entity type, we are displaying a small portion of its entities. You can browse all entities for this RC by clicking the <b>Browse all entities</b> button. 
+                    </small>
+                  </h4>
+                </div>              
+              </div>
+              <table class="table table-striped">
+                <tbody>
+                  <tr>
+                    <td><b><span class="text-border text-border-blue tooltips" data-original-title="Number of direct and inferred entities that belong to that class that exists in the demo Cognonto Knowledge Base." data-toggle="tooltip">Number of entities</span></b></td>
+                    <td id="nb-inferred-entities">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><b><span class="text-border text-border-blue tooltips" data-original-title="A list of a few entity examples that belong to that class from the demo Cognonto Knowledge Base" data-toggle="tooltip">Entity examples</span></b></td>
+                    <td>
+                      <div class="row" id="entity-examples-canvas"></div>
+                      <div class="row" id="entity-examples-goto-btn"></div>
+                    </td>
+                  </tr>                
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->
+      </div>
+
+      <div class="row">&nbsp;</div>
+      
+      <div class="row hide" id="aspect-entities-row">
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->        
+        <div class="col-md-8">
+          <div class="panel panel-info">
+            <div class="panel-heading" data-toggle="collapse" data-target="#aspect-related-entities-panel">
+               <h3 class="panel-title"><i class="fa fa-eye"></i>Aspect-related Entities<i class="chevron fa fa-fw pointer pull-right"></i></h3>               
+            </div>
+            <div class="collapse in" id="aspect-related-entities-panel">
+              <div class="tag-box tag-box-v2" style="margin-bottom: 0px;">
+                <h4>
+                  <small>
+                    Here are some aspect-related entities for this reference concept: <a id="extend-description-btn-4" onclick="extendDescription(this, 'extend-description-4')" style="cursor: pointer;">... more</a>
+                  </small>
+                </h4>
+                
+                <div class="collapse" id="extend-description-4">
+                  <h4>
+                    <small>
+                      
+                    </small>
+                  </h4>
+                </div>            
+              </div>
+              <table class="table table-striped">
+                <tbody id="aspects-canvas">
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->
+      </div>       
+      
+      <div class="row">&nbsp;</div>            
+      
+      <div class="row" id="typologies-row">
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->      
+        <div class="col-md-8">
+          <div class="panel panel-info">
+            <div class="panel-heading" data-toggle="collapse" data-target="#typologies-panel">
+               <h4 class="panel-title"><i class="fa fa-sitemap"></i>Typologies<i class="chevron fa fa-fw pointer pull-right"></i></h4>
+            </div>
+            <div class="collapse in" id="typologies-panel">
+              <div class="tag-box tag-box-v2" style="margin-bottom: 0px;">
+                <h4>
+                  <small>
+                    The <code>HorseRace</code> concept is a member of these typologies: <a id="extend-description-btn-5" onclick="extendDescription(this, 'extend-description-5')" style="cursor: pointer;">... more</a>
+                  </small>
+                </h4>
+                
+                <div class="collapse" id="extend-description-5">
+                  <h4>
+                    <small>
+                      About 3/4 of all of the <em>reference concepts</em> (RCs) in KBpedia represent classes of entities, which themselves are organized into about <a href="/docs/30-typologies/">30 typologies</a>. Most of these typologies are disjoint (lack overlap) from one another, which provides an efficient mechanism for testing subsets and filtering entities into smaller groups for computational purposes.
+
+                      The major groupings of types reside in core typologies, which is where the largest degree of disjointedness occurs. There are some upper typologies (such as <code>Living Things</code> over <code>Plants</code>, <code>Animals</code>, etc.) that are used mostly for organizational purposes. The core typologies are the key ones to focus upon for distinguishing large groupings of entities. 
+                    </small>
+                  </h4>
+                </div>            
+              </div>
+              <div class="tab-v2">
+                <ul class="nav nav-tabs">
+                  <li class="active">
+                    <a data-toggle="tab" href="#core-typologies" aria-expanded="true">Core</a>
+                  </li>
+                  <li class="">
+                    <a data-toggle="tab" href="#extended-typologies" aria-expanded="false">Extended</a>
+                  </li>
+                </ul>
+                <div class="tab-content">
+                  <div id="core-typologies" class="tab-pane fade active in">
+                    <div id="core-typologies-canvas"></div>
+                  </div>
+                  <div id="extended-typologies" class="tab-pane fade">
+                    <div id="extended-typologies-canvas"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->        
+      </div>       
+      
+      <div class="row">&nbsp;</div>
+      
+<!--=== Connected Worlds (Instances & Mappings) ===-->
+      <div class="row">&nbsp;</div>
+      
+      <div class="row" id="connected-worlds-row">
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->        
+        <div class="col-md-8">
+          <div class="panel panel-info">
+            <div class="panel-heading" data-toggle="collapse" data-target="#connected-worlds-panel">
+               <h3 class="panel-title"><i class="fa fa-globe"></i>Connected Worlds<i class="chevron fa fa-fw pointer pull-right"></i></h3>
+            </div>
+            <div class="collapse in" id="connected-worlds-panel">
+              <div class="tag-box tag-box-v2" style="margin-bottom: 0px;">
+                <h4>
+                  <small>
+                    The <code>HorseRace</code> concept lives in these external knowledge graphs: 
+                    <a id="extend-description-btn-cw" onclick="extendDescription(this, 'extend-description-cw')" style="cursor: pointer;">... more</a>
+                  </small>
+                </h4>
+                
+                <div class="collapse" id="extend-description-cw">
+                  <h4>
+                    <small>
+                      KBpedia reference concepts are explicitly mapped to major external sources (Wikidata, Wikipedia, DBpedia, schema.org, GeoNames) and a curated set of boutique ontologies (Dublin Core, FOAF, Transit, etc.). 
+                      These connections act as bridges to the broader Web of Data. Equivalent classes represent direct matches; narrower/broader show hierarchical alignments. 
+                      Boutique mappings — though rare — are always shown first because of their specialized value.
+                    </small>
+                  </h4>
+                </div>            
+              </div>
+
+              <!-- Filter Bar -->
+              <div class="margin-bottom-20">
+                <button class="btn-u btn-u-xs btn-u-blue filter-cw active" data-filter="all">All <span class="badge" id="cw-count-all">0</span></button>
+                <button class="btn-u btn-u-xs filter-cw" data-filter="wikidata">Wikidata <span class="badge" id="cw-count-wikidata">0</span></button>
+                <button class="btn-u btn-u-xs filter-cw" data-filter="wikipedia">Wikipedia <span class="badge" id="cw-count-wikipedia">0</span></button>
+                <button class="btn-u btn-u-xs filter-cw" data-filter="dbpedia">DBpedia <span class="badge" id="cw-count-dbpedia">0</span></button>
+                <button class="btn-u btn-u-xs filter-cw" data-filter="schema">schema.org <span class="badge" id="cw-count-schema">0</span></button>
+                <button class="btn-u btn-u-xs filter-cw" data-filter="geonames">GeoNames <span class="badge" id="cw-count-geonames">0</span></button>
+                <button class="btn-u btn-u-xs btn-u-orange filter-cw" data-filter="others">Others <span class="badge" id="cw-count-others">0</span></button>
+              </div>
+
+              <table class="table table-striped">
+                <tbody id="connected-worlds-canvas">
+                  <!-- Filled by JS below -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-2">
+          &nbsp;
+        </div><!--/col-md-2-->
+      </div>
+      <!--=== End Connected Worlds ===-->     
+      
+
+    </div><!--/container-->
+    <div class="footer-v1">
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <!-- About -->
+        <div class="col-md-3 md-margin-bottom-40">
+          <table>
+            <tbody><tr>
+              <td>
+                <a href="/">
+                  <img id="logo-footer" class="footer-logo" src="/imgs/logo-simple-purple.png" alt="" name="logo-footer">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <center>
+                  <p> KBpedia </p>
+                </center>
+              </td>
+            </tr>
+            </tbody></table>
+          <p style="font-size: 0.85em;">
+            KBpedia exploits large-scale knowledge bases and semantic technologies for machine learning, data interoperability and mapping, and fact extraction and tagging.
+          </p>
+        </div><!--/col-md-3-->
+        <!-- End About -->
+        <!-- Latest -->
+        <div class="col-md-3 md-margin-bottom-40">
+          <div class="posts">
+            <div class="headline">
+              <h2> Latest News </h2>
+            </div>
+            <ul class="list-unstyled latest-list">
+              <li>
+                <a href="https://kbpedia.org/resources/news/kbpedia-adds-ecommerce/">KBpedia Adds Major eCommerce Capabilities</a>
+                <small>06/15/2020</small>
+              </li>
+              <li>
+                <a href="http://kbpedia.org/resources/news/kbpedia-continues-quality-improvements/">KBpedia Continues Quality Improvements</a>
+                <small>12/04/2019</small>
+              </li>
+              <li>
+                <a href="http://kbpedia.org/resources/news/wikidata-coverage-nearly-complete/">Wikidata Coverage Nearly Complete (98%)</a>
+                <small>04/08/2019</small>
+              </li>
+            </ul>
+          </div>
+        </div><!--/col-md-3-->
+        <!-- End Latest -->
+        <!-- Link List -->
+        <div class="col-md-3 md-margin-bottom-40">
+          <div class="headline">
+            <h2> Other Resources </h2>
+          </div>
+          <ul class="list-unstyled link-list">
+            <li><a href="/resources/about/">About</a></li>
+            <li><a href="/resources/faq/">KBpedia FAQ</a></li>
+            <li><a href="/resources/news/">News About KBpedia</a></li>
+            <li><a href="/use-cases/">Use Cases</a></li>
+            <li><a href="/resources/documentation/">Documentation</a></li>
+            <li><a href="/resources/privacy/">Privacy</a></li>
+            <li><a href="/resources/terms-of-use/">Terms of Use</a></li>
+          </ul>
+        </div><!--/col-md-3-->
+        <!-- End Link List -->
+        <!-- Address -->
+        <div class="col-md-3 map-img md-margin-bottom-40">
+          <div class="headline">
+            <h2> Contact Us </h2>
+          </div>
+          <address class="md-margin-bottom-40">
+            c/o <a href="mailto:info@cognonto.com?subject=KBpedia%20Inquiry">Michael K. Bergman</a><br>
+            380 Knowling Drive<br>
+            Coralville, IA 52241<br>
+            U.S.A.<br>
+            Voice: +1 319 621 5225
+          </address>
+        </div><!--/col-md-3-->
+        <!-- End Address -->
+      </div>
+    </div>
+  </div><!--/footer-->
+  <div class="copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7">
+          <p class="copyright" style="font-size: 10px;">
+            2016-2025 © <a href="http://kbpedia.org" style="font-size: 10px;">Michael K. Bergman.</a> All Rights Reserved.
+          </p>
+        </div>
+        <!-- Social Links -->
+        <div class="col-md-5">
+          <ul class="footer-socials list-inline">
+            <li><a href="/resources/feeds/news.xml" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="RSS feed"><i class="fa fa-rss-square"></i></a><br></li>
+            <li><a href="http://github.com/Cognonto" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Github"><i class="fa fa-github"></i></a><br></li>
+            <li><a href="http://twitter.com/cognonto" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter"><i class="fa fa-twitter"></i></a><br></li>
+          </ul>
+        </div>
+        <!-- End Social Links -->
+      </div>
+    </div>
+  </div><!--/copyright-->
+</div><!--=== End Footer Version 1 ===-->
+<!--/wrapper-->
+<!-- JS Global Compulsory -->
+<script type="text/javascript" src="/assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+<!-- JS Customization -->
+<script type="text/javascript" src="/assets/js/custom.js"></script>
+<!-- JS Page Level -->
+<script type="text/javascript" src="/assets/js/app.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="/assets/plugins/smoothScroll.js"></script>
+<script type="text/javascript" src="/assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
+<script type="text/javascript" src="/assets/plugins/layer-slider/layerslider/js/greensock.js"></script>
+<script type="text/javascript" src="/assets/plugins/layer-slider/layerslider/js/layerslider.transitions.js"></script>
+<script type="text/javascript" src="/assets/plugins/layer-slider/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+<!-- JS Customization -->
+<script type="text/javascript" src="/assets/js/custom.js"></script>
+<!-- JS Page Level -->
+<script type="text/javascript" src="/assets/js/plugins/layer-slider.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/style-switcher.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/owl-carousel.js"></script>
+<script type="text/javascript" src="/assets/js/plugins/owl-recent-works.js"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    App.init();
+    LayerSlider.initLayerSlider();
+    StyleSwitcher.initStyleSwitcher();
+    OwlCarousel.initOwlCarousel();
+    OwlRecentWorks.initOwlRecentWorksV2();
+  });
+</script>
+<!--[if lt IE 9]>
+  <script src="assets/plugins/respond.js"></script>
+  <script src="assets/plugins/html5shiv.js"></script>
+  <script src="assets/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+
+<!-- === KBpedia v3.00 JS LOADING === -->
+    <script>
+        var refConcept = { uri: "HorseRace" };
+        console.log("KBpedia 3.0 — refConcept DEFINED —", refConcept.uri);
+    </script>
+    <script src="/knowledge-graph/js/connected-worlds.js"></script>   <!-- ADD THIS LINE -->
+    <script src="/knowledge-graph/js/rc.js"></script>
+
+
+
+
+
+    <script type="text/javascript" src="/knowledge-graph/js/jquery-ui.min.js"></script>
+<!-- === END KBpedia v3.00 JS LOADING === -->
+
+<!--[if lt IE 9]>
+  <script src="/assets/plugins/respond.js"></script>
+  <script src="/assets/plugins/html5shiv.js"></script>
+  <script src="/assets/js/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-84405507-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- DEBUG: footer.php LOADED -->
+</body>
+</html>
+<!-- ADD TO TOP SECTION, AFTER rc-description -->
+<p id="rc-uri"></p>
+<h5 id="rc-alt-labels"></h5> title 36 KBpedia: HorseRace Reference Concept contentType 9 text/html url 72 https://kbpedia.org:443/knowledge-graph/reference-concept/?uri=HorseRace responseCode 3 200 

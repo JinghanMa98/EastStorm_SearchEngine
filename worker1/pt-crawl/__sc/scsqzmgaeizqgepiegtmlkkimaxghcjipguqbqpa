@@ -1,0 +1,567 @@
+scsqzmgaeizqgepiegtmlkkimaxghcjipguqbqpa length 5 42475 page 42475 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Toutes les épreuves cyclistes - ASO.fr</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="image" content="https://www.aso.fr/img/global/logo.png" />
+<meta name="lang" content="en" />
+<meta name="pageKey" content="cyclisme" />
+<meta name="description" content="Toutes les &eacute;preuves cyclistes - ASO.fr" />
+<meta property="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta property="og:image" content="https://www.aso.fr/img/global/logo-og.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.aso.fr/en/our-sports/cycling" />
+<meta property="og:title" content="Toutes les &eacute;preuves cyclistes - ASO.fr" />
+<meta property="og:description" content="Toutes les &eacute;preuves cyclistes - ASO.fr" />
+
+
+            <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="Aso" />
+<link rel="manifest" href="/manifest.json" crossorigin="use-credentials"/>
+
+    
+    <script type="text/javascript" 
+            data-cmp-ab="1"
+            src="https://cdn.consentmanager.net/delivery/autoblocking/4a0553d692507.js"
+            data-cmp-host="b.delivery.consentmanager.net"
+            data-cmp-cdn="cdn.consentmanager.net"
+            data-cmp-codesrc="0">
+    </script>
+
+                <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-M2J597QF');</script>
+    <!-- End Google Tag Manager -->
+
+    
+    <script>
+        var customEvents = {};
+        window.fbAsyncInit = function () {
+            // init the FB JS SDK
+
+            FB.init({
+                appId: 454906931320498,
+                status: true,
+                xfbml: true
+            });
+        };
+
+        // Load the SDK asynchronously
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        function checkCookieForRedirect() {
+            document.body.style.display = 'none';
+            if (document.body.className.includes('hide-admin') && localStorage.getItem('_lang')) {
+                localStorage.removeItem('_lang')
+            }
+            const lang = localStorage.getItem('_lang');
+            if (/^\/[a-zA-Z]{2}(?:.+|$)/.test(window.location.pathname) && /^[a-zA-Z]{2}$/.test(lang)) {
+                if (!(new RegExp('^\/' + lang + '(?:.+|$)')).test(window.location.pathname)) {
+                    var link = document.querySelector('.header__lang__menu .nav__link[data-lang='+lang+']');
+                    if (link) {
+                        link = `${link.href}${window.location.search}`;
+                        window.location.href = link;
+                        return;
+                    }
+                }
+            }
+            document.body.style.display = 'block';
+        }
+
+        window.translations = {
+            slidePrev: 'Previous slide',
+            slideNext: 'Next slide'
+        };
+    </script>
+
+    <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i" rel="stylesheet">-->
+            <link rel="preload" href="/dist/js/scripts.jquery.6a7766d.js" as="script">
+        <link rel="preload" href="/dist/css/4.style.48c7678.css" as="style">
+        <link rel="preload" href="/dist/css/10.style.769a304.css" as="style">
+        <link rel="preload" href="/dist/css/7.style.b1c55d4.css" as="style">
+        <link rel="preload" href="/dist/js/scripts.vendor.769a304.js" as="script">
+                    <link rel="preload" href="/dist/js/scripts.runtime.9c239af.js" as="script">
+            <link rel="preload" href="/dist/js/scripts.vendors.2fc3680.js" as="script">
+                <link rel="preload" href="/dist/js/scripts.main.b1c55d4.js" as="script">
+        <link href="/dist/css/4.style.48c7678.css" rel="stylesheet">
+        <link href="/dist/css/10.style.769a304.css" rel="stylesheet">
+        <link href="/dist/css/7.style.b1c55d4.css" rel="stylesheet">
+            
+            
+<script>
+    // Appel asynchrone au tag DFP
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node =document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+    googletag.cmd.push(function() {
+
+        var mp_bannierehaute = googletag.sizeMapping().
+        addSize([0, 0], [[1, 1],[320, 50],[320, 100]]).
+        addSize([728, 500], [[1, 1],[728, 90]]). // Tablet
+        addSize([1000, 500], [[1, 1],[728, 90],[1000, 90],[1000, 250]]). // Desktop
+        build();
+
+        var AdUnit = '/366560878/ASO/ASO';
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-haute').setTargeting('position', 'BANNIERE-HAUTE').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-basse').setTargeting('position', 'BANNIERE-BASSE').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-1').setTargeting('position', 'BANNIERE-1').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-2').setTargeting('position', 'BANNIERE-2').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-3').setTargeting('position', 'BANNIERE-3').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-cadet').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'cadet').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-jaune').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotjaune').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-pois').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotpois').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-vert').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotvert').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-blanc').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotblanc').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-securite').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'securite').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-surlaroute').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'surlaroute').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-1').setTargeting('position', 'PAVE-1').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-2').setTargeting('position', 'PAVE-2').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-3').setTargeting('position', 'PAVE-3').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-4').setTargeting('position', 'PAVE-4').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-5').setTargeting('position', 'PAVE-5').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-6').setTargeting('position', 'PAVE-6').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-7').setTargeting('position', 'PAVE-7').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_chronometreur').setTargeting('position', 'CHRONOMETREUR').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[1,1]], 'dfp_background').setTargeting('position', 'BACKGROUND').addService(googletag.pubads());
+        
+        /* Capping */
+
+        // set interstitiel if not capped
+        (function() {
+            const CAPPING_KEY = 'interstitielClosedAt';
+            const CAPPING_DELAY = 60 * 60 * 1000;
+            const ts = localStorage.getItem(CAPPING_KEY);
+            const isCapped = ts && (Date.now() - parseInt(ts, 10) < CAPPING_DELAY);
+
+            if (!isCapped) {
+                googletag.defineOutOfPageSlot(AdUnit, 'dfp_interstitiel')
+                  .setTargeting('position', 'INTERSTITIEL')
+                  .addService(googletag.pubads());
+            } else {
+                console.log('[DFP] Interstitiel no loaded : capping ON');
+            }
+        })();
+
+        // set capping event on close
+        document.body.addEventListener('click', function(event) {
+            const close = event.target.closest('#croixFermee');
+            if (close) {
+                localStorage.setItem('interstitielClosedAt', Date.now().toString());
+                console.log('[DFP] Interstitiel closed : capping saved');
+            }
+        });
+        
+        // Targeting key/value
+        googletag.pubads().setTargeting('lang', 'EN');
+        googletag.pubads().setTargeting('pagetype', 'DEFAULT');
+                googletag.pubads().setTargeting('xtpage', ['cyclisme']);
+
+        if (window.location.hash !== '') {
+            googletag.pubads().setTargeting('preview', window.location.hash.replace('#',''));
+        }
+        
+        // Targeting general
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+
+
+            
+            
+                
+    <link rel="alternate" hreflang="fr" href="/fr/nos-sports/cyclisme"/>
+
+    
+</head>
+
+
+<body class="contents is-piano-analytics"
+
+data-cookie-referer="_page_alias_cyclisme"
+    data-privacy="true"
+data-analytics-site="267068"
+data-analytics-page="cyclisme"
+>
+
+
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2J597QF"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+                 
+
+                        
+                        <header class="header">
+    <div class="container">
+
+                    <a class="burgerButton js-burger-button visible--xs visible--sm" data-xtclick="header::burger::menu" data-clicktype="A">
+    <span class="burgerButton__bar burgerButton__bar--1"></span>
+    <span class="burgerButton__bar burgerButton__bar--2"></span>
+    <span class="burgerButton__bar burgerButton__bar--3"></span>
+</a>
+            <a href="/en" class="main-link"><img alt="" class='main-logo' src="/img/global/logo.png"/></a>
+        <a href="/en" class="main-link main-link--mobile"><img alt="" class='main-logo' src="/img/global/logo_mobile.png"/></a>
+
+<ul class="nav"><li></li><li class="nav__item"><a class="nav__link js-nav-item" href="/en/our-sports" target="_self" data-xtclick="header::navigation::our-sports" data-clicktype="N">Our sports</a></li><li class="nav__item"><a class="nav__link js-nav-item" href="/en/our-activities" target="_self" data-xtclick="header::navigation::our-activities" data-clicktype="N">Our activities</a></li><li class="nav__item"><a class="nav__link js-nav-item" href="https://carrieres.aso.fr/#page-search" target="_blank" data-xtclick="header::navigation::join-us" data-clicktype="N">Join us</a></li><li class="nav__item"><a class="nav__link js-nav-item" href="https://www.asocorporatechallenges.com/?lang=en" target="_blank" data-xtclick="header::navigation::business-offers" data-clicktype="N">Business offers</a></li></ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+                <div class="dropdown nav__item header__lang">
+                                                
+    <a href="#" class="nav__link nav__link--arrow js-dropdown dropdown__toggle js-display-click" id="nav-lang-en" data-toggle="dropdown" aria-haspopup="true" role="button" data-xtclick="header::langue">
+                    <span class="flag js-display-lazy" data-class="flag--en"></span>
+                <span class="is-ibl header__lang__label">en</span>
+    </a>
+
+    
+    <div class="dropdown__menu header__lang__menu" aria-labelledby="nav-lang-en" role="menu">
+        <ul class="header__lang__list">
+                                                                                                                                                                        <li class="dropdown__menu__item" data-lang="fr">
+                        <a class="dropdown__menu__link nav__link" href="/fr/nos-sports/cyclisme" data-lang="fr">
+                                                            <span class="flag js-display-lazy" data-class="flag--fr"></span>
+                                                        <span class="is-ibl header__lang__label">fr</span>
+                        </a>
+                    </li>
+                    </ul>
+        <script>
+            checkCookieForRedirect();
+        </script>
+    </div>
+
+                    </div>
+    </div>
+
+                </header>
+
+            
+<main>
+    <div class="grid-container">
+    
+            
+
+            
+
+    
+            
+
+                            
+<div class="pageHeader  has-image">
+                        <img class="pageHeader__img" src="https://img.aso.fr/core_app/img-institutional-aso-jpg/headers-2/0448/0:0,2000:690-2000-0-70/d31c7" alt="Header: Cycling">
+                        <div class="filter"></div>
+                                        <div class="pageHeader__headingZone">
+                                <h1 class="pageHeader__heading">Cycling</h1>                            </div>
+            </div>
+
+                
+
+<section class="container article">
+    <div class="row article__content">
+    
+                    
+<div class="is-alignLeft">
+            <a href="/en/our-sports" class="btn btn--primary btn--arrow--left btn--sm"  data-xtclick="article::button::8179fffb71a3-go-back" data-clicktype="N">Go back</a>
+    </div>
+                    <p>With the Tour de France, one of the most followed international sporting events,&nbsp;le Tour de France Femmes avec Zwift&nbsp;created in 2022, the Vuelta, The Paris-Nice and&nbsp;Tour Auvergne Rh&ocirc;ne-Alpes&nbsp;stage races&rsquo;, prestigious classics such as Paris-Roubaix (<em>Men and Women</em>), Li&egrave;ge-Bastogne-Li&egrave;ge (<em>Men and Women</em>), The Fl&egrave;che Wallonne (<em>Men and Women</em>) and Paris-Tours and&nbsp;la Vuelta Femenina&nbsp;by Carrefour.es&nbsp;<em>(Women)</em>. A.S.O. is the world leader in bicycle race organisation with 132 days of competition each year.</p>
+<p>Promoting cycling around the world is a key plank of its development strategy. Through the Tour of Oman, Arctic Race of Norway, LIDL Deutschland Tour, Eschborn&ndash;Frankfurt and Tour de France Criteriums in Saitama and Singapour, A.S.O. is an active contributor to the development of cycling worldwide.</p>
+<p>At the same time, A.S.O. and the Tour de France are throwing their weight behind the global movement for soft mobility and <a href="https://www.letour.fr/en/the-race/futur-on-bicycle" target="_blank">Riding into the Future</a>, as well supporting environmental protection, regional development, awareness-raising among young people and the benefits of cycling every day as a source of wellbeing and balance.</p>
+
+                    <hr class="separation separation--solid" />
+
+                    <h2 class="heading heading--2" style="text-align: center;">&nbsp;</h2>
+<h2 class="heading heading--2" style="text-align: center;">Our professional cycling events</h2>
+
+    
+    </div>
+</section>
+
+
+                
+            <section class="pushs clearfix">
+        <div class="container">
+        <div class="row">
+                        
+    <div class="push push--photo push--customized
+          "><a href="https://www.letour.fr" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::tour-de-france"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-tdf/0359/0:0,600:500-300-0-100/340ba|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-tdf/0359/0:0,600:500-600-0-100/42636" alt="Tour de France"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.letourfemmes.fr" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::le-tour-de-france-femmes-avec-zwift"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-tdffaz/0371/0:0,600:500-300-0-100/7c799|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-tdffaz/0371/0:0,600:500-600-0-100/df495" alt="Le Tour de France Femmes avec Zwift"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.lavuelta.es" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::la-vuelta"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-la-vuelta/0356/0:0,600:500-300-0-100/dcc8a|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-la-vuelta/0356/0:0,600:500-600-0-100/68f22" alt="La Vuelta"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.lavueltafemenina.es" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::la-vuelta-femenina"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-la-vuelta-femenina/0386/0:0,600:500-300-0-100/05f70|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-la-vuelta-femenina/0386/0:0,600:500-600-0-100/b9c63" alt="La Vuelta Femenina"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.paris-roubaix.fr" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::paris-roubaix"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-roubaix/0354/0:0,600:500-300-0-100/45514|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-roubaix/0354/0:0,600:500-600-0-100/81ac5" alt="Paris-Roubaix"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.paris-roubaix-femmes.fr" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::paris-roubaix-femmes"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-roubaix-femmes/0402/0:0,600:500-300-0-100/82bf7|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-roubaix-femmes/0402/0:0,600:500-600-0-100/2fd34" alt="Paris-Roubaix Femmes"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.paris-nice.fr" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::paris-nice"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-nice/0383/0:0,600:500-300-0-100/8d2a3|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-nice/0383/0:0,600:500-600-0-100/1f36a" alt="Paris-Nice"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.liege-bastogne-liege.be"  class="push__link push__link--border"
+           data-xtclick="bloc-n1::liege-bastogne-liege-hommes"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-liege-bastogne-liege/0391/0:0,600:500-300-0-100/7f8ab|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-liege-bastogne-liege/0391/0:0,600:500-600-0-100/129a5" alt="Liège Bastogne Liège Hommes"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.liege-bastogne-liege-femmes.be"  class="push__link push__link--border"
+           data-xtclick="bloc-n1::liege-bastogne-liege-femmes"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-liege-bastogne-liege-femmes/0370/0:0,600:500-300-0-100/a0b8e|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-liege-bastogne-liege-femmes/0370/0:0,600:500-600-0-100/94ed6" alt="Liège Bastogne Liège Femmes"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.la-fleche-wallonne.be"  class="push__link push__link--border"
+           data-xtclick="bloc-n1::fleche-wallonne-hommes"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-fleche-wallonne/0387/0:0,600:500-300-0-100/f8d00|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-fleche-wallonne/0387/0:0,600:500-600-0-100/2044e" alt="Flèche Wallonne Hommes"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.la-fleche-wallonne-femmes.be" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::fleche-wallonne-femmes"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-fleche-wallonne-femmes/0367/0:0,600:500-300-0-100/a2209|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-fleche-wallonne-femmes/0367/0:0,600:500-600-0-100/03cae" alt="Flèche Wallonne Femmes"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.tour-auvergne-rhone-alpes.fr/fr"  class="push__link push__link--border"
+           data-xtclick="bloc-n1::tour-auvergne-rhone-alpes"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-png/push-tara-v2/0470/0:0,600:500-300-0-100/8c042|https://img.aso.fr/core_app/img-institutional-aso-png/push-tara-v2/0470/0:0,600:500-600-0-100/dc0cf" alt="Tour Auvergne Rhône-Alpes"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.paris-tours.fr"  class="push__link push__link--border"
+           data-xtclick="bloc-n1::paris-tours"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-tours/0398/0:0,600:500-300-0-100/88129|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-paris-tours/0398/0:0,600:500-600-0-100/43ae2" alt="Paris Tours"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.arctic-race-of-norway.com/" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::arctic-race-of-norway"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-artic-race-of-norway/0382/0:0,600:500-300-0-100/78dac|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-artic-race-of-norway/0382/0:0,600:500-600-0-100/c9093" alt="Arctic Race of Norway"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.deutschland-tour.com/en/home.html" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::deutschland-tour"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-lidl-deutschland-tour/0355/0:0,600:500-300-0-100/ee955|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-lidl-deutschland-tour/0355/0:0,600:500-600-0-100/2fc05" alt="Deutschland Tour"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.eschborn-frankfurt.de" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::eschborn-frankfurt"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-eschborn-frankfurt/0395/0:0,600:500-300-0-100/b45cc|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-eschborn-frankfurt/0395/0:0,600:500-600-0-100/fa8a8" alt="Eschborn-Frankfurt"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.cyclassics-hamburg.de/de/" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::adac-cyclassics-hamburg"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-png/push-cyclassics/0468/0:0,600:500-300-0-100/e25d6|https://img.aso.fr/core_app/img-institutional-aso-png/push-cyclassics/0468/0:0,600:500-600-0-100/2b5f1" alt="ADAC Cyclassics Hamburg"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.voltacatalunya.cat" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::volta-catalunya"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-volta-catalunya/0365/0:0,600:500-300-0-100/0dbfb|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-volta-catalunya/0365/0:0,600:500-600-0-100/01cf9" alt="Volta Catalunya"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.tour-of-oman.com" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::tour-of-oman"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-tour-oman/0372/0:0,600:500-300-0-100/b0c38|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-tour-oman/0372/0:0,600:500-600-0-100/73cbf" alt="Tour of Oman"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.tour-of-oman.com/fr/muscat-classic" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::muscat-classic"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-muscat-classic/0368/0:0,600:500-300-0-100/57c95|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-muscat-classic/0368/0:0,600:500-600-0-100/ce5fa" alt="Muscat Classic"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.thealulatour.com/" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::alula-tour"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-alula-tour/0406/0:0,600:500-300-0-100/da2e9|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-alula-tour/0406/0:0,600:500-600-0-100/09399" alt="AlUla Tour"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://singaporecriterium.com/" target="_blank" class="push__link push__link--border"
+           data-xtclick="bloc-n1::singapore-criterium"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-png/pushsingapour/0419/0:0,600:500-300-0-100/ed15e|https://img.aso.fr/core_app/img-institutional-aso-png/pushsingapour/0419/0:0,600:500-600-0-100/2e719" alt="Singapore Criterium"><div class="content"></div></a></div><div class="push push--photo push--customized
+          "><a href="https://www.saitamacriterium.com"  class="push__link push__link--border"
+           data-xtclick="bloc-n1::criterium-de-saitama"><img class="push__img lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="250"
+                 data-src="https://img.aso.fr/core_app/img-institutional-aso-jpg/push-criterium-saitama/0404/0:0,600:500-300-0-100/f11aa|https://img.aso.fr/core_app/img-institutional-aso-jpg/push-criterium-saitama/0404/0:0,600:500-600-0-100/df06e" alt="Critérium de Saitama"><div class="content"></div></a></div>
+            </div>
+        </div>
+        </section>
+    
+                
+
+            <section class="subscription">
+            <div class="container">
+                <div class="row">
+                    <h2 class="heading heading--2 heading--italic">Follow us</h2>
+                    <p class="is-alignCenter legend"></p>
+                    <div class="social social--lg is-alignCenter">
+                                                                                                                    <a href="https://www.facebook.com/aso/"
+                                   aria-label="Facebook: Open in a new window"
+                                   target="_blank"
+                                   class="icon icon--bg icon--facebook"
+                                   data-xtclick="social::subscription::facebook" data-clicktype="N">
+                                </a>
+                                                                                            <a href="http://www.twitter.com/amaurysport"
+                                   aria-label="Twitter: Open in a new window"
+                                   target="_blank"
+                                   class="icon icon--bg icon--twitter"
+                                   data-xtclick="social::subscription::twitter" data-clicktype="N">
+                                </a>
+                                                                                            <a href="https://www.dailymotion.com/amaurysportorganisation"
+                                   aria-label="Dailymotion: Open in a new window"
+                                   target="_blank"
+                                   class="icon icon--bg icon--dailymotion"
+                                   data-xtclick="social::subscription::dailymotion" data-clicktype="N">
+                                </a>
+                                                                                            <a href="https://www.linkedin.com/company/a-s-o-/"
+                                   aria-label="Linkedin: Open in a new window"
+                                   target="_blank"
+                                   class="icon icon--bg icon--linkedin"
+                                   data-xtclick="social::subscription::linkedin" data-clicktype="N">
+                                </a>
+                                                                        </div>
+                </div>
+            </div>
+        </section>
+    
+        
+
+            
+        
+                
+                
+                            
+<div id="1349f0f647f78b38e19f064d2920be42a">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('1349f0f647f78b38e19f064d2920be42a', 'core_partners.block.service.bandeau_partners');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('1349f0f647f78b38e19f064d2920be42a', 'core_partners.block.service.bandeau_partners', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_partners.block.service.bandeau_partners/%5B%5D/83f529db531fbbc4313859efdc525935", true);
+                    xhttp.send();
+                };
+                                    var myAnchor = document.getElementById('1349f0f647f78b38e19f064d2920be42a');
+                    myAnchor.classList.add('asyncBlockOnScreen');
+                    myAnchor.dataset.trigger = trigger;
+                
+            })()
+
+        </script>
+</div>
+        
+<div id="17da43b1a0c7cfe836b054526b5462103">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('17da43b1a0c7cfe836b054526b5462103', 'core_partners.block.service.bandeau_partners_bis');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('17da43b1a0c7cfe836b054526b5462103', 'core_partners.block.service.bandeau_partners_bis', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_partners.block.service.bandeau_partners_bis/%7B%22displayTitle%22:false%7D/149260e8741e8722a4ed4e96cb8dd31a", true);
+                    xhttp.send();
+                };
+                                    var myAnchor = document.getElementById('17da43b1a0c7cfe836b054526b5462103');
+                    myAnchor.classList.add('asyncBlockOnScreen');
+                    myAnchor.dataset.trigger = trigger;
+                
+            })()
+
+        </script>
+</div>
+        
+<div id="14ae2a158997a46e58435c5230874dd0a">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('14ae2a158997a46e58435c5230874dd0a', 'core_partners.block.service.bandeau_partners_ter');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('14ae2a158997a46e58435c5230874dd0a', 'core_partners.block.service.bandeau_partners_ter', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_partners.block.service.bandeau_partners_ter/%7B%22displayTitle%22:false%7D/9eea853b8a8459ade81803ac65afb000", true);
+                    xhttp.send();
+                };
+                                    var myAnchor = document.getElementById('14ae2a158997a46e58435c5230874dd0a');
+                    myAnchor.classList.add('asyncBlockOnScreen');
+                    myAnchor.dataset.trigger = trigger;
+                
+            })()
+
+        </script>
+</div>
+    
+                </div>
+</main>
+
+        <footer class="footer">
+                    
+
+<div class="footer__top"><div class="container"><div class="row"><div class="col--xs--12 col--sm--2 col--md--2 col--lg--2 footer__col footer__brand"><img class="footer__brand__img lazyItem js-lazy" src="/img/global/logo_aso@2x.png" data-src="/img/global/logo_aso.png|/img/global/logo_aso@2x.png" ></div><div class="col--xs--12 col--sm--8 col--md--9 col--lg--8 footer__col"><ul class="footer__nav"><li class="footer__nav__item"><a class="footer__nav__link" href="/en/our-sports" data-xtclick="footer::pre::navigation::our-sports">Our sports</a></li><li class="footer__nav__item"><a class="footer__nav__link" href="/en/our-activities" data-xtclick="footer::pre::navigation::our-activities">Our activities</a></li><li class="footer__nav__item"><a class="footer__nav__link" href="https://carrieres.aso.fr/#page-search" data-xtclick="footer::pre::navigation::join-us">Join us</a></li><li class="footer__nav__item"><a class="footer__nav__link" href="https://www.asocorporatechallenges.com/?lang=en" data-xtclick="footer::pre::navigation::business-offers">Business offers</a></li></ul></div></div><div class="row"><hr class="footer__separator"></div></div></div>
+        
+                    
+<div class="footer__navigation">
+    <div class="container">
+        <div class="row">
+                    </div>
+    </div>
+</div>
+
+
+
+
+<div class="footer__bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col--xs--10 col--sm--10 footer__links">
+                <a href="/en/copyrights" class="footer__links__item"  data-xtclick="footer::bottom::link::terms-conditions">Terms &amp; Conditions</a>
+                                                    <a class="footer__links__item optanon-toggle-display" data-xtclick="footer::bottom::link::cookie-settings" data-clicktype="A">Cookie settings</a>
+                                <a href="/en/privacy-policy" class="footer__links__item" data-xtclick="footer::bottom::link::confidentiality" data-clicktype="A">Privacy policy</a>
+                <a href="/en/cookies-policy" class="footer__links__item" data-xtclick="footer::bottom::link::cookies" data-clicktype="A">Cookies policy</a>
+                <a href="/en/request-management" class="footer__links__item" data-xtclick="footer::bottom::link::rgpd" data-clicktype="A">Your GDPR rights</a>
+                            </div>
+            <div class="col--xs--2 col--sm--2 footer__copyright">© ASO</div>
+        </div>
+    </div>
+</div>
+
+            </footer>
+    
+        
+<script src="/dist/js/scripts.jquery.6a7766d.js"></script>
+    <script src="/dist/js/scripts.runtime.9c239af.js"></script>
+    <script src="/dist/js/scripts.vendors.2fc3680.js"></script>
+<script src="/dist/js/scripts.vendor.769a304.js"></script>
+
+
+<script src="/dist/js/scripts.main.b1c55d4.js"></script>
+
+
+
+                                                    <script src="/dist/js/scripts.audio.6bc5fb2.js"></script>
+            
+<script>
+                </script>
+
+
+
+            
+    </body>
+</html>
+ title 39 Toutes les épreuves cyclistes - ASO.fr contentType 9 text/html url 44 https://www.aso.fr:443/en/our-sports/cycling responseCode 3 200 

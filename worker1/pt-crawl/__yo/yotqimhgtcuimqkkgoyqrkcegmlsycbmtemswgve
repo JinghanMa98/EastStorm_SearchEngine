@@ -1,0 +1,3096 @@
+yotqimhgtcuimqkkgoyqrkcegmlsycbmtemswgve page 163047 
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593","20190719224056","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1563576056");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+		<title>Gregor Mendel and the Principles of Inheritance | Learn Science at Scitable</title>
+		
+
+
+	
+	
+		<meta name="title" content="Gregor Mendel and the Principles of Inheritance"/>
+	
+	
+
+
+	<meta name="keywords" content="Gregor Mendel and the Principles of Inheritance, Gene Inheritance and Transmission, allele, dihybrid, dominant, gregor mendel, independent assortment, inheritance, law of inheritance, mendel, monohybrid, recessive"/>
+
+
+	<meta name="description" content="By experimenting with pea plant breeding, Gregor Mendel developed three principles of inheritance that described the transmission of genetic traits before anyone knew exactly what genes were. Mendel's insight provided a great expansion of the understanding of genetic inheritance, and led to the development of new experimental methods."/>
+
+
+
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		
+		
+				
+		<script type="text/javascript">
+			var initScriptsList = ["", "/natedjsp/scripts/commonScripts.jsp", "/natedjsp/empty.jsp", "/natedjsp/scripts/readingScript.jsp"];
+			var jsLoadMethod = "topicRoomLoad";
+		</script>
+		
+			
+			
+				<script src="/web/20190719224056js_/http://www.nature.com/scitable/nated/natedjsp/scripts/jqueryAjaxScripts.jsp?1098&amp;locale=en_US&amp;state=2" type="text/javascript"></script>
+			
+		
+		
+	
+<link href="/web/20190719224056cs_/http://www.nature.com/scitable/nated/natedjsp/scripts/commonStylesEmbeddedFonts.jsp?1098" rel="stylesheet" type="text/css"/>
+
+
+
+		
+
+	<link href="/web/20190719224056cs_/http://www.nature.com/scitable/nated/natedjsp/scripts/topicRoomStyles.jsp?1098" rel="stylesheet" type="text/css"/>
+
+	<!--[if lt IE 8]>
+		<link rel="stylesheet" href="/scitable/nated/natedjsp/scripts/topicRoomStylesIE.jsp?1098" type="text/css" ></link>
+		
+	<![endif]-->
+		
+		
+			<meta name="WT.cg_n" content="Scitable"/>
+			<meta name="WT.cg_s" content="Gene Inheritance and Transmission"/>
+			<meta name="WT.z_cg_cat" content="Gregor Mendel and the Principles of Inheritance"/>
+			<meta name="WT.z_cg_topic" content="Gregor Mendel and the Principles of Inheritance"/>
+			<meta name="WT.z_cg_level" content="MED"/>
+			<script src="//web.archive.org/web/20190719224056js_/http://nexus.ensighten.com/npg/Bootstrap.js"></script>
+		
+	</head>
+	<body class="specific-scitable">
+	
+		<script>
+		
+		$(document).ready(function() {
+			if(document.getElementById('facebookLink')!=null){
+			  var replacements = new Array();
+			  replacements[0] = '/';
+			  replacements[1] = '%2F';
+			  var fjs = document.getElementById('facebookLink');
+			  var locationHref = replaceall(location.href,replacements);
+			  replacements[0] = ':';
+			  replacements[1] = '%3A';
+			  locationHref = replaceall(locationHref,replacements)
+			  fjs.src = fjs.src.replace('link',locationHref);
+			}
+		});
+		function replaceall( str, replacements ) {
+		    if(str=='' || str==null || str==undefined) {
+		    	return '';
+		    }
+		    var idx = str.indexOf( replacements[0] );
+		    while ( idx > -1 ) {
+		        str = str.replace( replacements[0], replacements[1] );
+		        idx = str.indexOf( replacements[0] );
+		    }
+		    return str;
+		}
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//web.archive.org/web/20190719224056/http://www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		googletag.cmd.push(function() {
+			googletag.defineOutOfPageSlot('/285/scitable.nature.com', 'div-gpt-ad-1424104525371-0-oop').addService(googletag.pubads())
+			        .setTargeting("test","oao");
+
+			googletag.defineSlot('/285/scitable.nature.com', [728, 90], 'div-gpt-ad-1403213733612-1').addService(googletag.pubads())
+			        .setTargeting("test","oao");
+
+			googletag.defineSlot('/285/scitable.nature.com', [160, 600], 'div-gpt-ad-1403213733612-2').addService(googletag.pubads())
+			        .setTargeting("test","oao");
+			googletag.enableServices();
+			});
+
+			googletag.cmd.push(function() {
+			googletag.defineOutOfPageSlot('/285/scitable.nature.com', 'div-gpt-ad-1424104525371-0-oop').addService(googletag.pubads())
+			        .setTargeting("test","oao");
+
+			googletag.defineSlot('/285/scitable.nature.com', [728, 90], 'div-gpt-ad-1403213733612-1').addService(googletag.pubads())
+			        .setTargeting("test","oao");
+
+			googletag.defineSlot('/285/scitable.nature.com', [160, 600], 'div-gpt-ad-1403213733612-2').addService(googletag.pubads())
+			        .setTargeting("test","oao");
+			googletag.enableServices();
+			});
+		</script>
+			<div class="liveArea noBackground">
+				<div class="w150 fleft">&nbsp;</div>
+				<div id="div-gpt-ad-1403213733612-1" class="fleft">
+					<script type="text/javascript">
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1403213733612-1'); });
+					</script>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div id="container" class="liveArea box  dropshadowSctbl">
+				<div id="header" class="header"></div>
+				
+<div class="liveAreaCenter w770">
+<div id="centerContent" class="centerContent">
+
+
+
+
+<div id="blackTopLoading" style="display:none;height:0px;"></div>
+<div id="blackOverLayLoading" class="transparent_lightbox_overlay_white" style="display:block;filter: alpha(opacity=0) !important;"></div>
+<div class="clear"></div>
+
+
+
+
+<div id="brandingBarTRMainTop"></div>
+	
+	  
+		
+		  
+			<div id="topicArticlePosition">
+		  
+		  
+		 	 
+	  
+	  
+	 
+			
+				<div class="padright15px topicAssociatedCnt clearfix">
+					
+
+
+
+<div class="clear"></div>
+	
+		<div class="botbordergreydotted padbot6px">
+			<div id="headerAndCitation" class="fleft w750px">
+				
+
+
+
+
+	
+		
+		<div class="topicHeader clearfix">
+			
+				
+				
+					
+						<h1 class="topicTitle" id="topicTitle">Gregor Mendel and the Principles of Inheritance</h1>
+						<div class="clearfix  ">
+							
+								
+									
+										<div class="topicCitation fleft w100p" id="topicCitation">
+									
+									
+								
+									
+									<div><div class="fleft bold">By:&nbsp;Ilona Miko, Ph.D.&nbsp;(<span class="topicCitationItalics">Write Science Right</span>)&nbsp;&copy;&nbsp;2008&nbsp;Nature Education&nbsp;</div><div class="fleft"></div></div><div class="clear"></div>
+									<div class="clearfix posRelative">
+										<div class="fleft bold" style="width: 585px;">Citation:&nbsp;<span id="fullName" class="bold">Miko,&nbsp;I.</span><span id="publishDate" class="bold">&nbsp;(2008)</span>&nbsp;Gregor Mendel and the principles of inheritance.&nbsp;<span id="publisher" class="topicCitationItalics">Nature Education</span>&nbsp;<span id="volume" class="bold">1(<span id="issue" class="bold">1</span>)</span>:134</div>
+										<div class="fright w180" style="position: absolute; right: -20px; bottom: -2px;">			
+											<div class="clearfix w100p hideForPrint">							
+												<!--
+													<div class="fright padleft3px padtop2px"><a alt="Article History" title="Article History" href="javascript:openVersioningPopup('anc','593');" class="inlineLinks"><img src="/scitable/natedimages/version_history.png" height="15" width="15" alt="Article History" title="Article History"/></a></div>
+												
+												<div class="fright padleft3px">
+													<a id="shareLinkTOP" name="shareLinkTOP" href="#" onclick="showShareLB('shareLinkTOP');return false;"><img title="Share" class="nomargin borderNone pad2px" src="/scitable/natedimages/shareTopic.png"/></a>
+												</div>	-->
+												<div class="fright padleft3px">
+													<a rel="nofollow" id="redditShareLink" href="https://web.archive.org/web/20190719224056/http://www.reddit.com/submit?url=" onclick="shareWithReddit();return false;"><img class="nomargin borderNone pad2px" title="Share Using Reddit" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/reddit-share-icon.png"/></a>
+												</div>
+												<div class="fright padleft3px">
+													<a rel="nofollow" id="stumbleUponLink" href="#" onclick="shareWithStubmleUpon();return false;"><img class="nomargin borderNone pad2px" title="StumbleUpon" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/stumbleupon.png"/></a>
+												</div>
+												<div class="fright padleft3px">
+													<a rel="nofollow" id="googlePlusLink" href="https://web.archive.org/web/20190719224056/https://plus.google.com/share?url=" onclick="shareWithGooglePlus();return false;"><img class="nomargin borderNone pad2px" title="Share with Google+" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/gplus-16.png"/></a>
+												</div>											
+												<div class="fright padleft3px">
+													<a rel="nofollow" id="twitterShareLnk" href="https://web.archive.org/web/20190719224056/http://twitter.com/share?url=" onclick="normalShareWithTwitter();return false;"><img class="nomargin borderNone pad2px" title="Share with Twitter" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/icon-twitter.jpg"/></a>
+												</div>
+												<div class="fright padleft3px">
+													
+														
+														
+															<a rel="nofollow" id="faceBookShareLnk" href="https://web.archive.org/web/20190719224056/http://www.facebook.com/share.php?u=" onclick="normalShareWithFaceBook();return false;"><img class="nomargin borderNone pad2px" title="Share with Facebook" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/icon-facebook.jpg"/></a> 
+														
+														
+												</div>
+												<div class="fright padleft3px">
+												  <a name="shareEMailSplashAnc" id="shareEMailSplashAnc" href="#" onclick="sendMailToShare('lnkLBMdlLIID', event);return false;"><img class="nomargin borderNone pad2px" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/email_icon.gif" alt="Email"/></a>
+												</div>										
+												<div class="fright padleft3px">
+													<a href="javascript:printReadingPage()"><img title="Print" class="nomargin borderNone pad2px" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/print_15.gif"/></a>
+												</div>
+												<div class="fright padleft3px">
+													<a onmouseover="return displayOnMouseOverText(this);" href="#" id="bookmarkTRArttAnc" name="bookmarkTRArttAnc" onclick="addToLocker(); return false;"><img title="Bookmark" class="nomargin borderNone pad2px" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/icon_bookmark.gif"/></a>
+												</div>	
+											</div>
+										</div>
+									</div>
+								</div>
+							
+						</div>
+					
+					<input type="hidden" name="isCoverPage" id="" value="N"/>
+				
+			
+		</div>
+		
+			<div class="clear"></div>
+		
+	
+	
+
+
+			</div>
+			<div class="clear"></div>		
+		</div>
+	
+	
+
+	
+		
+			<div class="px18 normalFontWeight margintop10px readPgHdng" style="line-height: 26px ! important;">Gregor Mendel's principles of inheritance form the cornerstone of modern genetics. So just what are they?
+</div>
+			<div class="fright padright5px hideForPrint">
+				<a href="javascript:resizeFontScitable('fontSize11')" class="padright10px"><span class="px11 mousePointerHand lh22" id="sizeNo1">Aa</span></a>
+				<a href="javascript:resizeFontScitable('fontSize15')" class="padright10px"><span class="px15 mousePointerHand lh22" id="sizeNo2">Aa</span></a>
+				<a href="javascript:resizeFontScitable('fontSize20')" class="padright10px"><span class="mousePointerHand lh22 px20" id="sizeNo3">Aa</span></a>
+			</div>
+			<div class="clear"></div>
+			<div class="articleHR w98p"></div>
+		
+	
+	
+	
+	<div id="orgCnt">
+		<div id="trOutLine"></div>
+		<div id="fontSizeChange" class="fontSizeChange"><div id="mainCntArtPageDiv"><div id="trPage"> <div class="articleContent"> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"><h2 style="display:none;">&nbsp;</h2></div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div>Ever wonder why you are the only one in your family with your grandfather's nose? The way in which traits are passed from one generation to the next-and sometimes skip generations-was first explained by Gregor Mendel. By experimenting with pea plant breeding, Mendel developed three <span class="ontologyTermLink" onmouseover="showDescription(&quot;143&quot;,this);return false;">principles of inheritance</span> that described the transmission of genetic traits, before anyone knew <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1947&quot;,this);return false;">genes</span> existed. Mendel's insight greatly expanded the understanding of genetic inheritance, and led to the <span class="ontologyTermLink" onmouseover="showDescription(&quot;250&quot;,this);return false;">development</span> of new experimental methods.<br> <br> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"><h2 style="display:none;">&nbsp;</h2></div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div><a name="anchEmbedImg_1220035223757-9822696424_1"><input type="hidden" name="hidEmbedImg" id="hidEmbedImg_1220035223757-9822696424_1" value="/scitable"/><input type="hidden" name="hidEmbedPlayerState" id="hidEmbedPlayerState_1220035223757-9822696424_1" value="uninitedaudio"/></a><div style="width:136px;" class="imageSet Right"><div style="width:136px;"><a href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239422/5548_43.jpg&quot;, &quot;Waardenburg syndrome.&quot;, &quot;true&quot;, &quot;Figure 1&quot;, &quot;Waardenburg syndrome is (a) inherited as an autosomal dominant trait and (b) is characterized by deafness, fair skin, visual problems, and a white forelock.&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '700', '466', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/113239422/43_3_0.jpg" title="" alt="A pedigree diagram shows the manifestation of Waardenburg syndrome in a single family over four generations. Each generation occupies a horizontal row in the diagram. Square and circle symbols represent male and female family members, respectively. Open symbols represent unaffected members. Red symbols represent members with Waardenburg syndrome. A horizontal line connects two individuals that form a mating pair. A vertical line connects the mating pair to their offspring in the next generation. Individuals in a generation are identified by Arabic numerals; number 1 is assigned to the leftmost individual within each generation, and individuals in each immediate family unit are listed left to right in birth order. There are two individuals in generation 1, one of which is affected with Waardenburg syndrome. There are five individuals in generation 2, two of which are affected with Waardenburg syndrome. There are 15 total individuals, four of which are affected by Waardenburg syndrome, in each of generations 3 and 4."/></a><br/><div class="imageCaption pipeblack bold" style="padding:10px;"><a class="pipeblack bold" href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239422/5548_43.jpg&quot;, &quot;Waardenburg syndrome.&quot;, &quot;true&quot;, &quot;Figure 1&quot;, &quot;Waardenburg syndrome is (a) inherited as an autosomal dominant trait and (b) is characterized by deafness, fair skin, visual problems, and a white forelock.&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '700', '466', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img class="fleft borderNone" alt="View Full-Size Image" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/plus_box.gif"/>Figure 1<div class="clear"></div><div class="nomargin padleft4px pipeblack bold fright textalignleft"><a title="This family's first generation is composed of a female individual with Waardenburg syndrome (WS) and a male without the disease. The couple has two offspring (generation 2), both affected with WS. The first offspring is a female identified as individual #2. The second offspring is a male identified as individual #4. Female individual #2 has two mates: the first is a male that is not affected with WS. The couple has two offspring (generation 3), both of whom are affected with WS. They are labeled individual #2 and individual #3. Individual #2 (a male) mates with a female that is not affected with WS. The couple has three offspring (generation 4). The two male offspring are affected with WS. The single female offspring is not affected with the disease. 3rd generation individual #3 (a female) mates with a male that is not affected with WS. The couple has one female offspring, who is not affected with WS. 2nd generation female individual #2 has a second mate in her lifetime, and he is unaffected by WS. The couple has a single male offspring (generation 3) who is not affected with the disease. This male offspring mates with a female unaffected with WS, and the couple has a single male offspring (generation 4), unaffected with the disease. 2nd generation male individual #4 mates with a female that is not affected with WS. The couple has five children (generation 3), identified as individuals #8, #9, #11, #13, and #14. Three of the offspring are male, and two are female. Individual #8 (a male) is affected with WS and mates with a female that is not affected with WS. The couple has three offspring: two females that are affected with WS and one male that is not affected by the disease. Individual #9 (a male) is not affected with WS and mates with a female that is also not affected with WS. The couple has two female offspring, neither of whom are affected with WS. Individual #11 (a female) is not affected with WS and mates with a male that is also not affected with WS. The couple has three male offspring, none of whom are affected with the disease. Individual #13 (a male) is affected with WS and does not reproduce. Individual #14 (a female) is not affected with WS and mates with a male that is also not affected with WS. The couple has two female offspring, both of whom are not affected with the disease." href="javascript:void(0)" onclick="callNewShowInformAfterPublish(&quot;true&quot;,&quot;true&quot;,&quot;Y&quot;,&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239422/5548_43.jpg&quot;, &quot;Waardenburg syndrome.&quot;, &quot;Figure 1&quot;, &quot;Waardenburg syndrome is (a) inherited as an autosomal dominant trait and (b) is characterized by deafness, fair skin, visual problems, and a white forelock.&quot;, '700','https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education', &quot;This family's first generation is composed of a female individual with Waardenburg syndrome (WS) and a male without the disease. The couple has two offspring (generation 2), both affected with WS. The first offspring is a female identified as individual #2. The second offspring is a male identified as individual #4. Female individual #2 has two mates: the first is a male that is not affected with WS. The couple has two offspring (generation 3), both of whom are affected with WS. They are labeled individual #2 and individual #3. Individual #2 (a male) mates with a female that is not affected with WS. The couple has three offspring (generation 4). The two male offspring are affected with WS. The single female offspring is not affected with the disease. 3<sup>rd</sup> generation individual #3 (a female) mates with a male that is not affected with WS. The couple has one female offspring, who is not affected with WS. 2<sup>nd</sup> generation female individual #2 has a second mate in her lifetime, and he is unaffected by WS. The couple has a single male offspring (generation 3) who is not affected with the disease. This male offspring mates with a female unaffected with WS, and the couple has a single male offspring (generation 4), unaffected with the disease. 2<sup>nd</sup> generation male individual #4 mates with a female that is not affected with WS. The couple has five children (generation 3), identified as individuals #8, #9, #11, #13, and #14. Three of the offspring are male, and two are female. Individual #8 (a male) is affected with WS and mates with a female that is not affected with WS. The couple has three offspring: two females that are affected with WS and one male that is not affected by the disease. Individual #9 (a male) is not affected with WS and mates with a female that is also not affected with WS. The couple has two female offspring, neither of whom are affected with WS. Individual #11 (a female) is not affected with WS and mates with a male that is also not affected with WS. The couple has three male offspring, none of whom are affected with the disease. Individual #13 (a male) is affected with WS and does not reproduce. Individual #14 (a female) is not affected with WS and mates with a male that is also not affected with WS. The couple has two female offspring, both of whom are not affected with the disease.&quot;)" class="inlineLinks"> Figure Detail </a></div></a><div class="clear"></div></div></div></div><br> <p>Traits are passed down in families in different patterns. Pedigrees can illustrate these patterns by following the history of specific characteristics, or phenotypes, as they appear in a family. For example, the pedigree in Figure 1 shows a family in which a grandmother (generation I) has passed down a characteristic (shown in solid red) through the family tree. The inheritance pattern of this characteristic is considered <span class="ontologyTermLink" onmouseover="showDescription(&quot;81&quot;,this);return false;">dominant</span>, because it is observable in every generation. Thus, every individual who carries the <span class="ontologyTermLink" onmouseover="showDescription(&quot;13&quot;,this);return false;">genetic code</span> for this <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;203&quot;,this);return false;">characteristic</span> will show evidence of the characteristic. In contrast, Figure 2 shows a different pattern of inheritance, in which a characteristic disappears in one generation, only to reappear in a subsequent one. This pattern of inheritance, in which the parents do not show the phenotype but some of the children do, is considered <a href="/web/20190719224056/http://www.nature.com/scitable/content/Royal-hemophilia-and-Romanov-DNA-17556" onclick="return isUDV('/content/Royal-hemophilia-and-Romanov-DNA-17556');" title="recessive" class=""><span class="ontologyTermLink" onmouseover="showDescription(&quot;271&quot;,this);return false;">recessive</span></a>. But where did our knowledge of <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;432&quot;,this);return false;">dominance</span> and recessivity first come from?</p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"> <h2> <sectiontitle-1>Gregor Mendel&rsquo;s Courage and Persistence</sectiontitle-1> </h2> </div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div><a name="anchEmbedImg_1220453890367-2517155945_1"><input type="hidden" name="hidEmbedImg" id="hidEmbedImg_1220453890367-2517155945_1" value="/scitable"/><input type="hidden" name="hidEmbedPlayerState" id="hidEmbedPlayerState_1220453890367-2517155945_1" value="uninitedaudio"/></a><div style="width:136px;" class="imageSet Right"><div style="width:136px;"><a href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239830/6719_45.jpg&quot;, &quot;Mendel studied seven characteristics in peas.&quot;, &quot;true&quot;, &quot;Figure 3&quot;, &quot;The seven traits observed by Mendel in pea plants were as follows: seed color (yellow or green); seed shape (round or wrinkled); seed coat color (gray or white); flower position (axial or terminal); stem length (short or tall); pod color (yellow or green); and pod shape (inflated or constricted).&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '630', '244', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/113239830/45_3_0.jpg" title="" alt="A seven-panel diagram shows two alternate forms of seven pea plant characteristics. The characteristics are: seed (endosperm) color, seed shape, seed coat color, pod color, pod shape, flower position, and stem length. Seeds are either yellow or green and are depicted as having either a smooth, round shape, or an irregular, wrinkled shape. The coats that encapsulate the seeds look like thin shells folded over the seed. They are either gray or white. Peapods containing multiple seeds look like elongated ovals and are either yellow or green. They can have an inflated or constricted shape: inflated pods look plump and full. Constricted pods look shriveled. The position of flowers on the pea plant can be either axial or terminal. Axial flowers occur along the length of the stem, while terminal flowers occur at the tips of stems. The height of stems can be either short or tall."/></a><br/><div class="imageCaption pipeblack bold" style="padding:10px;"><a class="pipeblack bold" href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239830/6719_45.jpg&quot;, &quot;Mendel studied seven characteristics in peas.&quot;, &quot;true&quot;, &quot;Figure 3&quot;, &quot;The seven traits observed by Mendel in pea plants were as follows: seed color (yellow or green); seed shape (round or wrinkled); seed coat color (gray or white); flower position (axial or terminal); stem length (short or tall); pod color (yellow or green); and pod shape (inflated or constricted).&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '630', '244', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img class="fleft borderNone" alt="View Full-Size Image" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/plus_box.gif"/>Figure 3<div class="clear"></div></a><div class="clear"></div></div></div></div><p><a name="anchEmbedImg_1220453890367-2517155945_2"><input type="hidden" name="hidEmbedImg" id="hidEmbedImg_1220453890367-2517155945_2" value="/scitable"/><input type="hidden" name="hidEmbedPlayerState" id="hidEmbedPlayerState_1220453890367-2517155945_2" value="uninitedaudio"/></a><div style="width:136px;" class="imageSet Right"><div style="width:136px;"><a href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239736/54852_44.jpg&quot;, &quot;&quot;, &quot;&quot;, &quot;Figure 2&quot;, &quot;<br/>&quot;, &quot;&quot;, &quot;All rights reserved.&quot;, '700', '258', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/113239736/44_3_0.jpg" title="" alt=""/></a><br/><div class="imageCaption pipeblack bold" style="padding:10px;"><a class="pipeblack bold" href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113239736/54852_44.jpg&quot;, &quot;&quot;, &quot;&quot;, &quot;Figure 2&quot;, &quot;<br/>&quot;, &quot;&quot;, &quot;All rights reserved.&quot;, '700', '258', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img class="fleft borderNone" alt="View Full-Size Image" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/plus_box.gif"/>Figure 2<div class="clear"></div></a><div class="clear"></div></div></div></div>Our modern understanding of how traits may be inherited through generations comes from the principles proposed by Gregor Mendel in 1865. However, Mendel didn't discover these foundational principles of inheritance by studying human beings, but rather by studying <i>Pisum sativum</i>, or the common pea plant. Indeed, after eight years of tedious experiments with these plants, and&#8212;by his own admission&#8212;"some courage" to persist with them, Mendel proposed three foundational principles of inheritance. These principles eventually assisted clinicians in human <span class="ontologyTermLink" onmouseover="showDescription(&quot;37&quot;,this);return false;">disease</span> research; for example, within just a couple of years of the rediscovery of Mendel's work, <a rel="nofollow" href="https://web.archive.org/web/20190719224056/http://www.esp.org/foundations/genetics/classical/ag-02.pdf" target="_blank" title="Archibald Garrod applied Mendel's principles to his study of alkaptonuria" class="">Archibald Garrod applied Mendel's principles to his study of <span class="ontologyTermLink" onmouseover="showDescription(&quot;195&quot;,this);return false;">alkaptonuria</span></a>. Today, whether you are talking about pea plants or human beings, genetic traits that follow the rules of inheritance that Mendel proposed are called Mendelian.</p> <p></p> <p>Mendel was curious about how traits were transferred from one generation to the next, so he set out to understand the principles of heredity in the mid-1860s. Peas were a good <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;960&quot;,this);return false;">model</span> system, because he could easily control their <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;538&quot;,this);return false;">fertilization</span> by transferring <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1740&quot;,this);return false;">pollen</span> with a small paintbrush. This pollen could come from the same flower (self-fertilization), or it could come from another plant's flowers (cross-fertilization). First, Mendel observed plant forms and their <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1078&quot;,this);return false;">offspring</span> for two years as they self-fertilized, or "selfed," and ensured that their outward, measurable characteristics remained constant in each generation. During this time, Mendel observed seven different characteristics in the pea plants, and each of these characteristics had two forms (Figure 3). The characteristics included height (tall or short), pod shape (inflated or constricted), seed shape (smooth or winkled), pea color (green or yellow), and so on. In the years Mendel spent letting the plants self, he verified the purity of his plants by confirming, for example, that tall plants had only tall children and grandchildren and so forth. Because the seven pea plant characteristics tracked by Mendel were consistent in generation after generation of self-fertilization, these parental lines of peas could be considered pure-breeders (or, in modern terminology, <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;737&quot;,this);return false;">homozygous</span> for the traits of interest). Mendel and his assistants eventually developed 22 varieties of pea plants with combinations of these consistent characteristics. </p> <p></p> <p>Mendel not only crossed <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1270&quot;,this);return false;">pure-breeding</span> parents, but he also crossed <span class="ontologyTermLink" onmouseover="showDescription(&quot;239&quot;,this);return false;">hybrid</span> generations and crossed the hybrid <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1238&quot;,this);return false;">progeny</span> back to both parental lines. These crosses (which, in modern terminology, are referred to as F<sub>1</sub>, F<sub>1</sub> reciprocal, F<sub>2</sub>, B<sub>1</sub>, and B<sub>2</sub>) are the classic crosses to generate genetically hybrid generations.</p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"> <h2> <sectiontitle-1>Understanding Dominant Traits</sectiontitle-1> </h2> </div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div> <p>Before Mendel's experiments, most people believed that traits in offspring resulted from a blending of the traits of each parent. However, when Mendel cross-pollinated one variety of purebred plant with another, these crosses would yield offspring that looked like either one of the parent plants, not a blend of the two. For example, when Mendel cross-fertilized plants with wrinkled seeds to those with smooth seeds, he did not get progeny with semi-wrinkly seeds. Instead, the progeny from this cross had only smooth seeds. In general, if the progeny of crosses between purebred plants looked like only one of the parents with regard to a specific trait, Mendel called the expressed parental trait the dominant<b> </b><span class="ontologyTermLink" onmouseover="showDescription(&quot;235&quot;,this);return false;">trait</span>. From this simple observation, Mendel proposed his first principle, the <span class="ontologyTermLink" onmouseover="showDescription(&quot;150&quot;,this);return false;">principle of uniformity</span>; this principle states that all the progeny of a cross like this (where the parents differ by only one trait) will appear identical. Exceptions to the principle of uniformity include the phenomena of <a href="/web/20190719224056/http://www.nature.com/scitable/topicpage/Phenotype-Variability-Penetrance-and-Expressivity-573" onclick="return isUDV('/topicpage/Phenotype-Variability-Penetrance-and-Expressivity-573');" title="penetrance" class=""><span class="ontologyTermLink" onmouseover="showDescription(&quot;69&quot;,this);return false;">penetrance</span></a>, <a href="/web/20190719224056/http://www.nature.com/scitable/topicpage/Phenotype-Variability-Penetrance-and-Expressivity-573" onclick="return isUDV('/topicpage/Phenotype-Variability-Penetrance-and-Expressivity-573');" title="expressivity" class=""><span class="ontologyTermLink" onmouseover="showDescription(&quot;158&quot;,this);return false;">expressivity</span></a>, and <a href="/web/20190719224056/http://www.nature.com/scitable/topicpage/Thomas-Hunt-Morgan-and-Sex-Linkage-452" onclick="return isUDV('/topicpage/Thomas-Hunt-Morgan-and-Sex-Linkage-452');" title="sex-linkage" class="">sex-linkage</a>, which were discovered after Mendel's time.</p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"> <h2> <sectiontitle-1>Understanding Recessive Traits</sectiontitle-1> </h2> </div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div> <!--[if gte mso 9]><xml> Normal 0 false false false MicrosoftInternetExplorer4 </xml><![endif]--> <!--[if gte mso 9]><xml> </xml><![endif]--><a name="anchEmbedImg_1220454201481-4853679811_1"><input type="hidden" name="hidEmbedImg" id="hidEmbedImg_1220454201481-4853679811_1" value="/scitable"/><input type="hidden" name="hidEmbedPlayerState" id="hidEmbedPlayerState_1220454201481-4853679811_1" value="uninitedaudio"/></a><div style="width:136px;" class="imageSet Right"><div style="width:136px;"><a href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113240368/54938_46.jpg&quot;, &quot;Mendel's monohybrid crosses.&quot;, &quot;true&quot;, &quot;Figure 4&quot;, &quot;When Mendel crossed pea plants that were homozygous for round seeds with pea plants that were homozygous for wrinkled seeds, the resulting progeny were designated as the F1 generation. All the plants in the F1 generation had the same phenotype — a round seed. When these F1 plants were allowed to self-fertilize, the resulting progeny were designated as the F2 generation. The F2 generation exhibited a 3:1 phenotypic ratio. That is, ¾ of the seeds were round and ¼ were wrinkled.&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '700', '1468', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/113240368/46_3_0.jpg" title="" alt="A four-part diagram outlines Mendel's fertilization method for pea plants and the steps in a genetic cross between plants with round and wrinkled seeds. In the top panel of the diagram, an illustration shows how the stigma from one pea plant was dusted with the pollen from another plant using a paintbrush. The two flowers are shown close-up so their reproductive structures are visible. These pollinated plants then produced seeds that grew into new plants. In the bottom three panels of the diagram, illustrations depicting three generations of seeds from two plant strains are shown. In the P (parental) generation, the plant strain at left is homozygous for round seeds, whereas the strain at right is homozygous for wrinkled seeds. An X between the two strains indicates fertilization between the two strains has occurred. In the resulting F1 generation, a single round seed is shown, indicating that all F1 generation plants have round seeds. The F2 generation that results from the self-fertilization of the F1 plants is shown below. The proportion of each phenotype in the F2 generation is shown in a pie chart. ¾ of the pie is occupied by round seeds, and ¼ of the pie is occupied by wrinkled seeds."/></a><br/><div class="imageCaption pipeblack bold" style="padding:10px;"><a class="pipeblack bold" href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113240368/54938_46.jpg&quot;, &quot;Mendel's monohybrid crosses.&quot;, &quot;true&quot;, &quot;Figure 4&quot;, &quot;When Mendel crossed pea plants that were homozygous for round seeds with pea plants that were homozygous for wrinkled seeds, the resulting progeny were designated as the F1 generation. All the plants in the F1 generation had the same phenotype — a round seed. When these F1 plants were allowed to self-fertilize, the resulting progeny were designated as the F2 generation. The F2 generation exhibited a 3:1 phenotypic ratio. That is, ¾ of the seeds were round and ¼ were wrinkled.&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '700', '1468', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img class="fleft borderNone" alt="View Full-Size Image" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/plus_box.gif"/>Figure 4<div class="clear"></div><div class="nomargin padleft4px pipeblack bold fright textalignleft"><a title="Mendel wondered whether crossing peas with two different traits - round and wrinkled seeds - would yield progeny that exhibited one of those traits, both of those traits, or a blended intermediate trait. To cross different varieties of peas while preventing the plants from fertilizing themselves, Mendel removed the anthers of one plant in the cross. He used a paintbrush to collect the pollen from the anthers of one plant and dusted the pollen on the stigma of the opposing plant to fertilize the ova, which developed into seeds. Using this technique, Mendel crossed two plants homozygous for two seed shapes. One plant was homozygous for round seeds, and the other plant was homozygous for wrinkled seeds. After fertilization occurred, the resulting F1 generation contained only plants with round seeds. When the F1 plants were allowed to self-fertilize, the resulting F2 generation contained plants with both round and wrinkled seeds in a 3:1 ratio. 5,474 plants had round seeds (3/4 of the total), and 1,850 plants had wrinkled seeds (1/4 of the total). Based on this observation, Mendel concluded that the traits of the parents do not blend. Although F1 plants display the phenotype of one parent, both traits are passed to F2 progeny in a 3:1 ratio." href="javascript:void(0)" onclick="callNewShowInformAfterPublish(&quot;true&quot;,&quot;true&quot;,&quot;Y&quot;,&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113240368/54938_46.jpg&quot;, &quot;Mendel's monohybrid crosses.&quot;, &quot;Figure 4&quot;, &quot;When Mendel crossed pea plants that were homozygous for round seeds with pea plants that were homozygous for wrinkled seeds, the resulting progeny were designated as the F1 generation. All the plants in the F1 generation had the same phenotype — a round seed. When these F1 plants were allowed to self-fertilize, the resulting progeny were designated as the F2 generation. The F2 generation exhibited a 3:1 phenotypic ratio. That is, ¾ of the seeds were round and ¼ were wrinkled.&quot;, '700','https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education', &quot;Mendel wondered whether crossing peas with two different traits - round and wrinkled seeds - would yield progeny that exhibited one of those traits, both of those traits, or a blended intermediate trait. To cross different varieties of peas while preventing the plants from fertilizing themselves, Mendel removed the anthers of one plant in the cross. He used a paintbrush to collect the pollen from the anthers of one plant and dusted the pollen on the stigma of the opposing plant to fertilize the ova, which developed into seeds. Using this technique, Mendel crossed two plants homozygous for two seed shapes. One plant was homozygous for round seeds, and the other plant was homozygous for wrinkled seeds. After fertilization occurred, the resulting F1 generation contained only plants with round seeds. When the F1 plants were allowed to self-fertilize, the resulting F2 generation contained plants with both round and wrinkled seeds in a 3:1 ratio. 5,474 plants had round seeds (3/4 of the total), and 1,850 plants had wrinkled seeds (1/4 of the total). Based on this observation, Mendel concluded that the traits of the parents do not blend. Although F1 plants display the phenotype of one parent, both traits are passed to F2 progeny in a 3:1 ratio.&quot;)" class="inlineLinks"> Figure Detail </a></div></a><div class="clear"></div></div></div></div> <!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} </style> <![endif]--> <p> </p> <p>When conducting his experiments, Mendel designated the two pure-breeding parental generations involved in a particular cross as P<sub>1</sub> and P<sub>2</sub>, and he then denoted the progeny resulting from the crossing as the filial, or F<sub>1</sub>, generation. Although the plants of the F<sub>1</sub> generation looked like one parent of the P generation, they were actually hybrids of two different parent plants. Upon observing the uniformity of the F<sub>1</sub> generation, Mendel wondered whether the F<sub>1</sub> generation could still possess the nondominant traits of the other parent in some hidden way.</p> <p> <b> </b> </p> <p>To understand whether traits were hidden in the F<sub>1</sub> generation, Mendel returned to the method of self-fertilization. Here, he created an F<sub>2</sub> generation by letting an F<sub>1</sub> pea plant self-fertilize (F<sub>1</sub> x F<sub>1</sub>). This way, he knew he was crossing two plants of the exact same <span class="ontologyTermLink" onmouseover="showDescription(&quot;234&quot;,this);return false;">genotype</span>. This technique, which involves looking at a single trait, is today called a <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;974&quot;,this);return false;">monohybrid cross</span>. The resulting F<sub>2</sub> generation had seeds that were either round or wrinkled. Figure 4 shows an example of Mendel's data. </p> <p> </p> <p>When looking at the figure, notice that for each F<sub>1</sub> plant, the self-fertilization resulted in more round than wrinkled seeds among the F<sub>2</sub> progeny. These results illustrate several important aspects of scientific data: </p> <p> </p> <ol> <li>Multiple trials are necessary to see patterns in experimental data. </li> <li>There is a lot of variation in the measurements of one experiment. </li> <li>A large <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1391&quot;,this);return false;">sample</span> size, or "N," is required to make any quantitative comparisons or conclusions.</li> </ol> <p> </p> <p>In Figure 4, the result of Experiment 1 shows that the single characteristic of seed shape was expressed in two different forms in the F<sub>2 </sub>generation: either round or wrinkled. Also, when Mendel averaged the relative proportion of round and wrinkled seeds across all F<sub>2 </sub>progeny sets, he found that round was consistently three times more frequent than wrinkled. This 3:1 proportion resulting from F<sub>1</sub> x F<sub>1 </sub>crosses suggested there was a hidden recessive<b> </b>form of the trait. Mendel recognized that this recessive trait was carried down to the F<sub>2</sub> generation from the earlier <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1108&quot;,this);return false;">P generation</span>. </p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"> <h2> <sectiontitle-1>Mendel and Alleles</sectiontitle-1> </h2> </div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div> <!--[if gte mso 9]><xml> Normal 0 false false false MicrosoftInternetExplorer4 </xml><![endif]--> <!--[if gte mso 9]><xml> </xml><![endif]--> <!-- function msoCommentShow(anchor_id, com_id) { if(msoBrowserCheck()) { c = document.all(com_id); a = document.all(anchor_id); if (null != c &amp;&amp; null == c.length &amp;&amp; null != a &amp;&amp; null == a.length) { var cw = c.offsetWidth; var ch = c.offsetHeight; var aw = a.offsetWidth; var ah = a.offsetHeight; var x = a.offsetLeft; var y = a.offsetTop; var el = a; while (el.tagName != "BODY") { el = el.offsetParent; x = x + el.offsetLeft; y = y + el.offsetTop; } var bw = document.body.clientWidth; var bh = document.body.clientHeight; var bsl = document.body.scrollLeft; var bst = document.body.scrollTop; if (x + cw + ah / 2 > bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } <span class='glossaryTermLink' onmouseover='showGloDescription("563",this);return false;'>function</span> msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // --><a name="anchEmbedImg_1220454233906-4444245901_1"><input type="hidden" name="hidEmbedImg" id="hidEmbedImg_1220454233906-4444245901_1" value="/scitable"/><input type="hidden" name="hidEmbedPlayerState" id="hidEmbedPlayerState_1220454233906-4444245901_1" value="uninitedaudio"/></a><div style="width:136px;" class="imageSet Right"><div style="width:136px;"><a href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113348213/38983_47.jpg&quot;, &quot;&quot;, &quot;&quot;, &quot;Figure 5&quot;, &quot;<br/>&quot;, &quot;&quot;, &quot;All rights reserved.&quot;, '627', '1627', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/113348213/47_3_0.jpg" title="" alt=""/></a><br/><div class="imageCaption pipeblack bold" style="padding:10px;"><a class="pipeblack bold" href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/113348213/38983_47.jpg&quot;, &quot;&quot;, &quot;&quot;, &quot;Figure 5&quot;, &quot;<br/>&quot;, &quot;&quot;, &quot;All rights reserved.&quot;, '627', '1627', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img class="fleft borderNone" alt="View Full-Size Image" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/plus_box.gif"/>Figure 5<div class="clear"></div></a><div class="clear"></div></div></div></div> <!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} </style> <![endif]--> <p> </p> <p>As mentioned, Mendel's data did not support the ideas about trait blending that were popular among the biologists of his time. As there were never any semi-wrinkled seeds or greenish-yellow seeds, for example, in the F<sub>2</sub> generation, Mendel concluded that blending should not be the <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;522&quot;,this);return false;">expected outcome</span> of parental trait combinations. Mendel instead hypothesized that each parent contributes some particulate matter to the offspring. He called this heritable substance "elementen." (Remember, in 1865, Mendel did not know about <span class="ontologyTermLink" onmouseover="showDescription(&quot;107&quot;,this);return false;">DNA</span> or genes.) Indeed, for each of the traits he examined, Mendel focused on how the elementen that determined that trait was distributed among progeny. We now know that a single gene controls seed form, while another controls color, and so on, and that elementen is actually the assembly of physical genes located on chromosomes. Multiple forms of those genes, known as <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1795&quot;,this);return false;">alleles</span>, represent the different traits. For example, one allele results in round seeds, and another allele specifies wrinkled seeds. </p> <p> </p> <p>One of the most impressive things about Mendel's thinking lies in the notation that he used to represent his data. Mendel's notation of a capital and a lowercase letter (<i>Aa</i>) for the hybrid genotype actually represented what we now know as the two alleles of one <span class="ontologyTermLink" onmouseover="showDescription(&quot;29&quot;,this);return false;">gene</span>:<i> A</i> and <i>a</i>. Moreover, as previously mentioned, in all cases, Mendel saw approximately a 3:1 ratio of one <span class="ontologyTermLink" onmouseover="showDescription(&quot;35&quot;,this);return false;">phenotype</span> to another. When one parent carried all the dominant traits (<i>AA</i>), the F<sub>1</sub> hybrids were "indistinguishable" from that parent. However, even though these F<sub>1</sub> plants had the same phenotype as the dominant P<sub>1</sub> parents, they possessed a hybrid genotype (<i>Aa</i>) that carried the potential to look like the recessive P<sub>1</sub> parent (<i>aa</i>). After observing this potential to express a trait without showing the phenotype, Mendel put forth his second principle of inheritance: the <span class="ontologyTermLink" onmouseover="showDescription(&quot;301&quot;,this);return false;">principle of segregation</span>. According to this principle, the "particles" (or alleles as we now know them) that determine traits are separated into <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1943&quot;,this);return false;">gametes</span> during <span class="ontologyTermLink" onmouseover="showDescription(&quot;88&quot;,this);return false;">meiosis</span>, and meiosis produces equal numbers of <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;454&quot;,this);return false;">egg</span> or sperm cells that contain each allele (Figure 5).</p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"> <h2> <sectiontitle-1>Dihybrid Crosses</sectiontitle-1> </h2> </div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div> <!--[if gte mso 9]><xml> Normal 0 false false false MicrosoftInternetExplorer4 </xml><![endif]--> <!--[if gte mso 9]><xml> </xml><![endif]--> <!-- function msoCommentShow(anchor_id, com_id) { if(msoBrowserCheck()) { c = document.all(com_id); a = document.all(anchor_id); if (null != c &amp;&amp; null == c.length &amp;&amp; null != a &amp;&amp; null == a.length) { var cw = c.offsetWidth; var ch = c.offsetHeight; var aw = a.offsetWidth; var ah = a.offsetHeight; var x = a.offsetLeft; var y = a.offsetTop; var el = a; while (el.tagName != "BODY") { el = el.offsetParent; x = x + el.offsetLeft; y = y + el.offsetTop; } var bw = document.body.clientWidth; var bh = document.body.clientHeight; var bsl = document.body.scrollLeft; var bst = document.body.scrollTop; if (x + cw + ah / 2 > bw + bsl &amp;&amp; x + aw - ah / 2 - cw >= bsl ) { c.style.left = x + aw - ah / 2 - cw; } else { c.style.left = x + ah / 2; } if (y + ch + ah / 2 > bh + bst &amp;&amp; y + ah / 2 - ch >= bst ) { c.style.top = y + ah / 2 - ch; } else { c.style.top = y + ah / 2; } c.style.visibility = "visible"; } } } function msoCommentHide(com_id) { if(msoBrowserCheck()) { c = document.all(com_id); if (null != c &amp;&amp; null == c.length) { c.style.visibility = "hidden"; c.style.left = -1000; c.style.top = -1000; } } } function msoBrowserCheck() { ms = navigator.appVersion.indexOf("MSIE"); vers = navigator.appVersion.substring(ms + 5, ms + 6); ie4 = (ms > 0) &amp;&amp; (parseInt(vers) >= 4); return ie4; } if (msoBrowserCheck()) { document.styleSheets.dynCom.addRule(".msocomanchor","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomoff","display: none"); document.styleSheets.dynCom.addRule(".msocomtxt","visibility: hidden"); document.styleSheets.dynCom.addRule(".msocomtxt","position: absolute"); document.styleSheets.dynCom.addRule(".msocomtxt","top: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","left: -1000"); document.styleSheets.dynCom.addRule(".msocomtxt","width: 33%"); document.styleSheets.dynCom.addRule(".msocomtxt","background: infobackground"); document.styleSheets.dynCom.addRule(".msocomtxt","color: infotext"); document.styleSheets.dynCom.addRule(".msocomtxt","border-top: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-right: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-bottom: 2pt solid threedshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","border-left: 1pt solid threedlightshadow"); document.styleSheets.dynCom.addRule(".msocomtxt","padding: 3pt 3pt 3pt 3pt"); document.styleSheets.dynCom.addRule(".msocomtxt","z-index: 100"); } // --><a name="anchEmbedImg_1220454310883-578571899_1"><input type="hidden" name="hidEmbedImg" id="hidEmbedImg_1220454310883-578571899_1" value="/scitable"/><input type="hidden" name="hidEmbedPlayerState" id="hidEmbedPlayerState_1220454310883-578571899_1" value="uninitedaudio"/></a><div style="width:136px;" class="imageSet Right"><div style="width:136px;"><a href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/119417478/59987_48.jpg&quot;, &quot;Mendel’s dihybrid cross.&quot;, &quot;true&quot;, &quot;Figure 6&quot;, &quot;When Mendel crossed pea plants with round yellow seeds with pea plants exhibiting wrinkled, green seeds, the plants in the resulting F1 generation all had round, yellow seeds. When these F1 plants were allowed to self-fertilize, the phenotypes in the resulting F2 generation were observed in a 9:3:3:1 ratio. That is, 9/16 of the plants had round, yellow seeds; 3/16 of the plants had round, green seeds; 3/16 of the plants had wrinkled, yellow seeds; and 1/16 of the plants had wrinkled, green seeds.&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '422', '1060', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/119417478/48_3_0.jpg" title="" alt="A diagram outlines the steps in a genetic cross between two pea plants. The top panel of the diagram represents the parental generation and shows an illustration of the seeds from two plant strains: one strain has a round, yellow seed. The second strain has a wrinkled, green seed. An X between the two strains indicates a genetic cross has occurred. The middle panel in the diagram represents the F1 generation and shows a single round, yellow seed. The lower panel shows the F2 generation resulting from self-fertilization of the F1 generation in a Punnett square. A number representing the proportion of each phenotype in the F2 generation is shown below the Punnett square. The genotype is shown above each illustration."/></a><br/><div class="imageCaption pipeblack bold" style="padding:10px;"><a class="pipeblack bold" href="#" onclick="dispOrigImg(&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/119417478/59987_48.jpg&quot;, &quot;Mendel’s dihybrid cross.&quot;, &quot;true&quot;, &quot;Figure 6&quot;, &quot;When Mendel crossed pea plants with round yellow seeds with pea plants exhibiting wrinkled, green seeds, the plants in the resulting F1 generation all had round, yellow seeds. When these F1 plants were allowed to self-fertilize, the phenotypes in the resulting F2 generation were observed in a 9:3:3:1 ratio. That is, 9/16 of the plants had round, yellow seeds; 3/16 of the plants had round, green seeds; 3/16 of the plants had wrinkled, yellow seeds; and 1/16 of the plants had wrinkled, green seeds.&quot;, &quot;true&quot;, &quot;All rights reserved.&quot;, '422', '1060', 'https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education');"><img class="fleft borderNone" alt="View Full-Size Image" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/plus_box.gif"/>Figure 6<div class="clear"></div><div class="nomargin padleft4px pipeblack bold fright textalignleft"><a title="Mendel asked the question: Do alleles coding for different traits separate independently? To answer this question, Mendel crossed round, yellow seeds with the genotype uppercase R, uppercase R, uppercase Y, uppercase Y with wrinkled, green seeds with the genotype lowercase r, lowercase r, lowercase y, lowercase y. The round, yellow seeds produced gametes with uppercase R, uppercase Y alleles. The wrinkled, green seeds produced gametes with lowercase r, lowercase y alleles. These plants were fertilized to produce the F1 generation. All the progeny in the F1 generation displayed round, yellow seeds with the genotype uppercase R, lowercase r, uppercase Y, lowercase y. These plants produced four gametes: uppercase R, uppercase Y; lowercase r, lowercase y; uppercase R, lowercase y; and lowercase r, uppercase Y. These plants were allowed to self-fertilize to produce the F2 generation. Using the four gametes from the F1 generation, four different phenotypes were produced. The genotypes that produced round, yellow seeds were: uppercase R, uppercase R, uppercase Y, uppercase Y; uppercase R, lowercase r, uppercase Y, lowercase y; uppercase R, uppercase R, uppercase Y, lowercase y; and uppercase R, lowercase r, uppercase Y, uppercase Y. The genotypes that produced round, green seeds were: uppercase R, lowercase r, lowercase y, lowercase y and uppercase R, uppercase R, lowercase y, lowercase y. The genotypes that produced wrinkled, yellow seeds were: lowercase r, lowercase r, uppercase Y, lowercase y and lowercase r, lowercase r, uppercase Y, uppercase Y. The only genotype that produced wrinkled, green seeds was lowercase r, lowercase r, lowercase y, lowercase y. Seeds were produced in a phenotypic ratio of 9 round, yellow seeds to 3 round, green seeds to 3 wrinkled, yellow seeds to 1 wrinkled, green seed. This caused Mendel to conclude that the allele coding for endosperm color separated independently of the allele coding for seed shape." href="javascript:void(0)" onclick="callNewShowInformAfterPublish(&quot;true&quot;,&quot;true&quot;,&quot;Y&quot;,&quot;/scitable/content/ne0000/ne0000/ne0000/ne0000/119417478/59987_48.jpg&quot;, &quot;Mendel’s dihybrid cross.&quot;, &quot;Figure 6&quot;, &quot;When Mendel crossed pea plants with round yellow seeds with pea plants exhibiting wrinkled, green seeds, the plants in the resulting F1 generation all had round, yellow seeds. When these F1 plants were allowed to self-fertilize, the phenotypes in the resulting F2 generation were observed in a 9:3:3:1 ratio. That is, 9/16 of the plants had round, yellow seeds; 3/16 of the plants had round, green seeds; 3/16 of the plants had wrinkled, yellow seeds; and 1/16 of the plants had wrinkled, green seeds.&quot;, '422','https://web.archive.org/web/20190719224056/http://www.nature.com/nature_education', &quot;Mendel asked the question: Do alleles coding for different traits separate independently? To answer this question, Mendel crossed round, yellow seeds with the genotype uppercase R, uppercase R, uppercase Y, uppercase Y with wrinkled, green seeds with the genotype lowercase r, lowercase r, lowercase y, lowercase y. The round, yellow seeds produced gametes with uppercase R, uppercase Y alleles. The wrinkled, green seeds produced gametes with lowercase r, lowercase y alleles. These plants were fertilized to produce the F1 generation. All the progeny in the F1 generation displayed round, yellow seeds with the genotype uppercase R, lowercase r, uppercase Y, lowercase y. These plants produced four gametes: uppercase R, uppercase Y; lowercase r, lowercase y; uppercase R, lowercase y; and lowercase r, uppercase Y. These plants were allowed to self-fertilize to produce the F2 generation. Using the four gametes from the F1 generation, four different phenotypes were produced. The genotypes that produced round, yellow seeds were: uppercase R, uppercase R, uppercase Y, uppercase Y; uppercase R, lowercase r, uppercase Y, lowercase y; uppercase R, uppercase R, uppercase Y, lowercase y; and uppercase R, lowercase r, uppercase Y, uppercase Y. The genotypes that produced round, green seeds were: uppercase R, lowercase r, lowercase y, lowercase y and uppercase R, uppercase R, lowercase y, lowercase y. The genotypes that produced wrinkled, yellow seeds were: lowercase r, lowercase r, uppercase Y, lowercase y and lowercase r, lowercase r, uppercase Y, uppercase Y. The only genotype that produced wrinkled, green seeds was lowercase r, lowercase r, lowercase y, lowercase y. Seeds were produced in a phenotypic ratio of 9 round, yellow seeds to 3 round, green seeds to 3 wrinkled, yellow seeds to 1 wrinkled, green seed. This caused Mendel to conclude that the allele coding for endosperm color separated independently of the allele coding for seed shape.&quot;)" class="inlineLinks"> Figure Detail </a></div></a><div class="clear"></div></div></div></div> <!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} table.MsoTableGrid {mso-style-name:"Table Grid"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; border:solid windowtext 1.0pt; mso-border-alt:solid windowtext .5pt; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:X-NONE;} </style> <![endif]--> <p> </p> <p>Mendel had thus determined what happens when two plants that are hybrid for one trait are crossed with each other, but he also wanted to determine what happens when two plants that are each hybrid for two traits are crossed. Mendel therefore decided to examine the inheritance of two characteristics at once. Based on the concept of <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;1408&quot;,this);return false;">segregation</span>, he predicted that traits must sort into gametes separately. By extrapolating from his earlier data, Mendel also predicted that the inheritance of one characteristic did not affect the inheritance of a different characteristic. </p> <p> </p> <p>Mendel tested this idea of trait independence with more complex crosses. First, he generated plants that were purebred for two characteristics, such as seed color (yellow and green) and seed shape (round and wrinkled). These plants would serve as the P<sub>1</sub> generation for the experiment. In this case, Mendel crossed the plants with wrinkled and yellow seeds (<i>rrYY</i>) with plants with round, green seeds (<i>RRyy</i>). From his earlier monohybrid crosses, Mendel knew which traits were dominant: round and yellow. So, in the F<sub>1</sub> generation, he expected all round, yellow seeds from crossing these purebred varieties, and that is exactly what he observed. Mendel knew that each of the F<sub>1</sub> progeny were dihybrids; in other words, they contained both alleles for each characteristic (<i>RrYy</i>). He then crossed individual F<sub>1</sub> plants (with genotypes <i>RrYy</i>) with one another. This is called a <span class="ontologyTermLink" onmouseover="showDescription(&quot;303&quot;,this);return false;">dihybrid cross</span>. Mendel's results from this cross were as follows: </p> <p> </p> <ul> <li>315 plants with round, yellow seeds</li> <li>108 plants with round, green seeds</li> <li>101 plants with wrinkled, yellow seeds</li> <li>32 plants with wrinkled, green seeds</li> </ul> <p> </p> <p>Thus, the various phenotypes were present in a 9:3:3:1 ratio (Figure 6).</p> <p> </p> <p>Next, Mendel went through his data and examined each characteristic separately. He compared the total numbers of round versus wrinkled and yellow versus green peas, as shown in Tables 1 and 2. </p> <p> </p> <p> <b><i>Table 1: Data Regarding Seed Shape</i></b> </p> <a name="anchTab_1220454310883-578571899_1"><input type="hidden" name="hidTable" id="hidTable_1220454310883-578571899_1" value=""/></a><table width="" height="" border="1" cellspacing="0" cellpadding="0" style="; border: 1px; "> <tbody> <tr> <td valign="top" width="138" style="vertical-align:top;"> &nbsp;</td> <td valign="top" width="176" style="vertical-align:top;"> <b>Round</b></td> <td valign="top" width="180" style="vertical-align:top;"> <b>Wrinkled</b></td> </tr> <tr> <td valign="top" width="138" style="vertical-align:top;"> <b>Number of plants</b></td> <td valign="top" width="176" style="vertical-align:top;"> 315 + 108 = 423</td> <td valign="top" width="180" style="vertical-align:top;"> 101 + 32 = 133</td> </tr> <tr> <td valign="top" width="138" style="vertical-align:top;"> <b>Proportion of total</b></td> <td valign="top" width="176" style="vertical-align:top;"> 3.2</td> <td valign="top" width="180" style="vertical-align:top;"> 1</td> </tr> </tbody></table> <p> </p> <p> <b><i>Table 2: Data Regarding Pea Color</i></b> </p> <a name="anchTab_1220454310883-578571899_2"><input type="hidden" name="hidTable" id="hidTable_1220454310883-578571899_2" value=""/></a><table width="" height="" border="1" cellspacing="0" cellpadding="0" style="; border: 1px; "> <tbody> <tr> <td valign="top" width="138" style="vertical-align:top;"> &nbsp;</td> <td valign="top" width="180" style="vertical-align:top;"> <b>Yellow</b></td> <td valign="top" width="174" style="vertical-align:top;"> <b>Green</b></td> </tr> <tr> <td valign="top" width="138" style="vertical-align:top;"> <b>Number of plants</b></td> <td valign="top" width="180" style="vertical-align:top;"> 315 + 101 = 416</td> <td valign="top" width="174" style="vertical-align:top;"> 108 + 32 = 140</td> </tr> <tr> <td valign="top" width="138" style="vertical-align:top;"> <b>Proportion of total</b></td> <td valign="top" width="180" style="vertical-align:top;"> 2.97</td> <td valign="top" width="174" style="vertical-align:top;"> 1</td> </tr> </tbody></table> <p> </p> <p>The proportion of each trait was still approximately 3:1 for both seed shape and seed color. In other words, the resulting seed shape and seed color looked as if they had come from two parallel monohybrid crosses; even though two characteristics were involved in one cross, these traits behaved as though they had segregated independently. From these data, Mendel developed the third principle of inheritance: the principle of <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;780&quot;,this);return false;">independent assortment</span>. According to this principle, alleles at one <span class="glossaryTermLink" onmouseover="showGloDescription(&quot;876&quot;,this);return false;">locus</span> segregate into gametes independently of alleles at other loci. Such gametes are formed in equal frequencies.</p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> <div class="contentSection"> <div class="sectionTitle"> <h2> <sectiontitle-1>Mendel&rsquo;s Legacy</sectiontitle-1> </h2> </div> <div class="clear"></div> <div class="sectionParas"> <div class="paraArticle"> <div> <!--[if gte mso 9]><xml> Normal 0 false false false MicrosoftInternetExplorer4 </xml><![endif]--> <!--[if gte mso 9]><xml> </xml><![endif]--> <!--[if gte mso 10]> <style> /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} </style> <![endif]--> <p>More lasting than the pea data Mendel presented in 1862 has been his methodical hypothesis testing and careful application of mathematical models to the study of biological inheritance. From his first experiments with monohybrid crosses, Mendel formed statistical predictions about trait inheritance that he could test with more complex experiments of dihybrid and even trihybrid crosses. This method of developing statistical expectations about inheritance data is one of the most significant contributions Mendel made to biology. </p> <p> </p> <p>But do all organisms pass their on genes in the same way as the garden pea plant? The answer to that question is no, but many organisms do indeed show inheritance patterns similar to the seminal ones described by Mendel in the pea. In fact, the three principles of inheritance that Mendel laid out have had far greater impact than his original data from pea plant manipulations. To this day, scientists use Mendel's principles to explain the most basic phenomena of inheritance.</p> </div> </div> <div class="clear"></div> </div> </div> <div class="clear"></div> </div> <div style="display:none" id="tykChk"></div> <div id="divSources"> <h2 class="sourcesHead nopad">References and Recommended Reading</h2> <hr class="topFivebotTen"> <div class="articleSourcesList articleSourcesListBig nopad" id="sourcesDisp"> <p>Mendel, G. Versuche &#252;ber Plflanzen-hybriden.Verhandlungen des naturforschenden Ver-eines in Br&#252;nn, Bd. IV f&#252;r das Jahr 1865, Abhand-lungen, 3&#8211;47 (1866) (Bateson<i> </i>translation) (<a rel="nofollow" href="https://web.archive.org/web/20190719224056/http://www.esp.org/foundations/genetics/classical/gm-65.pdf" target="_blank" title="link to article" class="">link to article</a>)</p> <p></p> <p>Strachan, T., &amp; Read, A.P. Mendelian pedigree patterns. <i>Human Molecular Genetics 2</i> (Garland Science, 1999) </p> </div> </div> </div> </div></div>
+		
+		
+	</div>
+	<div class="hideForPrint">
+	
+		<div class="clear"></div>
+		 
+    		 
+    			
+
+
+<ul class="topicDetailsLeft hideForPrint  ">
+	<li><a href="#TB_inline?height=300&amp;width=400&amp;inlineId=trOutLine" title="Outline of this Article" class="thickbox inlineLinks">Outline</a></li>
+
+	<li id="bar1">|</li>
+	<li id="keywordHide"><a onmouseover="return displayOnMouseOverText(this);" href="#url" id="keywordLnkTR" name="keywordLnkTR" onclick="loadContentTagsOnStartUp(event, 'keywordLnkTR'); return false;" class="inlineLinks">Keywords</a></li>
+	
+		<li id="bar2">|</li>
+		<li id="shareHide"><a onmouseover="return displayOnMouseOverText(this);" id="shareCntToTRLnk" name="shareCntToTRLnk" href="#" onclick="shareWithGrpNewLB(event, 'shareCntToTRLnk');return false;" class="inlineLinks">Add Content to Group</a></li>
+	
+	<li id="fdBKLBMdlAncID"><a href="#" onclick="showPostCommentFdbk(event, 'fdBKLBMdlAncID'); return false;" class="inlineLinks"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/feedback.gif" alt="FeedBack" class="marginbotn3px marginleft10px"/></a></li>
+</ul>
+
+
+	<div class="fright w180 hideForPrint">
+		<div class="clearfix w100p">
+			<!--
+			  <div class="fright padleft3px padtop2px"><a alt="Article History" title="Article History" href="javascript:openVersioningPopup('anc','593');" class="inlineLinks"><img src="/scitable/natedimages/version_history.png" height="15" width="15" alt="Article History" title="Article History"/></a></div>
+			
+			 <div class="fright padleft3px">
+				<a id="shareLink" name="shareLink" href="#" onclick="showShareLB('shareLink');return false;"><img title="Share" class="nomargin borderNone pad2px" src="/scitable/natedimages/shareTopic.png"/></a>
+			</div> -->
+			<div class="fright padleft3px">
+				<a rel="nofollow" id="redditShareLink" href="https://web.archive.org/web/20190719224056/http://www.reddit.com/submit?url=" onclick="shareWithReddit();return false;"><img class="nomargin borderNone pad2px" title="Share Using Reddit" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/reddit-share-icon.png"/></a>
+			</div>
+			<div class="fright padleft3px">
+				<a rel="nofollow" id="stumbleUponLink" href="#" onclick="shareWithStubmleUpon();return false;"><img class="nomargin borderNone pad2px" title="StumbleUpon" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/stumbleupon.png"/></a>
+			</div>
+			<div class="fright padleft3px">
+				<a rel="nofollow" id="googlePlusLink" href="https://web.archive.org/web/20190719224056/https://plus.google.com/share?url=" onclick="shareWithGooglePlus();return false;"><img class="nomargin borderNone pad2px" title="Share with Google+" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/gplus-16.png"/></a>
+			</div>
+			<div class="fright padleft3px">
+				<a rel="nofollow" id="twitterShareLnk" href="https://web.archive.org/web/20190719224056/http://twitter.com/share?url=" onclick="normalShareWithTwitter();return false;"><img class="nomargin borderNone pad2px" title="Share with Twitter" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/icon-twitter.jpg"/></a>
+			</div>
+			<div class="fright padleft3px">
+				
+					
+					
+						<a rel="nofollow" id="faceBookShareLnk" href="https://web.archive.org/web/20190719224056/http://www.facebook.com/share.php?u=" onclick="normalShareWithFaceBook();return false;"><img class="nomargin borderNone pad2px" title="Share with Facebook" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/icon-facebook.jpg"/></a> 
+					
+					
+			</div>	
+			<div class="fright padleft3px">
+			  <a name="shareEMailSplashAnc" id="shareEMailSplashAncBot" href="#" onclick="sendMailToShare('lnkLBMdlLIID', event);return false;"><img class="nomargin borderNone pad2px" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/email_icon.gif" alt="Email"/></a>
+			</div>
+			<div class="fright padleft3px">
+				<a href="javascript:printReadingPage()"><img title="Print" class="nomargin borderNone pad2px" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/print_15.gif"/></a>
+			</div>
+			<div class="fright padleft3px">
+				<a onmouseover="return displayOnMouseOverText(this);" href="#" id="bookmarkTRArttAncBot" name="bookmarkTRArttAnc" onclick="addToLocker(); return false;"><img title="Bookmark" class="nomargin borderNone pad2px" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/icon_bookmark.gif"/></a>
+			</div>
+		</div>
+</div>
+
+	
+
+
+
+	
+	
+<div id="articleVersioningPopupLight" class="lightBoxPopup assoDissoTopicLB hAuto" style="overflow:hidden;">
+	
+
+	<div class="bgTan marginbot10px nomargin">
+		<h2 class="fleft upper">Article History</h2>
+		<a class="inlineLinks fright padtop5px" onclick="closeVersioningPopup(); return false;" href="#">Close</a>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	<div id="articleVersioningPopupData" class="padleft16px padright5px padtop10px"></div>
+	<div class="clear"></div>
+</div>
+<div id="articleVersioningPopupFade" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div>
+						
+<div class="clear"></div>
+<hr id="topicPageHr" class="botbordergreydotted margintop5px marginbot10px"/>
+<div class="clear"></div>
+
+
+	
+	
+<div id="lightShareGrp" class="lightBoxPopup lightbox_popup_authorContKeywords" style="overflow:hidden !important;">
+	
+
+	<div id="shareGroup"></div>
+	<div class="clear"></div>
+	<div class="close_lightbox_content">
+		<a href="#" class="inlineLinks" onclick="associateGroupContent(); return false;">Share</a>&nbsp;|&nbsp;<a href="#" class="inlineLinks" onclick="hideShareGroupLB(); return false;">Cancel</a>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="fadeShareGrp" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div>
+
+
+
+
+	
+	
+<div id="lightRevokeGroup" class="lightBoxPopup lightbox_popup_authorContKeywords">
+	
+
+	<div id="revokeGroup"></div>
+	<div class="clear"></div>
+	<div class="close_lightbox_content">
+		<a href="#" class="inlineLinks" onclick="dissociateGroupContent(); return false;">Revoke</a>&nbsp;|&nbsp;<a href="#" class="inlineLinks" onclick="hideRevokeGroupLB(); return false;">Cancel</a>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="fadeRevokeGrp" class="transparent_lightbox_overlay"></div>
+
+
+
+
+	
+	
+<div id="lightAuthAddTags" class="lightBoxPopup lightbox_popup_authorContKeywords">
+	
+
+	
+
+<div id="addTags">
+	<h2>Keywords</h2>
+	<div class="form nomargin autowidth">
+		<form name="tagsFrm">
+			<div id="addingTags">				
+				<label for="tags" id="overAllAuthTagsLabel">Keywords for this Article</label>
+				<div id="overAllAuthTags" class="fieldText"></div>
+				<div class="clear"></div>
+				<label for="tags">Add keywords to your Content</label>
+				<textarea class="textDescriptionH7" cols="38" rows="5" id="auTags" name="auTags"></textarea>	
+				<div class="clear"></div>
+						
+				<div class="closeKeywordsLbox">
+					<a href="#" class="inlineLinks" onclick="addTagsForAuthScreen();return false;">Save</a>&nbsp;|&nbsp;<a href="#" class="inlineLinks" onclick="hideAuthAddTagsLB();return false;">Cancel</a>		
+				</div>
+			</div>
+		</form>
+	</div>
+</div> 
+</div>
+<div id="fadeAuthAddTags" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div>
+
+
+			
+
+	
+	
+<div id="lightFlagInapp" class="lightBoxPopup assoDissoTopicLB">
+	
+
+	<h2>Flag Inappropriate</h2>
+	<div class="form flagInappForm">	
+		<form name="flagIn">
+			<label for="flagIapp" class="flagInapp">The Content is:</label>	
+			<label for="" class="labelBox topLabel">Objectionable</label>
+			<input name="inap" type="checkbox" value="OBJ" class=""/>
+			<div class="clear"></div>
+			<label for="" class="labelBox">Explicit</label>
+			<input name="inap" type="checkbox" value="EXP" class=""/>
+			<div class="clear"></div>
+			<label for="" class="labelBox">Offensive</label>
+			<input name="inap" type="checkbox" value="OFF" class=""/>
+			<div class="clear"></div>
+			<label for="" class="labelBox">Inaccurate</label>
+			<input name="inap" type="checkbox" value="INA" class=""/>
+			<div class="clear"></div>
+			<label>Comments</label>
+			<textarea id="commentsForInapp"></textarea>
+			<div class="clear"></div>
+			<div class="close_lightbox_content">				
+				<a href="#" class="inlineLinks" onclick="loadReportInappropriate('commentsForInapp'); return false;">Flag Content</a>&nbsp;|&nbsp;<a href="#" class="inlineLinks" onclick="hideFlagInapp(); return false;"> Cancel</a>
+			</div>
+		</form>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="fadeFlagInapp" class="transparent_lightbox_overlay"></div>  
+<div class="clear"></div> 
+
+
+
+
+
+	
+
+
+
+	
+	
+<div id="lightShareGrpNew" class="lightBoxPopup assoDissoTopicLB hAuto" style="overflow:hidden;">
+	
+
+	<div id="shareGroupNew" class=""></div>
+	<div class="clear"></div>
+	<div class="fright marginbot10px marginright20px">
+		<a href="#" class="inlineLinks" onclick="hideShareRevokeGroupLB(); return false;">Close</a>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="fadeShareGrpNew" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div>
+
+
+
+
+
+	
+	
+		<div id="viewComments" class="lightBoxPopup addCommentsLB nopad">
+	
+
+	</div>
+<div id="fadePostComment" class="transparent_lightbox_overlay"></div>	
+
+
+
+
+
+	
+	
+<div id="shareWIthOthers" class="shareBox">
+	
+
+	<div class="edge"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pointedge.gif" class="marginleft15px" alt=""/></div>
+	<div class="bordergrey">
+		<div class="clearfix bgTan marginbot10px" style="*margin-bottom:0px!important;">
+			<h2 class="fleft upper">share</h2>
+
+			<a href="#" class="inlineLinks fright" onclick="hideShareLB();return false;">Close</a>
+		</div>
+		<ul class="nolistType marginleft10px marginright10px dispblock">
+			<!--li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="/scitable/nated/natedimages/linkedin.gif" alt="Linked In" /></span><span class="fleft marginleft10px padtop2px"><a id="linkedInLink" href="" onClick="shareWithLinkedInLink();return false;">Linkedin</a></span></li-->
+			<li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/digg.gif" alt="Digg"/></span><span class="fleft marginleft10px padtop2px"><a rel="nofollow" id="diggLink" href="https://web.archive.org/web/20190719224056/http://digg.com/submit?url=" onclick="shareWithDiggLink();return false;">Digg</a></span></li>
+			<li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/myspace_logo.gif" alt="MySpace"/></span><span class="fleft marginleft10px padtop2px"><a rel="nofollow" id="myspaceLink" href="https://web.archive.org/web/20190719224056/http://www.myspace.com/Modules/PostTo/Pages/?t=" onclick="shareWithMySpaceLink();return false;">MySpace</a></span></li>
+			<li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/gplus-16.png" alt="Google Plus+"/></span><span class="fleft marginleft10px padtop2px"><a rel="nofollow" id="googlePlusLink" href="https://web.archive.org/web/20190719224056/https://plus.google.com/share?url=" onclick="shareWithGooglePlus();return false;">Google+</a></span></li>
+			<li class="clearfix marginbot5px">
+			<span class="fleft">
+			<iframe id="facebookLink" src="//web.archive.org/web/20190719224056if_/http://www.facebook.com/plugins/like.php?href=link&amp;send=false&amp;layout=button_count&amp;width=108&amp;show_faces=true&amp;font=lucida+grande&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:108px; height:21px;" allowtransparency="true"></iframe>
+			</span>
+			</li>
+			
+			<li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/stumbleupon.png" alt="StumbleUpon"/></span><span class="fleft marginleft7px padtop2px"><a href="#" onclick="shareWithStubmleUpon();return false;">StumbleUpon</a></span></li>
+			<!--li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="natedimages/mixx.gif" alt="Mixx" /></span><span class="fleft marginleft10px padtop2px"><a id="mixxLink" href="" onClick="shareWithMixxLink();return false;">Mixx</a></span></li>
+			<li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="natedimages/yahoo!buzz.gif" alt="Yahoo! Buzz" /></span><span class="fleft marginleft10px padtop2px"><a id="yahooBuzzLink" href="" onClick="shareWithYahooBuzzLink();return false;">Yahoo! Buzz</a></span></li>
+			<li class="clearfix marginbot5px"><span class="fleft"><img class="h16 w16" src="natedimages/permalink.gif" alt="Permalink" /></span><span class="fleft marginleft10px padtop2px"><a id="permalinkLink" href="" onClick="shareWithPermalinkLink();return false;">Permalink</a></span></li-->
+		</ul>
+	</div>
+</div>
+<div id="fadeShareWIthOthers" class="share_overlay"></div>
+<div class="clear"></div>
+
+
+
+
+
+<div class="hideForPrint">
+	
+
+
+	
+	
+		<div id="lightShareEmailFrnd" class="lightBoxPopup_contactus lightbox_popup_shareEmailFrnd nopad">		
+	
+
+	<h2 class="nomargin">Email your Friend</h2>
+	<div class="clear"></div>
+	<div class="padleft10px padright10px padtop10px">
+		<form id="shareEmailFrndFrm" class="" onsubmit="return false;">
+		
+		
+			<div class="clear"></div>
+			<div class="clearfix">
+				<div class="fleft">
+					<label class="upper dispblock textalignleft w170">
+					<span class="fleft bold">Your First Name</span>
+					<span class="mandatory fright">*</span>
+					<div class="clear"></div>
+					</label>
+					<input id="usrFstNameShareEmailFrnd" class="w170 nomargin h20 text bgSearchGrey" type="text" value="" maxlength="50" name="usrFstNameShareEmailFrnd" readonly=""/>
+				</div>
+				<div class="fleft marginleft5px">
+					<label class="w170 upper dispblock textalignleft clearfix">
+						<span class="fleft bold">Your Last Name</span>
+						<span class="mandatory fright">*</span>
+						<div class="clear"></div>
+					</label>
+					<input id="usrLstNameShareEmailFrnd" class="w170 nomargin h20 text bgSearchGrey" type="text" value="" maxlength="50" name="usrLstNameShareEmailFrnd" readonly=""/>
+				</div>
+			</div>
+			<div class="clear"></div>	
+		
+			<div class="fleft clearfix marginbot5px">
+				<label class="w350 upper dispblock textalignleft">
+				<span class="fleft bold">Your Email Address</span>
+				<span class="mandatory fright">*</span>
+				</label>
+				<input id="mailShareEmailFrndMine" class="w350 nomargin h20 text bgSearchGrey" type="text" value="" maxlength="50" name="mailShareEmailFrndMine"/>
+			</div>			
+			<div class="clear nomargin"></div>	
+		
+			<div class="fleft clearfix marginbot5px">
+				<label class="w350 upper dispblock textalignleft">
+				<span class="fleft bold">Your Friend's Email address</span>
+				<span class="mandatory fright">*</span>
+				</label>
+				<input id="mailShareEmailFrnd" class="w350 nomargin h20 text bgSearchGrey" type="text" value="" maxlength="50" name="mailShareEmailFrnd"/>
+			</div>
+			<div class="clear"></div>	
+			<div class="fleft clearfix">
+				<label class="upper dispblock textalignleft w350"><span class="fleft bold">Your Message</span><span class="mandatory fright">*</span></label>				
+				<textarea id="commentShareEmailFrnd" class="h120 w350 bgSearchGrey nomargin" name="commentShareEmailFrnd"></textarea>			
+			</div>
+			<div class="clear"></div>
+			<div class="w360 marginbot10px">
+				<div id="viewButtonpanel" class="fleft">
+					<!-- <a id="loadCMNT" class="inlineLinks" onclick="this.blur(); sendShareEmailFrnd(); return false;" href="#loadCMNT">Submit</a>&nbsp;|&nbsp;<a id="viewRC" class="inlineLinks" onclick="hideSendMailToShare(); return false;" href="#">Cancel</a> -->
+					<a id="loadCMNT" class="inlineLinks" onclick="this.blur(); sendShareEmailFrnd('593'); return false;" href="#loadCMNT">Submit</a>&nbsp;|&nbsp;<a id="viewRC" class="inlineLinks" onclick="hideSendMailToShare(); return false;" href="#">Cancel</a>
+					
+				</div>
+				<div class="fright">
+					<span class="mandatory">*</span>
+					 Required
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</form>
+	</div>
+</div>
+
+<div id="fadeShareEmailFrnd" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div>
+</div>
+
+   					
+    		
+    		
+    			
+	
+	</div>
+	
+		
+	
+<!-- Start Show Original Image -->
+
+	
+	
+		 <div id="showOriginalImg" class="thumbToOrigimgLB ">
+	
+
+	<div class="thumnailLBContent hideForPrint">
+		 <img title="" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/default.jpg" id="currentImg" name="currentImg" class="imageWrap"/><br/>
+		 <div id="imgCaptID" class="imageCaption"></div>
+		 <div id="imgLegID" class="imageLegend"></div>
+		 <div id="imgCopyID" class="imageCopyRight"></div> 
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	<div class="closeThis"><a href="javascript:hideOrigImg();" class="inlineLinks hideForPrint">Close</a></div>
+</div> 
+<div id="fadeOriginalImg" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div> 
+<!--End of Show Original Image -->
+<!-- Start UDV Message -->
+
+	
+	
+		 <div id="showUdvMsg" class="udvMsgLB">
+	
+
+<div class="hideForPrint">
+	This content is currently under construction.<br/>
+</div>
+	<div class="clear"></div>
+	<div class="closeThis"><a href="javascript:hideUdvMsg();" class="inlineLinks hideForPrint">Close</a></div>
+</div> 
+<div id="fadeUdvMsg" class="transparent_lightbox_overlay"></div>
+<div class="clear"></div> 
+<!--End of UDV Message -->
+
+<input type="hidden" id="fullSizeImagePath" name="fullSizeImagePath"/>
+<input type="hidden" id="imageCaptionId" name="imageCaptionId"/>
+<input type="hidden" id="imageLegendId" name="imageLegendId"/>
+<input type="hidden" id="imageCopyRightId" name="imageCopyRightId"/>
+<input type="hidden" id="imageCopyRightUrlId" name="imageCopyRightUrlId"/>
+<input type="hidden" id="selectImgWidth" name="selectImgWidth"/>
+<input type="hidden" id="selectImgHeight" name="selectImgHeight"/>
+				</div>
+							
+		</div>
+	
+	
+		
+			<div class="clear"></div>
+			<div id="topicMemberView" style="display:none;">
+					
+					<div id="myPeople" class="hide"></div>
+					<div class="clear hide"></div>
+					
+						
+						
+						 	<div id="allPeople" class="topicRoomMemebers"></div>
+						
+					 
+			</div>
+			
+		<div id="topicRelatedGrps" style="display:none;"> 
+				
+				
+				
+				
+					<div id="myGroups" style="display:none;" class="hide"></div>
+				
+				
+				
+				
+				
+				 <div id="allGroups" class="topicRoomMemebers"></div>
+				 
+				
+		</div>	
+	<div id="openFrame" class="padright19px padleft19px padtop10px bordergrey bgcolorlightGreyEmbark padbot10px" style="display:none">
+		<div id="frameSrc"></div>
+	</div>
+	<div class="clearfix padright20px view-tab-contentSec" style="background:#FFFFFF none repeat scroll 0 0 !important;width:747px !important;" id="referringContentListDiv">
+	
+
+
+
+	
+	
+		
+	
+
+
+	</div>
+    
+    	
+    		
+    			
+    			
+
+
+<div class="exploreSecArticle margintop10px" id="exploreSec">
+	
+		
+			<div class="exploreSecArticleHdr">Explore This Subject</div>
+		
+		
+	
+	<div class="clearfix padtop20px">
+		<div class="exploreColumnLeft">
+			
+				
+					
+					
+					<div class="exploreSecArticleElem clearfix">
+						
+
+
+
+<div class="exploreSectionHdr clearfix mproRegular w360">
+	
+		
+		
+			<div class="subtopicHdrCover fleft w350 mproRegular">
+				Gene Linkage
+			</div>
+		
+	
+</div>
+
+	
+	
+		<div class="clearfix">
+			
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/chromosome-theory-and-the-castle-and-morgan-456" class="">Chromosome Theory and the Castle and Morgan Debate</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/discovery-and-types-of-genetic-linkage-500" class="">Discovery and Types of Genetic Linkage</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/genetics-and-statistical-analysis-34592" class="">Genetics and Statistical Analysis</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/thomas-hunt-morgan-and-sex-linkage-452" class="">Thomas Hunt Morgan and Sex Linkage</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/thomas-hunt-morgan-genetic-recombination-and-gene-496" class="">Thomas Hunt Morgan, Genetic Recombination, and Gene Mapping</a></p>
+				</div>
+			
+		</div>
+	
+ 
+					</div>
+				
+			
+				
+			
+				
+					
+					
+					<div class="exploreSecArticleElem clearfix">
+						
+
+
+
+<div class="exploreSectionHdr clearfix mproRegular w360">
+	
+		
+		
+			<div class="subtopicHdrCover fleft w350 mproRegular">
+				The Foundation of Inheritance Studies
+			</div>
+		
+	
+</div>
+
+	
+	
+		<div class="clearfix">
+			
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/developing-the-chromosome-theory-164" class="">Developing the Chromosome Theory</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/genetic-recombination-514" class="">Genetic Recombination</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593" class="">Gregor Mendel and the Principles of Inheritance</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/mendelian-genetics-patterns-of-inheritance-and-single-966" class="">Mendelian Genetics: Patterns of Inheritance and Single-Gene Disorders</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/mitosis-meiosis-and-inheritance-476" class="">Mitosis, Meiosis, and Inheritance</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/multifactorial-inheritance-and-genetic-disease-919" class="">Multifactorial Inheritance and Genetic Disease</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/non-nuclear-genes-and-their-inheritance-589" class="">Non-nuclear Genes and Their Inheritance</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/polygenic-inheritance-and-gene-mapping-915" class="">Polygenic Inheritance and Gene Mapping</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/sex-chromosomes-and-sex-determination-44565" class="">Sex Chromosomes and Sex Determination</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/sex-determination-in-honeybees-2591764" class="">Sex Determination in Honeybees</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/test-crosses-585" class="">Test Crosses</a></p>
+				</div>
+			
+		</div>
+	
+ 
+					</div>
+				
+			
+				
+			
+		</div>
+		<div class="exploreColumnRight">
+			
+				
+			
+				
+					
+					
+					<div class="exploreSecArticleElem clearfix">
+						
+
+
+
+<div class="exploreSectionHdr clearfix mproRegular w360">
+	
+		
+		
+			<div class="subtopicHdrCover fleft w350 mproRegular">
+				Methods for Studying Inheritance Patterns
+			</div>
+		
+	
+</div>
+
+	
+	
+		<div class="clearfix">
+			
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/c-elegans-model-organism-in-the-discovery-464" class=""><i>C. elegans</i>: Model Organism in the Discovery of PKD</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/biological-complexity-and-integrative-levels-of-organization-468" class="">Biological Complexity and Integrative Levels of Organization</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/genetics-of-dog-breeding-434" class="">Genetics of Dog Breeding</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/human-evolutionary-tree-417" class="">Human Evolutionary Tree</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/mapping-genes-to-chromosomes-linkage-and-genetic-377" class="">Mapping Genes to Chromosomes: Linkage and Genetic Screens</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/mendelian-ratios-and-lethal-genes-557" class="">Mendelian Ratios and Lethal Genes</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/paternity-testing-blood-types-and-dna-374" class="">Paternity Testing: Blood Types and DNA</a></p>
+				</div>
+			
+		</div>
+	
+ 
+					</div>
+				
+			
+				
+			
+				
+					
+					
+					<div class="exploreSecArticleElem clearfix">
+						
+
+
+
+<div class="exploreSectionHdr clearfix mproRegular w360">
+	
+		
+		
+			<div class="subtopicHdrCover fleft w350 mproRegular">
+				Variation in Gene Expression
+			</div>
+		
+	
+</div>
+
+	
+	
+		<div class="clearfix">
+			
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/environmental-influences-on-gene-expression-536" class="">Environmental Influences on Gene Expression</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/epistasis-gene-interaction-and-phenotype-effects-460" class="">Epistasis: Gene Interaction and Phenotype Effects</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/genetic-dominance-genotype-phenotype-relationships-489" class="">Genetic Dominance: Genotype-Phenotype Relationships</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/phenotype-variability-penetrance-and-expressivity-573" class="">Phenotype Variability: Penetrance and Expressivity</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/phenotypic-range-of-gene-expression-environmental-influence-581" class="">Phenotypic Range of Gene Expression: Environmental Influence</a></p>
+				</div>
+			
+				
+					<div class="clear"></div>
+				
+				<div class="subSection">
+					<p class="subSectionLink clearfix"><a onclick="return postCookieData('23');" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/pleiotropy-one-gene-can-affect-multiple-traits-569" class="">Pleiotropy: One Gene Can Affect Multiple Traits</a></p>
+				</div>
+			
+		</div>
+	
+ 
+					</div>
+				
+			
+		</div>
+	</div>
+</div>
+    		
+    		
+
+
+
+
+	
+	
+		 <div id="learnMoreLightPopup" class="lightBoxPopup lightbox_popup_learnMore nopad" style="overflow-x:auto;overflow-y:hidden;height:auto !important;">
+	
+
+	</div>
+	<div id="learnMoreLightOverLay" class="transparent_lightbox_overlay"></div>
+	
+	<div class="" id="xtraTopics" style="display:none;">
+		<div class="clearfix bgTan">
+			<h2 class="fleft upper">Topic rooms within Gene Inheritance and Transmission</h2>
+			<a class="inlineLinks fright padtop5px" href="javascript:hideLearnMoreLB()">Close</a>			
+		</div>	
+		<div class="pad10px">			
+			<div style="height:468px !important; overflow-y:auto;">
+			
+			
+			<b>No topic rooms are there.</b>
+			</div>
+		</div>
+	</div>
+    	
+    	
+    
+	
+	<div id="brandingBarTRMainBottom" style="display:none;">
+		
+
+
+
+
+
+    	
+    		
+    		
+    		
+	    		<div class="clearfix marginright15px bordertopDark">
+	    			
+		    			<div class="fleft">
+	    					
+	    					
+	    						
+	    						
+	    							<img class="" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/med_article_batch.gif"/>
+	    						
+	    					
+	    				</div>
+    				
+    		
+    	
+	    
+			<div class="fright w46 marginleft10px">
+				<a href="/web/20190719224056/http://www.nature.com/scitable/topic/gene-inheritance-and-transmission-23">
+					<img class="avatar fright bordertopNone" alt="Gene Inheritance and Transmission" src="/web/20190719224056im_/http://www.nature.com/scitable/profileimage/topic/23/23_1_T.jpg"/>
+				</a>
+			</div>		
+			
+			<div class="fright w550">			
+				<ul class="topicEditorInfo nomargin nolistType fright">
+					<li>
+						
+							<span>&nbsp;|&nbsp;</span>
+							<span class="bold">
+								Lead Editor:&nbsp;
+								<a onclick="return postCookieData('23');" class="inlineLinks" href="/web/20190719224056/http://www.nature.com/scitable/topicpage/terry-mcguire-lead-editor-30586" title="Terry McGuire" alt="Terry McGuire">Terry McGuire</a>
+							</span>
+						
+					</li>
+				</ul>
+				<div class="fright textalignright">
+					
+						
+						
+							<a href="/web/20190719224056/http://www.nature.com/scitable/topic/gene-inheritance-and-transmission-23" class="w310 nofloat redArrow upper marginbot5px bold pipeblack padleft8px">Gene Inheritance and Transmission</a>
+						
+					
+				</div>
+			</div>
+			
+			</div>
+		
+
+					
+	
+	</div>
+	
+	<div class="clear"></div>
+
+<input type="hidden" value="" id="wikiPage" name="wikiPage"/>
+<div id="dummyTRFns">
+	<script>
+		function showDescription(a,b){
+		} 
+		function showGloDescription(a,b){
+		}
+	</script>
+</div>
+</div>
+</div>
+<div class="leftRail marginright20px" id="leftRail">
+
+
+
+
+
+
+	
+	
+		<div id="topicRoomLeftPanelAD" class="leftRailContent borderNone" style="display:none;">
+		</div>
+	
+
+
+
+
+
+
+	<div class="leftRailContent" id="leftDashboardPlaceID" style="display:none">
+		<div class="lrContentHead">
+			
+				
+				
+					<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/updateLR.gif" alt="Updates">
+				
+			
+		</div>
+		<div>
+			<div class="horzAlignCenter padleft10px" id="leftDashboardID">
+				<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/ajaxLoader.gif" class="padleft10px">
+				<span class="padleft10px bold customContentRestHdr">Loading ...</span>
+				<br/><br/>
+			</div>
+		</div>
+	</div>
+
+
+<div class="leftRailContent">
+	
+		
+			
+				
+					<div class="lrContentHead" id="nomarginHeaderImg">
+						<img alt="Topic Rooms" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/topic_leftNav.jpg"/>
+					</div>
+				
+				
+			
+				
+			
+				
+					<div class="leftRailSection">
+						<div class="clear" style="height:0px;line-height: 0px !important;font-size: 0px;"></div>
+						
+
+
+
+	
+		<p class="leftRailSubHead">
+			Within this Subject&nbsp;(29)
+		</p>
+		
+			
+			
+				
+					
+						<ul class="vertIndentList">
+					
+					
+						<li><a href="#" onclick="loadLearningCycleDataShow('6083117_23');return false;">Gene Linkage&nbsp;(5)</a></li>
+											
+					
+				
+					
+					
+						<li><a href="#" onclick="loadLearningCycleDataShow('6083156_23');return false;">Methods for Studying Inheritance Patterns&nbsp;(7)</a></li>
+											
+					
+				
+					
+					
+						<li><a href="#" onclick="loadLearningCycleDataShow('6083111_23');return false;">The Foundation of Inheritance Studies&nbsp;(11)</a></li>
+											
+					
+				
+					
+					
+						<li><a href="#" onclick="loadLearningCycleDataShow('6083122_23');return false;">Variation in Gene Expression&nbsp;(6)</a></li>
+											
+					
+						</ul>
+					
+				
+			
+		
+	
+	
+
+						
+						<div class="margin2px bold" id="ullibotVBLnk" style="display:none;">Or&nbsp;&nbsp;<a href="#" class="inlineLinks" onclick="detach(593);">Browse Visually</a></div>			
+					</div>
+				
+			
+		
+			
+	
+
+	
+		
+		
+			<div class="leftRailSection lastSection clearfix" id="relatedTopicsDIVID">
+		
+	
+		<p class="leftRailSubHead">
+			Other Topic Rooms
+		</p>
+		
+		
+
+   
+	
+		
+		
+				
+			
+				
+					
+						<span class="redArrow padleft8px clear w130">
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/genetics-5" class="inlineLinks">
+						 Genetics
+						</a>
+						</span>
+					
+					
+																							
+						
+		
+		
+			<div class="clear" style="height:0px;line-height: 0px !important;font-size: 0px;"></div>
+		
+		<ul class="vertIndentList">
+	
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/gene-inheritance-and-transmission-23">						
+							Gene Inheritance and Transmission
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/gene-expression-and-regulation-15">						
+							Gene Expression and Regulation
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/nucleic-acid-structure-and-function-9">						
+							Nucleic Acid Structure and Function
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/chromosomes-and-cytogenetics-7">						
+							Chromosomes and Cytogenetics
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/evolutionary-genetics-13">						
+							Evolutionary Genetics
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/population-and-quantitative-genetics-21">						
+							Population and Quantitative Genetics
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/genomics-19">						
+							Genomics
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/genes-and-disease-17">						
+							Genes and Disease
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/genetics-and-society-11">						
+							Genetics and Society
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+		
+			</ul>
+			<div class="clear" style="height:0px;line-height: 0px !important;font-size: 0px;"></div>
+		
+		
+				
+			
+				
+					
+						<span class="redArrow padleft8px clear w130">
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/cell-biology-13906536" class="inlineLinks">
+						 Cell Biology
+						</a>
+						</span>
+					
+					
+																							
+						
+		
+		
+		<ul class="vertIndentList" style="display:none">
+	
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/cell-origins-and-metabolism-14122694">						
+							Cell Origins and Metabolism
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/proteins-and-gene-expression-14122688">						
+							Proteins and Gene Expression
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/subcellular-compartments-14122679">						
+							Subcellular Compartments
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/cell-communication-14122659">						
+							Cell Communication
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+	
+			<li>
+				
+					
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/cell-cycle-and-cell-division-14122649">						
+							Cell Cycle and Cell Division
+						</a>
+					
+					
+					
+			</li>
+			
+	
+    
+
+   
+	
+		
+			</ul>
+			<div class="clear" style="height:0px;line-height: 0px !important;font-size: 0px;"></div>
+		
+		
+				
+			
+				
+					
+						<span class="redArrow padleft8px clear w130">
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/scientific-communication-14121566" class="inlineLinks">
+						 Scientific Communication
+						</a>
+						</span>
+					
+					
+																							
+						
+		
+		
+		<ul class="vertIndentList" style="display:none">
+	
+	
+    
+
+   
+	
+		
+			</ul>
+			<div class="clear" style="height:0px;line-height: 0px !important;font-size: 0px;"></div>
+		
+		
+				
+			
+				
+					
+						<span class="redArrow padleft8px clear w130">
+						<a href="/web/20190719224056/http://www.nature.com/scitable/topic/career-planning-14121550" class="inlineLinks">
+						 Career Planning
+						</a>
+						</span>
+					
+					
+																							
+						
+		
+		
+		<ul class="vertIndentList" style="display:none">
+	
+	
+    
+
+
+	</div>	
+	
+</div>
+<br class="clear hide"/>
+
+
+
+
+
+	<div class="leftRailContent" id="leftDashboardPlaceID" style="display:none">
+		<div class="lrContentHead">
+			
+				
+				
+					<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/updateLR.gif" alt="Updates">
+				
+			
+		</div>
+		<div>
+			<div class="horzAlignCenter padleft10px" id="leftDashboardID">
+				<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/ajaxLoader.gif" class="padleft10px">
+				<span class="padleft10px bold customContentRestHdr">Loading ...</span>
+				<br/><br/>
+			</div>
+		</div>
+	</div>
+
+<div class="leftRailContent">
+	
+		<div class="lrContentHead communityHead"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/connect.gif" alt="Connect"/></div>
+		
+			<div class="">
+			   <img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/connectLeftRailImg.gif" alt="Connect" usemap="#leftRailConnect"/>
+			   
+			   <map id="Connect" name="leftRailConnect">
+			       <area shape="rect" coords="66,66,98,86" id="SendCommonMessage" name="SendCommonMessage" href="#" onclick="signInToSendCommonMessage(event);" title="Send a message" alt="Send a message"/>
+			   </map>
+			</div>
+		
+		
+
+
+	
+		<!-- <ul id="tabSelectionPG" class="people_group_tabs nolistType nomargin">  
+		<li class="tab-people-group" id="people-tab">People</li>  
+		<li class="tab-people-group tab-nonselected" id="groups-tab">Groups</li>
+		</ul> 
+		<div class="clear hide"></div>
+		<br/>
+		<div id="people-group-content" class="people_group_content">  
+		
+<div id="people-tab-content" class="view-people-group-content">
+</div> 
+
+	
+		
+<div id="groups-tab-content" class="view-nonselected view-people-group-content">  
+	
+
+<ul class="lrPeopleList">
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/genetics-editorial-board-57666"><img src='/scitable/natedimages/DG5_S.gif' alt='Genetics Editorial Board'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/genetics-editorial-board-57666" class="groupNameHolder">	
+						Genetics Editorial Board
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/evolgenius-57932"><img src='/scitable/natedimages/DG3_S.gif' alt='EvolGenius'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/evolgenius-57932" class="groupNameHolder">	
+						EvolGenius
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/epigenetics-93491"><img src='/scitable/natedimages/DG4_S.gif' alt='Epigenetics'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/epigenetics-93491" class="groupNameHolder">	
+						Epigenetics
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/brainstormin-lt-br-gt-g-re-scita-107192"><img src='/scitable/natedimages/DG6_S.gif' alt='Brainstormin<br/>g RE:  Scita ...'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/brainstormin-lt-br-gt-g-re-scita-107192" class="groupNameHolder">	
+						Brainstormin<br/>g RE:  Scita ...
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/genetics-concept-invento-108885"><img src='/scitable/natedimages/DG5_S.gif' alt='Genetics Concept Invento ...'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/genetics-concept-invento-108885" class="groupNameHolder">	
+						Genetics Concept Invento ...
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/nsu-genetics-175589"><img src='/scitable/natedimages/DG6_S.gif' alt='NSU Genetics'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/nsu-genetics-175589" class="groupNameHolder">	
+						NSU Genetics
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+				
+					<li class="offline">
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/genetic-century-course-250635"><img src='/scitable/natedimages/DG3_S.gif' alt='Genetic Century course'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/genetic-century-course-250635" class="groupNameHolder">	
+						Genetic Century course
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+	
+		
+			
+		
+		
+	
+	
+		
+		
+			
+				
+					<li class="offline borderless">
+				
+				
+			
+		
+	
+	
+		
+			<div class="personDetails">
+				<div class="personImg"><a href="/scitable/groups/antisense-technology-444619"><img src='/scitable/natedimages/DG3_S.gif' alt='Antisense technology'/></a></div>
+				<div class="personName">
+					<a href="/scitable/groups/antisense-technology-444619" class="groupNameHolder">	
+						Antisense technology
+					</a>
+				</div>
+			</div>
+			
+		
+		
+	
+	</li>
+
+</ul>
+
+	<div class="clearfix pad5px padbot3px">
+		<a class="redArrow padleft8px fright inlineLinksDisabled normalFontWeight" href="/scitable/groups">View All</a>
+	</div>	
+	
+</div>  
+	
+		</div>	-->	
+	
+	
+	
+
+
+		<div class="clear hide"></div>
+	
+</div>
+<div class="leftRailContent">
+	
+
+<div id="tabSelectionDB" class="discuss_blog_tabs">
+
+		<div class="tab-discuss-blog" id="blogs-tab">  
+			<img alt="Blogs" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/blogs.gif">
+		</div>
+	
+	
+</div>
+<div class="clear hide"></div>
+<br/>
+<div id="discuss-blog-content">
+
+
+<div id="blogs-tab-content" class="view-nonselected  view-discuss-blog-content">  
+	
+	<!--<ul class="simpleList">
+		<li><a href="#url">DNA, RNA, Protien</a></li>
+		<li><a href="#url">Ethical, Legal and Social...</a></li>
+		<li><a href="#url">More Child Links</a></li>
+		<li><a href="#url">Another Child Link</a></li>
+	</ul>--> 
+	<!-- <span class="inlineLinks"><a href="#url">View All</a></span> -->
+	
+
+
+	
+		
+		
+			
+			<ul class="nolistType nomargin padleft10px">
+				
+				
+				
+				
+					
+						
+							
+								<div id="leftBlogPage_1">
+							
+							
+						
+						
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/student-voices"><img style="border:1px solid #ccc;" alt="Student Voices" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/5/blog_img_25.gif" name="blogSpaceImg" id="blogSpaceImg_Student Voices"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/student-voices" class="inlineLinks nomargin">
+								Student Voices
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/creature-cast"><img style="border:1px solid #ccc;" alt="Creature Cast" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/7/blog_img_25.gif" name="blogSpaceImg" id="blogSpaceImg_Creature Cast"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/creature-cast" class="inlineLinks nomargin">
+								Creature Cast
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/natureedcast"><img style="border:1px solid #ccc;" alt="NatureEdCast" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/11/blog_img_25.gif" name="blogSpaceImg" id="blogSpaceImg_NatureEdCast"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/natureedcast" class="inlineLinks nomargin">
+								NatureEdCast
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/simply-science"><img style="border:1px solid #ccc;" alt="Simply Science" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/13/blog_img_25.gif" name="blogSpaceImg" id="blogSpaceImg_Simply Science"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/simply-science" class="inlineLinks nomargin">
+								Simply Science
+							</a>
+						</div>
+					</li>
+					
+						</div>
+							
+					
+					
+				
+					
+						
+							
+							
+								<div id="leftBlogPage_2" style="display:none">
+							
+						
+						
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/green-screen"><img style="border:1px solid #ccc;" alt="Green Screen" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/180713/1296052409410_blog_avatars_GreenScreen_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_Green Screen"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/green-screen" class="inlineLinks nomargin">
+								Green Screen
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/conferencecast"><img style="border:1px solid #ccc;" alt="ConferenceCast" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/180723/1296053823352_blog_avatars_ConfCast_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_ConferenceCast"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/conferencecast" class="inlineLinks nomargin">
+								ConferenceCast
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/green-science"><img style="border:1px solid #ccc;" alt="Green Science" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/180726/1296054007346_blog_avatars_GreenScience_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_Green Science"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/green-science" class="inlineLinks nomargin">
+								Green Science
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/bio2.0"><img style="border:1px solid #ccc;" alt="Bio 2.0" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/182055/1297953007565_blog_avatars_bio2dot0_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_Bio 2.0"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/bio2.0" class="inlineLinks nomargin">
+								Bio 2.0
+							</a>
+						</div>
+					</li>
+					
+						</div>
+							
+					
+					
+				
+					
+						
+							
+							
+								<div id="leftBlogPage_3" style="display:none">
+							
+						
+						
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/viruses101"><img style="border:1px solid #ccc;" alt="Viruses101" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/207967/1373990841158_blog_avatars_viruses101_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_Viruses101"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/viruses101" class="inlineLinks nomargin">
+								Viruses101
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/scholarcast"><img style="border:1px solid #ccc;" alt="ScholarCast" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/198094/1345477887207_blog_avatars_ScholarCast_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_ScholarCast"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/scholarcast" class="inlineLinks nomargin">
+								ScholarCast
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/the-success-code"><img style="border:1px solid #ccc;" alt="The Success Code" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/205420/1366395249910_blog_avatars_success-code_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_The Success Code"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/the-success-code" class="inlineLinks nomargin">
+								The Success Code
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/why-science-matters"><img style="border:1px solid #ccc;" alt="Why Science Matters" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/205423/1366395431325_blog_avatars_why-science-matters_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_Why Science Matters"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/why-science-matters" class="inlineLinks nomargin">
+								Why Science Matters
+							</a>
+						</div>
+					</li>
+					
+						</div>
+							
+					
+					
+				
+					
+						
+							
+							
+								<div id="leftBlogPage_4" style="display:none">
+							
+						
+						
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/earthbound"><img style="border:1px solid #ccc;" alt="Earthbound" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/205927/1368038856239_blog_avatars_earthbound_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Earthbound"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/earthbound" class="inlineLinks nomargin">
+								Earthbound
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/thebeyond"><img style="border:1px solid #ccc;" alt="The Beyond" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/208335/1375105124966_blog_avatars_beyond_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_The Beyond"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/thebeyond" class="inlineLinks nomargin">
+								The Beyond
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/plantchemcast"><img style="border:1px solid #ccc;" alt="Plant ChemCast" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/207973/1373991393691_blog_avatars_plant-chemcast_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_Plant ChemCast"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/plantchemcast" class="inlineLinks nomargin">
+								Plant ChemCast
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/pop"><img style="border:1px solid #ccc;" alt="Pop" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/205985/1368195378072_blog_avatars_pop_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Pop"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/pop" class="inlineLinks nomargin">
+								Pop
+							</a>
+						</div>
+					</li>
+					
+						</div>
+							
+					
+					
+				
+					
+						
+							
+							
+								<div id="leftBlogPage_5" style="display:none">
+							
+						
+						
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/scibytes"><img style="border:1px solid #ccc;" alt="SciBytes" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/207970/1373991149979_blog_avatars-SciBytes_25x25.gif" name="blogSpaceImg" id="blogSpaceImg_SciBytes"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/scibytes" class="inlineLinks nomargin">
+								SciBytes
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/postcards-from-the-universe"><img style="border:1px solid #ccc;" alt="Postcards from the Universe" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/206165/1368625733266_blog_avatars_postcards-from-the-universe_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Postcards from the Universe"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/postcards-from-the-universe" class="inlineLinks nomargin">
+								Postcards from the Universe
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/brain-metrics"><img style="border:1px solid #ccc;" alt="Brain Metrics" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/206168/1368625922461_blog_avatars_brain-metrics_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Brain Metrics"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/brain-metrics" class="inlineLinks nomargin">
+								Brain Metrics
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/mind-read"><img style="border:1px solid #ccc;" alt="Mind Read" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/206171/1368626016390_blog_avatars_mind-read_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Mind Read"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/mind-read" class="inlineLinks nomargin">
+								Mind Read
+							</a>
+						</div>
+					</li>
+					
+						</div>
+							
+					
+					
+				
+					
+						
+							
+							
+								<div id="leftBlogPage_6" style="display:none">
+							
+						
+						
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/eyes-on-environment"><img style="border:1px solid #ccc;" alt="Eyes on Environment" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/206174/1368626165869_blog_avatars_eyes-on-environment_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Eyes on Environment"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/eyes-on-environment" class="inlineLinks nomargin">
+								Eyes on Environment
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/accumulating-glitches"><img style="border:1px solid #ccc;" alt="Accumulating Glitches" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/206177/1368626274311_blog_avatars_accumilating-glitches_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Accumulating Glitches"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/accumulating-glitches" class="inlineLinks nomargin">
+								Accumulating Glitches
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/saltwater-science"><img style="border:1px solid #ccc;" alt="Saltwater Science" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/206180/1368626356565_blog_avatars_Saltwater-Science_25x25.jpg" name="blogSpaceImg" id="blogSpaceImg_Saltwater Science"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/saltwater-science" class="inlineLinks nomargin">
+								Saltwater Science
+							</a>
+						</div>
+					</li>
+							
+					
+					
+				
+					
+					<li class="clearfix marginbot5px">
+						<div class="personImg fleft"><a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/microbe-matters"><img style="border:1px solid #ccc;" alt="Microbe Matters" src="https://web.archive.org/web/20190719224056im_/http://www.nature.com/scitable/profileimage/blog-images/216637/1394045086027_blog_avatars_25x25-microbe-matters.png" name="blogSpaceImg" id="blogSpaceImg_Microbe Matters"/></a></div>
+						<div class="personName fleft marginleft10px w120">
+							<a href="https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/blog/microbe-matters" class="inlineLinks nomargin">
+								Microbe Matters
+							</a>
+						</div>
+					</li>
+					
+						</div>
+							
+					
+					
+						
+					
+				
+			</ul>
+		
+	
+<br/>
+
+
+		<span class="inlineLinks fleft w158">
+			
+			<input type="hidden" id="currentPageNumberBlog" value="1"/>
+			<input type="hidden" id="totalPageNumberBlog" value="6"/>
+			
+				<span id="prevBlogAct" class="fleft padleft5px" style="display:none">
+					<a id="firstLatestBlogs1" class="" href="javascript:showFirstLatestBlogs();"> &laquo;</a>
+					<a id="prevBlogs1" class="" href="javascript:showPrevLatestBlogs()">Prev</a>
+				</span>
+				<span id="prevBlogInAct" class="fleft padleft5px">
+					<span id="firstLatestBlogs2" class="inlineLinksDisabled"> &laquo;</span>
+					<span id="prevBlogs2" class="inlineLinksDisabled">Prev</span>
+				</span>
+			
+
+
+	
+
+
+
+		
+
+
+			
+					<span id="nextBlogAct" class="fright">
+						<a id="nextBlogs1" class="" href="javascript:showNextLatestBlogs()">Next</a>
+						<a id="lastLatestBlogs1" class="" href="javascript:showLastLatestBlogs();">&raquo;</a>
+					</span>
+					<span id="nextBlogInAct" class="fright" style="display:none">
+						<span id="nextBlogs2" class="inlineLinksDisabled">Next</span>
+						<span id="lastLatestBlogs2" class="inlineLinksDisabled">&raquo;</span>
+					</span>
+			
+		</span>
+		<div class="clear"></div>
+
+
+	
+<input type="hidden" id="blogEntriesLoaded"/>
+
+</div>
+
+	
+</div>  
+<div class="clear hide"></div>	
+</div>
+
+<div id="div-gpt-ad-1403213733612-2">
+	<script type="text/javascript">
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1403213733612-2'); });
+	</script>
+</div>
+
+<br class="clear hide"/>
+
+<div class="calContainer hide" id="eventImage" style="display:none">
+	<div class="marginbot10px">
+		<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/events.gif" alt="Events" title="Events"/>
+	</div>
+	<div id="calender" class="padleft2px padright2px"></div>
+</div>
+<br class="clear hide"/>
+
+
+
+	
+</div>	
+				<div class="clear"></div>
+				<div class="footer" id="footer">
+					<div class="footerContent">
+						
+<div class="repeatTopNav clearfix">
+	
+
+	<div id="fbAutoSharePopup" style="left:0px;width:208px;display:none;" class="articlePageTOCForAuthoringBottom articlePageTOCForAuthoringIE7Bottom">
+		<div class="borderGrey pad5px clearfix" style="background:#A6B19D !important">
+			<span class="fleft bold px15 whitefont">LearnCast</span>
+		</div>
+		<div class="bgGreyIMP pad5px">
+			<div id="toBeShared_FB">
+	            You have authorized LearnCasting of your reading list in Scitable. Do you want to LearnCast this session?<br/>
+	            <div class="clearfix pad5px padleft40px">
+	            	<div class="bordergrey fleft w20 textaligncenter bgcolorcyan"><a href="javascript:shareWithFBValidator()" class="inlineLinks padright2px">Yes</a></div>
+	            	<div class="bordergrey fleft w20 textaligncenter bgcolorcyan"><a href="javascript:minimizeAutoShareFBWin()" class="inlineLinks padleft2px">No</a></div>
+	            </div>
+	        </div>
+	        <div id="shrd_FB">
+	            This article has been posted to your Facebook page via Scitable LearnCast.
+	            <div class="clearfix pad5px">
+	            	<div class="bordergrey fleft w40 textaligncenter bgcolorcyan fright"><a href="javascript:minimizeAutoShareFBWin()" class="inlineLinks padleft2px">Close</a></div>
+	            </div>
+	        </div>	
+	        <div class="clear borderbottom nopad nomargin h5 marginbot2px">&nbsp;</div>
+	        <div class="fright"><a class="inlineLinks" href="/web/20190719224056/http://www.nature.com/scitable/my-profile/social-settings">Change LearnCast Settings</a></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+<p class="copyright" id="copyRightFooter">&#169; 2014 Nature Education</p>
+
+	
+	
+	
+		<ul class="fright nolistType marginright10px">
+	
+	
+	
+
+	<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/about">About</a><span class="padleft4px colorBlack">|</span></li>
+	<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/contact">Contact</a><span class="padleft4px colorBlack">|</span></li>
+	<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/pressnews">Press Room</a><span class="padleft4px colorBlack">|</span></li>
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/sponsors">Sponsors</a><span class="padleft4px colorBlack">|</span></li>
+	
+	<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/viewTermsOfUse">Terms of Use</a><span class="padleft4px colorBlack">|</span></li>
+	<!-- Anchor changed for CR-489 -->
+	<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/privacyPolicy">Privacy Notice</a><span class="padleft4px colorBlack">|</span></li>
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/glossary">Glossary</a><span class="padleft4px colorBlack">|</span></li>
+	
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/library">Catalog</a><span class="padleft4px colorBlack">|</span></li>
+			
+	<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable">Home</a><span class="padleft4px colorBlack">|</span></li>
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/topics">Library</a><span class="padleft4px colorBlack">|</span></li>
+	
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/people">People</a><span class="padleft4px colorBlack">|</span></li>
+	
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/groups">Groups</a><span class="padleft4px colorBlack">|</span></li>
+	
+	
+		<li class="dispInline"><a href="/web/20190719224056/http://www.nature.com/scitable/blogs">Blogs</a></li>
+	
+</ul>
+</div>
+	
+
+	
+	
+		 <div id="lightPPLSearchMdata" class="lightBoxPopup searchSiteContentLB" style="left:12%;top:15%;z-index:11006;"></div>
+	
+
+
+<div id="fadePPLSearchMdata" class="transparent_lightbox_overlay overlayImageSearch"></div>
+
+
+		
+			
+			
+				 <div id="sendCommonmessageLight" class="lightBoxPopup lightbox_popup_authorContKeywords LBWidthAdjust pad5px" style="overflow:hidden;">
+			
+		
+			
+		</div>
+		<div id="sendCommonmessageFade" class="transparent_lightbox_overlay"></div>  
+		<div class="clear"></div>
+	
+
+
+<input type="hidden" name="chatEnabled" id="chatEnabled" value="N"/>		
+					</div>
+				</div>
+				<div class="clear"></div>
+				
+<div class="cleartboth">
+	<div id="chatbox" class="lightBoxPopup lightbox_popup_chat jqDnR" style="display:none;overflow:hidden;" onmousemove="stopBlink()">
+		<div id="dragId" style="background:#e0e0e0" class="clearfix padright5px padtop2px">
+			<a name="chatTop"><input type="hidden"/></a><span class="fleft upper bold padleft5px">Scitable Chat</span>
+			<ul class="noListType nomargin fright">
+				<li onclick="javascript:WindowSizeChage('min')" class="dispInline marginright2px"><img alt="Minimize" title="Minimize" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/chat_min.gif" height="16"/></li>
+				<li onclick="WindowSizeChage('res')" class="dispInline marginright2px"><img alt="Restore" title="Restore" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/chat_restore.gif" height="16"/></li>
+				<li onclick="javascript:closeChatbox()" class="dispInline marginright2px"><img alt="close" title="close" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/close_31.gif" height="16"/></li>
+			</ul>
+		</div>
+		<div class="chatbody">
+			<div class="cleartboth"></div>
+			<div class="navcontainer_search h50">
+				<ul id="navtab_search_chat" class="chatTabs"></ul>
+			</div>
+	  		<div class="cleartboth"></div>
+			<div id="chatWin">
+				<input id="msg-to-input-id" type="hidden"/>
+				<dl id="msg-chat-area" class="chatbox" style="overflow:auto;height:150px;"><dt></dt></dl>
+				<br class="cleartboth"/>
+				<hr/>
+				<div class="msgBox clearfix">
+				  <div class="fleft w85p"><textarea id="msg-type-area" class="typeAreaInput h20 marginbot0px" onkeypress="return sendChatText(event);" rows="1" cols=""></textarea></div>
+				  <a class="marginleft2px fright padtop16px" href="#" onclick="return Messaging.sendChat(13);"><img alt="Send" title="Send" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/send.jpg"/></a>
+				</div>
+			</div>
+			<div class="jqHandle jqResize" style="position:absolute;bottom:0px;"><img alt="Resize" title="Resize" src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/chat_resize.gif"/></div>
+		</div>
+	</div>
+</div>
+				<div id="headerOuter" class="hide">
+					
+
+
+
+
+	
+	
+		
+			
+			
+				
+					
+					
+						<div class="headerBG" style="position:relative;">
+							<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/scitable_hdrNew.gif" usemap="#natedHeader" alt="Scitable by Nature Education"/>		
+					
+				
+			
+		
+		<map id="natHead" name="natedHeader">
+				<area shape="rect" coords="16,10,175,82" href="/web/20190719224056/http://www.nature.com/scitable" title="Nature Education Home" alt="Nature Education Home"/>
+				<area shape="rect" coords="228,32,472,46" href="/web/20190719224056/http://www.nature.com/scitable/whatisscitable" title="Learn More" alt="Learn More"/>
+				<area shape="rect" coords="230,52,270,62" href="/web/20190719224056/http://www.nature.com/scitable/whatisscitable" title="About" alt="About"/>
+				<area shape="rect" coords="273,50,320,62" href="/web/20190719224056/http://www.nature.com/scitable/faculty-page" title="Faculty Page" alt="Faculty Page"/>
+				<area shape="rect" coords="328,50,380,62" href="/web/20190719224056/http://www.nature.com/scitable/study-center" title="Students Page" alt="Students Page"/>
+				
+				
+				<area shape="rect" coords="879,66,988,76" href="/web/20190719224056/http://www.nature.com/scitable/feedback" title="Feedback" alt="Feedback"/>
+		</map>
+	
+
+	
+
+	
+	
+		<div id="topicRoomTopPanelAD" class="articleTopAdPlaceHolder" style="display:none;*width:180px;">
+		</div>		
+	
+
+
+	<span><a href="/web/20190719224056/http://www.nature.com/scitable/whatisscitable" class="aboutPageAnchor" title="About"><br/></a></span>
+	<span><a href="/web/20190719224056/http://www.nature.com/scitable/faculty-page" class="classroomPageAnchor" title="Faculty Page"><br/></a></span>
+	<span><a href="/web/20190719224056/http://www.nature.com/scitable/study-center" class="qaboardPageAnchor" title="Students Page"><br/></a></span>
+
+
+
+</div>	
+					
+
+
+
+	
+	
+		
+		
+			
+			
+				
+				
+				
+			
+		
+	
+
+
+
+	
+		
+		
+		
+	
+	
+
+
+	
+	
+		
+		
+		
+		
+	
+
+
+	
+	
+		
+		
+		
+	
+
+
+	
+	
+		
+		
+		
+	
+
+
+	
+	
+		
+		
+		
+	
+
+
+
+	
+	
+		
+	
+
+
+
+	
+	
+		
+		
+		
+	
+
+	
+		
+		
+
+	
+	<div class="navBar" id="navBar">
+	
+
+<ul id="navtab_header" class="">
+	<li><a id="home" href="/web/20190719224056/http://www.nature.com/scitable" onmouseover="changeImage(this.id);" onmouseout="restoreImage(this.id);"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/home_nav.gif" alt="Home"/> </a></li>
+	
+		<li><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pipe.jpg" alt=""/></li>
+		<li><a class="padtop10px" id="libraryTopics" href="/web/20190719224056/http://www.nature.com/scitable/topics" onmouseover="" onmouseout=""><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/libraryTopics_nav_hover.gif" alt="Library"/></a></li>
+		<li><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pipe.jpg" alt=""/></li>
+		<li><a id="people" href="/web/20190719224056/http://www.nature.com/scitable/people" onmouseover="changeImage(this.id);" onmouseout="restoreImage(this.id);"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/people_nav.gif" alt="People"/></a></li>
+		<li><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pipe.jpg" alt=""/></li>
+		<li><a id="group" href="/web/20190719224056/http://www.nature.com/scitable/groups" onmouseover="changeImage(this.id);" onmouseout="restoreImage(this.id);"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/group_nav.gif" alt="Groups"/></a></li>
+		<li><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pipe.jpg" alt=""/></li>
+		<li><a id="blogs" href="/web/20190719224056/http://www.nature.com/scitable/blogs" onmouseover="changeImage(this.id);" onmouseout="restoreImage(this.id);"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/blogs_nav.gif" alt="Blogs"/></a></li>
+		<li><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pipe.jpg" alt=""/></li>
+		<li><a id="natjobs" href="https://web.archive.org/web/20190719224056/http://www.nature.com/naturejobs/science/?WT.mc_id=WEB_NatureJobs_1504_SCITABLE" target="_blank" onmouseover="changeImage(this.id);" onmouseout="restoreImage(this.id);"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/natjobs_nav.gif" alt="NATUREJOBS"/></a></li>
+	<li class="clear hide"></li>
+</ul>
+	<input type="hidden" id="jsCompileTimeSpan" size="4"/>
+	<ul class="rightNav " id="right_Nav_header">
+	
+	<li class="nomargin padleft2px"><a class="searchButton" href="javascript:checkField()"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/nav_search.gif" alt="Search Scitable"/></a></li>
+	<li class="nomargin margintop4px">
+	<input class="padleft5px padtop3px bgSearchGrey w155" id="criteria" name="criteriaString" type="text" size="17" onkeypress="pressGenericSearchButton(event);"/></li>
+	
+	
+		
+		
+			
+				<li><a href="javascript:DisplayRegisterPage();">Register</a></li>	
+			
+			
+				
+					
+						<li class="rightNavPipe">|</li>
+					
+					
+				
+				<li><a href="javascript:DisplaySignInPage();">Sign In</a></li>
+				
+		
+	
+		</ul>
+		<div class="clear"></div>
+	</div>
+	
+<div class="clear"></div>
+
+	
+	
+		 <div id="signInSplashLBLight" class="lightBoxPopup lightbox_popup_splash" style="background:#e6e1d5;">
+	
+
+</div>
+<div id="signInSplashLBFade" class="transparent_lightbox_overlay"></div>
+
+
+<script type="text/javascript">
+	var linkListArray = {};
+	var globalIndex = -1;
+	var globalHref = -1;
+</script>
+
+	
+
+
+
+	 <div id="topicAssoDissoLBPopupNew" class="lightBoxPopup lightbox_popup_learnMore nopad" style="overflow-x:auto;overflow-y:hidden; width:720px !important; left:140px !important;">
+
+	
+	</div>
+<div id="topicAssoDissoLBOverlayNew" class="transparent_lightbox_overlay"></div>
+		
+					
+
+
+	
+	
+	
+	
+
+<hr class="normalStrip"/>
+<div class="clear hide"></div>
+
+		
+					
+
+	
+	
+		<div class="topicHead authorContent  ">
+			
+				
+				
+				
+					
+						
+							<img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/hdr_genetics.gif?1098" alt="Gene Inheritance and Transmission"/>
+						
+						
+					
+				
+			
+		</div>
+		<div class="clear hide"></div>
+		<div class="clearfix">
+			
+
+
+
+	
+	
+<div id="visualBrowseLBLight" class="shareBox w180">
+	
+
+	<div class="edge"><img src="/web/20190719224056im_/http://www.nature.com/scitable/natedimages/pointedge.gif" class="marginleft145px"/></div>
+	<div class="bordergrey">
+		<div class="clearfix bgTan marginbot10px">
+			<h2 class="fleft upper">Visual Browse</h2>
+			<a href="#" class="inlineLinks fright" onclick="closeVisualBrowseLB();return false;">Close</a>
+		</div>
+	</div>
+</div>
+<div id="visualBrowseLBFade" class="share_overlay"></div>
+<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	
+	
+				</div>	
+				<div id="siteNewHeaderOuter" class="hide">
+						
+				</div>	
+					
+				
+
+
+
+
+<input type="hidden" id="criteriaStringValue1" value=""/>
+<script type="text/javascript">
+	//$(document).ready(function(){
+		try {
+			/*$("#header").html($("#headerOuter").html()) ;
+			$("#headerOuter").html('');*/
+
+			var str = document.getElementById("headerOuter").innerHTML;
+			document.getElementById("headerOuter").innerHTML = "";
+			document.getElementById("header").innerHTML = str;
+			if(document.getElementById("site-new-header-section")){
+				document.getElementById("site-new-header-section").innerHTML = document.getElementById("siteNewHeaderOuter").innerHTML;		 
+				document.getElementById("site-new-header-section").style.display = 'block';	
+			}			
+//			document.getElementById().
+		
+		}
+		catch(e) {
+		}
+	//});
+  		
+	
+		
+		
+			placeBool = false;
+	
+		
+	
+	
+	
+
+	var signINReqMsgNonLoggedIN = "Scitable requires you to be signed in to use this feature. If you are not a member of Scitable, registration is free and easy. As a registered user you can have access to all content in Scitable, interact directly with community members, create a personal locker, start and join groups and discussions, and more";
+	var signINReqMsgNonLoggedINToolTip = "You have to be logged in to use this feature.";
+	var collapseLabelPage = "View Fewer";
+	
+</script>
+
+
+<script type="text/javascript">
+var isTopicLandingPageFllg = '';
+var topicID = '23';
+var invToJoinGrpGrpID = "";
+var currentPagerItem = 1;
+</script>
+	
+					
+				
+
+
+
+<script>
+var browserIs = '';
+var topicID='23';
+var contentPK = '593';
+var clickedNodeType = '';
+var clickedContentPK = '';	 
+var topicPK = '';
+var clickedTopicPK = '';
+var defaultDisplay = '';
+var fontSizeCookie = 'null';
+
+var isUserLiggedIn = ""
+var currDate = '';
+var currDay = '';  
+var currYear =  '';
+var currMonth = '';
+var map = '';
+var mon = '';
+var viewMode = '';
+var dateNumeric = '';
+
+var today = new Date(currDate);
+var selected_day = currDay;
+var currWorkingDay;
+var yearviewcontext = 0;
+var printviewcontext = 0;
+var weekHref = "";
+var monthHref = "";
+var str_buffer = "";	
+var n_weekstart=0;
+var calMode = 'topic';
+var previousMonthHref =  baseURL+'calendar?action=viewCalendar&view='+viewMode+  '&calMode=' +calMode;
+var nextMonthHref = baseURL+'calendar?action=viewCalendar&view='+viewMode+  '&calMode=' +calMode;
+var dayHref = baseURL+'calendar?action=viewCalendar&view='+viewMode+  '&calMode=' +calMode;
+var isSameUser= "";
+var zimbraIncludeFlag = "";
+var isAuthTopicAdmin = "";
+var isLMSReq = "";
+
+
+
+
+var contentId = '593';
+	contentID = '593';
+var isTopicRoom = true;
+var cleanUrlContextPath = "/scitable";
+var cleanBaseURL = '/scitable';
+
+forumId='';
+var discussion = '';
+topicID='23';
+var urlLoc = 'gene-inheritance-and-transmission-23';
+var numMemberTopic = '184';
+var artSubTypeRed = 'RED';
+var numGroupTopics = '';
+weblogId='23';
+var articleCtxPath = '/scitable/nated';
+var ratingLabel = 
+		"";
+var rateLabel = 
+		"";
+var elementPerPage = "4 ";
+var topicPageUrlPresent = "/scitable/topic/gene-inheritance-and-transmission-23";
+var urlParam  = "";
+var tykAsmtPk = "";
+var tykAsmtVersion="";
+	var exceededAllowedRegisteredMsg = null;
+	
+	
+		exceededAllowedRegisteredMsg = "The article you have selected is available only for signed in users.  If you are not a member of Scitable, registration is free and easy.  As a registered user you can have access to all content in Scitable, interact directly with community members, create a personal locker, start and join groups and discussions, and more.";
+	
+	
+	
+
+	 function detach(clickedContentPKInner){
+	  	//postCookieData('23'))
+	    //var url=  parent.baseURL + 'browse?action=displayVisualBrowse&topicPK=' + topicPK + '&detach=true&contentPK=' + contentPKInner + '&type=' + clickedNodeTypeInner + '&urlString=' + escape(urlString) + '&rootPk=' + rootPk + '&rootType=' + rootType + '&groupInfo=true&groupUrlString='+escape(groupUrlString);
+	    var trBaseURL = '';
+	    if(baseURL != ''){
+	    	trBaseURL = baseURL;
+	    } else {
+	    	trBaseURL = parent.baseURL;
+	    }
+	    var url=  trBaseURL + 'browse?action=displayVisualBrowse&topicPK=' + 23 + '&detach=true&contentPK=' + clickedContentPKInner + '&type=article';
+	    //alert(url);
+	    detatchVBScreen(url);
+	 }
+
+	function detatchVBScreen(url) {
+		var detachedWindow;
+		//alert("Here :" +url);
+		if(browserIs!= "IE"){
+			var browser = navigator.userAgent;
+			if(browser.indexOf("Safari")>-1){
+				window.open(url, "VisualBrowse", "height=630, width=780, address=no, status=no, scrollbars=no, resizable=1");
+			}
+			else{
+				window.open(url, "VisualBrowse", "height=610, width=770, resizable=1, address=no, status=no");
+			}
+		}
+		else{
+			window.open(url, "VisualBrowse", "height=610, width=760, resizable=0, address=no, status=no");
+		}
+	}
+
+	function moveHeaderBlock() {
+		try {
+			var str = document.getElementById('brandingBarTRMainBottom').innerHTML;
+			if (str != null && str != '') {
+				document.getElementById('brandingBarTRMainTop').innerHTML = str;
+				document.getElementById('brandingBarTRMainBottom').innerHTML = '';
+			}
+		} catch (e) {}
+		
+		try {
+			document.getElementById('dummyTRFns').innerHTML = '';
+		} catch (e) {}		
+	}
+
+	moveHeaderBlock();
+function markReadProgressBar(coursePk,unitContentPK){
+	var url = baseURL + 'group?action=markBookContentAsRead&unitContentPK='+ unitContentPK;
+	AjaxUtil.request(url, {
+		onComplete: function(xmlHttpReq) {
+				location.href = cleanBaseURL + "/ebooks/" + coursePk + "/" + unitContentPK;
+		}
+	});
+}
+</script>
+
+	
+				
+
+	 	
+	
+	
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20190719224056/https://ssl." : "https://web.archive.org/web/20190719224056/http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-12063924-2");
+			pageTracker._trackPageview();
+		} catch(err) {}</script>
+	
+	
+	
+	
+	
+				
+			</div>
+	</body>
+</html><!--
+     FILE ARCHIVED ON 22:40:56 Jul 19, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:51:38 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.711
+  exclusion.robots: 0.086
+  exclusion.robots.policy: 0.073
+  esindex: 0.01
+  cdx.remote: 318.201
+  LoadShardBlock: 234.546 (3)
+  PetaboxLoader3.datanode: 142.454 (4)
+  PetaboxLoader3.resolve: 118.79 (2)
+  load_resource: 114.783
+--> title 75 Gregor Mendel and the Principles of Inheritance | Learn Science at Scitable contentType 9 text/html url 139 https://web.archive.org:443/web/20190719224056/http://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593 responseCode 3 200 

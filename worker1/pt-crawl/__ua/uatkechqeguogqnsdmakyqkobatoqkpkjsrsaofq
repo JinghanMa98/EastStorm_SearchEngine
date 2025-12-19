@@ -1,0 +1,888 @@
+uatkechqeguogqnsdmakyqkobatoqkpkjsrsaofq length 5 47367 page 47367 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sapienza NLP - home</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/static/website/uikit.sapienza.theme.min.css"/>
+        <link rel="shortcut icon" type="image/png" href="/static/website/favicon.png"/>
+    </head>
+    <body>
+        <div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
+    <nav class="uk-navbar-container" uk-navbar>
+
+        <div class="uk-navbar-left">
+
+            <a class="uk-navbar-item uk-logo" href="/">Sapienza NLP</a>
+
+        </div>
+                
+        <div class="uk-navbar-right">
+
+            <ul class="uk-navbar-nav uk-visible@l">
+                <li class=" uk-active "><a href="/"><span class="uk-margin-small-right" uk-icon="icon: thumbnails"></span>Home</a></li>
+                <li class=""><a href="/people"><span class="uk-margin-small-right" uk-icon="icon: users"></span>People</a></li>
+                
+                <li class=""><a href="/publications"><span class="uk-margin-small-right" uk-icon="icon: file-text"></span>Publications</a></li>
+            </ul>
+
+            <a class="uk-navbar-toggle uk-hidden@l" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></a>
+        </div>
+
+    </nav>
+</div>
+
+<div id="offcanvas-nav" uk-offcanvas="mode: push; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+        <ul class="uk-nav uk-nav-default">
+            <li class="uk-nav-header">Menu</li>
+            <hr>
+            <li class=" uk-active "><a href="/"><span class="uk-margin-small-right" uk-icon="icon: thumbnails"></span>Home</a></li>
+            <li class=""><a href="/people"><span class="uk-margin-small-right" uk-icon="icon: users"></span>People</a></li>
+            
+            <li class=""><a href="/publications"><span class="uk-margin-small-right" uk-icon="icon: file-text"></span>Publications</a></li>
+        </ul>
+    </div>
+</div>
+
+        
+        <main uk-height-viewport="expand: true">
+            
+<div class="uk-section uk-section-large uk-section-primary">
+    <div class="uk-container">
+        <div class="uk-inline">
+
+            <img class="uk-position-cover" src="/static/website/bg-sapienza-wh.svg" style="margin-left: auto; margin-right: auto; left: -75%; height: 200%" alt="" uk-svg>
+            
+            <div class="uk-container">
+                <div class="uk-child-width-1-1">
+                    <div class="uk-margin-remove-left" uk-grid>
+                        <div class="uk-width-1-1 uk-width-1-2@s">
+                            <img class="uk-width-expand" src="/static/website/sapienza-nlp-logo-wh.svg" uk-svg>
+                        </div>
+                        <div class="uk-width-1-4@s uk-visible@s"> </div>
+                        <div class="uk-width-1-1 uk-width-1-4@s" uk-grid>
+                            <div class="uk-width-1-2 uk-width-1-1@s">
+                                <img src="/static/website/sapienza-logo-wh.png">
+                            </div>
+			    <!-- <img class="uk-width-1-2 uk-width-1-1@s" src="/static/website/sapienza-computer-science-wh.svg" uk-svg> -->
+                        </div>
+                    </div>
+
+                    <div class="uk-grid-divider uk-margin-remove-left uk-padding-small" uk-grid="first-column: uk-first-column uk-padding-remove-left">
+                        <div  class="uk-width-1-1 uk-width-1-3@m">
+                            <p>
+			    The <b style="color: white;">Sapienza Natural Language Processing Group (Sapienza NLP)</b>,
+			    led by prof. <a href="https://www.diag.uniroma1.it/navigli/" target="_blank" rel="noopener noreferrer">Roberto Navigli</a>,
+			    includes a large team of Ph.D. students and researchers which are part of the
+			    <a href="https://www.diag.uniroma1.it/en" target="_blank" rel="noopenere noreferre">Computer, Control and Management Engineering Department</a>
+			    and <a href="https://www.di.uniroma1.it/en" target=_blank" rel="noopener noreferrer">Computer Science Department</a>
+			    of Sapienza University of Rome.
+                            </p>
+                        </div>
+
+                        <div class="uk-width-1-1 uk-width-1-3@m">
+                            <p>
+                            Our group aims at devising and developing <b style="color: white;">innovative approaches</b> 
+                            to <b style="color: white;">multilingual Natural Language Understanding</b>. 
+                            We pursue a vision focused on <b style="color: white;">integrating explicit, symbolic knowledge with deep learning</b>.
+                            </p>
+                        </div>
+
+                        <div class="uk-width-1-1 uk-width-1-3@m">
+                            <p>
+                            The group's work is financed by <b style="color: white;">several sources of funding</b>, 
+                            including <b style="color: white;">ERC grants</b>, other EU and national projects, 
+                            and the <b style="color: white;"><a href="https://babelscape.com/" target="_blank" rel="noreferrer noopener">Babelscape</a></b> Sapienza spin-off.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="uk-container">
+    <div class="uk-section">
+        <div class="uk-card uk-card-default uk-card-hover uk-grid-collapse" uk-grid uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 250;">
+
+    <div class="uk-card-media-top uk-cover-container uk-width-1-1 uk-height-medium uk-hidden@m">
+        <img src="/media/images/2025/11/group_picture_emnlp2025.jpg" uk-cover>
+    </div>
+
+    <div class="uk-card-media-left uk-cover-container uk-width-1-3@m uk-visible@m">
+        <img src="/media/images/2025/11/group_picture_emnlp2025.jpg" uk-cover>
+    </div>
+    
+    <div class="uk-grid-collapse uk-width-1-1 uk-width-2-3@m" uk-grid>
+        <div class="uk-card-header uk-width-extend uk-padding">
+            <div class="uk-card-badge uk-label">Featured</div>
+            <div class="">
+                <h3 class="uk-card-title uk-margin-remove-bottom">Sapienza NLP @ EMNLP 2025</h3>
+                <p class="uk-text-meta uk-margin-remove-top uk-margin-remove-bottom">
+                    <time>Nov. 3, 2025</time>
+                </p>
+            </div>
+        </div>
+
+        <div class="uk-card-body">
+            <p>We're thrilled to announce the acceptance of 7 papers to ACL 2025, focusing on <b>Coreference Resolution</b>, 
+<b>Narrative Understanding</b>, 
+<b>Word Sense Disambiguation</b>, 
+<b>Entity Linking</b>, 
+<b>Multimodality</b>, 
+<b>Machine Translation</b>, 
+<b>LLM Evaluation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer uk-width-extend">
+            <a href="/posts/40" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+
+        <div class="uk-child-width-1-2@s uk-child-width-1-3@m" uk-grid="masonry: true" uk-scrollspy="target: > div > .uk-card; cls: uk-animation-fade; delay: 250;">
+            <div class="uk-visible@m">
+                <div class="uk-card uk-card-default uk-card-hover" style="max-height: 800px;" uk-overflow-auto>
+                    <a class="twitter-timeline" data-theme="light" href="https://twitter.com/SapienzaNLP?ref_src=twsrc%5Etfw">Tweets by SapienzaNLP</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2025/10/cagliari-2.png" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ CLiC-it 2025</h3>
+            <p>We're excited to present two papers at CLiC-it 2025! Find us in Cagliari talking about <b>continual pretraining</b> and <b>sustainable LLM evaluation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/39" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2025/07/vienna.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ ACL 2025</h3>
+            <p>We're excited to announce the acceptance of 4 papers to ACL 2025, focusing on <b>Machine Translation</b>, <b>Narrative Understanding</b>, <b>Coreference Resolution</b>, <b>LLM evaluation</b>, and <b>Word Sense Disambiguation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/38" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/04/WhatsApp_Image_2024-04-24_at_17.10.32_l8IWfLs.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Prof. Navigli is General Chair of ACL 2025!</h3>
+            <p>Roberto Navigli, Professor of Artificial Intelligence at Sapienza University of Rome and mind behind Italy's national <a href="https://minerva-ai.org">Large Language Model Minerva</a>, has been appointed Chair of the 2025 Annual Meeting of the Association for Computational Linguistics (<a href="2025.aclweb.org">ACL 2025</a>). The prestigious event will take place in Vienna from July 27 to August 1, bringing together over 6,000 scientists and industry leaders in Natural Language Processing.
+
+“This international recognition of one of our faculty members,” said Rector Antonella Polimeni, “highlights Sapienza’s long-standing tradition in the field of artificial intelligence — a commitment further strengthened by the release of the Minerva LLM and the launch of one of Italy’s first dedicated AI degree programs.”</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/37" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2025/05/naacl2025.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ NAACL 2025</h3>
+            <p>We're thrilled to present a paper in NAACL 2025!
+We've traveled to Albuquerque to present our paper on <b>vocabulary adaptation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/36" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/12/sapienza_nlp_placeholder_square_512.png" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Announcing Minerva-7B: try it now!</h3>
+            <p>Large Language Models (LLMs) are transforming how we interact with technology, but most are designed with English as their primary focus, often leaving other languages underserved. Enter <a href="https://minerva-ai.org"><b>Minerva AI</b></a>, the first family of LLMs developed from scratch with a primary focus on the Italian language.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/34" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2025/01/EMNLP_2024_Website_Image.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ EMNLP 2024</h3>
+            <p>We are delighted to share that 3 papers from our group were accepted at EMNLP 2024, including an outstanding paper award winner!
+Catch us in Miami, Florida to learn more about <b>machine translation meta-evaluation</b>, <b>commonsense QA</b> and <b>RAG through multilingual knowledge-graphs</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/35" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/08/photo_2024-08-25_11-00-05.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">ACL 2024 Outstanding Paper Award!</h3>
+            <p><p>We are excited to announce that our work "NounAtlas: Filling the Gap in Nominal Semantic Role Labeling" has been awarded as <strong>Outstanding paper at ACL 2024</strong>! Many congratulations to the authors Roberto Navigli, Marco Lo Pinto, Pasquale Silvestri, Dennis Rotondi, Simone Ciciliano and Alessandro Scirè.</p></p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/33" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/08/photo_2024-08-25_11-14-31.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ ACL 2024</h3>
+            <p>We are excited to share that we have 8 papers accepted at ACL 2024!
+We are in Bangkok to present our works about <b>nominal semantic role labeling</b>, <b>machine translation meta evaluation</b>, <b>coreference resolution</b>, <b>summarization factuality evaluation</b>, <b>word sense disambiguation</b>, <b>joint relation extraction and entity linking</b>, and <b> semantic parsing</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/32" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/06/mexico_city.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ NAACL 2024</h3>
+            <p>We are glad to announce that we have 2 paper accepted at NAACL 2024!
+We are in Mexico City to present our works about <b>concept and named entity recognition</b> and <b>semantically-annotated Wikipedia</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/31" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/05/lrecturin.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ LREC-COLING 2024</h3>
+            <p>We are glad to announce that we have 2 paper accepted at LREC-COLING 2024!
+We are in Torino to present our works about <b>Latin WSD</b> and <b>homonymy disambiguation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/30" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/04/WhatsApp_Image_2024-04-24_at_17.10.32_l8IWfLs.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Minerva models are out!</h3>
+            <p><p>📰 <a href="https://www.ansa.it/osservatorio_intelligenza_artificiale/notizie/approfondimenti/2024/04/23/ecco-minerva-la-prima-famiglia-di-llm-addestrati-da-zero-in-italiano_ac6cc4b0-6c65-4cef-a7e3-dfca7bc3c2c4.html">ANSA</a>, <a href="https://www.ilsole24ore.com/art/ecco-minerva-l-ia-italiano-che-sfidera-chatgpt-AFqkS5hD">Il Sole 24 Ore</a>, 📺 <a href="https://www.rainews.it/tgr/lazio/articoli/2024/04/minerva-il-nuovo-modello-di-intelligenza-artificiale-con-500-miliardi-di-parole-46aa10ba-929c-46e9-9469-69b097a26875.html">RaiNews (Article & VIDEO)</a>
+<p>
+We are excited to announce the launch of the <a href="https://minerva-ai.org">Minerva AI models</a>, the first family of Large Language Models (LLMs) pre-trained from scratch for the Italian language. This initiative, a collaboration with CINECA using the Leonardo supercomputer, is part of the strategic PNRR FAIR initiative, demonstrating a significant advancement in the field of generative AI in Italy. Leading this project are Professor Roberto Navigli, a recipient of two prestigious ERC grants and ACL fellow, along with our researchers, Edoardo Barba and Simone Conia. Additionally, PhD students Pere-Lluís Huguet Cabot, Riccardo Orlando, and Luca Moroni have played integral roles in advancing the project's research and development.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/29" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2024/03/lavalletta.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ EACL 2024</h3>
+            <p>Sapienza NLP is proud to present "CroCoAlign: A Cross-Lingual, Context-Aware and Fully-Neural Sentence Alignment System for Long Texts" at the main conference EACL 2024. This work presents a state-of-the-art approach for <b>cross-lingual sentence alignment</b> of long texts.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/28" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/12/ACL.png" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Roberto Navigli honored as ACL Fellow!</h3>
+            <p>Prof. Roberto Navigli has just been recognized as an ACL Fellow by the Association for Computational Linguistics!
+The Fellows program recognizes ACL members whose contributions to the field have been most extraordinary in terms of scientific and technical excellence, service to the association and the community and/or educational or outreach activities with broader impact.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/27" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/12/workshop_AeI4FoJ.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Workshop on Training and Evaluation Data for Italian Large Language Models</h3>
+            <p><p>This inaugural workshop, focusing on the development of Large Language Models (LLM) for the Italian language, marks the initial phase of constructing a Large Multimodal Model within the framework of the Transversal Project "Vision, Language, and Multimodal Challenges" as part of the big project "Future Artificial Intelligence Research" (FAIR).</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/26" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/12/Singapore_Skyline_2019-10.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ EMNLP 2023</h3>
+            <p>Sapienza NLP is proud to present "Code-Switching with Word Senses for Pretraining in Neural Machine Translation" at EMNLP 2023. This work focuses on the interaction between the tasks of <b>Word Sense Disambiguation and Machine Translation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/25" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/11/venice.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ CLiC-it 2023</h3>
+            <p>Sapienza NLP will be at <b>CLiC-it 2023</b> with 4 papers on <b>entity disambiguation</b>, the meaning of <b>superhuman performances in NLU</b>, <b>multilingual relation extraction</b>, and <b> multilingual sentence alignment </b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/24" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/11/Padangbai_Secret_Beach_1.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ AACL 2023</h3>
+            <p><b>LexicoMatic: Automatic Creation of Multilingual Lexical-Semantic Dictionaries</b> has been accepted at AACL 2023!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/23" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/06/Niagara_01_yf199IK.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ ACL 2023</h3>
+            <p>We are happy to announce that our group has 8 publications at <b>ACL 2023</b>!
+Our works cover a set of diverse topics such as <b>descriptive language modeling</b>, the meaning of <b>superhuman performances in NLU</b>, <b>semantic parsing</b>, <b>book summarization</b>, <b>relation extraction</b>, and <b> AMR alignment </b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/22" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/04/dubrovnik.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ EACL 2023</h3>
+            <p><b>Entity Disambiguation with Entity Definitions</b> has been accepted at EACL 2023!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/20" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2023/01/abudhabi.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ EMNLP 2022</h3>
+            <p>Sapienza NLP has 3 papers accepted at EMNLP 2022! Check out our works on <b>Semantic Role Labeling with Definition Modeling</b>, <b>Machine Translation Evaluation</b>, and <b>Euphemism detection</b>!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/21" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2022/07/seattle.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Sapienza NLP @ NAACL 2022</h3>
+            <p>Sapienza NLP will be at NAACL with 3 papers! We will present our works on <b>Named Entity Recognition</b>, <b>Entity Disambiguation</b>, <b>Idiomatic Expressions</b> and <b>biases in Neural Machine Translation</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/19" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2022/06/FWQf6_KXwAA2pIM.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Workshop on Ten Years of BabelNet and Multilingual Neurosymbolic Natural Language Understanding</h3>
+            <p>This 2-day workshop organized at Sapienza in the Department of Computer, Control and Management Engineering takes place after more than 10 years of research on multilingual Natural Language Understanding to celebrate the most far-reaching and novel multilingual dictionary and knowledge base, <a href="https://babelnet.org">BabelNet</a>, currently used by more than 1000 universities and research institutions, and discuss the future of neuro-symbolic approaches to Natural Language Understanding.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/18" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2022/05/acl_k6f1o0i.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">ACL 2022 Best Resource Paper Award!</h3>
+            <p><p>We are thrilled to announce that our work <a href="https://aclanthology.org/2022.acl-long.298/ "><em>&ldquo;DiBiMT: A Novel Benchmark for Measuring Word Sense Disambiguation Biases in Machine Translation&rdquo;</em></a> has been awarded as <strong>&lsquo;Best Resource Paper&rsquo; at ACL 2022</strong>! Many congratulations to the authors Niccol&ograve; Campolungo, Federico Martelli, Francesco Saina and Roberto Navigli!</p></p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/17" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2022/05/trinity_colelge_50v2TqJ.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ ACL 2022</h3>
+            <p>We are proud to announce that our group has 6 main conference publications at <b>ACL 2022</b>!
+Our works cover a set of diverse topics such as <b>disambiguation biases in MT</b>, <b>structured emotion classification</b>, <b>probing language models</b>, <b>Word Sense and Entity Disambiguation</b>. Furthermore, we released <b>BabelNet Meaning Representation</b> (BMR), our fully-semantic, language-agnostic representation formalism.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/16" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2022/02/aaai_2022_vancouver.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ AAAI 2022</h3>
+            <p>The Sapienza NLP group is proud to present two new papers at AAAI 2022! This time, we will showcase our work on <b>semantic typing of events</b> and <b>visual definition modeling</b>. Not only that, we will also introduce our "blue sky" idea on <b>BabelNet Meaning Representation</b> (BMR).</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/15" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/11/barcelo-bavaro-1.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ EMNLP 2021</h3>
+            <p>We are extremely excited about EMNLP 2021, the first hybrid NLP conference in two years! We will be there with 11 papers on a varied range of topics from <b>Word Sense Disambiguation</b> to <b>Lexical Substitution</b>, <b>Information Retrieval</b>, <b>Relation Extraction</b>, <b>Entity Linking</b> and more!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/14" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/08/ijcai_logo.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ IJCAI 2021</h3>
+            <p>We are proud to announce that our group will be at IJCAI 2021 with 6 accepted papers: 4 in the main track and 2 surveys! Once again, our papers touch several areas of Semantics in NLP ranging from <b>multilingual alignment</b> to <b>Word Sense Disambiguation</b>, <b>Semantic Role Labeling</b> and <b>Lexical Substitution</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/13" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/07/semantic-paths.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">ACL 2021 is about to start!</h3>
+            <p>Are you ready for ACL 2021?
+
+The Sapienza NLP group is proud to have our lab director, Prof. Roberto Navigli, as the Program Co-Chair and support this year's edition of ACL. Together with <a href="https://babelscape.com/">Babelscape</a>, we present <a href="https://acl.semanticpaths.org/">Semantic Paths</a>, the easiest way to discover your new favorite papers and researchers!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/12" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/06/naacl.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ NAACL 2021</h3>
+            <p>Sapienza NLP will be at NAACL 2021 with 3 papers on semantics, ranging from Word Sense Disambiguation, cross-lingual Semantic Role Labeling (<b><a href="https://2021.naacl.org/blog/best-paper-awards/">outstanding paper award!</a></b>) and multilingual Semantic Parsing! Read more about them in our blog post.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/11" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/06/eacl.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ EACL 2021</h3>
+            <p>Sapienza NLP is at EACL 2021 with 1 short paper +1 long paper! Read more about our latest research on semantics here.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/10" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/02/babelnet_5_post.jpeg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">BabelNet 5 is out now!</h3>
+            <p>Celebrate the 10th anniversary of BabelNet with us! <b>New interface, up-to-date content in 500 languages, 20 million synsets, WordNet 2020, and much more!</b> Check out the latest release of BabelNet at <a href="https://babelnet.org">babelnet.org</a>!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/9" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/02/aaai_2021_logo.png" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ AAAI 2021</h3>
+            <p>We are proud to share the latest developments from our lab at AAAI 2021! Read more about our newest papers on <b>Semantic Parsing</b> (Text-to-AMR and AMR-to-Text) and <b>Multilingual WSD</b>!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/8" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2021/01/ijcai-2020.png" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ IJCAI 2020</h3>
+            <p>Read more about the latest research presented at IJCAI 2020 from our group: from <b>multilingual Word Sense Disambiguation</b> to learning <b>multilmodal (text + image) sense embeddings</b>!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/7" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/12/coling_2020.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ COLING 2020</h3>
+            <p>The Sapienza NLP group is proud to present 2 papers at COLING 2020: <b>"Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach"</b> and <b>"Conception: Multilingually-Enhanced, Human-Readable Concept Vector Representations"</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/6" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/12/emnlp_2020_logo.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ EMNLP 2020</h3>
+            <p>We are proud to announce that SapienzaNLP has <b>4 + 1 papers accepted at EMNLP 2020</b>: 4 long papers at the main conference and 1 demo paper. Our contributions touch several areas from <b>Word Sense Disambiguation</b> to <b>Semantic Parsing</b> and <b>Semantic Role Labeling</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/5" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/07/acl_logo.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SapienzaNLP @ ACL 2020</h3>
+            <p>We are proud to announce that SapienzaNLP has <b>4 papers accepted at ACL</b>: 2 long, 1 short, and a demo, making up almost <b>half of the accepted papers from Italian institutions </b> (4 out of 9). Our works lie in the areas of <b>lexical semantics</b>, <b>multimodal representation learning</b> and <b>multilinguality</b>.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/4" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/03/verbatlas_logo_square_512.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">VerbAtlas is now out!</h3>
+            <p>We are proud to announce that VerbAtlas 1.0 <a href="http://verbatlas.org" target="_blank" rel="noreferrer noopener">(verbatlas.org)</a> is finally available for <a href="http://verbatlas.org/download" target="_blank" rel="noopener noreferrer">download</a>.
+<br/>
+Developed at the <a href="http://nlp.uniroma1.it">Sapienza NLP group</a>, the multilingual Natural Language Processing group at the Sapienza University of Rome, VerbAtlas is a novel large-scale manually-crafted semantic resource for wide-coverage, intelligible and scalable Semantic Role Labeling. The goal of VerbAtlas is to manually cluster WordNet synsets that share similar semantics into a set of semantically-coherent frames.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/2" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/03/syntagnet_logo_square_512.jpg" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">SyntagNet is now out!</h3>
+            <p>We are proud to announce that SyntagNet 1.0
+    <a href="http://syntagnet.org" target="_blank" rel="noopener noreferrer">(http://syntagnet.org)</a>
+    is finally available for
+    <a href="http://syntagnet.org/download" target="_blank" rel="noopener noreferrer">download</a>.
+    Developed at the
+    <a href="" target="_blank" rel="noopener noreferrer">Sapienza NLP group</a>,
+    the multilingual Natural Language Processing group at the Sapienza University of Rome,
+    <b>SyntagNet is a manually-curated large-scale lexical-semantic combination database</b>
+    which associates pairs of concepts with pairs of co-occurring words.
+    The goal of SyntagNet is to capture sense distinctions evoked by syntagmatic relations,
+    hence providing information which complements with the essentially paradigmatic knowledge shared by currently available Lexical Knowledge Bases.</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/3" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+                <div>
+    <div class="uk-card uk-card-default uk-card-hover">
+        <div class="uk-card-media-top uk-cover-container" style="min-height: 300px;">
+            <img src="/media/images/2020/03/sapienza_nlp_placeholder_square_512.png" uk-cover>
+        </div>
+
+        <div class="uk-card-body">
+            <h3 class="uk-card-title">Welcome to the all-new Sapienza NLP website!</h3>
+            <p>We are proud to launch our <b>all-new</b> website! Redesigned from the ground up with modern standards in mind, the Sapienza NLP website will be the main showcase for our research.
+<br/><br/>
+Under the guidance of Prof. Roberto Navigli, the Sapienza NLP group has continuously grown over the last few years and now it features <b>4 post doctoral research fellows</b> and <b>12 PhD students</b>. Click "Read More" to know more about them and their research activity!</p>
+        </div>
+
+        <div class="uk-card-footer">
+            <a href="/posts/1" class="uk-button uk-button-text"><span class="uk-margin-small-right" uk-icon="icon: plus"></span>Read more</a>
+        </div>
+    </div>
+</div>
+            
+            <div class="uk-hidden@m">
+                <div class="uk-card uk-card-default uk-card-hover" style="max-height: 450px;" uk-overflow-auto>
+                    <a class="twitter-timeline" data-theme="light" href="https://twitter.com/SapienzaNLP?ref_src=twsrc%5Etfw">Tweets by SapienzaNLP</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </main>
+
+        <footer>
+            
+
+<div class="uk-margin-large-top">
+    <div class="uk-section uk-section-small uk-section-primary">
+        <div class="uk-container">
+            <div class="uk-grid-match" uk-grid>
+                <div class="uk-width-1-4 uk-width-1-5@s">
+                    <img class="uk-width-expand uk-flex-middle" src="/static/website/sapienza-nlp-logo-wh.svg" uk-svg>
+                </div>
+                <div class="uk-width-2-4 uk-width-3-5@s"></div>
+                <div class="uk-width-1-4 uk-width-1-5@s">
+                    <img class="uk-flex-middle" src="/static/website/sapienza-logo-wh.png" style="object-fit: contain">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </footer>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.6/js/uikit.min.js" 
+                integrity="sha256-v789mr/zBbgR53mfydCI78CSAF+9+nRqu+JRfs1UPg0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.6/js/uikit-icons.min.js" 
+                integrity="sha256-l+AmZGiFz41J+gms80qC7faslJDberZDhjEsmDmQy8s=" crossorigin="anonymous"></script>
+    </body>
+</html> title 19 Sapienza NLP - home contentType 9 text/html url 28 https://nlp.uniroma1.it:443/ responseCode 3 200 

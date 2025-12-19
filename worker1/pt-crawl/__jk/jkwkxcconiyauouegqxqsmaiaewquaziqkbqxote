@@ -1,0 +1,1403 @@
+jkwkxcconiyauouegqxqsmaiaewquaziqkbqxote page 154332 <!doctype html>
+<html lang="en" class="no-js">
+<head>
+
+<!-- TCF Script -->
+<script type="text/javascript">
+"use strict";
+function _typeof(t) {
+	return (_typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(t) {
+		return typeof t;
+	} : function(t) {
+		return t && "function" == typeof Symbol && t.constructor === Symbol && t !== Symbol.prototype ? "symbol" : typeof t;
+	})(t);
+}
+!function() {
+	var t = function() {
+		var t, e, o = [], n = window, r = n;
+		for (; r; ) {
+			try {
+				if (r.frames.__tcfapiLocator) {
+					t = r;
+					break;
+				}
+			} catch (t) {}
+			if (r === n.top) break;
+			r = r.parent;
+		}
+		t || (!function t() {
+			var e = n.document, o = !!n.frames.__tcfapiLocator;
+			if (!o) if (e.body) {
+				var r = e.createElement("iframe");
+				r.style.cssText = "display:none", r.name = "__tcfapiLocator", e.body.appendChild(r);
+			} else setTimeout(t, 5);
+			return !o;
+		}(), n.__tcfapi = function() {
+			for (var t = arguments.length, n = new Array(t), r = 0; r < t; r++) n[r] = arguments[r];
+			if (!n.length) return o;
+			"setGdprApplies" === n[0] ? n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)) : "ping" === n[0] ? "function" == typeof n[2] && n[2]({
+				gdprApplies: e,
+				cmpLoaded: !1,
+				cmpStatus: "stub"
+			}) : o.push(n);
+		}, n.addEventListener("message", (function(t) {
+			var e = "string" == typeof t.data, o = {};
+			if (e) try {
+				o = JSON.parse(t.data);
+			} catch (t) {} else o = t.data;
+			var n = "object" === _typeof(o) && null !== o ? o.__tcfapiCall : null;
+			n && window.__tcfapi(n.command, n.version, (function(o, r) {
+				var a = {
+					__tcfapiReturn: {
+						returnValue: o,
+						success: r,
+						callId: n.callId
+					}
+				};
+				t && t.source && t.source.postMessage && t.source.postMessage(e ? JSON.stringify(a) : a, "*");
+			}), n.parameter);
+		}), !1));
+	};
+	"undefined" != typeof module ? module.exports = t : t();
+}();
+</script>
+<!-- TCF Script end -->
+
+<!-- Advanced Consent Override -->
+<script>
+self.airgap = {
+overrides: [],
+cookieOverrides: [],
+...self.airgap,
+};
+const allowGcmAdvanced = (event) => {
+if (event.purposes.has('GcmAdvanced')) {
+event.allow();
+}
+};
+
+self.airgap.overrides.push({
+override : allowGcmAdvanced
+});
+self.airgap.cookieOverrides.push(allowGcmAdvanced);
+</script>
+
+<script
+
+  data-cfasync="false"
+
+  data-local-sync="allow-network-observable"
+
+  data-prompt="1" data-report-only="off"
+
+  data-dismissed-view-state="Collapsed"
+  
+  data-tcf-ui-dismissed-view-state="Collapsed"
+
+  src=https://transcend-cdn.com/cm/ef49a3f1-d8c1-47d6-88fc-50e41130631f/airgap.js
+
+></script>
+
+
+	
+	<!-- GSD-3467 : LCP: Preconnect Third-Party Scripts -->
+	<link rel="dns-prefetch" href="https://www.google-analytics.com/">
+	<link rel="dns-prefetch" href="https://www.googleadservices.com/">	
+	<link rel="dns-prefetch" href="https://cdn-cs.conductor.com/">
+	<link rel="dns-prefetch" href="https://www.googleads.g.doubleclick.net/">
+	<link rel="dns-prefetch" href="https://www.googletagmanager.com/">	
+	<link rel="dns-prefetch" href="https://static.ads-twitter.com">	
+	<link rel="dns-prefetch" href="https://amplify.outbrai.com/">
+	<link rel="dns-prefetch" href="https://px.ads.linkedin.com/">	
+	<link rel="dns-prefetch" href="https://connect.facebook.net/">
+	<link rel="dns-prefetch" href="https://snap.licdn.com/">
+	<link rel="dns-prefetch" href="https://dc.ads.linkedin.com/">
+        <link rel="dns-prefetch" href="https://kit-free.fontawesome.com">
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+	
+	<link rel="preconnect" href="https://www.google-analytics.com/" crossorigin>
+	<link rel="preconnect" href="https://www.googleadservices.com/" crossorigin>	
+	<link rel="preconnect" href="https://cdn-cs.conductor.com/" crossorigin>
+	<link rel="preconnect" href="https://www.googleads.g.doubleclick.net/" crossorigin>
+	<link rel="preconnect" href="https://www.googletagmanager.com/" crossorigin>
+    <link rel="preconnect" href="https://www.google-analytics.com/" crossorigin>
+    <link rel="preconnect" href="https://amplify.outbrai.com/" crossorigin>
+	<link rel="preconnect" href="https://px.ads.linkedin.com/" crossorigin>
+    <link rel="preconnect" href="https://connect.facebook.net/" crossorigin>	
+	<link rel="preconnect" href="https://snap.licdn.com/" crossorigin>	
+	<link rel="preconnect" href="https://dc.ads.linkedin.com/" crossorigin>
+        <link rel="preconnect" href="https://kit-free.fontawesome.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      var gtm_id = 'GTM-KW3LJ3D';
+    </script>
+    
+    <!-- GSD-979 : Google Tag Manager Implementation -->
+    <!-- GSD-1830 : Content Square - GTM - Implement Data Layer -->
+    <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer',gtm_id);</script>
+    <!-- End Google Tag Manager -->
+  	
+  	<!-- BAU-5060 : Allow GA to be loaded on Order Complete page to be used for purchase event -->
+  	<!-- BAU-10364 added the script tag to get the country code which needs to be passed to the datalayer -->
+  <script type="text/javascript">
+      window.dataLayer = window.dataLayer || [];
+              dataLayer.push({
+          'countryCode': "US",
+          'countryCodebasedOnIP': "US"
+        });
+        </script>
+    <!-- BAU-6005 : Google Tag Manager Script in wrong location -->
+    <meta name="google-site-verification" content="WEbYPt5KipdKE58rhrkg6tHoXzteac8Rio6a6z1EDek" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]},feature_flags:["soft_nav"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"417731731",accountID:"438030",trustKey:"438030",xpid:"UAUPUVVTGwcBUVVXBQYDUA==",licenseKey:"97f8f67f26",applicationID:"415452746",browserID:"417731731"};;/*! For license information please see nr-loader-full-1.303.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={384:(e,t,r)=>{"use strict";r.d(t,{NT:()=>a,US:()=>u,Zm:()=>s,bQ:()=>d,dV:()=>c,pV:()=>l});var n=r(6154),i=r(1863),o=r(1910);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function s(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function c(){let e=s();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate||n.gm.setInterval,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket},(0,o.i)(...Object.values(e.o))),e}function d(e,t){let r=s();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t}function u(e,t){s()[e]=t}function l(){return function(){let e=s();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=s();const t=e.init||{};e.init={...t}}(),c(),function(){let e=s();const t=e.loader_config||{};e.loader_config={...t}}(),s()}},782:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.pageViewTiming},860:(e,t,r)=>{"use strict";r.d(t,{$J:()=>u,K7:()=>c,P3:()=>d,XX:()=>i,Yy:()=>s,df:()=>o,qY:()=>n,v4:()=>a});const n="events",i="jserrors",o="browser/blobs",a="rum",s="browser/logs",c={ajax:"ajax",genericEvents:"generic_events",jserrors:i,logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations",spa:"spa"},d={[c.pageViewEvent]:1,[c.pageViewTiming]:2,[c.metrics]:3,[c.jserrors]:4,[c.spa]:5,[c.ajax]:6,[c.sessionTrace]:7,[c.softNav]:8,[c.sessionReplay]:9,[c.logging]:10,[c.genericEvents]:11},u={[c.pageViewEvent]:a,[c.pageViewTiming]:n,[c.ajax]:n,[c.spa]:n,[c.softNav]:n,[c.metrics]:i,[c.jserrors]:i,[c.sessionTrace]:o,[c.sessionReplay]:o,[c.logging]:s,[c.genericEvents]:"ins"}},944:(e,t,r)=>{"use strict";r.d(t,{R:()=>i});var n=r(3241);function i(e,t){"function"==typeof console.debug&&(console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t),(0,n.W)({agentIdentifier:null,drained:null,type:"data",name:"warn",feature:"warn",data:{code:e,secondary:t}}))}},993:(e,t,r)=>{"use strict";r.d(t,{A$:()=>o,ET:()=>a,TZ:()=>s,p_:()=>i});var n=r(860);const i={ERROR:"ERROR",WARN:"WARN",INFO:"INFO",DEBUG:"DEBUG",TRACE:"TRACE"},o={OFF:0,ERROR:1,WARN:2,INFO:3,DEBUG:4,TRACE:5},a="log",s=n.K7.logging},1687:(e,t,r)=>{"use strict";r.d(t,{Ak:()=>d,Ze:()=>f,x3:()=>u});var n=r(3241),i=r(7836),o=r(3606),a=r(860),s=r(2646);const c={};function d(e,t){const r={staged:!1,priority:a.P3[t]||0};l(e),c[e].get(t)||c[e].set(t,r)}function u(e,t){e&&c[e]&&(c[e].get(t)&&c[e].delete(t),g(e,t,!1),c[e].size&&h(e))}function l(e){if(!e)throw new Error("agentIdentifier required");c[e]||(c[e]=new Map)}function f(e="",t="feature",r=!1){if(l(e),!e||!c[e].get(t)||r)return g(e,t);c[e].get(t).staged=!0,h(e)}function h(e){const t=Array.from(c[e]);t.every(([e,t])=>t.staged)&&(t.sort((e,t)=>e[1].priority-t[1].priority),t.forEach(([t])=>{c[e].delete(t),g(e,t)}))}function g(e,t,r=!0){const a=e?i.ee.get(e):i.ee,c=o.i.handlers;if(!a.aborted&&a.backlog&&c){if((0,n.W)({agentIdentifier:e,type:"lifecycle",name:"drain",feature:t}),r){const e=a.backlog[t],r=c[t];if(r){for(let t=0;e&&t<e.length;++t)p(e[t],r);Object.entries(r).forEach(([e,t])=>{Object.values(t||{}).forEach(t=>{t[0]?.on&&t[0]?.context()instanceof s.y&&t[0].on(e,t[1])})})}}a.isolatedBacklog||delete c[t],a.backlog[t]=null,a.emit("drain-"+t,[])}}function p(e,t){var r=e[1];Object.values(t[r]||{}).forEach(t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],o=e[2];n.apply(i,o)}})}},1741:(e,t,r)=>{"use strict";r.d(t,{W:()=>o});var n=r(944),i=r(4261);class o{#e(e,...t){if(this[e]!==o.prototype[e])return this[e](...t);(0,n.R)(35,e)}addPageAction(e,t){return this.#e(i.hG,e,t)}register(e){return this.#e(i.eY,e)}recordCustomEvent(e,t){return this.#e(i.fF,e,t)}setPageViewName(e,t){return this.#e(i.Fw,e,t)}setCustomAttribute(e,t,r){return this.#e(i.cD,e,t,r)}noticeError(e,t){return this.#e(i.o5,e,t)}setUserId(e){return this.#e(i.Dl,e)}setApplicationVersion(e){return this.#e(i.nb,e)}setErrorHandler(e){return this.#e(i.bt,e)}addRelease(e,t){return this.#e(i.k6,e,t)}log(e,t){return this.#e(i.$9,e,t)}start(){return this.#e(i.d3)}finished(e){return this.#e(i.BL,e)}recordReplay(){return this.#e(i.CH)}pauseReplay(){return this.#e(i.Tb)}addToTrace(e){return this.#e(i.U2,e)}setCurrentRouteName(e){return this.#e(i.PA,e)}interaction(e){return this.#e(i.dT,e)}wrapLogger(e,t,r){return this.#e(i.Wb,e,t,r)}measure(e,t){return this.#e(i.V1,e,t)}consent(e){return this.#e(i.Pv,e)}}},1863:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},1910:(e,t,r)=>{"use strict";r.d(t,{i:()=>o});var n=r(944);const i=new Map;function o(...e){return e.every(e=>{if(i.has(e))return i.get(e);const t="function"==typeof e&&e.toString().includes("[native code]");return t||(0,n.R)(64,e?.name||e?.toString()),i.set(e,t),t})}},2555:(e,t,r)=>{"use strict";r.d(t,{D:()=>s,f:()=>a});var n=r(384),i=r(8122);const o={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0};function a(e){try{return!!e.licenseKey&&!!e.errorBeacon&&!!e.applicationID}catch(e){return!1}}const s=e=>(0,i.a)(e,o)},2614:(e,t,r)=>{"use strict";r.d(t,{BB:()=>a,H3:()=>n,g:()=>d,iL:()=>c,tS:()=>s,uh:()=>i,wk:()=>o});const n="NRBA",i="SESSION",o=144e5,a=18e5,s={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},d={OFF:0,FULL:1,ERROR:2}},2646:(e,t,r)=>{"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},2843:(e,t,r)=>{"use strict";r.d(t,{u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)},r,i)}},3241:(e,t,r)=>{"use strict";r.d(t,{W:()=>o});var n=r(6154);const i="newrelic";function o(e={}){try{n.gm.dispatchEvent(new CustomEvent(i,{detail:e}))}catch(e){}}},3304:(e,t,r)=>{"use strict";r.d(t,{A:()=>o});var n=r(7836);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())??""}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}return""}}},3333:(e,t,r)=>{"use strict";r.d(t,{$v:()=>u,TZ:()=>n,Xh:()=>c,Zp:()=>i,kd:()=>d,mq:()=>s,nf:()=>a,qN:()=>o});const n=r(860).K7.genericEvents,i=["auxclick","click","copy","keydown","paste","scrollend"],o=["focus","blur"],a=4,s=1e3,c=2e3,d=["PageAction","UserAction","BrowserPerformance"],u={RESOURCES:"experimental.resources",REGISTER:"register"}},3434:(e,t,r)=>{"use strict";r.d(t,{Jt:()=>o,YM:()=>d});var n=r(7836),i=r(5607);const o="nr@original:".concat(i.W),a=50;var s=Object.prototype.hasOwnProperty,c=!1;function d(e,t){return e||(e=n.ee),r.inPlace=function(e,t,n,i,o){n||(n="");const a="-"===n.charAt(0);for(let s=0;s<t.length;s++){const c=t[s],d=e[c];l(d)||(e[c]=r(d,a?c+n:n,i,c,o))}},r.flag=o,r;function r(t,r,n,c,d){return l(t)?t:(r||(r=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach(function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})}),t}catch(e){u([e],r)}for(var n in e)s.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,s,l,f;let h;try{s=this,o=[...arguments],l="function"==typeof n?n(o,s):n||{}}catch(t){u([t,"",[o,s,c],l],e)}i(r+"start",[o,s,c],l,d);const g=performance.now();let p;try{return f=t.apply(s,o),p=performance.now(),f}catch(e){throw p=performance.now(),i(r+"err",[o,s,e],l,d),h=e,h}finally{const e=p-g,t={start:g,end:p,duration:e,isLongTask:e>=a,methodName:c,thrownError:h};t.isLongTask&&i("long-task",[t,s],l,d),i(r+"end",[o,s,f],l,d)}}}function i(r,n,i,o){if(!c||t){var a=c;c=!0;try{e.emit(r,n,i,t,o)}catch(t){u([t,r,n,i],e)}c=a}}}function u(e,t){t||(t=n.ee);try{t.emit("internal-error",e)}catch(e){}}function l(e){return!(e&&"function"==typeof e&&e.apply&&!e[o])}},3606:(e,t,r)=>{"use strict";r.d(t,{i:()=>o});var n=r(9908);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.d,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.d);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3738:(e,t,r)=>{"use strict";r.d(t,{He:()=>i,Kp:()=>s,Lc:()=>d,Rz:()=>u,TZ:()=>n,bD:()=>o,d3:()=>a,jx:()=>l,sl:()=>f,uP:()=>c});const n=r(860).K7.sessionTrace,i="bstResource",o="resource",a="-start",s="-end",c="fn"+a,d="fn"+s,u="pushState",l=1e3,f=3e4},3785:(e,t,r)=>{"use strict";r.d(t,{R:()=>c,b:()=>d});var n=r(9908),i=r(1863),o=r(860),a=r(8154),s=r(993);function c(e,t,r={},c=s.p_.INFO,d,u=(0,i.t)()){(0,n.p)(a.xV,["API/logging/".concat(c.toLowerCase(),"/called")],void 0,o.K7.metrics,e),(0,n.p)(s.ET,[u,t,r,c,d],void 0,o.K7.logging,e)}function d(e){return"string"==typeof e&&Object.values(s.p_).some(t=>t===e.toUpperCase().trim())}},3878:(e,t,r)=>{"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function o(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>o,jT:()=>n,sp:()=>i})},4234:(e,t,r)=>{"use strict";r.d(t,{W:()=>o});var n=r(7836),i=r(1687);class o{constructor(e,t){this.agentIdentifier=e,this.ee=n.ee.get(e),this.featureName=t,this.blocked=!1}deregisterDrain(){(0,i.x3)(this.agentIdentifier,this.featureName)}}},4261:(e,t,r)=>{"use strict";r.d(t,{$9:()=>d,BL:()=>s,CH:()=>h,Dl:()=>R,Fw:()=>y,PA:()=>m,Pl:()=>n,Pv:()=>_,Tb:()=>l,U2:()=>o,V1:()=>T,Wb:()=>x,bt:()=>b,cD:()=>v,d3:()=>w,dT:()=>c,eY:()=>g,fF:()=>f,hG:()=>i,k6:()=>a,nb:()=>p,o5:()=>u});const n="api-",i="addPageAction",o="addToTrace",a="addRelease",s="finished",c="interaction",d="log",u="noticeError",l="pauseReplay",f="recordCustomEvent",h="recordReplay",g="register",p="setApplicationVersion",m="setCurrentRouteName",v="setCustomAttribute",b="setErrorHandler",y="setPageViewName",R="setUserId",w="start",x="wrapLogger",T="measure",_="consent"},4387:(e,t,r)=>{"use strict";function n(e={}){return!(!e.id||!e.name)}function i(e){return"string"==typeof e&&e.trim().length<501||"number"==typeof e}function o(e,t){if(2!==t?.harvestEndpointVersion)return{};const r=t.agentRef.runtime.appMetadata.agents[0].entityGuid;return n(e)?{"mfe.id":e.id,"mfe.name":e.name,eventSource:e.eventSource,"parent.id":e.parent?.id||r}:{"entity.guid":r,appId:t.agentRef.info.applicationID}}r.d(t,{Ux:()=>o,c7:()=>n,yo:()=>i})},5205:(e,t,r)=>{"use strict";r.d(t,{j:()=>A});var n=r(384),i=r(1741);var o=r(2555),a=r(3333);const s=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var c=r(2614),d=r(944),u=r(8122);const l="[data-nr-mask]",f=e=>(0,u.a)(e,(()=>{const e={feature_flags:[],experimental:{allow_registered_children:!1,resources:!1},mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,autoStart:!0},api:{get allow_registered_children(){return e.feature_flags.includes(a.$v.REGISTER)||e.experimental.allow_registered_children},set allow_registered_children(t){e.experimental.allow_registered_children=t},duplicate_registered_data:!1},browser_consent_mode:{enabled:!1},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},get feature_flags(){return e.feature_flags},set feature_flags(t){e.feature_flags=t},generic_events:{enabled:!0,autoStart:!0},harvest:{interval:30},jserrors:{enabled:!0,autoStart:!0},logging:{enabled:!0,autoStart:!0},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1,capture_detail:!0,resources:{get enabled(){return e.feature_flags.includes(a.$v.RESOURCES)||e.experimental.resources},set enabled(t){e.experimental.resources=t},asset_types:[],first_party_domains:[],ignore_newrelic:!0}},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:c.wk,inactiveMs:c.BB},session_replay:{autoStart:!0,enabled:!1,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){s(t)?e.mask_selector="".concat(t,",").concat(l):""===t||null===t?e.mask_selector=l:(0,d.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){s(t)?e.block_selector+=",".concat(t):""!==t&&(0,d.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,d.R)(7,t)}},session_trace:{enabled:!0,autoStart:!0},soft_navigations:{enabled:!0,autoStart:!0},spa:{enabled:!0,autoStart:!0},ssl:void 0,user_actions:{enabled:!0,elementAttributes:["id","className","tagName","type"]}}})());var h=r(6154),g=r(9324);let p=0;const m={buildEnv:g.F3,distMethod:g.Xs,version:g.xv,originTime:h.WN},v={consented:!1},b={appMetadata:{},get consented(){return this.session?.state?.consent||v.consented},set consented(e){v.consented=e},customTransaction:void 0,denyList:void 0,disabled:!1,harvester:void 0,isolatedBacklog:!1,isRecording:!1,loaderType:void 0,maxBytes:3e4,obfuscator:void 0,onerror:void 0,ptid:void 0,releaseIds:{},session:void 0,timeKeeper:void 0,registeredEntities:[],jsAttributesMetadata:{bytes:0},get harvestCount(){return++p}},y=e=>{const t=(0,u.a)(e,b),r=Object.keys(m).reduce((e,t)=>(e[t]={value:m[t],writable:!1,configurable:!0,enumerable:!0},e),{});return Object.defineProperties(t,r)};var R=r(5701);const w=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};var x=r(7836),T=r(3241);const _={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},E=e=>(0,u.a)(e,_),S=new Set;function A(e,t={},r,a){let{init:s,info:c,loader_config:d,runtime:u={},exposed:l=!0}=t;if(!c){const e=(0,n.pV)();s=e.init,c=e.info,d=e.loader_config}e.init=f(s||{}),e.loader_config=E(d||{}),c.jsAttributes??={},h.bv&&(c.jsAttributes.isWorker=!0),e.info=(0,o.D)(c);const g=e.init,p=[c.beacon,c.errorBeacon];S.has(e.agentIdentifier)||(g.proxy.assets&&(w(g.proxy.assets),p.push(g.proxy.assets)),g.proxy.beacon&&p.push(g.proxy.beacon),e.beacons=[...p],function(e){const t=(0,n.pV)();Object.getOwnPropertyNames(i.W.prototype).forEach(r=>{const n=i.W.prototype[r];if("function"!=typeof n||"constructor"===n)return;let o=t[r];e[r]&&!1!==e.exposed&&"micro-agent"!==e.runtime?.loaderType&&(t[r]=(...t)=>{const n=e[r](...t);return o?o(...t):n})})}(e),(0,n.US)("activatedFeatures",R.B),e.runSoftNavOverSpa&&=!0===g.soft_navigations.enabled&&g.feature_flags.includes("soft_nav")),u.denyList=[...g.ajax.deny_list||[],...g.ajax.block_internal?p:[]],u.ptid=e.agentIdentifier,u.loaderType=r,e.runtime=y(u),S.has(e.agentIdentifier)||(e.ee=x.ee.get(e.agentIdentifier),e.exposed=l,(0,T.W)({agentIdentifier:e.agentIdentifier,drained:!!R.B?.[e.agentIdentifier],type:"lifecycle",name:"initialize",feature:void 0,data:e.config})),S.add(e.agentIdentifier)}},5270:(e,t,r)=>{"use strict";r.d(t,{Aw:()=>a,SR:()=>o,rF:()=>s});var n=r(384),i=r(7767);function o(e){return!!(0,n.dV)().o.MO&&(0,i.V)(e)&&!0===e?.session_trace.enabled}function a(e){return!0===e?.session_replay.preload&&o(e)}function s(e,t){try{if("string"==typeof t?.type){if("password"===t.type.toLowerCase())return"*".repeat(e?.length||0);if(void 0!==t?.dataset?.nrUnmask||t?.classList?.contains("nr-unmask"))return e}}catch(e){}return"string"==typeof e?e.replace(/[\S]/g,"*"):"*".repeat(e?.length||0)}},5289:(e,t,r)=>{"use strict";r.d(t,{GG:()=>o,Qr:()=>s,sB:()=>a});var n=r(3878);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.sp)("load",e,t)}function a(e){if(i())return e();(0,n.DD)("DOMContentLoaded",e)}function s(e){if(i())return e();(0,n.sp)("popstate",e)}},5607:(e,t,r)=>{"use strict";r.d(t,{W:()=>n});const n=(0,r(9566).bz)()},5701:(e,t,r)=>{"use strict";r.d(t,{B:()=>o,t:()=>a});var n=r(3241);const i=new Set,o={};function a(e,t){const r=t.agentIdentifier;o[r]??={},e&&"object"==typeof e&&(i.has(r)||(t.ee.emit("rumresp",[e]),o[r]=e,i.add(r),(0,n.W)({agentIdentifier:r,loaded:!0,drained:!0,type:"lifecycle",name:"load",feature:void 0,data:e})))}},6154:(e,t,r)=>{"use strict";r.d(t,{OF:()=>d,RI:()=>i,WN:()=>f,bv:()=>o,gm:()=>a,lR:()=>l,m:()=>c,mw:()=>s,sb:()=>u});var n=r(1863);const i="undefined"!=typeof window&&!!window.document,o="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),s=Boolean("hidden"===a?.document?.visibilityState),c=""+a?.location,d=/iPad|iPhone|iPod/.test(a.navigator?.userAgent),u=d&&"undefined"==typeof SharedWorker,l=(()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);return Array.isArray(e)&&e.length>=2?+e[1]:0})(),f=Date.now()-(0,n.t)()},6344:(e,t,r)=>{"use strict";r.d(t,{BB:()=>u,Qb:()=>l,TZ:()=>i,Ug:()=>a,Vh:()=>o,_s:()=>s,bc:()=>d,yP:()=>c});var n=r(2614);const i=r(860).K7.sessionReplay,o="errorDuringReplay",a=.12,s={DomContentLoaded:0,Load:1,FullSnapshot:2,IncrementalSnapshot:3,Meta:4,Custom:5},c={[n.g.ERROR]:15e3,[n.g.FULL]:3e5,[n.g.OFF]:0},d={RESET:{message:"Session was reset",sm:"Reset"},IMPORT:{message:"Recorder failed to import",sm:"Import"},TOO_MANY:{message:"429: Too Many Requests",sm:"Too-Many"},TOO_BIG:{message:"Payload was too large",sm:"Too-Big"},CROSS_TAB:{message:"Session Entity was set to OFF on another tab",sm:"Cross-Tab"},ENTITLEMENTS:{message:"Session Replay is not allowed and will not be started",sm:"Entitlement"}},u=5e3,l={API:"api",RESUME:"resume",SWITCH_TO_FULL:"switchToFull",INITIALIZE:"initialize",PRELOAD:"preload"}},6389:(e,t,r)=>{"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout(()=>{i=clearTimeout(i)},t)),n||(clearTimeout(i),i=setTimeout(()=>{e.apply(this,r)},t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},6630:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.pageViewEvent},6774:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.jserrors},7295:(e,t,r)=>{"use strict";r.d(t,{Xv:()=>a,gX:()=>i,iW:()=>o});var n=[];function i(e){if(!e||o(e))return!1;if(0===n.length)return!0;for(var t=0;t<n.length;t++){var r=n[t];if("*"===r.hostname)return!1;if(s(r.hostname,e.hostname)&&c(r.pathname,e.pathname))return!1}return!0}function o(e){return void 0===e.hostname}function a(e){if(n=[],e&&e.length)for(var t=0;t<e.length;t++){let r=e[t];if(!r)continue;0===r.indexOf("http://")?r=r.substring(7):0===r.indexOf("https://")&&(r=r.substring(8));const i=r.indexOf("/");let o,a;i>0?(o=r.substring(0,i),a=r.substring(i)):(o=r,a="");let[s]=o.split(":");n.push({hostname:s,pathname:a})}}function s(e,t){return!(e.length>t.length)&&t.indexOf(e)===t.length-e.length}function c(e,t){return 0===e.indexOf("/")&&(e=e.substring(1)),0===t.indexOf("/")&&(t=t.substring(1)),""===e||e===t}},7485:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(6154);function i(e){if(0===(e||"").indexOf("data:"))return{protocol:"data"};try{const t=new URL(e,location.href),r={port:t.port,hostname:t.hostname,pathname:t.pathname,search:t.search,protocol:t.protocol.slice(0,t.protocol.indexOf(":")),sameOrigin:t.protocol===n.gm?.location?.protocol&&t.host===n.gm?.location?.host};return r.port&&""!==r.port||("http:"===t.protocol&&(r.port="80"),"https:"===t.protocol&&(r.port="443")),r.pathname&&""!==r.pathname?r.pathname.startsWith("/")||(r.pathname="/".concat(r.pathname)):r.pathname="/",r}catch(e){return{}}}},7699:(e,t,r)=>{"use strict";r.d(t,{It:()=>o,KC:()=>s,No:()=>i,qh:()=>a});var n=r(860);const i=16e3,o=1e6,a="SESSION_ERROR",s={[n.K7.logging]:!0,[n.K7.genericEvents]:!1,[n.K7.jserrors]:!1,[n.K7.ajax]:!1}},7767:(e,t,r)=>{"use strict";r.d(t,{V:()=>i});var n=r(6154);const i=e=>n.RI&&!0===e?.privacy.cookies_enabled},7836:(e,t,r)=>{"use strict";r.d(t,{P:()=>s,ee:()=>c});var n=r(384),i=r(8990),o=r(2646),a=r(5607);const s="nr@context:".concat(a.W),c=function e(t,r){var n={},a={},u={},l=!1;try{l=16===r.length&&d.initializedAgents?.[r]?.runtime.isolatedBacklog}catch(e){}var f={on:g,addEventListener:g,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(c.aborted&&!i)return;t&&o&&t.emit(e,r,n);var s=h(n);p(e).forEach(e=>{e.apply(s,r)});var d=v()[a[e]];d&&d.push([f,e,r,s]);return s},get:m,listeners:p,context:h,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach(([e,n])=>{a[n]=t,t in r||(r[t]=[])})},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach(e=>{delete f.backlog[e]})},isBuffering:function(e){return!!v()[a[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function h(e){return e&&e instanceof o.y?e:e?(0,i.I)(e,s,()=>new o.y(s)):new o.y(s)}function g(e,t){n[e]=p(e).concat(t)}function p(e){return n[e]||[]}function m(t){return u[t]=u[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),d=(0,n.Zm)();d.ee||(d.ee=c)},8122:(e,t,r)=>{"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){r[a]||(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},8139:(e,t,r)=>{"use strict";r.d(t,{u:()=>f});var n=r(7836),i=r(3434),o=r(8990),a=r(6154);const s={},c=a.gm.XMLHttpRequest,d="addEventListener",u="removeEventListener",l="nr@wrapped:".concat(n.P);function f(e){var t=function(e){return(e||n.ee).get("events")}(e);if(s[t.debugId]++)return t;s[t.debugId]=1;var r=(0,i.YM)(t,!0);function f(e){r.inPlace(e,[d,u],"-",g)}function g(e,t){return e[1]}return"getPrototypeOf"in Object&&(a.RI&&h(document,f),c&&h(c.prototype,f),h(a.gm,f)),t.on(d+"-start",function(e,t){var n=e[1];if(null!==n&&("function"==typeof n||"object"==typeof n)&&"newrelic"!==e[0]){var i=(0,o.I)(n,l,function(){var e={object:function(){if("function"!=typeof n.handleEvent)return;return n.handleEvent.apply(n,arguments)},function:n}[typeof n];return e?r(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=e[1]=i}}),t.on(u+"-start",function(e){e[1]=this.wrapped||e[1]}),t}function h(e,t,...r){let n=e;for(;"object"==typeof n&&!Object.prototype.hasOwnProperty.call(n,d);)n=Object.getPrototypeOf(n);n&&t(n,...r)}},8154:(e,t,r)=>{"use strict";r.d(t,{z_:()=>o,XG:()=>s,TZ:()=>n,rs:()=>i,xV:()=>a});r(6154),r(9566),r(384);const n=r(860).K7.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},8374:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},8990:(e,t,r)=>{"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},9300:(e,t,r)=>{"use strict";r.d(t,{T:()=>n});const n=r(860).K7.ajax},9324:(e,t,r)=>{"use strict";r.d(t,{AJ:()=>a,F3:()=>i,Xs:()=>o,Yq:()=>s,xv:()=>n});const n="1.303.0",i="PROD",o="CDN",a="@newrelic/rrweb",s="1.0.1"},9566:(e,t,r)=>{"use strict";r.d(t,{LA:()=>s,ZF:()=>c,bz:()=>a,el:()=>d});var n=r(6154);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map(e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}function c(){return s(16)}function d(){return s(32)}},9908:(e,t,r)=>{"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce((t,r)=>(i.f[r](e,t),t),[])),i.u=e=>({95:"nr-full-compressor",222:"nr-full-recorder",891:"nr-full"}[e]+"-1.303.0.min.js"),i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.303.0.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var d=document.getElementsByTagName("script"),u=0;u<d.length;u++){var l=d[u];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={891:"sha512-NjTqL37sTIH4ScIjNMSN8m6Ynix4ZSYE49nDzHKiY6gYpNUuEOsC1/5QN5HnuxkYRqn2UlQDJVp4sxJyZEdGXA==",222:"sha512-0Y12t8M+YYLQtd24mGFaBCMEF/U0XGMH+5jVd//rR5jMLhAjTiUIGsby5zwArCbwpIU85j9WgCsn728Y4lf2NQ==",95:"sha512-3/nNcQ5eHnNm+Fc0f0wb/kotkbeU0ggV73r7XesXbR9XYUmBehQI//8iIWuBOFQRevQeyCf3b+bke4vD3EYVaw=="};(s=document.createElement("script")).charset="utf-8",i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var h=(t,n)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach(e=>e(n)),t)return t(n)},g=setTimeout(h.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=h.bind(null,s.onerror),s.onload=h.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={85:0,959:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise((r,i)=>n=e[t]=[r,i]);r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}},"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,d=0;if(a.some(t=>0!==e[t])){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);d<a.length;d++)o=a[d],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.303.0.PROD"]=self["webpackChunk:NRBA-1.303.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8374);var e=i(9566),t=i(1741);class r extends t.W{agentIdentifier=(0,e.LA)(16)}var n=i(860);const o=Object.values(n.K7);var a=i(5205);var s=i(9908),c=i(1863),d=i(4261),u=i(3241),l=i(944),f=i(5701),h=i(8154);function g(e,t,i,o){const a=o||i;!a||a[e]&&a[e]!==r.prototype[e]||(a[e]=function(){(0,s.p)(h.xV,["API/"+e+"/called"],void 0,n.K7.metrics,i.ee),(0,u.W)({agentIdentifier:i.agentIdentifier,drained:!!f.B?.[i.agentIdentifier],type:"data",name:"api",feature:d.Pl+e,data:{}});try{return t.apply(this,arguments)}catch(e){(0,l.R)(23,e)}})}function p(e,t,r,n,i){const o=e.info;null===r?delete o.jsAttributes[t]:o.jsAttributes[t]=r,(i||null===r)&&(0,s.p)(d.Pl+n,[(0,c.t)(),t,r],void 0,"session",e.ee)}var m=i(1687),v=i(4234),b=i(5289),y=i(6154),R=i(5270),w=i(7767),x=i(6389),T=i(7699);class _ extends v.W{constructor(e,t){super(e.agentIdentifier,t),this.agentRef=e,this.abortHandler=void 0,this.featAggregate=void 0,this.loadedSuccessfully=void 0,this.onAggregateImported=new Promise(e=>{this.loadedSuccessfully=e}),this.deferred=Promise.resolve(),!1===e.init[this.featureName].autoStart?this.deferred=new Promise((t,r)=>{this.ee.on("manual-start-all",(0,x.J)(()=>{(0,m.Ak)(e.agentIdentifier,this.featureName),t()}))}):(0,m.Ak)(e.agentIdentifier,t)}importAggregator(e,t,r={}){if(this.featAggregate)return;const n=async()=>{let n;await this.deferred;try{if((0,w.V)(e.init)){const{setupAgentSession:t}=await i.e(891).then(i.bind(i,8766));n=t(e)}}catch(e){(0,l.R)(20,e),this.ee.emit("internal-error",[e]),(0,s.p)(T.qh,[e],void 0,this.featureName,this.ee)}try{if(!this.#t(this.featureName,n,e.init))return(0,m.Ze)(this.agentIdentifier,this.featureName),void this.loadedSuccessfully(!1);const{Aggregate:i}=await t();this.featAggregate=new i(e,r),e.runtime.harvester.initializedAggregates.push(this.featAggregate),this.loadedSuccessfully(!0)}catch(e){(0,l.R)(34,e),this.abortHandler?.(),(0,m.Ze)(this.agentIdentifier,this.featureName,!0),this.loadedSuccessfully(!1),this.ee&&this.ee.abort()}};y.RI?(0,b.GG)(()=>n(),!0):n()}#t(e,t,r){if(this.blocked)return!1;switch(e){case n.K7.sessionReplay:return(0,R.SR)(r)&&!!t;case n.K7.sessionTrace:return!!t;default:return!0}}}var E=i(6630),S=i(2614);class A extends _{static featureName=E.T;constructor(e){var t;super(e,E.T),this.setupInspectionEvents(e.agentIdentifier),t=e,g(d.Fw,function(e,r){"string"==typeof e&&("/"!==e.charAt(0)&&(e="/"+e),t.runtime.customTransaction=(r||"http://custom.transaction")+e,(0,s.p)(d.Pl+d.Fw,[(0,c.t)()],void 0,void 0,t.ee))},t),this.importAggregator(e,()=>i.e(891).then(i.bind(i,7550)))}setupInspectionEvents(e){const t=(t,r)=>{t&&(0,u.W)({agentIdentifier:e,timeStamp:t.timeStamp,loaded:"complete"===t.target.readyState,type:"window",name:r,data:t.target.location+""})};(0,b.sB)(e=>{t(e,"DOMContentLoaded")}),(0,b.GG)(e=>{t(e,"load")}),(0,b.Qr)(e=>{t(e,"navigate")}),this.ee.on(S.tS.UPDATE,(t,r)=>{(0,u.W)({agentIdentifier:e,type:"lifecycle",name:"session",data:r})})}}var O=i(384);var N=i(2843),I=i(3878),P=i(782);class k extends _{static featureName=P.T;constructor(e){super(e,P.T),y.RI&&((0,N.u)(()=>(0,s.p)("docHidden",[(0,c.t)()],void 0,P.T,this.ee),!0),(0,I.sp)("pagehide",()=>(0,s.p)("winPagehide",[(0,c.t)()],void 0,P.T,this.ee)),this.importAggregator(e,()=>i.e(891).then(i.bind(i,9917))))}}class j extends _{static featureName=h.TZ;constructor(e){super(e,h.TZ),y.RI&&document.addEventListener("securitypolicyviolation",e=>{(0,s.p)(h.xV,["Generic/CSPViolation/Detected"],void 0,this.featureName,this.ee)}),this.importAggregator(e,()=>i.e(891).then(i.bind(i,6555)))}}var C=i(6774),L=i(3304);class H{constructor(e,t,r,n,i){this.name="UncaughtError",this.message="string"==typeof e?e:(0,L.A)(e),this.sourceURL=t,this.line=r,this.column=n,this.__newrelic=i}}function M(e){return B(e)?e:new H(void 0!==e?.message?e.message:e,e?.filename||e?.sourceURL,e?.lineno||e?.line,e?.colno||e?.col,e?.__newrelic,e?.cause)}function K(e){const t="Unhandled Promise Rejection: ";if(!e?.reason)return;if(B(e.reason)){try{e.reason.message.startsWith(t)||(e.reason.message=t+e.reason.message)}catch(e){}return M(e.reason)}const r=M(e.reason);return(r.message||"").startsWith(t)||(r.message=t+r.message),r}function D(e){if(e.error instanceof SyntaxError&&!/:\d+$/.test(e.error.stack?.trim())){const t=new H(e.message,e.filename,e.lineno,e.colno,e.error.__newrelic,e.cause);return t.name=SyntaxError.name,t}return B(e.error)?e.error:M(e)}function B(e){return e instanceof Error&&!!e.stack}function W(e,t,r,i,o=(0,c.t)()){"string"==typeof e&&(e=new Error(e)),(0,s.p)("err",[e,o,!1,t,r.runtime.isRecording,void 0,i],void 0,n.K7.jserrors,r.ee),(0,s.p)("uaErr",[],void 0,n.K7.genericEvents,r.ee)}var F=i(4387),U=i(993),V=i(3785);function G(e,{customAttributes:t={},level:r=U.p_.INFO}={},n,i,o=(0,c.t)()){(0,V.R)(n.ee,e,t,r,i,o)}function z(e,t,r,i,o=(0,c.t)()){(0,s.p)(d.Pl+d.hG,[o,e,t,i],void 0,n.K7.genericEvents,r.ee)}function Z(e,t,r,i,o=(0,c.t)()){const{start:a,end:u,customAttributes:f}=t||{},h={customAttributes:f||{}};if("object"!=typeof h.customAttributes||"string"!=typeof e||0===e.length)return void(0,l.R)(57);const g=(e,t)=>null==e?t:"number"==typeof e?e:e instanceof PerformanceMark?e.startTime:Number.NaN;if(h.start=g(a,0),h.end=g(u,o),Number.isNaN(h.start)||Number.isNaN(h.end))(0,l.R)(57);else{if(h.duration=h.end-h.start,!(h.duration<0))return(0,s.p)(d.Pl+d.V1,[h,e,i],void 0,n.K7.genericEvents,r.ee),h;(0,l.R)(58)}}function q(e,t={},r,i,o=(0,c.t)()){(0,s.p)(d.Pl+d.fF,[o,e,t,i],void 0,n.K7.genericEvents,r.ee)}function X(e){g(d.eY,function(t){return Y(e,t)},e)}function Y(e,t,r){const i={};(0,l.R)(54,"newrelic.register"),t||={},t.eventSource="MicroFrontendBrowserAgent",t.licenseKey||=e.info.licenseKey,t.blocked=!1,t.parent=r||{};let o=()=>{};const a=e.runtime.registeredEntities,d=a.find(({metadata:{target:{id:e,name:r}}})=>e===t.id);if(d)return d.metadata.target.name!==t.name&&(d.metadata.target.name=t.name),d;const u=e=>{t.blocked=!0,o=e};e.init.api.allow_registered_children||u((0,x.J)(()=>(0,l.R)(55))),(0,F.c7)(t)||u((0,x.J)(()=>(0,l.R)(48,t))),(0,F.yo)(t.id)&&(0,F.yo)(t.name)||u((0,x.J)(()=>(0,l.R)(48,t)));const f={addPageAction:(r,n={})=>m(z,[r,{...i,...n},e],t),log:(r,n={})=>m(G,[r,{...n,customAttributes:{...i,...n.customAttributes||{}}},e],t),measure:(r,n={})=>m(Z,[r,{...n,customAttributes:{...i,...n.customAttributes||{}}},e],t),noticeError:(r,n={})=>m(W,[r,{...i,...n},e],t),register:(t={})=>m(Y,[e,t],f.metadata.target),recordCustomEvent:(r,n={})=>m(q,[r,{...i,...n},e],t),setApplicationVersion:e=>p("application.version",e),setCustomAttribute:(e,t)=>p(e,t),setUserId:e=>p("enduser.id",e),metadata:{customAttributes:i,target:t}},g=()=>(t.blocked&&o(),t.blocked);g()||a.push(f);const p=(e,t)=>{g()||(i[e]=t)},m=(t,r,i)=>{if(g())return;const o=(0,c.t)();(0,s.p)(h.xV,["API/register/".concat(t.name,"/called")],void 0,n.K7.metrics,e.ee);try{return e.init.api.duplicate_registered_data&&"register"!==t.name&&t(...r,void 0,o),t(...r,i,o)}catch(e){(0,l.R)(50,e)}};return f}class J extends _{static featureName=C.T;constructor(e){var t;super(e,C.T),t=e,g(d.o5,(e,r)=>W(e,r,t),t),function(e){g(d.bt,function(t){e.runtime.onerror=t},e)}(e),function(e){let t=0;g(d.k6,function(e,r){++t>10||(this.runtime.releaseIds[e.slice(-200)]=(""+r).slice(-200))},e)}(e),X(e);try{this.removeOnAbort=new AbortController}catch(e){}this.ee.on("internal-error",(t,r)=>{this.abortHandler&&(0,s.p)("ierr",[M(t),(0,c.t)(),!0,{},e.runtime.isRecording,r],void 0,this.featureName,this.ee)}),y.gm.addEventListener("unhandledrejection",t=>{this.abortHandler&&(0,s.p)("err",[K(t),(0,c.t)(),!1,{unhandledPromiseRejection:1},e.runtime.isRecording],void 0,this.featureName,this.ee)},(0,I.jT)(!1,this.removeOnAbort?.signal)),y.gm.addEventListener("error",t=>{this.abortHandler&&(0,s.p)("err",[D(t),(0,c.t)(),!1,{},e.runtime.isRecording],void 0,this.featureName,this.ee)},(0,I.jT)(!1,this.removeOnAbort?.signal)),this.abortHandler=this.#r,this.importAggregator(e,()=>i.e(891).then(i.bind(i,2176)))}#r(){this.removeOnAbort?.abort(),this.abortHandler=void 0}}var Q=i(8990);let ee=1;function te(e){const t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===y.gm?0:(0,Q.I)(e,"nr@id",function(){return ee++})}function re(e){if("string"==typeof e&&e.length)return e.length;if("object"==typeof e){if("undefined"!=typeof ArrayBuffer&&e instanceof ArrayBuffer&&e.byteLength)return e.byteLength;if("undefined"!=typeof Blob&&e instanceof Blob&&e.size)return e.size;if(!("undefined"!=typeof FormData&&e instanceof FormData))try{return(0,L.A)(e).length}catch(e){return}}}var ne=i(8139),ie=i(7836),oe=i(3434);const ae={},se=["open","send"];function ce(e){var t=e||ie.ee;const r=function(e){return(e||ie.ee).get("xhr")}(t);if(void 0===y.gm.XMLHttpRequest)return r;if(ae[r.debugId]++)return r;ae[r.debugId]=1,(0,ne.u)(t);var n=(0,oe.YM)(r),i=y.gm.XMLHttpRequest,o=y.gm.MutationObserver,a=y.gm.Promise,s=y.gm.setInterval,c="readystatechange",d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],u=[],f=y.gm.XMLHttpRequest=function(e){const t=new i(e),o=r.context(t);try{r.emit("new-xhr",[t],o),t.addEventListener(c,(a=o,function(){var e=this;e.readyState>3&&!a.resolved&&(a.resolved=!0,r.emit("xhr-resolved",[],e)),n.inPlace(e,d,"fn-",b)}),(0,I.jT)(!1))}catch(e){(0,l.R)(15,e);try{r.emit("internal-error",[e])}catch(e){}}var a;return t};function h(e,t){n.inPlace(t,["onreadystatechange"],"fn-",b)}if(function(e,t){for(var r in e)t[r]=e[r]}(i,f),f.prototype=i.prototype,n.inPlace(f.prototype,se,"-xhr-",b),r.on("send-xhr-start",function(e,t){h(e,t),function(e){u.push(e),o&&(g?g.then(v):s?s(v):(p=-p,m.data=p))}(t)}),r.on("open-xhr-start",h),o){var g=a&&a.resolve();if(!s&&!a){var p=1,m=document.createTextNode(p);new o(v).observe(m,{characterData:!0})}}else t.on("fn-end",function(e){e[0]&&e[0].type===c||v()});function v(){for(var e=0;e<u.length;e++)h(0,u[e]);u.length&&(u=[])}function b(e,t){return t}return r}var de="fetch-",ue=de+"body-",le=["arrayBuffer","blob","json","text","formData"],fe=y.gm.Request,he=y.gm.Response,ge="prototype";const pe={};function me(e){const t=function(e){return(e||ie.ee).get("fetch")}(e);if(!(fe&&he&&y.gm.fetch))return t;if(pe[t.debugId]++)return t;function r(e,r,n){var i=e[r];"function"==typeof i&&(e[r]=function(){var e,r=[...arguments],o={};t.emit(n+"before-start",[r],o),o[ie.P]&&o[ie.P].dt&&(e=o[ie.P].dt);var a=i.apply(this,r);return t.emit(n+"start",[r,e],a),a.then(function(e){return t.emit(n+"end",[null,e],a),e},function(e){throw t.emit(n+"end",[e],a),e})})}return pe[t.debugId]=1,le.forEach(e=>{r(fe[ge],e,ue),r(he[ge],e,ue)}),r(y.gm,"fetch",de),t.on(de+"end",function(e,r){var n=this;if(r){var i=r.headers.get("content-length");null!==i&&(n.rxSize=i),t.emit(de+"done",[null,r],n)}else t.emit(de+"done",[e],n)}),t}var ve=i(7485);class be{constructor(e){this.agentRef=e}generateTracePayload(t){const r=this.agentRef.loader_config;if(!this.shouldGenerateTrace(t)||!r)return null;var n=(r.accountID||"").toString()||null,i=(r.agentID||"").toString()||null,o=(r.trustKey||"").toString()||null;if(!n||!i)return null;var a=(0,e.ZF)(),s=(0,e.el)(),c=Date.now(),d={spanId:a,traceId:s,timestamp:c};return(t.sameOrigin||this.isAllowedOrigin(t)&&this.useTraceContextHeadersForCors())&&(d.traceContextParentHeader=this.generateTraceContextParentHeader(a,s),d.traceContextStateHeader=this.generateTraceContextStateHeader(a,c,n,i,o)),(t.sameOrigin&&!this.excludeNewrelicHeader()||!t.sameOrigin&&this.isAllowedOrigin(t)&&this.useNewrelicHeaderForCors())&&(d.newrelicHeader=this.generateTraceHeader(a,s,c,n,i,o)),d}generateTraceContextParentHeader(e,t){return"00-"+t+"-"+e+"-01"}generateTraceContextStateHeader(e,t,r,n,i){return i+"@nr=0-1-"+r+"-"+n+"-"+e+"----"+t}generateTraceHeader(e,t,r,n,i,o){if(!("function"==typeof y.gm?.btoa))return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:i,id:e,tr:t,ti:r}};return o&&n!==o&&(a.d.tk=o),btoa((0,L.A)(a))}shouldGenerateTrace(e){return this.agentRef.init?.distributed_tracing?.enabled&&this.isAllowedOrigin(e)}isAllowedOrigin(e){var t=!1;const r=this.agentRef.init?.distributed_tracing;if(e.sameOrigin)t=!0;else if(r?.allowed_origins instanceof Array)for(var n=0;n<r.allowed_origins.length;n++){var i=(0,ve.D)(r.allowed_origins[n]);if(e.hostname===i.hostname&&e.protocol===i.protocol&&e.port===i.port){t=!0;break}}return t}excludeNewrelicHeader(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!!e.exclude_newrelic_header}useNewrelicHeaderForCors(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!1!==e.cors_use_newrelic_header}useTraceContextHeadersForCors(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!!e.cors_use_tracecontext_headers}}var ye=i(9300),Re=i(7295);function we(e){return"string"==typeof e?e:e instanceof(0,O.dV)().o.REQ?e.url:y.gm?.URL&&e instanceof URL?e.href:void 0}var xe=["load","error","abort","timeout"],Te=xe.length,_e=(0,O.dV)().o.REQ,Ee=(0,O.dV)().o.XHR;const Se="X-NewRelic-App-Data";class Ae extends _{static featureName=ye.T;constructor(e){super(e,ye.T),this.dt=new be(e),this.handler=(e,t,r,n)=>(0,s.p)(e,t,r,n,this.ee);try{const e={xmlhttprequest:"xhr",fetch:"fetch",beacon:"beacon"};y.gm?.performance?.getEntriesByType("resource").forEach(t=>{if(t.initiatorType in e&&0!==t.responseStatus){const r={status:t.responseStatus},i={rxSize:t.transferSize,duration:Math.floor(t.duration),cbTime:0};Oe(r,t.name),this.handler("xhr",[r,i,t.startTime,t.responseEnd,e[t.initiatorType]],void 0,n.K7.ajax)}})}catch(e){}me(this.ee),ce(this.ee),function(e,t,r,i){function o(e){var t=this;t.totalCbs=0,t.called=0,t.cbTime=0,t.end=_,t.ended=!1,t.xhrGuids={},t.lastSize=null,t.loadCaptureCalled=!1,t.params=this.params||{},t.metrics=this.metrics||{},t.latestLongtaskEnd=0,e.addEventListener("load",function(r){E(t,e)},(0,I.jT)(!1)),y.lR||e.addEventListener("progress",function(e){t.lastSize=e.loaded},(0,I.jT)(!1))}function a(e){this.params={method:e[0]},Oe(this,e[1]),this.metrics={}}function d(t,r){e.loader_config.xpid&&this.sameOrigin&&r.setRequestHeader("X-NewRelic-ID",e.loader_config.xpid);var n=i.generateTracePayload(this.parsedOrigin);if(n){var o=!1;n.newrelicHeader&&(r.setRequestHeader("newrelic",n.newrelicHeader),o=!0),n.traceContextParentHeader&&(r.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&r.setRequestHeader("tracestate",n.traceContextStateHeader),o=!0),o&&(this.dt=n)}}function u(e,r){var n=this.metrics,i=e[0],o=this;if(n&&i){var a=re(i);a&&(n.txSize=a)}this.startTime=(0,c.t)(),this.body=i,this.listener=function(e){try{"abort"!==e.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==e.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof r.onload)&&"function"==typeof o.end)&&o.end(r)}catch(e){try{t.emit("internal-error",[e])}catch(e){}}};for(var s=0;s<Te;s++)r.addEventListener(xe[s],this.listener,(0,I.jT)(!1))}function l(e,t,r){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof r.onload||"function"!=typeof this.end||this.end(r)}function f(e,t){var r=""+te(e)+!!t;this.xhrGuids&&!this.xhrGuids[r]&&(this.xhrGuids[r]=!0,this.totalCbs+=1)}function g(e,t){var r=""+te(e)+!!t;this.xhrGuids&&this.xhrGuids[r]&&(delete this.xhrGuids[r],this.totalCbs-=1)}function p(){this.endTime=(0,c.t)()}function m(e,r){r instanceof Ee&&"load"===e[0]&&t.emit("xhr-load-added",[e[1],e[2]],r)}function v(e,r){r instanceof Ee&&"load"===e[0]&&t.emit("xhr-load-removed",[e[1],e[2]],r)}function b(e,t,r){t instanceof Ee&&("onload"===r&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,c.t)()))}function R(e,r){this.xhrCbStart&&t.emit("xhr-cb-time",[(0,c.t)()-this.xhrCbStart,this.onload,r],r)}function w(e){var t,r=e[1]||{};if("string"==typeof e[0]?0===(t=e[0]).length&&y.RI&&(t=""+y.gm.location.href):e[0]&&e[0].url?t=e[0].url:y.gm?.URL&&e[0]&&e[0]instanceof URL?t=e[0].href:"function"==typeof e[0].toString&&(t=e[0].toString()),"string"==typeof t&&0!==t.length){t&&(this.parsedOrigin=(0,ve.D)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var n=i.generateTracePayload(this.parsedOrigin);if(n&&(n.newrelicHeader||n.traceContextParentHeader))if(e[0]&&e[0].headers)s(e[0].headers,n)&&(this.dt=n);else{var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),s(o.headers,n)&&(this.dt=n),e.length>1?e[1]=o:e.push(o)}}function s(e,t){var r=!1;return t.newrelicHeader&&(e.set("newrelic",t.newrelicHeader),r=!0),t.traceContextParentHeader&&(e.set("traceparent",t.traceContextParentHeader),t.traceContextStateHeader&&e.set("tracestate",t.traceContextStateHeader),r=!0),r}}function x(e,t){this.params={},this.metrics={},this.startTime=(0,c.t)(),this.dt=t,e.length>=1&&(this.target=e[0]),e.length>=2&&(this.opts=e[1]);var r=this.opts||{},n=this.target;Oe(this,we(n));var i=(""+(n&&n instanceof _e&&n.method||r.method||"GET")).toUpperCase();this.params.method=i,this.body=r.body,this.txSize=re(r.body)||0}function T(e,t){if(this.endTime=(0,c.t)(),this.params||(this.params={}),(0,Re.iW)(this.params))return;let i;this.params.status=t?t.status:0,"string"==typeof this.rxSize&&this.rxSize.length>0&&(i=+this.rxSize);const o={txSize:this.txSize,rxSize:i,duration:(0,c.t)()-this.startTime};r("xhr",[this.params,o,this.startTime,this.endTime,"fetch"],this,n.K7.ajax)}function _(e){const t=this.params,i=this.metrics;if(!this.ended){this.ended=!0;for(let t=0;t<Te;t++)e.removeEventListener(xe[t],this.listener,!1);t.aborted||(0,Re.iW)(t)||(i.duration=(0,c.t)()-this.startTime,this.loadCaptureCalled||4!==e.readyState?null==t.status&&(t.status=0):E(this,e),i.cbTime=this.cbTime,r("xhr",[t,i,this.startTime,this.endTime,"xhr"],this,n.K7.ajax))}}function E(e,r){e.params.status=r.status;var i=function(e,t){var r=e.responseType;return"json"===r&&null!==t?t:"arraybuffer"===r||"blob"===r||"json"===r?re(e.response):"text"===r||""===r||void 0===r?re(e.responseText):void 0}(r,e.lastSize);if(i&&(e.metrics.rxSize=i),e.sameOrigin&&r.getAllResponseHeaders().indexOf(Se)>=0){var o=r.getResponseHeader(Se);o&&((0,s.p)(h.rs,["Ajax/CrossApplicationTracing/Header/Seen"],void 0,n.K7.metrics,t),e.params.cat=o.split(", ").pop())}e.loadCaptureCalled=!0}t.on("new-xhr",o),t.on("open-xhr-start",a),t.on("open-xhr-end",d),t.on("send-xhr-start",u),t.on("xhr-cb-time",l),t.on("xhr-load-added",f),t.on("xhr-load-removed",g),t.on("xhr-resolved",p),t.on("addEventListener-end",m),t.on("removeEventListener-end",v),t.on("fn-end",R),t.on("fetch-before-start",w),t.on("fetch-start",x),t.on("fn-start",b),t.on("fetch-done",T)}(e,this.ee,this.handler,this.dt),this.importAggregator(e,()=>i.e(891).then(i.bind(i,3845)))}}function Oe(e,t){var r=(0,ve.D)(t),n=e.params||e;n.hostname=r.hostname,n.port=r.port,n.protocol=r.protocol,n.host=r.hostname+":"+r.port,n.pathname=r.pathname,e.parsedOrigin=r,e.sameOrigin=r.sameOrigin}const Ne={},Ie=["pushState","replaceState"];function Pe(e){const t=function(e){return(e||ie.ee).get("history")}(e);return!y.RI||Ne[t.debugId]++||(Ne[t.debugId]=1,(0,oe.YM)(t).inPlace(window.history,Ie,"-")),t}var ke=i(3738);function je(e){g(d.BL,function(t=Date.now()){const r=t-y.WN;r<0&&(0,l.R)(62,t),(0,s.p)(h.XG,[d.BL,{time:r}],void 0,n.K7.metrics,e.ee),e.addToTrace({name:d.BL,start:t,origin:"nr"}),(0,s.p)(d.Pl+d.hG,[r,d.BL],void 0,n.K7.genericEvents,e.ee)},e)}const{He:Ce,bD:Le,d3:He,Kp:Me,TZ:Ke,Lc:De,uP:Be,Rz:We}=ke;class Fe extends _{static featureName=Ke;constructor(e){var t;super(e,Ke),t=e,g(d.U2,function(e){if(!(e&&"object"==typeof e&&e.name&&e.start))return;const r={n:e.name,s:e.start-y.WN,e:(e.end||e.start)-y.WN,o:e.origin||"",t:"api"};r.s<0||r.e<0||r.e<r.s?(0,l.R)(61,{start:r.s,end:r.e}):(0,s.p)("bstApi",[r],void 0,n.K7.sessionTrace,t.ee)},t),je(e);if(!(0,w.V)(e.init))return void this.deregisterDrain();const r=this.ee;let o;Pe(r),this.eventsEE=(0,ne.u)(r),this.eventsEE.on(Be,function(e,t){this.bstStart=(0,c.t)()}),this.eventsEE.on(De,function(e,t){(0,s.p)("bst",[e[0],t,this.bstStart,(0,c.t)()],void 0,n.K7.sessionTrace,r)}),r.on(We+He,function(e){this.time=(0,c.t)(),this.startPath=location.pathname+location.hash}),r.on(We+Me,function(e){(0,s.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,n.K7.sessionTrace,r)});try{o=new PerformanceObserver(e=>{const t=e.getEntries();(0,s.p)(Ce,[t],void 0,n.K7.sessionTrace,r)}),o.observe({type:Le,buffered:!0})}catch(e){}this.importAggregator(e,()=>i.e(891).then(i.bind(i,6974)),{resourceObserver:o})}}var Ue=i(6344);class Ve extends _{static featureName=Ue.TZ;#n;recorder;constructor(e){var t;let r;super(e,Ue.TZ),t=e,g(d.CH,function(){(0,s.p)(d.CH,[],void 0,n.K7.sessionReplay,t.ee)},t),function(e){g(d.Tb,function(){(0,s.p)(d.Tb,[],void 0,n.K7.sessionReplay,e.ee)},e)}(e);try{r=JSON.parse(localStorage.getItem("".concat(S.H3,"_").concat(S.uh)))}catch(e){}(0,R.SR)(e.init)&&this.ee.on(d.CH,()=>this.#i()),this.#o(r)&&this.importRecorder().then(e=>{e.startRecording(Ue.Qb.PRELOAD,r?.sessionReplayMode)}),this.importAggregator(this.agentRef,()=>i.e(891).then(i.bind(i,6167)),this),this.ee.on("err",e=>{this.blocked||this.agentRef.runtime.isRecording&&(this.errorNoticed=!0,(0,s.p)(Ue.Vh,[e],void 0,this.featureName,this.ee))})}#o(e){return e&&(e.sessionReplayMode===S.g.FULL||e.sessionReplayMode===S.g.ERROR)||(0,R.Aw)(this.agentRef.init)}importRecorder(){return this.recorder?Promise.resolve(this.recorder):(this.#n??=Promise.all([i.e(891),i.e(222)]).then(i.bind(i,4866)).then(({Recorder:e})=>(this.recorder=new e(this),this.recorder)).catch(e=>{throw this.ee.emit("internal-error",[e]),this.blocked=!0,e}),this.#n)}#i(){this.blocked||(this.featAggregate?this.featAggregate.mode!==S.g.FULL&&this.featAggregate.initializeRecording(S.g.FULL,!0,Ue.Qb.API):this.importRecorder().then(()=>{this.recorder.startRecording(Ue.Qb.API,S.g.FULL)}))}}var Ge=i(3333);class ze extends _{static featureName=Ge.TZ;constructor(e){super(e,Ge.TZ);const t=[e.init.page_action.enabled,e.init.performance.capture_marks,e.init.performance.capture_measures,e.init.user_actions.enabled,e.init.performance.resources.enabled];var r;r=e,g(d.hG,(e,t)=>z(e,t,r),r),function(e){g(d.fF,(t,r)=>q(t,r,e),e)}(e),je(e),X(e),function(e){g(d.V1,(t,r)=>Z(t,r,e),e)}(e);const o=e.init.feature_flags.includes("user_frustrations");let a;if(y.RI&&o&&(me(this.ee),ce(this.ee),a=Pe(this.ee)),y.RI){if(e.init.user_actions.enabled&&(Ge.Zp.forEach(e=>(0,I.sp)(e,e=>(0,s.p)("ua",[e],void 0,this.featureName,this.ee),!0)),Ge.qN.forEach(e=>{const t=(0,x.s)(e=>{(0,s.p)("ua",[e],void 0,this.featureName,this.ee)},500,{leading:!0});(0,I.sp)(e,t)}),o)){function c(t){const r=(0,ve.D)(t);return e.beacons.includes(r.hostname+":"+r.port)}function u(){a.emit("navChange")}y.gm.addEventListener("error",()=>{(0,s.p)("uaErr",[],void 0,n.K7.genericEvents,this.ee)},(0,I.jT)(!1,this.removeOnAbort?.signal)),this.ee.on("open-xhr-start",(e,t)=>{c(e[1])||t.addEventListener("readystatechange",()=>{2===t.readyState&&(0,s.p)("uaXhr",[],void 0,n.K7.genericEvents,this.ee)})}),this.ee.on("fetch-start",e=>{e.length>=1&&!c(we(e[0]))&&(0,s.p)("uaXhr",[],void 0,n.K7.genericEvents,this.ee)}),a.on("pushState-end",u),a.on("replaceState-end",u),window.addEventListener("hashchange",u,(0,I.jT)(!0,this.removeOnAbort?.signal)),window.addEventListener("popstate",u,(0,I.jT)(!0,this.removeOnAbort?.signal))}if(e.init.performance.resources.enabled&&y.gm.PerformanceObserver?.supportedEntryTypes.includes("resource")){new PerformanceObserver(e=>{e.getEntries().forEach(e=>{(0,s.p)("browserPerformance.resource",[e],void 0,this.featureName,this.ee)})}).observe({type:"resource",buffered:!0})}}try{this.removeOnAbort=new AbortController}catch(l){}this.abortHandler=()=>{this.removeOnAbort?.abort(),this.abortHandler=void 0},t.some(e=>e)?this.importAggregator(e,()=>i.e(891).then(i.bind(i,8019))):this.deregisterDrain()}}var Ze=i(2646);const qe=new Map;function Xe(e,t,r,n){if("object"!=typeof t||!t||"string"!=typeof r||!r||"function"!=typeof t[r])return(0,l.R)(29);const i=function(e){return(e||ie.ee).get("logger")}(e),o=(0,oe.YM)(i),a=new Ze.y(ie.P);a.level=n.level,a.customAttributes=n.customAttributes;const s=t[r]?.[oe.Jt]||t[r];return qe.set(s,a),o.inPlace(t,[r],"wrap-logger-",()=>qe.get(s)),i}var Ye=i(1910);class Je extends _{static featureName=U.TZ;constructor(e){var t;super(e,U.TZ),t=e,g(d.$9,(e,r)=>G(e,r,t),t),function(e){g(d.Wb,(t,r,{customAttributes:n={},level:i=U.p_.INFO}={})=>{Xe(e.ee,t,r,{customAttributes:n,level:i})},e)}(e),X(e);const r=this.ee;["log","error","warn","info","debug","trace"].forEach(e=>{(0,Ye.i)(y.gm.console[e]),Xe(r,y.gm.console,e,{level:"log"===e?"info":e})}),this.ee.on("wrap-logger-end",function([e]){const{level:t,customAttributes:n}=this;(0,V.R)(r,e,n,t)}),this.importAggregator(e,()=>i.e(891).then(i.bind(i,5288)))}}new class extends r{constructor(e){var t;(super(),y.gm)?(this.features={},(0,O.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(e.features||[]),this.desiredFeatures.add(A),this.runSoftNavOverSpa=[...this.desiredFeatures].some(e=>e.featureName===n.K7.softNav),(0,a.j)(this,e,e.loaderType||"agent"),t=this,g(d.cD,function(e,r,n=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof r)||null===r)return p(t,e,r,d.cD,n);(0,l.R)(40,typeof r)}else(0,l.R)(39,typeof e)},t),function(e){g(d.Dl,function(t){if("string"==typeof t||null===t)return p(e,"enduser.id",t,d.Dl,!0);(0,l.R)(41,typeof t)},e)}(this),function(e){g(d.nb,function(t){if("string"==typeof t||null===t)return p(e,"application.version",t,d.nb,!1);(0,l.R)(42,typeof t)},e)}(this),function(e){g(d.d3,function(){e.ee.emit("manual-start-all")},e)}(this),function(e){g(d.Pv,function(t=!0){if("boolean"==typeof t){if((0,s.p)(d.Pl+d.Pv,[t],void 0,"session",e.ee),e.runtime.consented=t,t){const t=e.features.page_view_event;t.onAggregateImported.then(e=>{const r=t.featAggregate;e&&!r.sentRum&&r.sendRum()})}}else(0,l.R)(65,typeof t)},e)}(this),this.run()):(0,l.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}get api(){return this}run(){try{const e=function(e){const t={};return o.forEach(r=>{t[r]=!!e[r]?.enabled}),t}(this.init),t=[...this.desiredFeatures];t.sort((e,t)=>n.P3[e.featureName]-n.P3[t.featureName]),t.forEach(t=>{if(!e[t.featureName]&&t.featureName!==n.K7.pageViewEvent)return;if(this.runSoftNavOverSpa&&t.featureName===n.K7.spa)return;if(!this.runSoftNavOverSpa&&t.featureName===n.K7.softNav)return;const r=function(e){switch(e){case n.K7.ajax:return[n.K7.jserrors];case n.K7.sessionTrace:return[n.K7.ajax,n.K7.pageViewEvent];case n.K7.sessionReplay:return[n.K7.sessionTrace];case n.K7.pageViewTiming:return[n.K7.pageViewEvent];default:return[]}}(t.featureName).filter(e=>!(e in this.features));r.length>0&&(0,l.R)(36,{targetFeature:t.featureName,missingDependencies:r}),this.features[t.featureName]=new t(this)})}catch(e){(0,l.R)(22,e);for(const e in this.features)this.features[e].abortHandler?.();const t=(0,O.Zm)();delete t.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return t.ee.get(this.agentIdentifier).abort(),!1}}}({features:[A,k,Fe,Ve,Ae,j,J,ze,Je],loaderType:"pro"})})()})();</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- GSD-6549 : added Image Tag to Meta Robots for Greater Image Visibility -->
+    <meta name="robots" content="max-image-preview:large">
+    
+    	<!-- BAU-10287: If metacontent is set then use robots tag -->
+    	    		<meta name="robots" content="index, follow">
+    	              <meta name="description" content="Describing the philosophy of the scientific method and the training and professional characteristics needed for a successful career, Scientific Research as a Ca" />
+
+        <title>Scientific Research as a Career - 1st Edition - Finlay MacRitchie - Ro</title>
+        <!-- GSD-4657 Implementation-Eliminate Render Blocking Resources -->
+        <link rel="preload" href="/js/vendor/modernizr.js?ver=1763360122" as="script" fetchpriority="low">
+        <link rel="preload" href="/js/bootstrap.bundle.min.js" as="script" fetchpriority="high">
+        <link rel="preconnect" href="https://fonts.gstatic.com" fetchpriority="high">
+                  <link rel="canonical" href="https://www.routledge.com/Scientific-Research-as-a-Career/MacRitchie/p/book/9781439869659" />
+            
+    <link rel="shortcut icon" href="/favicon.ico" />
+	<!-- GSD-2621: Eliminate-render-blocking-resources -->
+	<link rel="preload stylesheet" href="/css/vendor.css" as="style">
+	  <!-- Style sheets -->
+	<link rel="preload stylesheet" href="/css/bootstrap.min.css" as="style" onload="this.media='all';this.onload=null;" fetchpriority="high">
+		
+  	  	      	<link rel="preload stylesheet" href="/rsc/css/ubw.css?ver=1763998335" as="style" fetchpriority="high">
+                <link rel="preload stylesheet" href="/rsc/css/product-new.css?ver=1763998707" as="style" fetchpriority="high">
+                <!-- GSD-4799 added the css for embedded videos  -->
+    
+        <link rel="preload stylesheet" href="/css/placeholder-loading.min.css" as="style" fetchpriority="high">
+        
+	  
+    <!-- Google web fonts -->
+	<link rel="preload stylesheet" href="//fonts.googleapis.com/css?family=Droid+Serif:400&display=swap" as="style" fetchpriority="high">
+	<link rel="preload stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" as="style" fetchpriority="high">
+
+
+    
+	        
+        <meta name="Keyword" content="ereader" />
+    <meta property="fb:app_id" content="129720800446840" />
+    <meta property="og:site_name" content="Routledge & CRC Press" />
+    <meta property="og:type" content="books.book" />
+    <meta property="og:url" content="https://www.routledge.com/Scientific-Research-as-a-Career/MacRitchie/p/book/9781439869659" />
+    <meta property="og:image" content="https://images.routledge.com/common/jackets/crclarge/978143986/9781439869659.jpg" />
+    <meta property="og:description" content="Describing the philosophy of the scientific method and the training and professional characteristics needed for a successful career, Scientific Research as a Career is a comprehensive "how-to" guide for the aspiring scientist. Based on the author’s experience both as a scientist in a research organization and as a university mentor, the book covers:
+
+
+
+The interaction between management and leadership principles and scientific research
+Qualifications and attributes usually required to become a" />
+    <meta property="og:title" content="Scientific Research as a Career" />
+    <meta property="product:brand" content="CRC Press" />
+    <!-- GSD-2539-Product Pages - FB Microdata changes -->
+    <meta name="product_availability" property="product:availability" content="" />
+    <meta property="product:condition" content="new" />
+    <meta name="price" property="product:price:amount" content="" />
+    <meta property="product:price:currency" content="USD" />
+    <meta property="product:retailer_item_id" content="9781439869659" />
+    <meta property="books:release_date" content="43441-01-28" />
+    <meta property="books:isbn" content="9781439869659" />
+    <!-- GSD-6549 : added Image Tag to Meta Robots for Greater Image Visibility -->
+    <meta name="robots" content="max-image-preview:large">
+
+    <!--GSD-2323 Product Page Schema Update-->
+        <!--GSD-2827 Preload Largest contentful paint image-->
+		<link rel="preload" as="image" href="https://images.routledge.com/common/jackets/crclarge/978143986/9781439869659.jpg">
+            <script type="text/javascript" >
+    var userregion = "US";
+    var usercurrencyname = "USD";
+    var ga_account_consol = '';
+    var fa_url='';
+          fa_url='https://authors.taylorandfrancis.com/';
+        var page='';
+        	page='product-new';
+    	        	var gaIsbn = '9781439869659';
+        	<!-- GSD-2303 : Send all ISBNS to validate -->
+        	var ubxisbns = ['9781040057636','9781439869673','9781439869659','1439869650','9781138410275','1138410276','9780429105258','0429105258'];
+          var defaultBinding = '';
+        	 defaultBinding = 'PAPE';     		<!-- GSD-2767 : Send COMPSITE to display in support materials section -->
+        	var compsite = '';
+        <!-- GSD-3077 : Pull Fully Open Access Title data from GT Classifications table and remove Full Open Access option from EE -->
+          var openAccess = '';
+        <!-- RC10-26: Defining js variables in header that are to be used in product page ajax calls -->
+          var productIsbn = '9781439869659';
+          var productIsbn10 = '1439869650';
+          var productIds = ['281368','625381','765300'];
+          var productIsbn10Array = '{"9781439869659":{"isbn10":"1439869650","bindingType":"PAPE"},"9781138410275":{"isbn10":"1138410276","bindingType":"HARD"},"9780429105258":{"isbn10":"0429105258","bindingType":"EBK"}}';
+          var pubDate = '21-06-2011';
+          var imprint = 'CRC Press';
+          var imprintCode = 'IMPCR';
+          var productName = 'Scientific Research as a Career';
+          var productImage = 'https://images.routledge.com/common/jackets/crclarge/978143986/9781439869659.jpg'
+          var canonical = 'https://www.routledge.com/Scientific-Research-as-a-Career/MacRitchie/p/book/9781439869659';
+          var description = 'Describing the philosophy of the scientific method and the training and professional characteristics needed for a successful career, Scientific Research as a Career is a comprehensive how-to guide for the aspiring scientist. Based on the author’s experience both as a scientist in a research organization and as a university mentor, the book covers:    The interaction between management and leadership principles and scientific research Qualifications and attributes usually required to become a successful researcher  History, application, and prerequisites of the scientific method and scientific progress Exploration of the careers of pivotal and influential scientists    The author highlights the importance of networking and the value of forming contacts with colleagues, joining scientific associations, attending conferences, making presentations, and acting as chairs for conference sessions. He also touches on the many areas outside of the science that readers are likely to encount';
+          var inspectionCopyIsbn = '9780429105258';
+          var showInspectionCopyLink = '';
+          showInspectionCopyLink = '1';          var inspectionCopyType = 'EBK';
+          var vitalSourceIsbn = '9780429105258';
+
+        	<!-- GSD-3012 : Send division in support material section -->
+          var division = 'CHMS';
+          <!-- GSD 7015 defining cloudflare URL -->
+          var cloudflare_image_worker_url = 'https://productimages.routledge.com/';
+		   	        var  loaderImage = '/images/ajax-spinner.gif';
+    var  productDefaultImage = '/img/covers/image-not-available.png';
+    var  productDefaultImageSmall = '/img/covers/default.jpeg';
+        var  loadingImageSmall = '/img/covers/loading-image-sm.png';
+    </script>
+    
+    <script src="/js/vendor/modernizr.js?ver=1763360122"></script>
+	<!-- GSD-2741 use vendor js file as asynch/defer -->
+  <!-- GSD-7538 for  content_pages and go we are not loading JS -->
+  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js" fetchpriority="high"></script>
+    
+	<script src="https://cdn.jsdelivr.net/npm/select2@3.5.1/select2.min.js" defer></script>
+	<!-- GSD-5182: Using separate library for readmore.js -->
+	<script src="/js/readmore.min.js" defer></script>
+  	<!-- GSD-4315: Using latest Bootstrap library -->
+	<script src="/js/bootstrap.bundle.min.js"></script>
+  <!-- Font Awesome plus script for FA5 kit -->
+  <!-- GSD-2621: Eliminate-render-blocking-resources -->
+  <link rel="preload stylesheet" href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css" as="style" media="print" onload="this.media='all';this.onload=null;">
+  <link rel="preload stylesheet" href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-font-face.min.css" as="style" media="print" onload="this.media='all';this.onload=null;">
+  <link rel="preload stylesheet" href="https://kit-free.fontawesome.com/releases/latest/css/free.min.css" as="style" media="print" onload="this.media='all';this.onload=null;">
+  <!-- GSD-2619: Reduce JavaScript Execution Time (contentsquare js)-->
+  <script   src="/js/contentsquare/2b08024120432.js" defer></script>
+   <!-- BAU-9494: Routledge.com (The Routledge ecommerce site): Urgent-->
+  <script   src="https://cdn.optimizely.com/js/19960974376.js" defer></script>
+        <!-- GSD-4028: Investigate Background Images that are Contributing to Poor LCP-->
+        <!-- Preload banner image -->
+        
+                        <!-- GSD-4474: Preload all banner images -->
+         
+        <!-- GSD-4474: Preload all blog post images -->
+                <!-- GSD-4474: Preload go page banner image -->
+         
+        <!-- GSD-4733: Preload Subject Category Landing Page background image -->
+                
+        <!-- GSD-4474: Preload footer logo --> 
+        <link rel="preload image" href="/images/routledge-logo-lg.png" as="image">
+</head>
+
+<body id="up" class="product">
+	
+	<!-- BAU-6005: Always keep GTM script just after the <body> tag -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW3LJ3D"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- BAU-4614 : Send product page view data to datalayer  -->
+			<script type="text/javascript">
+    		dataLayer.push({
+                'productId': "9781439869659",
+                'productName': 'Scientific Research as a Career',
+                'content_type': "product"
+            });
+		</script>
+	    
+	<!-- GSD-2969:Load sale button & sale banner with page load instead of loading through ajax-->
+    
+	<header id="top" class="site">
+		<a title="Skip to main content of page" class="skip" href="#content">Skip to main content</a>
+      <div class="website_alert"> </div>
+      <div class="topbar">
+        <div class="container">
+        <div class=" ship">       
+            <div class="row ">
+              <div class="col-12 col-md-6 pt-1 text-center text-md-start pb-2 pb-md-0">
+                <i class="fas fa-shipping-fast me-1"></i> <a href="/policies/shipping-policy" class="text-white">Free standard shipping on all orders</a>
+              </div>
+              <div class="col-12 col-md-6 text-center text-md-end">
+                <ul class="paylogos">
+                  <li><img title="Visa" src="/rsc/images/crclanding/visa-pay.png" class="img-fluid" alt="Visa"></li>
+                  <li><img title="Master Card" src="/rsc/images/crclanding/mastercard-pay.png" class="img-fluid" alt="Master Card"></li>
+                  <li><img title="American Express" src="/rsc/images/crclanding/amex-pay.png" class="img-fluid" alt="American Express"></li>
+                  <li><img title="Apple Pay" src="/rsc/images/crclanding/apple-pay.png" class="img-fluid" alt="Apple Pay"></li>
+                  <li><img title="Google Pay" src="/rsc/images/crclanding/google-pay.png" class="img-fluid" alt="Google Pay"></li>
+                  <li><img title="JCB" src="/rsc/images/crclanding/jcb-pay.png" class="img-fluid" alt="JCB"></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+		<div class="container mt-0 mt-sm-2">
+			<div class="row">
+				<div class="col-3 d-lg-none bars">
+					<a href="javascript:void(0);" title="Toggle Menu" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<i class="fas fa-bars fa-2x"></i>
+					</a>
+				</div>
+				<div class="col-6 col-lg-3 order-1 py-3 text-center rlogo">
+                                <!-- GSD-3901:Change alt text to Routledge Home-->
+					  <a title="Links to Routledge Home Page" href="/"><img class="img-fluid m-0" width="214" height="60" src="/images/routledge-logo.png" alt="Routledge Home" /></a>
+				</div>
+				<div class="col-12 col-lg-6 order-3 order-lg-3 srch">
+					<form id="basicSrchFrm" class="position-relative" action="/search" method="GET" role="search">
+						
+    					<div class="input-group">
+    						    						<input type="hidden" id="inputGroupSelect01" value="1">
+							                            <label for="basicSrchKwInHeader" class="hidden" id="searchInput">Search</label>
+                            <!--GSD-5961: Accessibility enhancements to basic search autocomplete -->
+                            <!--GSD-6622: Basic Search - Accessibility Issue -->
+                            <input type="text" name="kw" id="basicSrchKwInHeader" autocomplete="OFF" maxlength="125" class="form-control sch" placeholder="Search by keywords, subject, or ISBN" aria-labelledby="searchInput" aria-describedby="instructions" aria-owns="results" aria-expanded="false" aria-autocomplete="both" aria-activedescendant="">
+                            							<button type="submit" aria-label="Search" class="btn search-btn">
+								<i title="Search Button" class="fas fa-search fa-2x"></i>
+							</button>
+						</div>
+						<section id="searchautocomplete" class="w-100 ms-0" style="display: none;"></section>
+            <div style="display:none" id="instructions">To hear autocomplete suggestions tab past the search button after typing keywords.</div>
+            			
+					</form>
+				</div>
+				<div class="col-3 order-2 order-lg-3 utilitynav">
+					<div class="container p-0 p-md-3">
+						<div class="row" id="headerlogos">
+							<ul class="faw-icons skeleton-loading" id="desktopNavigationMenu">
+                <p class="nav-icons"></p>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+   	  	<!-- Begin Navigation Bar -->
+   	  		
+   	  		<style>
+   	  			header.site .dropdown-menu.show{left:0; top:100%;}
+   	  		</style>
+   	  		
+			<nav class="navbar navbar-expand-lg text-center" role="navigation">
+				  <div class="collapse navbar-collapse navbarSupportedContent" id="navbarSupportedContent">
+					<ul class="navbar-nav mx-auto sale_alert" id="mobileNavigationMenu">
+           
+              <!-- GSD-3902: Include mega menu here -->
+					  	<!--GSD-3724 : AND Digital - Shop by Subject Mega Menu Design -->
+<li class="nav-item dropdown shop-by-subject">
+	<a class="nav-link dropdown-toggle" href="#" id="megamenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Shop By Subject </a>
+	<div class="dropdown-menu mmenu-parent" aria-labelledby="megamenu">
+		<div class="container no-left-right">
+			<div class="mmenu">
+				<div class="row justify-content-end AppendMenuItems">
+					
+					
+					
+                    
+            		
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+                                                                                                                                                    	<li class="nav-item dropdown">
+																        							        								        
+							    	
+                              							  <a class="nav-link dropdown-toggle dropdownlist" href="javascript:void();" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> New & Bestselling </a>
+							  									  <div class="dropdown-menu drop-down-bar" aria-labelledby="navbarDropdown2">
+
+								  </div>
+							  	
+						 	                                                                     	</li>
+                                                                                                                                  	<li class="nav-item dropdown">
+																        							        								        
+							    	
+                              							  <a class="nav-link dropdown-toggle dropdownlist" href="javascript:void();" id="navbarDropdown3" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Featured Books </a>
+							  									  <div class="dropdown-menu drop-down-bar" aria-labelledby="navbarDropdown3">
+
+								  </div>
+							  	
+						 	                                                                     	</li>
+                                                                                                                                  	<li class="nav-item dropdown">
+																        							        								  			<a class="nav-link" href="/our-customers/instructors/textbooks/inspection-copies" id="navbarDropdownd4"> Request an Inspection Copy </a>
+							  	      							        
+							    	
+                                                                                                 	</li>
+                                                                                                                                  	<li class="nav-item dropdown">
+																        							        								  			<a class="nav-link" href="/our-customers/authors" id="navbarDropdownd5"> Publish With Us </a>
+							  	      							        
+							    	
+                                                                                                 	</li>
+                                                                                                                                  	<li class="nav-item dropdown">
+																        							        								  			<a class="nav-link" href="/sale" id="navbarDropdownd6"> <span class="sales">Sale & Offers</span> </a>
+							  	      							        
+							    	
+                                                                                                 	</li>
+                                                                                                      
+					</ul>
+				</div>
+			</nav>
+		<!-- End Navigation Bar -->
+		</div>
+		<!-- Styles will prevent this promotion from appearing on the home page. Would be even better if we didn't load this code on home page-->
+		<!-- GSD-1002 : Show Latest Sale banner except homepage -->
+		<!-- GSD-2969:Load sale button & sale banner with page load instead of loading through ajax-->
+		
+    <!-- GSD-3167 : Sale Event Page - Don't show the persistent banner -->
+				<section class="promotion sale_banner"></section>
+    		
+	</header>
+    
+    	    <main id="content" role="main" class="product">
+      	
+<input type='hidden' name='productIsbn' id='productIsbn' value='9781439869659'>
+	<section id="productBody">
+        <div class="container">
+            <div class="row">
+                <main id="content" role="main" class="col-12 col-xl-10 mx-xl-auto mt-3 mb-4">
+                    <section class="row productBodySection" id="productBody">
+                        <div class="col-md-4 col-lg-3 left-col text-center">
+                            <div class="sidebar-item">
+                                <div class="make-me-sticky">
+                                <!-- GSD-4312- Add some data layer variable on Product Page -->
+                                <script type="text/javascript">
+                                window.dataLayer = window.dataLayer || [];
+                                var titleId; //initialize title Id
+                                var textType; //initialize text Type
+                                var rentalAvailabilty; //initialize rental Availabilty
+                                var publishingGroup; //initialize publishing Group
+                                var subjectCode; //initialize subject Code
+                                var actualPublicationDate; //initialize actualPublicationDate
+                                <!-- GSD-4417 : Datalayer Variable Addition -->
+                                var pricePoint; //initialize price
+                                <!-- BAU-76821-Datalayer-Variable-for-eCommerce -->
+                                var currency;
+                                var value;
+                                var item_id;
+                                var item_name;
+                                var coupon; 
+                                var index;
+                                var item_brand;
+                                var item_category;
+                                var item_category2;
+                                var price2;
+                                var quantity;
+                                </script>
+                                                                             <!-- GSD-4312- Add some data layer variable on Product Page -->
+                                                                                <input type="hidden" name="productType" id="productType" value="PAPE" >
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <script type="text/javascript">
+                                                dataLayer.push({
+                                                    'textType': "Paperback",
+                                                    'titleId': "197569",
+                                                    'rentalAvailabilty': "no",
+                                                    'publishingGroup': "Science",
+                                                    'subjectCode': "SCHS7575",
+                                                    'actualPublicationDate': "",
+                                                });
+                                                <!-- BAU-13651 : Sending custom vars to content square -->
+                                                    window._uxa = window._uxa || [];
+                                                    window._uxa.push(['setCustomVariable', '1', 'text_type', "Paperback"]);
+                                                    window._uxa.push(['setCustomVariable', '2', 'rental_availability', "no"]);
+                                                    window._uxa.push(['setCustomVariable', '3', 'publishing_group', "Science"]);
+                                                    window._uxa.push(['setCustomVariable', '4', 'subject_code', "SCHS7575"]);
+                                                    window._uxa.push(['setCustomVariable', '5', 'actual_pub_date', ""]);
+
+                                                    window.productData = {
+                                                        'currency': "USD",
+                                                        'item_id': "9781439869659",
+                                                        'item_name': "Scientific Research as a Career",
+                                                        'affiliation': "ROUTLEDGE",
+                                                        'item_brand' : "CRC Press",
+                                                        'item_category': "Science",
+                                                        'item_category2': "SCHS7575",
+                                                        'item_variant': "Paperback",
+                                                    };
+                                            </script>
+                                        
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="datalayer_PAPE d-none" onclick="setDataLayerVariables('Paperback','197569','Science','SCHS7575','no','');" type="button" role="tab"></button>
+
+                                     <!-- GSD-6588 Sale Button block-->
+
+                                     <div class="saleButton saleButton_9781439869659  skeleton-loading"><p class="medium-size max-width-180"></p></div>
+
+                                        <!-- GSD-6588 Image  block -->
+                                        <figure class="m-0 text-center">
+                                          <div class="productimg ofPAPE text-center" style="">
+                                            <a href="javascript:void(0)" class="book-preview-anchorPAPE" title="Enlarge book cover" style="cursor: auto;">
+                                            <img data-cover="9781439869659" 
+                                            class="img-fluid loading lazyload prev-image-btn prev-image-btnPAPE load cloudflare-product-img product-cover-img-9781439869659" 
+                                            data-src="https://images.routledge.com/common/jackets/crclarge/978143986/9781439869659.jpg" src="/img/covers/loading-image-sm.png" 
+                                            data-amazon-src-PAPE="/img/covers/loading-image-sm.png"
+                                            data-binding="PAPE"
+                                            data-image-default-PAPE="/img/covers/loading-image-sm.png"
+                                            fetchpriority="high" onerror="loadProductImagefromCloudflareWorker(9781439869659, 'crclarge','9781138410275,9780429105258')"
+                                            alt="Scientific Research as a Career book cover" />
+                                        </a>
+                                          </div>
+                                        </figure>
+                                                                             <!-- GSD-4312- Add some data layer variable on Product Page -->
+                                        
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="datalayer_HARD d-none" onclick="setDataLayerVariables('Hardback','197569','Science','SCHS7575','no','');" type="button" role="tab"></button>
+
+                                     <!-- GSD-6588 Sale Button block-->
+
+                                     <div class="saleButton saleButton_9781138410275 d-none skeleton-loading"><p class="medium-size max-width-180"></p></div>
+
+                                        <!-- GSD-6588 Image  block -->
+                                        <figure class="m-0 text-center">
+                                          <div class="productimg ofHARD text-center" style="display: none">
+                                            <a href="javascript:void(0)" class="book-preview-anchorHARD" title="Enlarge book cover" style="cursor: auto;">
+                                            <img data-cover="9781138410275" 
+                                            class="img-fluid loading lazyload prev-image-btn prev-image-btnHARD load cloudflare-product-img product-cover-img-9781138410275" 
+                                            data-src="https://images.routledge.com/common/jackets/crclarge/978113841/9781138410275.jpg" src="/img/covers/loading-image-sm.png" 
+                                            data-amazon-src-HARD="/img/covers/loading-image-sm.png"
+                                            data-binding="HARD"
+                                            data-image-default-HARD="/img/covers/loading-image-sm.png"
+                                            fetchpriority="high" onerror="loadProductImagefromCloudflareWorker(9781138410275, 'crclarge','9781439869659,9780429105258')"
+                                            alt="Scientific Research as a Career book cover" />
+                                        </a>
+                                          </div>
+                                        </figure>
+                                                                             <!-- GSD-4312- Add some data layer variable on Product Page -->
+                                        
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="datalayer_EBK d-none" onclick="setDataLayerVariables('e-Book','197569','Science','SCHS7575','no','');" type="button" role="tab"></button>
+
+                                     <!-- GSD-6588 Sale Button block-->
+
+                                     <div class="saleButton saleButton_9780429105258 d-none skeleton-loading"><p class="medium-size max-width-180"></p></div>
+
+                                        <!-- GSD-6588 Image  block -->
+                                        <figure class="m-0 text-center">
+                                          <div class="productimg ofEBK text-center" style="display: none">
+                                            <a href="javascript:void(0)" class="book-preview-anchorEBK" title="Enlarge book cover" style="cursor: auto;">
+                                            <img data-cover="9780429105258" 
+                                            class="img-fluid loading lazyload prev-image-btn prev-image-btnEBK load cloudflare-product-img product-cover-img-9780429105258" 
+                                            data-src="https://images.routledge.com/common/jackets/crclarge/978042910/9780429105258.jpg" src="/img/covers/loading-image-sm.png" 
+                                            data-amazon-src-EBK="/img/covers/loading-image-sm.png"
+                                            data-binding="EBK"
+                                            data-image-default-EBK="/img/covers/loading-image-sm.png"
+                                            fetchpriority="high" onerror="loadProductImagefromCloudflareWorker(9780429105258, 'crclarge','9781439869659,9781138410275')"
+                                            alt="Scientific Research as a Career book cover" />
+                                        </a>
+                                          </div>
+                                        </figure>
+                                                                        
+                                    
+                                    <!-- Pre-Order Block -->
+                                    <div class="pre_order"></div>
+                                    <div class="preview mx-auto mt-2">
+<div id="book2lookID" class="d-none">
+  <a href="javascript:void(0)" target="_blank" id='book2lookLink' class="btn btn-light preview-btn d-block d-md-inline-block preview-title-btn" style="display:none" data-mode ="1">
+    <i class="fas fa-eye me-2" aria-hidden="true"></i>
+    <span id="previewButton"> Preview Book</span>
+  </a>
+</div>
+<div id="googlePreviewButton" style="display: none;">
+  <a href="#googlePreviewContainer" data-bs-toggle="collapse" class="btn btn-light preview-btn d-block d-md-inline-block preview-title-btn" data-bs-target="#googlePreviewContainer" data-mode="1">
+    <i class="fas fa-eye me-2" aria-hidden="true"></i>
+    <span>Preview Book</span>
+  </a>
+</div>
+</div>                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-lg-9 center-col ps-xl-0">
+                            <div class="row">
+                                <div class="anchor-links mx-0 mb-3 d-none d-lg-flex" role="navigation"> 
+                                                                            <a href="javascript:void(0)" class="col btn btn-group scrollToTab" data-tabid="flush-headingThree" style="border-radius:5px 0 0 5px"><i class="fas fa-list-ul d-sm-block pe-1"></i> Table of Contents</a> 
+                                                                                                                <a href="javascript:void(0)" class="col btn btn-group scrollToTab" data-tabid="flush-headingTwo" style="border-radius:0"><i class="fas fa-book d-sm-block pe-1"></i> Book Description</a>
+                                                                                                                <a href="javascript:void(0)" class="col btn btn-group scrollToTab" data-tabid="flush-headingFive" style="border-radius:0"><i class="far fa-file-alt d-sm-block pe-1"></i>Critics' Reviews</a> 
+                                                                        <a href="javascript:void(0)" class="col btn btn-group scrollToTab flush-headingSix instructor-resources" data-tabid="flush-headingSix" style="border-radius:0 5px 5px 0;display: none;"><i class="fa fa-user-o d-sm-block pe-1"></i> Instructor Resources</a>
+                                </div>
+                                <div class="product-info">
+                                                                    <p class="m-0 mt-3 mt-md-0 small">1st Edition</p>
+                                                                    <h1>Scientific Research as a Career 
+                                                                            </h1>
+                                    <div class="data">
+                                                                                By <a title="Search for more titles by Finlay MacRitchie" href="/search?author=Finlay MacRitchie">Finlay MacRitchie</a>
+                                                                                                                            <span class="d-block mt-1">Copyright 2011</span>
+                                                                            </div>
+                                </div>
+                            </div>
+
+                            <ul class="nav nav-tabs d-none d-lg-flex versionButtons" id="myTab" role="tablist">
+                                                                                                <div class="skeleton-loading mr-2 w-115">
+                                	<div class="large-size btn"></div>
+                                </div>
+                                                                                                <div class="skeleton-loading mr-2 w-115">
+                                	<div class="large-size btn"></div>
+                                </div>
+                                                                                                <div class="skeleton-loading mr-2 w-115">
+                                	<div class="large-size btn"></div>
+                                </div>
+                                                            </ul>
+
+                            <div class="tab-content" id="myTabContent">
+                                                                	                                    <div class="tab-pane PAPE fade show active" id="paperback" role="tabpanel" aria-labelledby="pb-tab">
+
+
+
+                                        <div class="row skeleton-loading">
+                                            <div class="col-12 col-lg-6 order-2 order-lg-1 shipping pt-2">
+                                                                                                <div id="PAPE" class="bookData" data-isbn="9781439869659" data-prodid="281368" >
+                                                    <div class="isbn_details isbn_details_9781439869659  "><div class="small-size"></div></div>
+                                                    <div>
+                                                                                                                    132 Pages
+                                                                                                                                                                    </div>
+                                                    <div>
+                                                        <span class="publication_date publication_date_9781439869659 "><div class="small-size"></div></span>
+                                                        by 
+                                                                                                                    CRC Press
+                                                                                                            </div>
+                                                                                                        
+                                                </div>
+                                                <div class="ricLinks ricLinks_9781439869659"></div>
+                                                                                                    <div class="shipping_details skeleton-loading"><hr><p class="large-size"></p></div>
+                                                                                            </div>
+                                            
+
+
+                                            <div class="col-12 col-lg-6 order-1 order-lg-2 productPrices" >
+                                            	<div class="skeleton-loading">
+												    <div class="medium-size"></div>
+												    <div class="col-12 col-sm-12">
+												    	<div class="row mt-2">
+													    	<div class="col-3 col-sm-3">
+														    	<div class="medium-size"></div>
+														    </div>
+														    <div class="col-6 col-sm-6">
+														    	<div class="medium-size"></div>
+														    </div>
+														    <div class="col-3 col-sm-3">
+														    	<div class="medium-size"></div>
+														    </div>
+													    </div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												</div>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                                                	                                    <div class="tab-pane HARD fade " id="hardback" role="tabpanel" aria-labelledby="hb-tab">
+
+
+
+                                        <div class="row skeleton-loading">
+                                            <div class="col-12 col-lg-6 order-2 order-lg-1 shipping pt-2">
+                                                                                                <div id="HARD" class="bookData" data-isbn="9781138410275" data-prodid="625381" >
+                                                    <div class="isbn_details isbn_details_9781138410275 d-none "><div class="small-size"></div></div>
+                                                    <div>
+                                                                                                                    132 Pages
+                                                                                                                                                                    </div>
+                                                    <div>
+                                                        <span class="publication_date publication_date_9781138410275 d-none"><div class="small-size"></div></span>
+                                                        by 
+                                                                                                                    CRC Press
+                                                                                                            </div>
+                                                                                                        
+                                                </div>
+                                                <div class="ricLinks ricLinks_9781138410275"></div>
+                                                                                                    <div class="shipping_details skeleton-loading"><hr><p class="large-size"></p></div>
+                                                                                            </div>
+                                            
+
+
+                                            <div class="col-12 col-lg-6 order-1 order-lg-2 productPrices" >
+                                            	<div class="skeleton-loading">
+												    <div class="medium-size"></div>
+												    <div class="col-12 col-sm-12">
+												    	<div class="row mt-2">
+													    	<div class="col-3 col-sm-3">
+														    	<div class="medium-size"></div>
+														    </div>
+														    <div class="col-6 col-sm-6">
+														    	<div class="medium-size"></div>
+														    </div>
+														    <div class="col-3 col-sm-3">
+														    	<div class="medium-size"></div>
+														    </div>
+													    </div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												</div>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                                                	                                    <div class="tab-pane EBK fade " id="ebook" role="tabpanel" aria-labelledby="eb-tab">
+
+
+
+                                        <div class="row skeleton-loading">
+                                            <div class="col-12 col-lg-6 order-2 order-lg-1 shipping pt-2">
+                                                                                                <div id="EBK" class="bookData" data-isbn="9780429105258" data-prodid="765300" >
+                                                    <div class="isbn_details isbn_details_9780429105258 d-none "><div class="small-size"></div></div>
+                                                    <div>
+                                                                                                                    131 Pages
+                                                                                                                                                                    </div>
+                                                    <div>
+                                                        <span class="publication_date publication_date_9780429105258 d-none"><div class="small-size"></div></span>
+                                                        by 
+                                                                                                                    CRC Press
+                                                                                                            </div>
+                                                                                                        
+                                                </div>
+                                                <div class="ricLinks ricLinks_9780429105258"></div>
+                                                
+                                                    <hr class="my-4" />
+                                                    <div class="mb-3 d-none d-md-block"> 
+                                                        <img src="/images/vs.png" alt="VitalSource Logo" width="100" height="22" class=" align-text-bottom" /> 
+                                                        <a href="javascript:void(0)" class="vsModal" >Learn about VitalSource eBooks <span class="sr-only">Opens popup</span></a>
+                                                    </div>
+                                                    
+                                                    <div class="kindle">
+                                                        <strong>Also available as eBook on:</strong>
+                                                        <ul class="ps-4">
+                                                            <li class="amazon_link skeleton-loading"><p class="small-size"></p></li>
+                                                                                                                            <li class="validforubx1" id="validForUbxPAPE">
+
+                                                                                                                                    <a target="_blank" href="https://www.taylorfrancis.com/books/9781439869659" title="Opens Taylor &amp; Francis eBooks in a new window"> Taylor &amp; Francis eBooks <br />
+                                                                    <span class="small">(Institutional Purchase)</span><span class="sr-only">Opens in new tab or window</span></a>
+                                                                
+                                                                </li>
+                                                                                                                    </ul>
+                                                    </div>
+                                                                                            </div>
+                                            
+
+
+                                            <div class="col-12 col-lg-6 order-1 order-lg-2 productPrices" >
+                                            	<div class="skeleton-loading">
+												    <div class="medium-size"></div>
+												    <div class="col-12 col-sm-12">
+												    	<div class="row mt-2">
+													    	<div class="col-3 col-sm-3">
+														    	<div class="medium-size"></div>
+														    </div>
+														    <div class="col-6 col-sm-6">
+														    	<div class="medium-size"></div>
+														    </div>
+														    <div class="col-3 col-sm-3">
+														    	<div class="medium-size"></div>
+														    </div>
+													    </div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												    <div class="col-12 col-sm-12 mt-2">
+												    	<div class="medium-size"></div>
+												    </div>
+												</div>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                                            </div>
+                            <div class="col-12">
+                                <div class="accordion accordion-flush" id="accordionFlushExample">
+
+                                    <div class="sticky-div book-materials"> <!-- Using this div to show the sticky add to cart button -->
+                                        <!-- Description -->
+                                                                                    <div class="accordion-item" id="acc-description">
+                                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="true" aria-controls="flush-collapseTwo">
+                                                <h2 class="accordion-header" id="flush-headingTwo">Description</h2>
+                                                </button>
+                                                <div id="flush-collapseTwo" class="accordion-collapse collapse show" aria-labelledby="flush-headingTwo">
+                                                    <div class="accordion-body description">
+                                                        <p>
+                                                            <P>Describing the philosophy of the scientific method and the training and professional characteristics needed for a successful career, <STRONG>Scientific Research as a Career</STRONG> is a comprehensive "how-to" guide for the aspiring scientist. Based on the author’s experience both as a scientist in a research organization and as a university mentor, the book covers:</P>
+<P></P>
+<UL>
+<P>
+<LI>The interaction between management and leadership principles and scientific research</LI>
+<LI>Qualifications and attributes usually required to become a successful researcher </LI>
+<LI>History, application, and prerequisites of the scientific method and scientific progress</LI>
+<LI>Exploration of the careers of pivotal and influential scientists </LI>
+<P></P></UL>
+<P></P>
+<P>The author highlights the importance of networking and the value of forming contacts with colleagues, joining scientific associations, attending conferences, making presentations, and acting as chairs for conference sessions. He also touches on the many areas outside of "the science" that readers are likely to encounter during their career, such as mentoring, supervising research students, and managing a group. The book clearly delineates not only the challenges currently facing scientists, but also how to overcome them and achieve success in their careers.</P>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <!-- Table of content -->
+                                                                                    <div class="accordion-item" id="acc-content">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" 
+                                                    data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                                    <h2 class="accordion-header" id="flush-headingThree">Table of Contents</h2>
+                                                </button>
+                                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree">
+                                                    <div class="accordion-body">
+                                                        <P>Foreword<BR>Preface<BR><STRONG>Introduction<BR></STRONG>Motivation and Requisites for a Research Career<BR>Early Interest and a Simple Research Problem<BR>Importance of Combining Study with Experimentation<BR>References<BR><BR><STRONG>Scientific Training and Personal Development<BR></STRONG>University Qualifications<BR>Bachelor’s, Master’s, and Doctoral Degrees<BR>Research Ph.D. versus Combined Research and Course Work<BR>Imaginative and Regimented Thinking<BR>The Ph.D. Preliminary Examination<BR>Research versus Collecting Data<BR>Oral and Written Examinations<BR>Limitations of Statistics<BR>Accuracy: Are the Results What Are Intended to Be Measured?<BR>Where to after Graduation?<BR>Main Areas for Employment of Science Graduates<BR>Internships as a Precursor to Employment<BR>Networking, Joining Associations, Conference Presentations<BR>References<BR><BR><STRONG>The Scientific Method<BR></STRONG>The Scientific Method, Empiricism, Induction<BR>Karl Popper: Analysis of Early 20th Century Theories<BR>Demarcation: A Criterion to Distinguish between Scienceand Nonscience<BR>Myths as Precursors of Scientific Hypotheses<BR>Exploratory Work Preceding Hypotheses<BR>Growth of Scientific Knowledge<BR>Dangers to Growth: Lack of Motivation for Inquiry, Misplaced Faith in Precision, Authoritarianism<BR>How Scientific Research Can Be Put Off Track Deliberately <BR>How Scientific Research Can Be Put Off Track Unintentionally<BR>References<BR><BR><STRONG>Attributes Required by Research Scientists<BR></STRONG>Citations as a Criterion for Research Value<BR>Conceptual Thought Required to Form Hypotheses<BR>Detachment<BR>Perseverance <BR>Ethical Standards—Plagiarism<BR>Publication<BR>Service: Peer Reviewing<BR>Service: Serving on Awards Committees<BR>Grantsmanship<BR>Reference<BR><BR><STRONG>The Impact of Managerialism<BR></STRONG>The Managerial Ideology<BR>Commonwealth Scientific and Industrial Research<BR>Organization (CSIRO) of Australia<BR>Reviews of CSIRO<BR>Effects of McKinsey Review<BR>Freedom of Expression in Science<BR>A False Premise<BR>Performance Criteria for Scientists<BR>Influence of Managerialism on Scientists<BR>The Risks of Corrupt Practices<BR>Coping with Effects of Managerial Stress<BR>References<BR><BR><STRONG>Leadership in Science<BR></STRONG>Mentoring<BR>Supervision of Research Students <BR>Qualities Needed to Lead Scientific Research<BR>Servant Leadership<BR>The Inverted Pyramid<BR>The Future <BR>References<BR><BR><STRONG>Insights from Notable Scientists<BR></STRONG>Marie Curie (1867–1934)<BR>Charles Darwin (1809–1882) <BR>Albert Einstein (1879–1955)<BR>Rosalind Franklin (1920–1958)<BR>Galileo Galilei (1564–1642) <BR>Dorothy Hodgkin (1910–1994) <BR>Irving Langmuir (1881–1957)<BR>Lise Meitner (1878–1968) <BR>Gregor Mendel (1822–1884) <BR>Louis Pasteur (1822–1895) <BR>Nikola Tesla (1856–1943) <BR>References<BR><BR><STRONG>Future Challenges for Scientific Research<BR></STRONG>Two Areas for Change in Direction<BR>Why Are Humans the Only Species to Have Progressed Culturally?<BR>Why Present Funding Procedures for Research Are Unsatisfactory <BR>Stifling of Creativity in Science Can Stunt Future Economic Growth<BR>Suppression of Freedom Causes Stagnation of Knowledge <BR>The Need for a Change in the Working Environment for Research<BR>References<BR>Index</P>
+                                                    </div>
+                                                </div>
+                                            </div>
+	
+                                        			
+                                        <!-- Authors -->			
+                                        <div class="accordion-item" id="acc-authors" >
+                                                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                                <h2 class="accordion-header" id="flush-headingFour">Author(s)</h2>
+                                            </button>
+                                            <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour">
+                                                <div class="accordion-body">
+                                                    <h3>Biography</h3>
+                                                    <p>
+                                                    Finlay MacRitchie
+                                                    </p>
+                                                    <div class="featured-authors-area" style="display: none;"></div>
+                                                </div>
+                                            </div>
+                                                                                </div>
+                                        <!-- Critics Review -->
+                                                                                    <div class="accordion-item" id="acc-awards">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                                                    <h2 class="accordion-header" id="flush-headingFive">Critics' Reviews</h2>
+                                                </button>
+                                                <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive">
+                                                    <div class="accordion-body">
+                                                        
+                                                        <blockquote class="blockquote">
+                                                                                                                            <P>MacRitchie shows how much struggle and effort is necessary to carry out a scientific career, including the necessary of dedication in studies and work, the difficulty in finding food ideas for research projects, the care in supervision of students, but above all the importance of dealing with people. This is an important aspect that demands considerable self-preparation and is not very often addressed in the education of Ph.D. students, since it requires experience rather than explanations. The author’s personal experiences are given as examples of how a scientific career requires stamina, determination, and also wisdom. In this sense, the book is provocative. It is definitively worth reading by both those intending to get information on how to proceed into a scientific path and established scientists who consider that their work is a bit more than just getting good publications. <BR>—Roberto G. S. Berlinck, Univerisdade de São Paulo, Brazil, in <EM>Journal of Natural Products</EM>, 2012<BR><BR>This book provides an interesting, unique approach to research careers in the sciences. MacRitchie (emer.. Kansas State Univ.) does not just describe preparing for and attaining jobs but also includes provocative descriptions and opinions about hindrances to careers, especially the effects of research management. He discusses the motivation and breadth of knowledge needed and the value of critical thinking. The author also addresses the differences in graduate training in the sciences, the scientific method, science versus nonscience, dead-end hypotheses, and required attributes of scientists. … MacRitchie provides career advice in a Dilbert-like style, and the chapters on management and leadership abound with horror/war stories of bad research management. Describing the pitfalls as well as the glories of scientific research is admirable, and anyone contemplating a scientific research career will benefit from reading this work. It is also useful for those influencing management and public policy in the sciences. Summing Up: Recommended.<BR>— CHOICE Magazine, APril 2012</P>
+<P>"This will be a very important resource for beginning scientists especially so that they can see what the field is like, especially this all important topic of how to build prestige and a track record for excellence."<BR>—John D 'Angelo, Alfred University, New York</P>
+                                                                                                                    </blockquote>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                                                <div class="accordion-item d-none" id="acc-instructor"></div>
+                                        <div class="accordion-item d-none" id="acc-support"></div>
+                                                                                <div class="accordion-item d-none" id="acc-delivery"></div>
+                                        <div class="sticky mt-4">
+                                            <a href="#" class="btn btn-primary my-1 w-100"><i class="fas fa-shopping-cart"></i> Add to Cart</a>
+                                        </div>
+
+                                    </div> <!-- Closing div for sticky button -->
+                                    
+                                </div>	
+                            </div>			
+                        </div>
+
+
+
+                        <!-- VS Modal -->
+                        <div class="modal fade" id="vsModal" tabindex="-1" aria-labelledby="vsModalLabel" style="display: none;" aria-hidden="true">
+							<div class="modal-dialog modal-dialog-centered">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h5 class="modal-title" id="vsModalLabel">About VitalSource eBooks</h5>
+										<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+									</div>
+									<div class="modal-body">
+										<p>VitalSource is a leading provider of eBooks.</p>
+										<ul class="fa-ul" style="color:#10147f">
+											<li><span class="fa-li"><i class="fa fa-globe"></i></span> <div class="inline-block ps-2">Access your materials anywhere, at anytime.</div></li>
+											<li><span class="fa-li"><i class="fa fa-cogs" aria-hidden="true"></i></span> <div class="inline-block ps-2">Customer preferences like text size, font type, page color and more.</div></li>
+											<li><span class="fa-li"><i class="fa fa-list-alt" aria-hidden="true"></i></span> <div class="inline-block ps-2">Take annotations in line as you read.</div></li>
+										</ul>
+									</div>
+									<div class="modal-footer justify-content-start">
+										<a href="https://www.routledge.com/faqs/ebooks-faqs">View VitalSource eBook FAQs &raquo;</a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+                        <div class="distributorModal">
+                        </div>
+
+                        <!-- Multiple eBooks modal  -->
+                        <div class="modal fade" id="cartActionModal" tabindex="-1" style="display:none" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="cartActionModalLabel">Multiple eBook Copies</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body clearfix">
+                                        <p id="addError">This eBook is already in your shopping cart. If you would like to replace it with a different purchasing option please remove the current eBook option from your cart.
+                                        </p>
+                                    </div>
+                                    <div class="modal-footer d-block" id="errorClose" style="display:block !important">
+                                        <div class="row my-3">
+                                            <div class="col-12 mb-2">
+                                                <a href="/cart" class="btn btn-primary mx-1 w-100">View Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+
+                        
+
+                    </section>
+                </main>
+            
+            <!-- Right Column on Desktop -->
+            
+                <aside class="col-12 col-xl-10 rt-col mx-auto">
+                    <div class="row d-flex justify-content-end">
+                        <div class="col-12 col-md-8 col-lg-9">
+                            <div class="row marketing-contents">
+                                
+                                <!-- GSD-6623: Book series data to be displayed here -->
+                                                                                                <div class="col-12 related-sub my-3">
+                                    <h4 class="ms-2">Related Subjects</h4>
+                                    <div class="subjects-list">
+                                                                                <a aria-label="View books in Preventative Medicine" href="/health-and-social-care/public-health-policy-and-practice/preventative-medicine">
+                                            <i class="fas fa-search me-1"></i>Preventative Medicine
+                                        </a>
+                                                                                <a aria-label="View books in Chemistry" href="/physical-sciences/chemistry">
+                                            <i class="fas fa-search me-1"></i>Chemistry
+                                        </a>
+                                                                                <a aria-label="View books in General Physics" href="/physical-sciences/physics/general-physics">
+                                            <i class="fas fa-search me-1"></i>General Physics
+                                        </a>
+                                                                                <a aria-label="View books in Public Health Policy and Practice" href="/health-and-social-care/public-health-policy-and-practice">
+                                            <i class="fas fa-search me-1"></i>Public Health Policy and Practice
+                                        </a>
+                                                                                <a aria-label="View books in Health and Social Care" href="/health-and-social-care">
+                                            <i class="fas fa-search me-1"></i>Health and Social Care
+                                        </a>
+                                                                                <a aria-label="View books in Physical Sciences" href="/physical-sciences">
+                                            <i class="fas fa-search me-1"></i>Physical Sciences
+                                        </a>
+                                                                                <a aria-label="View books in Physics" href="/physical-sciences/physics">
+                                            <i class="fas fa-search me-1"></i>Physics
+                                        </a>
+                                                                                <a aria-label="View books in General Chemistry" href="/chemistry/general-chemistry">
+                                            <i class="fas fa-search me-1"></i>General Chemistry
+                                        </a>
+                                                                                <a aria-label="View books in Public Health & General Preventive Medicine" href="/medicine/clinical-medicine/public-health-general-preventive-medicine">
+                                            <i class="fas fa-search me-1"></i>Public Health & General Preventive Medicine
+                                        </a>
+                                                                                <a aria-label="View books in General & Introductory Physics" href="/physics/general-introductory-physics">
+                                            <i class="fas fa-search me-1"></i>General & Introductory Physics
+                                        </a>
+                                                                            </div>
+                                </div>
+                                                                <!-- GSD-6603: Frequently Bought Together section to be mapped with related titles -->
+                                                                <div id="rec-books" class="my-3">
+                                    <h4 class="ms-2">Frequently Bought Together</h4>
+                                    
+                                    <div class="row d-flex justify-content-center text-center">
+                                                                                <div class="bk col-lg-3 col-6"><a href="https://www.routledge.com/Scientists-Must-Write-A-Guide-to-Better-Writing-for-Scientists-Engineers-and-Students/Barrass/p/book/9780415269964"><img class=" img-fluid lazyload" src="" data-src="https://images.routledge.com/common/jackets/crclarge/978041526/9780415269964.jpg" alt="Scientists Must Write: A Guide to Better Writing for Scientists, Engineers and Students" onerror="this.src='/img/covers/image-not-available.png'"></a></div>
+                                                                                <div class="bk col-lg-3 col-6"><a href="https://www.routledge.com/Scientists-Must-Speak/Walters-Walters/p/book/9780415280280"><img class=" img-fluid lazyload" src="" data-src="https://images.routledge.com/common/jackets/crclarge/978041528/9780415280280.jpg" alt="Scientists Must Speak" onerror="this.src='/img/covers/image-not-available.png'"></a></div>
+                                                                                <div class="bk col-lg-3 col-6"><a href="https://www.routledge.com/Scientists-Must-Speak/Walters-Walters/p/book/9781439826034"><img class=" img-fluid lazyload" src="" data-src="https://images.routledge.com/common/jackets/crclarge/978143982/9781439826034.jpg" alt="Scientists Must Speak" onerror="this.src='/img/covers/image-not-available.png'"></a></div>
+                                                                                <div class="bk col-lg-3 col-6"><a href="https://www.routledge.com/Ethics-in-Science-Ethical-Misconduct-in-Scientific-Research/DAngelo/p/book/9781439840863"><img class=" img-fluid lazyload" src="" data-src="https://images.routledge.com/common/jackets/crclarge/978143984/9781439840863.jpg" alt="Ethics in Science: Ethical Misconduct in Scientific Research" onerror="this.src='/img/covers/image-not-available.png'"></a></div>
+                                                                            </div>
+
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </section>
+    <!-- GSD-6588 Product page model popups -->
+<script type="text/javascript" src="/js/jquery.validate.min.js" defer></script>
+<!-- Begin Modals -->
+<div class="modal fade show" id="prevModal" tabindex="-1" aria-labelledby="prevModalLabel" aria-modal="true" role="dialog" data-backdrop="static" data-keyboard="false">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content mx-0 mx-sm-2">
+      <div class="modal-header">
+        <h5 class="modal-title" id="prevModalLabel">Book Preview</h5>
+        <button type="button" class="btn-close previewclose" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-12">
+            <div id="googlePreviewContainer" class="collapse">
+              <input type="hidden" id="googlePreviewIsbn" value="">
+              
+              <div id="viewerCanvas" style="margin-bottom:1.5em; height: 660px;"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade show" id="imgModal" tabindex="-1" aria-hidden="true" aria-labelledby="imgModalLabel" aria-modal="true" role="dialog">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body text-center">
+        <div class="float-end">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <img class="img-fluid prev-modal-image" src="/img/covers/loading-image-sm.png" data-src="/img/covers/loading-image-sm.png">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Pre Order Notifications Popup-->
+<div class="modal fade" id="preOrderNotifModal" tabindex="-1" aria-labelledby="preOrderNotifModalLabel" style="display: none;" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="preOrderNotifModalLabel">Pre-Order Notification</h5>
+<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+
+<div class="modal-body">
+
+                    
+    <div id="preOrderNotiError" class="alert alert-danger" role="alert" style="display: none">
+        <strong>We&#39;re sorry, your request could not be processed</strong>
+        <ul id="preOrderNotiErrorMsgs">
+                    </ul>
+    </div>
+    <div id="preOrderNotiSuccess" class="alert alert-success" role="alert" style="display: none">
+        <p>Success! We will email you once this format of the book is available for pre-order.</p>
+    </div>
+    
+
+
+<form id="preOrderNotiForm" name="preOrderNotiForm" method="post" action="" enctype="application/x-www-form-urlencoded" novalidate="novalidate">
+<input type="hidden" name="isbn" value="" id="preisbn">
+<input type="hidden" name="pubdate" value="" id="prepubdate">
+<input type="hidden" name="currency" value="" id="precurrency">
+<input type="hidden" name="reqUrl" value="https://www.routledge.com/Scientific-Research-as-a-Career/MacRitchie/p/book/9781439869659" id="reqUrl">
+<p>Please provide your email address so that we may notify you once this format of the book can be pre-ordered.</p>
+<div class="mb-2">
+<label for="eml">Email Address</label>
+<input id="eml" name="email" class="form-control" type="text">
+<div id="eml-err" class="invalid-feedback"></div>
+<div class="my-3 text-center">
+<small>Email Address will only be used for pre-order notification.</small>
+</div>
+</div>
+
+
+
+<div class="my-3 text-center">
+<button type="submit" class="btn btn-primary px-5">Submit</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<!-- GSD-6842 Due to overriding the JS, Country drop down is not working in formstack page, here we adding the jquery for eupdates page  -->
+  <!-- GSD-7538 for  content_pages or go we are loading JS -->
+	</main>
+
+
+<footer>
+	<div id="btt">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 text-end">
+					<a href="#top">Back To Top <i class="fas fa-angle-up"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="px-3 flex justify-content-center">
+		<div class="row">
+			<div class="col-6 col-md-12 col-xl-2 order-last order-xl-first">
+				<div class="row">
+					<div class="col-12 col-md-1 col-xl-12 rout-lo">
+						<img src="/images/routledge-logo-lg.png" height="324" width="215" class="img-fluid mt-3 mt-xl-5" alt="Routledge Logo" />
+					</div>
+					<div class="col-12">
+						<p>&copy; <span id="copyrightyear"></span>  <a href="https://www.informa.com" target="_blank" style="position:relative; z-index:100; text-decoration:underline; padding-bottom:15px">Informa UK Limited, an Informa Plc company</a>
+ <div class="payoptions text-center  p-sm-4 p-2">
+<div class="row">
+<div class="col-12 col-md-4 pb-3 pb-sm-0 text-start">
+
+<h6 class="m-0  py-2">SOCIAL <span class="sr-only"> NETWORKS </span></h6>
+<span class="sr-only">List of social networks</span>
+<a aria-label="Facebook - Opens in new tab or window" class="facebook" href="https://www.facebook.com/TaylorandFrancisGroup/" target="_blank"><i aria-hidden="true" class="fab fa-3x fa-facebook" role="img">&nbsp;</i></a> <a aria-label="LinkedIn - Opens in new tab or window" class="linkedin" href="https://www.linkedin.com/company/taylor-&amp;-francis-group/" target="_blank"> <i aria-hidden="true" class="fab fa-3x fa-linkedin" role="img">&nbsp;</i></a> <a aria-label="Twitter - Opens in new tab or window" class="twitter" href="https://twitter.com/routledgebooks/" target="_blank"> <i aria-hidden="true" class="fab fa-3x fa-twitter-square" role="img">&nbsp;</i></a> <a aria-label="YouTube - Opens in new tab or window" class="youtube" href="https://www.youtube.com/channel/UCmG1AOBM5fskgWhCG3i8bhA" target="_blank"> <i aria-hidden="true" class="fab fa-3x fa-youtube-square" role="img">&nbsp;</i></a></div>
+
+<div class="col-12 col-md-8 text-start text-lg-end mt-3 mt-md-0">
+<h6 class="py-2 m-0"> Secure Shopping <span class="sr-only">Payment Options</span> <i class="fas fa-lock ps-2">&nbsp;</i></h6>
+<span class="sr-only">List of payment options</span>
+<ul>
+<li><img title="Visa" src="https://www.routledge.com/rsc/images/crclanding/visa-pay.png" class="img-fluid" alt="Visa" /></li>
+<li><img title="Master Card" src="https://www.routledge.com/rsc/images/crclanding/mastercard-pay.png" class="img-fluid" alt="Master Card" /></li>
+<li><img title="American Express" src="https://www.routledge.com/rsc/images/crclanding/amex-pay.png" class="img-fluid" alt="American Express" /></li>
+<li><img title="Apple Pay" src="https://www.routledge.com/rsc/images/crclanding/apple-pay.png" class="img-fluid" alt="Apple Pay" /></li>
+<li><img title="Google Pay" src="https://www.routledge.com/rsc/images/crclanding/google-pay.png" class="img-fluid" alt="Google Pay" /></li>
+<li><img title="J C B" src="https://www.routledge.com/rsc/images/crclanding/jcb-pay.png" class="img-fluid" alt="J C B" /></li>
+</ul>
+</div>
+</div>
+</div></p>
+					</div>
+				</div>
+			</div>
+			
+																		<div class="col-6 col-md ">
+							<h6>Contact Us</h6>
+																															<ul>
+																														<li>
+												<a href=" /contacts/customer-service" >Customer Service</a>
+											</li>
+																																								<li>
+												<a href=" /contacts/editorial" >Editorial Contacts</a>
+											</li>
+																																								<li>
+												<a href=" /contacts/eupdates" >eUpdates Sign Up</a>
+											</li>
+																																								<li>
+												<a href=" /contacts/rights-and-permissions" >Rights and Permissions</a>
+											</li>
+																																								<li>
+												<a href=" /contacts/sales" >Sales Contacts</a>
+											</li>
+																																								<li>
+												<a href=" https://signup.cj.com/member/signup/publisher/?cid=5373372#/branded" target="blank">Become an Affiliate Partner <i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																											</ul>
+																						<h6 class="mt-2"><a href="/faqs">FAQs</a></h6>
+
+<h6 class="mt-2"><a href="/partners">Partners</a></h6>
+						</div>
+																				<div class="col-6 col-md ">
+							<h6>Customer Resources</h6>
+																															<ul>
+																														<li>
+												<a href=" /our-customers/authors" >Authors</a>
+											</li>
+																																								<li>
+												<a href=" /our-customers/booksellers" >Booksellers</a>
+											</li>
+																																								<li>
+												<a href=" /our-customers/instructors" >Instructors</a>
+											</li>
+																																								<li>
+												<a href=" /our-customers/instructors/textbooks/inspection-copies" ><span class="ms-2">- Request An Inspection Copy</span></a>
+											</li>
+																																								<li>
+												<a href=" /our-customers/librarians" >Librarians</a>
+											</li>
+																																								<li>
+												<a href=" /our-customers/press-media" >Press and Media</a>
+											</li>
+																																								<li>
+												<a href=" https://taylorandfrancis.com/who-we-serve/partners/societies/" target="blank">Societies & Associations <i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																																								<li>
+												<a href=" /our-customers/students" >Students</a>
+											</li>
+																											</ul>
+																						
+						</div>
+																				<div class="col-6 col-md ">
+							<h6>Our Products</h6>
+																															<ul>
+																														<li>
+												<a href=" /our-products/ebooks" >eBooks</a>
+											</li>
+																																								<li>
+												<a href=" /our-products/ebookplus" >eBook+</a>
+											</li>
+																																								<li>
+												<a href=" /our-products/book-series" >Book Series</a>
+											</li>
+																																								<li>
+												<a href=" /our-products/online-platforms" >Online Platforms</a>
+											</li>
+																																								<li>
+												<a href=" /our-products/open-access-books/taylor-francis-oa-books" >Open Access Books</a>
+											</li>
+																																								<li>
+												<a href=" /go/crc-press-focus-shortform" >Focus Shortform Books </a>
+											</li>
+																											</ul>
+																						
+						</div>
+																				<div class="col-6 col-md ">
+							<h6>About Us</h6>
+																															<ul>
+																														<li>
+												<a href=" /corporate/about-us" >About Routledge</a>
+											</li>
+																																								<li>
+												<a href=" https://taylorandfrancis.com/about/" target="blank">About Taylor &amp; Francis&nbsp;<i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																																								<li>
+												<a href=" https://www.tandfonline.com" target="blank">Taylor &amp; Francis Journals&nbsp;<i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																																								<li>
+												<a href=" https://taylorandfrancis.com/careers/" target="blank">Careers  <i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																											</ul>
+																						<h6 class="mt-3"><a href="https://blog.routledge.com/">Blog <i class="fas fa-external-link-alt" title="Opens in new tab / window"><span class="sr-only">Opens in new tab or window</span></i></a></h6>
+						</div>
+																				<div class="col-6 col-md order-last order-md-5">
+							<h6>Policies</h6>
+																															<ul>
+																														<li>
+												<a href=" /policies/accessibility" >Accessibility</a>
+											</li>
+																																								<li>
+												<a href=" https://taylorandfrancis.com/our-policies/ai-policy/" target="blank">AI Policy  <i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																																								<li>
+												<a href=" https://authorservices.taylorandfrancis.com/editorial-policies/code-of-conduct-for-conference-proceedings-organizers/" target="blank">Conference Proceedings <i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																																								<li>
+												<a href=" /policies/terms-conditions/inspection-copies" >Inspection Copy T&Cs</a>
+											</li>
+																																								<li>
+												<a href=" https://www.informa.com/privacy-policy/" target="blank">Privacy Policy  <i title="Opens in new tab / window" class="fas fa-external-link-alt"><span class="sr-only">Opens in new tab or window</span></i></a>
+											</li>
+																																								<li>
+												<a href=" /policies/returns-cancellations" >Returns & Cancellations</a>
+											</li>
+																																								<li>
+												<a href=" /policies/shipping-policy" >Shipping Policy</a>
+											</li>
+																																								<li>
+												<a href=" /policies/sustainability" >Sustainability</a>
+											</li>
+																																								<li>
+												<a href=" /policies/tax-exemptions" >Tax Exemptions</a>
+											</li>
+																																								<li>
+												<a href=" /policies/terms-conditions" >Terms & Conditions</a>
+											</li>
+																											</ul>
+																						
+						</div>
+															
+		</div>
+	</div>
+</footer>	
+
+<input type="hidden" id="customVarsAsJsonOut" value="[]" />
+
+<!-- GSD-4218: adding a new header js which has all header related scripts //critical-->
+<script src="/js/header.js?ver=1763360122"></script>
+<!-- GSD-2572:Setup lazy loading of images for home page -->
+<script src="/js/lazysizes.min.js" defer></script>
+<!-- GSD-2741 use vendor js file as asynch/defer - it dependent on vendor.js //critical-->
+	<script src="/js/main.notmin.universal.js?ver=1763360122"></script>
+	<!-- GSD-2741 use vendor js file as asynch/defer - it dependent on vendor.js //critical-->
+	<script src="/js/product.js?ver=1763360122"></script>
+<!-- GSD-4799 added the scripts for embedded videos  -->
+
+    
+<!-- region change Modal -->
+<div class="modal fade" id="regionModal" tabindex="-1" aria-labelledby="regionModalLabel" aria-modal="true" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered regionChangeModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="regionModalLabel">The country you have selected will result in the following:</h5>
+            </div>
+            <div class="modal-body">
+                <ul class="region-change-restricted-titles" id="region-change-restricted-titles">
+                    <li>Product pricing will be adjusted to match the corresponding currency.</li>
+                    <li class="li-rst-elements">The title <span id="titles"><b>Perception</b></span> will be removed from your cart because it is not available in this region.</li>
+                </ul>
+                <input type="hidden" name="gregion" id="gregion">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="gregioncontinue">Continue</button>
+                <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal" id="gregionchangecancel">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/js/crc-common.js?ver=1763360122"></script>
+
+<script type="text/javascript" src="/js/crc-cookie.js" defer></script>
+
+    <script type="text/javascript" src="/js/jquery.blockUI.js" defer></script>
+        
+    <script type="application/javascript">
+        getUserRegion("Found");
+    </script>
+		
+            	<script type="application/javascript">
+		isbns = ['9781040057636','9781439869673','9781439869659','1439869650','9781138410275','1138410276','9780429105258','0429105258'];
+    </script>
+    <script type="text/javascript" src="/js/jsapi.js" defer></script>
+	<!-- BAU-5889-Google Preview Files are not appearing again -->
+	<script type="text/javascript" src="/js/googlepreview.js?ver=1763360122" defer></script>
+    
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.7/dist/loadingoverlay.min.js"></script>
+
+
+
+<script type="text/javascript" src="/js/crc-pardot.js" defer></script>
+
+	<script>
+		$(document).on('click', '#iribbon-title', function () {
+			$(this).find("#iribbon-container").toggleClass("show");
+		});
+	</script>	
+	
+
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+
+	<!-- GSD-1159 : Displaying additional scripts from EE --><style>
+header.site .navbar-expand-lg .navbar-nav li.sale {display:none}
+header.site a .sales {color: #b11036}
+nav.navbar ul li {border-right:1px solid #ccc}
+nav.navbar ul li:first-child {border-left:1px solid #ccc}
+.mmenu ul.sublist li {border:0}
+.mmenu ul.sublist li:first-child {border:0}
+.payoptions {
+    background-color: #333; 
+    position: absolute;
+    color: #fff;
+    margin:0!important; 
+    right: 0; 
+    left: 0; 
+    text-align: right;
+    border-top: 2px solid #000;
+    border-bottom:2px solid #000
+}
+.payoptions img {
+    margin:5px; 
+    max-width:65px
+}
+.payoptions ul, .payoptions ul li {
+    margin:0; 
+    padding:0; 
+    display:inline
+}
+</style>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"97f8f67f26","applicationID":"415452746","transactionName":"YlwDYBdSWRVXVRVZWVsWIkEWR1gLGUYTX1JAWhUbCFJeCA==","queueTime":0,"applicationTime":1826,"atts":"ThsAFl9IShs=","errorBeacon":"bam.nr-data.net","agent":""}</script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a8e2dad1c41ef9f',t:'MTc2NDg4MTQ1MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9a8e2dad1c41ef9f","version":"2025.9.1","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"31c1f0c99ced4ba28c79dacc1d2b6661","b":1}' crossorigin="anonymous"></script>
+</body>
+</html> title 70 Scientific Research as a Career - 1st Edition - Finlay MacRitchie - Ro contentType 9 text/html url 93 https://www.routledge.com:443/Scientific-Research-as-a-Career/MacRitchie/p/book/9781439869659 responseCode 3 200 

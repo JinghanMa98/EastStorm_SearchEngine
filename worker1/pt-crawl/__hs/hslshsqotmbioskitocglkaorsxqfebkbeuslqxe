@@ -1,0 +1,1099 @@
+hslshsqotmbioskitocglkaorsxqfebkbeuslqxe page 77033 <!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js section-media format-medium tone-news app-article page-theme-standard" itemid="http://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html" itemtype="http://schema.org/NewsArticle" itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-media format-medium tone-news app-article page-theme-standard" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-media format-medium tone-news app-article page-theme-standard" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-media format-medium tone-news app-article page-theme-standard" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.nytimes.com:80/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html","20151128164722","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1448729242");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <title>Washington Post Company Buys Slate Magazine - The New York Times</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20151128164722im_/http://static01.nyt.com/favicon.ico"/>
+<link rel="apple-touch-icon-precomposed" sizes="144×144" href="https://web.archive.org/web/20151128164722im_/http://static01.nyt.com/images/icons/ios-ipad-144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114×114" href="https://web.archive.org/web/20151128164722im_/http://static01.nyt.com/images/icons/ios-iphone-114x144.png"/>
+<link rel="apple-touch-icon-precomposed" href="https://web.archive.org/web/20151128164722im_/http://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png"/>
+<meta name="sourceApp" content="nyt-v5"/>
+<meta id="applicationName" name="applicationName" content="article"/>
+<meta id="foundation-build-id" name="foundation-build-id" content=""/>
+<link rel="canonical" href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html"/>
+<link rel="alternate" href="https://web.archive.org/web/20151128164722/http://mobile.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html"/>
+<meta property="al:android:url" content="nytimes://reader/id/2004122200000963160"/>
+<meta property="al:android:package" content="com.nytimes.android"/>
+<meta property="al:android:app_name" content="NYTimes"/>
+<meta name="twitter:app:name:googleplay" content="NYTimes"/>
+<meta name="twitter:app:id:googleplay" content="com.nytimes.android"/>
+<meta name="twitter:app:url:googleplay" content="nytimes://reader/id/2004122200000963160"/>
+<link rel="alternate" href="https://web.archive.org/web/20151128164722/android-app://com.nytimes.android/nytimes/reader/id/2004122200000963160"/>
+<meta name="robots" content="noarchive"/>
+<meta itemprop="alternativeHeadline" name="hdl_p" content="Washington Post Company Buys Slate Magazine"/>
+<meta name="channels" content=""/>
+<meta itemprop="description" name="description" content="Washington Post Co purchases Slate, online magazine owned by Microsoft; terms are undisclosed, but industry specialists estimate deal is worth between $15 million and $20 million (M)"/>
+<meta itemprop="genre" content="News"/>
+<meta itemprop="identifier" name="articleid" content="2004122200000963160"/>
+<meta itemprop="usageTerms" name="usageTerms" content="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html"/>
+<meta itemprop="inLanguage" content="en-US"/>
+<meta name="hdl" content="Washington Post Company Buys Slate Magazine"/>
+<meta name="col" content="" id="column-name"/>
+<meta name="pdate" content="20041222"/>
+<meta name="utime" content="20041222000000"/>
+<meta name="ptime" content="20041222000000"/>
+<meta name="DISPLAYDATE" content="Dec. 22, 2004"/>
+<meta name="dat" content="Dec. 22, 2004"/>
+<meta name="lp" content="Washington Post Co purchases Slate, online magazine owned by Microsoft; terms are undisclosed, but industry specialists estimate deal is worth between $15 million and $20 million (M)"/>
+<meta name="msapplication-starturl" content="http://www.nytimes.com"/>
+<meta name="cre" content="The New York Times"/>
+<meta name="slug" content="22slat$03"/>
+<meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/business/media/index.jsonp"/>
+<meta name="sectionfront_jsonp" content="http://json8.nytimes.com/services/json/sectionfronts/business/media/index.jsonp"/>
+<meta property="og:url" content="https://web.archive.org/web/20151128164722/http://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Washington Post Company Buys Slate Magazine"/>
+<meta property="og:description" content="Washington Post Co purchases Slate, online magazine owned by Microsoft; terms are undisclosed, but industry specialists estimate deal is worth between $15 million and $20 million (M)"/>
+<meta property="article:published" itemprop="datePublished" content="2004-12-22"/>
+<meta property="article:section" itemprop="articleSection" content="Media"/>
+<meta property="article:section-taxonomy-id" itemprop="articleSection" content="104D1E63-9701-497B-8CF4-A4D120C9014E"/>
+<meta property="article:section_url" content="http://www.nytimes.com/pages/business/index.html"/>
+<meta property="fb:app_id" content="9869919170"/>
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:site" value="@nytimes"/>
+<meta property="twitter:url" content="http://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html"/>
+<meta property="twitter:title" content="Washington Post Company Buys Slate Magazine"/>
+<meta property="twitter:description" content="Washington Post Co purchases Slate, online magazine owned by Microsoft; terms are undisclosed, but industry specialists estimate deal is worth between $15 million and $20 million (M)"/>
+<meta name="author" content="David Carr"/>
+<meta name="tone" content="news" id="article-tone"/>
+<meta name="byl" content="By DAVID CARR"/>
+<meta name="PT" content="article"/>
+<meta name="CG" content="business"/>
+<meta name="SCG" content="media"/>
+<meta name="PST" content="News"/>
+<meta name="tom" content="News"/>
+<meta property="og:image" content="https://web.archive.org/web/20151128164722im_/http://static01.nyt.com/images/icons/t_logo_291_black.png"/>
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/c/david_carr/index.html"/>
+<meta name="twitter:creator" value="carr2n"/>
+<meta property="article:tag" content="WASHINGTON POST CO"/>
+<meta name="org" content="WASHINGTON POST CO"/>
+<meta property="article:tag" content="MICROSOFT CORP"/>
+<meta name="org" content="MICROSOFT CORP"/>
+<meta property="article:tag" content="WASHINGTON POST CO"/>
+<meta name="org" content="WASHINGTON POST CO"/>
+<meta property="article:tag" content="SLATE"/>
+<meta name="org" content="SLATE"/>
+<meta property="article:tag" content="MICROSOFT CORP"/>
+<meta name="org" content="MICROSOFT CORP"/>
+<meta property="article:tag" content="MERGERS, ACQUISITIONS AND DIVESTITURES"/>
+<meta name="des" content="MERGERS, ACQUISITIONS AND DIVESTITURES"/>
+<meta property="article:tag" content="MAGAZINES"/>
+<meta name="des" content="MAGAZINES"/>
+<meta property="article:tag" content="NEWS AND NEWS MEDIA"/>
+<meta name="des" content="NEWS AND NEWS MEDIA"/>
+<meta property="article:tag" content="COMPUTERS AND THE INTERNET"/>
+<meta name="des" content="COMPUTERS AND THE INTERNET"/>
+<meta name="keywords" content="WASHINGTON POST CO,MICROSOFT CORP,WASHINGTON POST CO,SLATE,MICROSOFT CORP,MERGERS  ACQUISITIONS AND DIVESTITURES,MAGAZINES,NEWS AND NEWS MEDIA,COMPUTERS AND THE INTERNET"/>
+<meta name="news_keywords" content="Slate,Magazine"/>
+<meta property="article:modified" itemprop="dateModified" content="2004-12-22"/>
+<meta property="twitter:image" content="http://static01.nyt.com/images/icons/t_logo_150_black.png"/>
+<meta name="dfp-ad-unit-path" content="business/media"/>
+<meta name="dfp-amazon-enabled" content="false"/>
+    
+                <!--[if (gt IE 9)|!(IE)]> <!-->
+        <link rel="stylesheet" type="text/css" media="screen" href="https://web.archive.org/web/20151128164722cs_/http://a1.nyt.com/assets/article/20151124-164811/css/article/article/styles.css"/>
+    <!--<![endif]-->
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20151124-164811/css/article/article/styles-ie.css" />
+    <![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="https://web.archive.org/web/20151128164722cs_/http://a1.nyt.com/assets/article/20151124-164811/css/article/article/styles-print.css"/>
+                <script id="page-config-data" type="text/json">
+{"pageconfig":{"ledeMediaSize":"none","keywords":["article-medium"]}}</script>
+<script id="display_overrides">
+            []    </script>
+
+			<!-- Media.net Initialization Script -->
+<script type="text/javascript">
+var PREBID_TIMEOUT = 300;
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function (){
+    window.advBidxc = window.advBidxc || {};
+    window.advBidxc.renderAd = function (){};
+    window.advBidxc.startTime = new Date().getTime();
+    function loadScript(tagSrc) {
+        if (tagSrc.substr(0, 4) !== 'http') {
+            var isSSL = 'https:' == document.location.protocol;
+            tagSrc = (isSSL ? 'https:' : 'http:') + tagSrc;
+        }   
+        var scriptTag = document.createElement('script'),
+            placeTag = document.getElementsByTagName("script")[0];
+        scriptTag.type = 'text/javascript';
+        scriptTag.async = true;
+        scriptTag.src = tagSrc;
+        placeTag.parentNode.insertBefore(scriptTag, placeTag);
+    }
+    function loadGPT(){
+        if(!window.advBidxc.isAdServerLoaded){
+            loadScript('//web.archive.org/web/20151128164722/https://www.googletagservices.com/tag/js/gpt.js');
+            window.advBidxc.isAdServerLoaded = true;
+        }
+    }
+
+    window.advBidxc.loadGPT = loadGPT;
+    setTimeout(window.advBidxc.loadGPT,PREBID_TIMEOUT);// Timeout in case of loading error
+    var mnSrc = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//web.archive.org/web/20151128164722/https://contextual.media.net/bidexchange.js?cid=8CU2553YN';
+    document.write('<scr' + 'ipt type="text/javascript" src="' + mnSrc + '"></scr' + 'ipt>');
+})();
+</script>	
+<script type="text/json" id="trending-link-json">
+	</script>
+
+<script id="abtestconfig" type="application/json">
+
+[
+    {
+        "testId": "0012",
+        "testName": "tallWatchingModule",
+        "throttle": 1.0,
+        "allocation": 0.9,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0033",
+        "testName": "recommendedLabelTest",
+        "throttle": 1,
+        "allocation": 0.833,
+        "variants": 5,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0036",
+        "testName": "velcroSocialFollow",
+        "throttle": 0.1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article", "homepage"]
+    },
+    {
+        "testId": "0051",
+        "testName": "shuffleRecommendations",
+        "throttle": 1.0,
+        "allocation": 0.667,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0052",
+        "testName": "paidPostDriver",
+        "throttle": 1.0,
+        "allocation": 0.875,
+        "variants": 7,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0061",
+        "testName": "paidPostFivePackMock",
+        "throttle": 0,
+        "allocation": 0,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0063",
+        "testName": "paidPostFivePack",
+        "throttle": 1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0064",
+        "testName": "realEstateSearch",
+        "throttle": 1,
+        "allocation": 1,
+        "variants": 1,
+        "applications": ["realestate", "article"]
+     },
+     {
+         "testId": "0066",
+         "testName": "ribbonChartbeatMostEmailed",
+         "throttle": 1,
+         "allocation": 0.5,
+         "variants": 1,
+         "applications": ["article"]
+     },
+     {
+         "testId": "0067",
+         "testName": "pinnedMasthead",
+         "throttle": 0.02,
+         "allocation": 0.5,
+         "variants": 1,
+         "applications": ["homepage"]
+     },
+     {
+         "testId": "0069",
+  	 "testName": "coloredSharetools",
+         "throttle": 1,
+         "allocation": 0.5,
+         "variants": 1,
+         "applications": ["slideshow"]
+     }
+]
+
+</script>
+
+
+<script id="user-info-data" type="application/json">
+{ "meta": {},
+  "data": {
+    "id": "0",
+    "name": "",
+    "subscription": ["","_RPV"],
+    "demographics": {}
+  }
+}
+</script>
+
+<script>
+var require = {
+    baseUrl: 'https://web.archive.org/web/20151128164722/http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20151124-164811/js/foundation',
+        'shared': 'article/20151124-164811/js/shared',
+        'article': 'article/20151124-164811/js/article',
+        'application': 'article/20151124-164811/js/article/article',
+        'videoFactory': 'https://web.archive.org/web/20151128164722/http://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'https://web.archive.org/web/20151128164722/http://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'https://web.archive.org/web/20151128164722/http://static01.nyt.com/js/mtr',
+        'auth/growl': 'https://web.archive.org/web/20151128164722/http://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'https://web.archive.org/web/20151128164722/http://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    },
+    map: {
+        '*': {
+            'article/main': 'article/article/main'
+        }
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="https://web.archive.org/web/20151128164722js_/http://a1.nyt.com/assets/article/20151124-164811/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+    require.map['*']['foundation/main'] = 'foundation/legacy_main';
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/article/20151124-164811/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+window.magnum.processFlags(["limitFabrikSave","moreFollowSuggestions","unfollowComments","followFeature","fullbleedTweaks","videoVHSCover","videoVHSShareTools","allTheEmphases","androidDeepLinks","autoPlayVideos","newsEventHierarchy","standaloneSlideshowPromo","freeTrial","dedupeWhatsNext","ribbonNavArrowVisibility","trendingPageLinks","sprinklePaidPost","TMagFonts3","headerBidder","largeLedeXXL","standardizeWhatsNextCollection","onlyLayoutA","simpleExtendedByline","iOSDeepLinks"]);
+</script>
+<script>
+require(['foundation/main'], function () {
+    require(['auth/mtr', 'auth/growl']);
+});
+</script>
+<script src="https://web.archive.org/web/20151128164722js_/http://a1.nyt.com/assets/article/20151124-164811/js/article/common/layout.js"></script></head>
+<body>
+    
+    <style>
+    .lt-ie10 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie10 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie10 .messenger.suggestions .alert-icon {
+        background: url('https://web.archive.org/web/20151128164722im_/http://i1.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie10 .masthead,
+    .lt-ie10 .navigation,
+    .lt-ie10 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie10 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.</span>
+                    <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/content/help/site/ie9-support.html" class="action-link">LEARN MORE »</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div id="shell" class="shell">
+    <header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+                        <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+                                    <a class="button skip-button skip-to-mobile visually-hidden focusable" href="https://web.archive.org/web/20151128164722/http://mobile.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html">View mobile version</a>
+                    </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a id="branding-heading-link" href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/">
+                    <span class="visually-hidden">The New York Times</span>
+                </a>
+            </h2>
+            <script>window.magnum.writeLogo('small', 'https://web.archive.org/web/20151128164722/http://a1.nyt.com/assets/article/20151124-164811/images/foundation/logos/', 'business', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');</script>
+        </div><!-- close branding -->
+                <div class="story-meta">
+            <h6 class="kicker"><span class="kicker-label"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/business/media/index.html">Media</a></span><span class="pipe">|</span>Washington Post Company Buys Slate Magazine</h6>
+        </div><!-- close story-meta -->
+        <div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+</div>
+        <div class="user-tools">
+            <div id="sharetools-masthead" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-masthead  " data-shares="email,facebook,twitter,show-all|More" data-url="https://web.archive.org/web/20151128164722oe_/http://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html" data-title="Washington Post Company Buys Slate Magazine" data-author="By DAVID CARR" data-media="" data-description="Washington Post Co purchases Slate, online magazine owned by Microsoft; terms are undisclosed, but industry specialists estimate deal is worth between $15 million and $20 million (M)" data-publish-date="December 22, 2004">
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>
+            <div class="user-tools-button-group button-group">
+                <button class="button subscribe-button hidden" data-href="http://www.nytimes.com/subscriptions/Multiproduct/lp3004.html">Subscribe Now</button>
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                                                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <div class="ad">
+        <div id="SponsorAd" class="sponsor-ad">
+            <small class="ad-sponsor">search sponsored by</small>
+        </div>
+    </div>
+    <nav class="search-form-control form-control layout-horizontal">
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com"/>
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+</header>
+            <nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+            <li class="collection ribbon-loader">
+                <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+</nav>
+        <nav id="navigation" class="navigation" role="navigation">
+</nav> <!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+</nav>
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+    <div id="page" class="page">
+        <main id="main" class="main" role="main">
+                <div id="TopAd" class="ad top-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+</div>
+
+<article id="story" class="story theme-main">
+
+        
+    <header id="story-header" class="story-header">
+        
+                <div id="story-meta" class="story-meta ">
+                            <div class="ad sponsortile-ad hidden nocontent robots-nocontent">
+                    <div class="caption">Supported by</div>
+                    <div id="sponsortile" class="ad sponsortile-ad-creative"></div>
+                </div>
+                                        <h3 class="kicker">
+                        <span class="kicker-label"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/business/media/index.html">Media</a></span>                                                                </h3>
+                        	<h1 itemprop="headline" id="story-heading" class="story-heading">Washington Post Company Buys Slate Magazine</h1>
+                        <div id="story-meta-footer" class="story-meta-footer">
+                                                                                    
+
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person" itemid="http://topics.nytimes.com/top/reference/timestopics/people/c/david_carr/index.html">By <a href="https://web.archive.org/web/20151128164722/http://topics.nytimes.com/top/reference/timestopics/people/c/david_carr/index.html" rel="author" title="More Articles by DAVID CARR"><span class="byline-author" data-byline-name="DAVID CARR" itemprop="name" data-twitter-handle="carr2n">DAVID CARR</span></a></span><time class="dateline" datetime="2004-12-22" itemprop="datePublished" content="2004-12-22">DEC. 22, 2004</time>
+</p>
+                                    <div class="inside-story">
+                        <span class="menu-label">Inside</span>
+                        <ul class="inside-story-menu"></ul>
+                    </div>
+                                                                                </div><!-- close story-meta-footer -->
+        </div><!-- close story-meta -->
+    </header>
+
+    <div id="story-body" class="story-body">
+
+        
+        
+        <div class="lede-container">
+                        <div class="lede-container-ads">
+                                                    <div id="lede-ad" class="ad lede-ad marginalia-anchor-ad nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                                                            </div>
+        </div>
+
+        <div id="byline-sharetools-container" class="byline-sharetools-container">
+                                                    <div id="sharetools-story" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-story  " data-shares="email,facebook|Share,twitter|Tweet,save,show-all|more,ad" data-url="https://web.archive.org/web/20151128164722oe_/http://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html" data-title="Washington Post Company Buys Slate Magazine" data-author="By DAVID CARR" data-media="" data-description="Washington Post Co purchases Slate, online magazine owned by Microsoft; terms are undisclosed, but industry specialists estimate deal is worth between $15 million and $20 million (M)" data-publish-date="December 22, 2004">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<div id="MiddleLeft" class="ad middle-left-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->
+                    </div>
+
+
+                
+        <p class="story-body-text story-content" data-para-count="110" data-total-count="110" itemprop="articleBody" id="story-continues-1">The Washington Post Company said yesterday that it had purchased Slate, an online magazine owned by Microsoft.</p><aside id="middle-right-paid-post-container" class="ad middle-right-ad paid-post-ad hidden nocontent robots-nocontent">
+                                <h2 class="marginalia-heading"></h2>
+                                    <ul class="story-menu">
+                                        <li id="MiddleRightPaidPost1" class="story-menu-item ad"></li>
+                                        <li id="MiddleRightPaidPost2" class="story-menu-item ad"></li>
+                                        <li id="MiddleRightPaidPost3" class="story-menu-item ad"></li>
+                                        <li id="MiddleRightPaidPost4" class="story-menu-item ad"></li>
+                                    </ul>
+                                </aside><p class="story-body-text story-content" data-para-count="260" data-total-count="370" itemprop="articleBody" id="story-continues-2">The sale completes Slate's transformation from an experiment in the new media in 1996 to a respected brand name in journalism. Terms of the sale were not announced, but industry specialists estimated that the deal was worth between $15 million and $20 million.</p><p class="story-body-text story-content" data-para-count="274" data-total-count="644" itemprop="articleBody">Several analysts suggested that the deal was a sign that large, older media properties were noticing the amount of advertising dollars migrating to the Web and were deciding that it was time to begin acquiring new brands as well as to further push their own digital efforts.</p><p class="story-body-text story-content" data-para-count="315" data-total-count="959" itemprop="articleBody">Although Slate has never achieved steady profitability, it is credited with helping to shape Web publishing as well as pioneering the use of hyperlinks and Web logs. It has been recognized with a National Magazine Award for its editorial content, and its coverage is routinely cited by mainstream news publications.</p><p class="story-body-text story-content" data-para-count="368" data-total-count="1327" itemprop="articleBody" id="story-continues-3">Last July, Microsoft announced that it was investigating a sale of Slate, which has about 30 full-time employees; the software company had found that a Web magazine of cultural criticism and political analysis had little relevance to its primary business. In addition, the site's small size gave it a limited ability to contribute meaningfully to Microsoft's revenues.</p><p class="story-body-text story-content" data-para-count="401" data-total-count="1728" itemprop="articleBody">Slate was founded in 1996, with Microsoft's backing, by Michael Kinsley, who is now editorial and opinion editor of The Los Angeles Times. After years of losing money and an ill-fated attempt in 1999 to become a subscriber-only site, it achieved marginal profitability in one quarter last year and is now a break-even proposition on revenue of about $6 million a year, according to company executives.</p><p class="story-body-text story-content" data-para-count="218" data-total-count="1946" itemprop="articleBody">Microsoft invested more than $20 million in the venture over the years, and although the company didn't meddle in Slate's coverage, it never seemed sure of what to do with the daily news magazine that Slate had become.</p><p class="story-body-text story-content" data-para-count="280" data-total-count="2226" itemprop="articleBody">"Even if we were wildly profitable, we would be a footnote on a pimple on a rounding error at Microsoft," said Jacob Weisberg, the editor of Slate since 2002 and a major player in the sale, according to executives involved in the deal. "I think it was really a question of scale."</p><div id="Moses" class="ad moses-ad nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-4">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="415" data-total-count="2641" itemprop="articleBody" id="story-continues-4">Although the sale is small in dollar terms, it comes just a month after Dow Jones &amp; Company announced that it would buy CBS MarketWatch, a financial news Web site, for $486 million. Michael J. Wolf, a senior partner at McKinsey &amp; Company, said similar deals were likely to follow. "As media companies move more aggressively online, these new brands will help them expand the set of consumers they address," he said.</p><p class="story-body-text story-content" data-para-count="252" data-total-count="2893" itemprop="articleBody">The Washington Post Company has seen significant growth in ad sales at the sites it already owns: revenue for Washingtonpost.Newsweek Interactive, the company's online division, increased 37 percent, to $44.7 million, for the first nine months of 2004.</p><p class="story-body-text story-content" data-para-count="297" data-total-count="3190" itemprop="articleBody">"Even though it is a small acquisition, it could have big implications," said John Tinker, an analyst with ThinkEquity Partners, a brokerage firm. "Right now, the Internet has only 3 percent of total ad dollars, but historically, 3 percent is a tipping point from which things began to accelerate.</p><div id="MiddleRight1" class="ad ad-placeholder nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div>
+    	<div id="MiddleRightN" class="ad text-ad middle-right-ad nocontent robots-nocontent"><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="221" data-total-count="3411" itemprop="articleBody" id="story-continues-5">"Look at Ford, which is a fairly traditional company -- they're already spending 10 percent of their total ad dollars online," he added. "I think The Washington Post wants to have options available for clients like them."</p><p class="story-body-text story-content" data-para-count="474" data-total-count="3885" itemprop="articleBody" id="story-continues-6">Slate, whose main editorial offices are in New York, had 4.8 million unique visitors last month, compared with 4.5 million for washingtonpost.com, according to Media Metrix. But throughout its entire existence, Slate has had the support of the MSN Network, Microsoft's online portal. Although there are covenants in the deal for that traffic flow to continue, observers wondered if the number of visitors would continue at present levels after Microsoft hands over the site.</p><p class="story-body-text story-content" data-para-count="312" data-total-count="4197" itemprop="articleBody">"There is the letter and then the spirit of the agreement," said Merrill Brown, a media consultant who is a former chief executive of MSNBC.com. "The question is whether Slate will continue to get the kind of distribution that it has received in the past, and if it does, then it is probably a good arrangement."</p><p class="story-body-text story-content" data-para-count="261" data-total-count="4458" itemprop="articleBody" id="story-continues-7">Other media companies, including The New York Times Company and Atlantic Media, owner of The Atlantic Monthly, looked at acquiring the site but did not bid, according to executives involved in the process. The New York Times Company did not comment on the deal.</p><p class="story-body-text story-content" data-para-count="278" data-total-count="4736" itemprop="articleBody">"I think that The Washington Post is a perfect fit for Slate," said Scott Moore, a general manager at the MSN Network. "They will maintain the high journalistic standards of Slate, and I think The Post is well positioned to work with Slate for synergy with their core business."</p><p class="story-body-text story-content" data-para-count="336" data-total-count="5072" itemprop="articleBody">Slate, with a tangy mix of commentary and real-time annotation of other media coverage, has been popular with readers, but may give a more traditionally minded media company pause. Jack Shafer, Slate's media columnist, said he was not concerned that he would have to pull his punches when writing about anyone, including his new owners.</p><p class="story-body-text story-content" data-para-count="327" data-total-count="5399" itemprop="articleBody">"I'm not worried about it. I don't think my job changes," said Mr. Shafer, who currently has a story on the site that is critical of a recent report in The Washington Post. "The old cliché is that journalists don't have thin skin, they have no skin, but in my experience, The Washington Post has always had a very thick hide."</p><p class="story-body-text story-content" data-para-count="262" data-total-count="5661" itemprop="articleBody">Executives at The Washington Post who were involved in the deal said that while they expected to collaborate extensively with Slate in marketing and selling ads on the companies' respective sites, editorial operations would continue to be completely independent.</p><p class="story-body-text story-content" data-para-count="383" data-total-count="6044" itemprop="articleBody">There are existing relationships between Microsoft and The Washington Post Company. Melinda Gates, the wife of Microsoft's founder, Bill Gates, sits on the board of The Washington Post Company. And Mr. Gates is on the board of Berkshire Hathaway, the company led by Warren E. Buffett, who is the largest single stockholder in The Washington Post Company apart from the Graham family.</p><p class="story-body-text story-content" data-para-count="378" data-total-count="6422" itemprop="articleBody">Much of the interest in purchasing Slate was said to be driven by Donald Graham, the chairman and chief executive of The Washington Post Company. Mr. Graham was out of the country yesterday, but Cliff Sloan, the vice president of business development and general counsel of Washingtonpost.Newsweek Interactive, said that the company believed it was making a premier acquisition.</p><p class="story-body-text story-content" data-para-count="79" data-total-count="6501" itemprop="articleBody">"We are thrilled to be adding them to the mix we already have," Mr. Sloan said.</p>
+        
+                                        
+        
+                    <nav id="next-in"></nav><!-- close next-in -->
+            </div><!-- close story-body -->
+</article>
+<aside class="marginalia most-emailed-marginalia hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside>
+<section id="whats-next" class="whats-next nocontent robots-nocontent">
+    <div class="nocontent robots-nocontent">
+        <div class="loader-container">
+            <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+        </div>
+    </div><!-- close nocontent -->
+</section>
+<div id="TopAd1" class="text-ad bottom-left-ad nocontent robots-nocontent"></div>
+<div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+                    <div class="search-overlay"></div>
+            </main><!-- close main -->
+            <section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a id="site-index-branding-link" href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/">
+                <span class="visually-hidden">The New York Times</span>
+            </a>
+        </h2>
+        <script>window.magnum.writeLogo('small', 'https://web.archive.org/web/20151128164722/http://a1.nyt.com/assets/article/20151124-164811/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');</script>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/nyregion/index.html">N.Y.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/technology/index.html">Tech</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/section/science">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/roomfordebate">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/video/opinion">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/arts/design/index.html">Art &amp; Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://artsbeat.blogs.nytimes.com/">ArtsBeat</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/video/arts">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/fashion/index.html">Fashion &amp; Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/section/jobs">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/section/t-magazine">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/travel/index.html">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings &amp; Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings &amp; More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/marketing/tools-and-services/">Tools &amp; Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/video">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/https://www.nytimes.com/store/?&amp;t=qry542&amp;utm_source=nytimes&amp;utm_medium=HPB&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP&amp;module=SectionsNav&amp;action=click®ion=TopBar&amp;version=BrowseTree&amp;contentCollection=NYT%20Store&amp;contentPlacement=2&amp;pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/times-journeys/?utm_source=nytimes&amp;utm_medium=HPLink&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/tpnav">Times Insider</a>
+    </li>
+
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="nyt-opinion">
+        <i class="icon sprite-icon"></i>
+        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/opinionindex">NYT Opinion</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://web.archive.org/web/20151128164722/https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="https://web.archive.org/web/20151128164722/http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+                <li>
+            <a href="https://web.archive.org/web/20151128164722/http://subscribe.inyt.com/">International New York Times</a>
+        </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+
+            <footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+         <ul>
+             <li>
+                <a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2015</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span><meta itemprop="tickerSymbol" content="NYSE NYT"/></span>
+                </a>
+            </li>
+            <li class="visually-hidden"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/">Home</a></li>
+            <li class="visually-hidden"><a href="https://web.archive.org/web/20151128164722/http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+            <li class="visually-hidden">Accessibility concerns? Email us at <a href="https://web.archive.org/web/20151128164722/mailto:accessibility@nytimes.com">accessibility@nytimes.com</a>. We would love to hear from you.</li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20151128164722/http://www.nytco.com/careers">Work With Us</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.whsites.net/mediakit">Advertise</a></li>
+            <li class="wide-viewport-item"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="wide-viewport-item last-item"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <ul>
+            <li><a href="https://web.archive.org/web/20151128164722/http://spiderbites.nytimes.com/">Site Map</a></li>
+            <li><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://web.archive.org/web/20151128164722/https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="wide-viewport-item last-item"><a href="https://web.archive.org/web/20151128164722/http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>
+        </div><!-- close page -->
+    </div><!-- close shell -->
+    <script>
+require(['foundation/main'], function () {
+    require(['article/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['https://web.archive.org/web/20151128164722/http://static01.nyt.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+    <div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+<div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden"></div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"4491951","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUA=","queueTime":0,"applicationTime":302,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 16:47:22 Nov 28, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:46:46 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.582
+  exclusion.robots: 0.072
+  exclusion.robots.policy: 0.064
+  esindex: 0.009
+  cdx.remote: 19.81
+  LoadShardBlock: 200.178 (3)
+  PetaboxLoader3.datanode: 171.848 (4)
+  PetaboxLoader3.resolve: 216.945 (2)
+  load_resource: 237.575
+--> title 64 Washington Post Company Buys Slate Magazine - The New York Times contentType 9 text/html url 145 https://web.archive.org:443/web/20151128164722/https://www.nytimes.com/2004/12/22/business/media/washington-post-company-buys-slate-magazine.html responseCode 3 200 

@@ -1,0 +1,953 @@
+zidsheyqpkjocihexkwefmuopsfapsbsieloqqne length 5 53181 page 53181 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>FIA World Championship status for cross-country rallying, with Dakar Rally as its cornerstone; A.S.O. appointed global promoter - WRRC 2025</title>
+    <meta name="description" content="In a landmark development to support the further growth of this spectacular discipline, the legendary Dakar Rally will also launch the beginning of this new era" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="image" content="https://www.worldrallyraidchampionship.com/img/global/logo.png" />
+<meta name="lang" content="en" />
+<meta name="race" content="wrr" />
+<meta name="year" content="2025" />
+<meta name="pageKey" content="actu::fia-world-championship-status-for-cross-country-rallying-with-dakar-rally-as-its-cornerstone-a-s-o-appointed-global-promoter" />
+<meta property="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+<meta property="og:image" content="https://www.worldrallyraidchampionship.com/img/global/logo-og.png" />
+<meta property="og:type" content="article" />
+<meta property="og:site-name" content="WRRC 2025" />
+<meta property="og:url" content="https://www.worldrallyraidchampionship.com/en/news/2021/fia-world-championship-status-for-cross-country-rallying-with-dakar-rally-as-its-cornerstone-a-s-o-appointed-global-promoter/4" />
+<meta property="og:title" content="FIA World Championship status for cross-country rallying, with Dakar Rally as its cornerstone; A.S.O. appointed global promoter - WRRC 2025" />
+<meta property="og:description" content="In a landmark development to support the further growth of this spectacular discipline, the legendary Dakar Rally will also launch the beginning of this new era" />
+
+
+            <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="WRRC" />
+<link rel="manifest" href="/manifest.json" crossorigin="use-credentials"/>
+
+    
+    <!--[if lte IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+                <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WN5XRZT');</script>
+    <!-- End Google Tag Manager -->
+
+    
+    <script>
+        var customEvents = {};
+        window.fbAsyncInit = function () {
+            // init the FB JS SDK
+
+            FB.init({
+                appId: 454906931320498,
+                status: true,
+                xfbml: true
+            });
+        };
+
+        // Load the SDK asynchronously
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        function checkCookieForRedirect() {
+            document.body.style.display = 'none';
+            if (document.body.className.includes('hide-admin') && localStorage.getItem('_lang')) {
+                localStorage.removeItem('_lang')
+            }
+            const lang = localStorage.getItem('_lang');
+            if (/^\/[a-zA-Z]{2}(?:.+|$)/.test(window.location.pathname) && /^[a-zA-Z]{2}$/.test(lang)) {
+                if (!(new RegExp('^\/' + lang + '(?:.+|$)')).test(window.location.pathname)) {
+                    var link = document.querySelector('.header__lang__menu .nav__link[data-lang='+lang+']');
+                    if (link) {
+                        link = `${link.href}${window.location.search}`;
+                        window.location.href = link;
+                        return;
+                    }
+                }
+            }
+            document.body.style.display = 'block';
+        }
+
+        window.translations = {
+            slidePrev: 'Previous slide',
+            slideNext: 'Next slide'
+        };
+    </script>
+
+    <!--<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,700i" rel="stylesheet">-->
+            <link rel="preload" href="/dist/js/scripts.jquery.4ebe7b0.js" as="script">
+        <link rel="preload" href="/dist/css/5.style.e1042ea.css" as="style">
+        <link rel="preload" href="/dist/css/11.style.4a6fe84.css" as="style">
+        <link rel="preload" href="/dist/css/8.style.71b3703.css" as="style">
+        <link rel="preload" href="/dist/js/scripts.vendor.4a6fe84.js" as="script">
+                    <link rel="preload" href="/dist/js/scripts.runtime.01e8386.js" as="script">
+            <link rel="preload" href="/dist/js/scripts.vendors.22854b6.js" as="script">
+                <link rel="preload" href="/dist/js/scripts.main.71b3703.js" as="script">
+        <link href="/dist/css/5.style.e1042ea.css" rel="stylesheet">
+        <link href="/dist/css/11.style.4a6fe84.css" rel="stylesheet">
+        <link href="/dist/css/8.style.71b3703.css" rel="stylesheet">
+            
+            
+<script>
+    // Appel asynchrone au tag DFP
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node =document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+    googletag.cmd.push(function() {
+
+        var mp_bannierehaute = googletag.sizeMapping().
+        addSize([0, 0], [[1, 1],[320, 50],[320, 100]]).
+        addSize([728, 500], [[1, 1],[728, 90]]). // Tablet
+        addSize([1000, 500], [[1, 1],[728, 90],[1000, 90],[1000, 250]]). // Desktop
+        build();
+
+        var AdUnit = '/366560878/ASO/WRRC';
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-haute').setTargeting('position', 'BANNIERE-HAUTE').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-basse').setTargeting('position', 'BANNIERE-BASSE').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-1').setTargeting('position', 'BANNIERE-1').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-2').setTargeting('position', 'BANNIERE-2').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-3').setTargeting('position', 'BANNIERE-3').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-cadet').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'cadet').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-jaune').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotjaune').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-pois').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotpois').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-vert').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotvert').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-blanc').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'maillotblanc').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-securite').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'securite').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [1, 1], 'dfp_banniere-surlaroute').setTargeting('position', 'BANNIERE-HAUTE').setTargeting('rubrique', 'surlaroute').defineSizeMapping(mp_bannierehaute).addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-1').setTargeting('position', 'PAVE-1').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-2').setTargeting('position', 'PAVE-2').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-3').setTargeting('position', 'PAVE-3').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-4').setTargeting('position', 'PAVE-4').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-5').setTargeting('position', 'PAVE-5').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-6').setTargeting('position', 'PAVE-6').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_pave-7').setTargeting('position', 'PAVE-7').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[300,250]], 'dfp_chronometreur').setTargeting('position', 'CHRONOMETREUR').addService(googletag.pubads());
+        googletag.defineSlot(AdUnit, [[1,1]], 'dfp_background').setTargeting('position', 'BACKGROUND').addService(googletag.pubads());
+        
+        /* Capping */
+
+        // set interstitiel if not capped
+        (function() {
+            const CAPPING_KEY = 'interstitielClosedAt';
+            const CAPPING_DELAY = 60 * 60 * 1000;
+            const ts = localStorage.getItem(CAPPING_KEY);
+            const isCapped = ts && (Date.now() - parseInt(ts, 10) < CAPPING_DELAY);
+
+            if (!isCapped) {
+                googletag.defineOutOfPageSlot(AdUnit, 'dfp_interstitiel')
+                  .setTargeting('position', 'INTERSTITIEL')
+                  .addService(googletag.pubads());
+            } else {
+                console.log('[DFP] Interstitiel no loaded : capping ON');
+            }
+        })();
+
+        // set capping event on close
+        document.body.addEventListener('click', function(event) {
+            const close = event.target.closest('#croixFermee');
+            if (close) {
+                localStorage.setItem('interstitielClosedAt', Date.now().toString());
+                console.log('[DFP] Interstitiel closed : capping saved');
+            }
+        });
+        
+        // Targeting key/value
+        googletag.pubads().setTargeting('lang', 'EN');
+        googletag.pubads().setTargeting('pagetype', 'DEFAULT');
+                googletag.pubads().setTargeting('xtpage', ['actu', '[News]']);
+
+        if (window.location.hash !== '') {
+            googletag.pubads().setTargeting('preview', window.location.hash.replace('#',''));
+        }
+        
+        // Targeting general
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().disableInitialLoad();
+        googletag.enableServices();
+    });
+</script>
+
+
+            
+            
+                        
+    <link rel="alternate" hreflang="fr" href="/fr/actus//le-rallye-raid-recoit-le-statut-de-championnat-du-monde-fia-avec-le-dakar-en-evenement-phare-et-a-s-o-comme-promoteur/1"/>
+                        
+    <link rel="alternate" hreflang="es" href="/es/noticias//el-rally-raid-se-suma-al-campeonato-del-mundo-de-la-fia-con-el-dakar-como-prueba-estrella-y-a-s-o-como-promotor-mundial/6"/>
+
+    
+</head>
+        
+    <body class="news v2 is-000-analytics has-countdown"
+data-countdown="2026/01/03 07:30:00" data-timezone="Africa/Dakar" data-auto-refresh="dakar"
+data-cookie-referer="_page_alias_motor_sports_news_bundle_news"
+data-analytics-site="624850"
+>
+
+    
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WN5XRZT"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+                 
+
+    
+
+
+
+    
+
+
+
+<div class="grid-container">
+        
+
+<div class="menu js-menu" data-sidebar-type="menu">
+    <div class="menu-container">
+        <div class="menu-container__content js-menu-overlay">
+                    </div>
+        <div class="menu-container__right-panel">
+            <div class="close-menu js-menu-close" data-xtclick="sidebar::menu::button::close" data-clicktype="A">
+                <span class="icon icon--close"></span>
+            </div>
+
+                        <div class="js-empty hiding--sm">
+                <div class="navigation">
+                                    <div class="navigation__login js-burger-container"></div>
+                                                    
+                                </div>
+                <div class="burgerMenu__section">
+                    <div class="header__navigation" role="navigation">
+                                                        <nav class="navigation">
+        <ul class="accordion">
+                                                                            
+                
+                                                    
+                                                                        <li class="item">
+    <a class="nav js-nav-item" href="/en/competitors" target="_self" data-xtclick="header::navigation::competitors" data-clicktype="N">
+        Competitors
+        
+    </a>
+    </li>
+                            
+                
+                                                    
+                                                                        <li class="item">
+    <a class="nav js-nav-item" href="/en/rankings-federations" target="_self" data-xtclick="header::navigation::rankings" data-clicktype="N">
+        Rankings
+        
+    </a>
+    </li>
+                            
+                
+                                                    
+                                                                        <li class="item">
+    <a class="nav js-nav-item" href="/en/presentation" target="_self" data-xtclick="header::navigation::presentation" data-clicktype="N">
+        Presentation
+        
+    </a>
+    </li>
+                            
+                
+                                                    
+                                                                        <li class="item">
+    <a class="nav js-nav-item" href="/en/calendar" target="_self" data-xtclick="header::navigation::calendar" data-clicktype="N">
+        Calendar
+        
+    </a>
+    </li>
+                            
+                
+                                                    
+                                                                        <li class="item">
+    <a class="nav js-nav-item" href="/en/register" target="_self" data-xtclick="header::navigation::register" data-clicktype="N">
+        Register
+        
+    </a>
+    </li>
+                            
+                
+                                                    
+                                                                        <li class="item">
+    <a class="nav js-nav-item" href="/en/home-gallery" target="_self" data-xtclick="header::navigation::videos-photos" data-clicktype="N">
+        Videos &amp; Photos
+        
+    </a>
+    </li>
+                    </ul>
+    </nav>
+            
+                                                                            
+    
+<div id="1e9d6e80dc96b4e4538bdc775cd6fe29b">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('1e9d6e80dc96b4e4538bdc775cd6fe29b', 'motor_sports_sport.block.service.routes_menu');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('1e9d6e80dc96b4e4538bdc775cd6fe29b', 'motor_sports_sport.block.service.routes_menu', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/motor_sports_sport.block.service.routes_menu/%7B%22menu%22:%22route%22,%22isMobile%22:true%7D/0898ff1b344501869500838aaac554ee", true);
+                    xhttp.send();
+                };
+                                    var eventName = 'route-mobile';
+                    var newEvent;
+                    if (!customEvents[eventName]) {
+                        newEvent = document.createEvent('Event');
+                        newEvent.initEvent(eventName, true, true);
+                        customEvents[eventName] = newEvent;
+                    }
+                    document.body.addEventListener(eventName, function() {
+                        trigger();
+                    });
+                
+            })()
+
+        </script>
+</div>
+
+                                            </div>
+                </div>
+            </div>
+
+            
+
+    <nav class="navigation">
+        <ul class="accordion">
+                                                                                <li class="item">
+                    <a href="/en/news" class="nav">
+                        News
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/calendar" class="nav">
+                        Calendar
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/register" class="nav">
+                        Register
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/federations" class="nav">
+                        Federations
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/logistics-transport" class="nav">
+                        Logistics / Transport
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/home-gallery" class="nav">
+                        Photos &amp; videos
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/chiffres-cles" class="nav">
+                        Key figures
+                                            </a>
+                                    </li>
+                                                                                <li class="item">
+                    <a href="/en/partners" class="nav">
+                        Partners
+                                            </a>
+                                    </li>
+                    </ul>
+    </nav>
+
+
+
+            <div class="burgerMenu__section js-empty hiding--sm">
+                                    
+<nav class="navigation">
+    <div class="header-top-container__menu-1">
+        
+                    <ul class="accordion">
+                                                                                                                                                
+<li class="item"><a class="js-connect nav link-1" href="/en/media-area" target="_self" data-xtclick="header::navigation::media" data-clicktype="N" >
+            Media
+                        
+        </a></li>                                                                                                                                                    
+<li class="dropdown item js-dropdown-subnav"><a class="nav js-dropdown link-2" id="top-item-broadcasters-mobile" data-toggle="dropdown" aria-haspopup="true" role="button"  data-target="dropdown-top-broadcasters-mobile" href="#" data-xtclick="header::navigation::official-broadcasters" data-clicktype="A" >
+            Official broadcasters
+                        <span class="icon icon--cancel"></span></a></li>                                                </ul>
+            </div>
+</nav>
+
+                                                                                                                    
+<div id="1497a95be5eb8e0152112e3a1e467cd78">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('1497a95be5eb8e0152112e3a1e467cd78', 'core_broadcasters.block.service.broadcasters');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('1497a95be5eb8e0152112e3a1e467cd78', 'core_broadcasters.block.service.broadcasters', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_broadcasters.block.service.broadcasters/%7B%22isMobile%22:true%7D/84aed65122cc53b17d0a4b002476e3de", true);
+                    xhttp.send();
+                };
+                                    var eventName = 'broadcasters-mobile';
+                    var newEvent;
+                    if (!customEvents[eventName]) {
+                        newEvent = document.createEvent('Event');
+                        newEvent.initEvent(eventName, true, true);
+                        customEvents[eventName] = newEvent;
+                    }
+                    document.body.addEventListener(eventName, function() {
+                        trigger();
+                    });
+                
+            })()
+
+        </script>
+</div>
+                        
+                            </div>
+
+            <div class="menu-footer">
+                                
+<div class="social">
+    </div>
+
+            </div>
+        </div>
+    </div>
+    <script>
+        if (window.innerWidth > 767) {
+            var $headerTopMenu = document.getElementsByClassName('js-menu')[0];
+            if (typeof($headerTopMenu) != 'undefined' && $headerTopMenu != null) {
+                for (var i = 0; i < 3; i++) {
+                    var $jsEmptyElt = $headerTopMenu.getElementsByClassName('js-empty')[i];
+                    if (typeof($jsEmptyElt) != 'undefined' && $jsEmptyElt != null) {
+                        $jsEmptyElt.innerHTML = '';
+                    }
+                }
+            }
+        }
+    </script>
+</div>
+
+    <div class="header js-header">
+    
+
+<div class="header-top header__secondary" id="header-top-menu"><div class="header-top__left"><a href="https://www.fia.com/" class="header-top__sponsor" target="_blank" data-xtclick="header::navigation::fia"><img src="/img/global/logo-fia@2x.png" alt="FIA logo"></a><a href="https://www.fim-moto.com/" class="header-top__sponsor" target="_blank" data-xtclick="header::navigation::fim"><img src="/img/global/logo-fim@2x.png" alt="FIM logo"></a></div><div class="header-top-container js-empty"><div class="header-top-container__menu-1"><div class="nav__item"><a class="js-connect nav__link link-1" href="/en/media-area" target="_self" data-xtclick="header::navigation::media" data-clicktype="N">
+                        Media
+                                </a></div><div class="dropdown nav__item js-dropdown-subnav"><a class="js-dropdown nav__link link-2" id="top-item-broadcasters" data-toggle="dropdown" aria-haspopup="true" role="button" data-target="dropdown-top-broadcasters" href="#" data-xtclick="header::navigation::official-broadcasters" data-clicktype="A">
+                        Official broadcasters
+                                </a></div></div><div class="header-top-container__menu-2"></div></div><div class="header-container__menu header-container__menu-2"><div><div class="header-container__social hidden--xs"><a href="https://www.instagram.com/Officialw2rc/"
+               aria-label="Instagram: Open in a new window"
+                                    target="_blank"
+                               class="icon icon--instagram" data-xtclick="header-top::header-social::instagram" data-clicktype="N"></a><a href="https://www.facebook.com/OfficialW2RC"
+               aria-label="Facebook: Open in a new window"
+                                    target="_blank"
+                               class="icon icon--facebook" data-xtclick="header-top::header-social::facebook" data-clicktype="N"></a><a href="https://twitter.com/Officialw2rc"
+               aria-label="Twitter: Open in a new window"
+                                    target="_blank"
+                               class="icon icon--twitter" data-xtclick="header-top::header-social::twitter" data-clicktype="N"></a><a href="https://www.youtube.com/c/WorldRally-RaidChampionship"
+               aria-label="Youtube: Open in a new window"
+                                    target="_blank"
+                               class="icon icon--youtube" data-xtclick="header-top::header-social::youtube" data-clicktype="N"></a><a href="https://fs22.formsite.com/AmaurySportOrganisation/ecyvvmchpz/index"
+               aria-label="Newsletter: Open in a new window"
+                                    target="_blank"
+                               class="icon icon--newsletter" data-xtclick="header-top::header-social::newsletter" data-clicktype="N"></a></div></div></div><div class="header__logo__filler"></div><div class="js-empty"><div id="12cef721df34a1184e80c0a92915a7634"><script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('12cef721df34a1184e80c0a92915a7634', 'core_broadcasters.block.service.broadcasters');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('12cef721df34a1184e80c0a92915a7634', 'core_broadcasters.block.service.broadcasters', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_broadcasters.block.service.broadcasters/%5B%5D/5b62aad7da3d86146941642578b76ce9", true);
+                    xhttp.send();
+                };
+                                    var eventName = 'broadcasters';
+                    var newEvent;
+                    if (!customEvents[eventName]) {
+                        newEvent = document.createEvent('Event');
+                        newEvent.initEvent(eventName, true, true);
+                        customEvents[eventName] = newEvent;
+                    }
+                    document.body.addEventListener(eventName, function() {
+                        trigger();
+                    });
+                
+            })()
+
+        </script></div></div><script>
+        if (window.innerWidth < 768) {
+            var $headerTopMenu = document.getElementById('header-top-menu');
+            if (typeof($headerTopMenu) != 'undefined' && $headerTopMenu != null) {
+                for (var i = 0; i < 3; i++) {
+                    var $jsEmptyElt = $headerTopMenu.getElementsByClassName('js-empty')[i];
+                    if (typeof($jsEmptyElt) != 'undefined' && $jsEmptyElt != null) {
+                        $jsEmptyElt.innerHTML = '';
+                    }
+                }
+            }
+        }
+    </script></div>
+    <div class="header__navigation" id="header-menu">
+    <div class="header__logo__wrapper">
+        <a class="header__logo__link" href="/en">
+            <img class="header__logo" src="/img/global/logo.png" alt="logo">
+        </a>
+    </div>
+    <div class="header-container">
+        <div class="header-container__menu header-container__menu-1">
+                            
+    
+<div id="19ea5e303aa4038750678ec7788d4354b">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('19ea5e303aa4038750678ec7788d4354b', 'motor_sports_sport.block.service.routes_menu');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('19ea5e303aa4038750678ec7788d4354b', 'motor_sports_sport.block.service.routes_menu', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/motor_sports_sport.block.service.routes_menu/%7B%22menu%22:%22route%22%7D/1a763d275444f2fce71581484180ec7f", true);
+                    xhttp.send();
+                };
+                                    var eventName = 'route';
+                    var newEvent;
+                    if (!customEvents[eventName]) {
+                        newEvent = document.createEvent('Event');
+                        newEvent.initEvent(eventName, true, true);
+                        customEvents[eventName] = newEvent;
+                    }
+                    document.body.addEventListener(eventName, function() {
+                        trigger();
+                    });
+                
+            })()
+
+        </script>
+</div>
+
+                        <div class="js-empty hidden--xs">
+                            <div class="nav__item"><a class="nav__link btn-menu btn-hover-primary js-nav-item" href="/en/competitors" target="_self" data-xtclick="header::navigation::competitors" data-clicktype="N">Competitors</a></div><div class="nav__item"><a class="nav__link btn-menu btn-hover-primary js-nav-item" href="/en/rankings-federations" target="_self" data-xtclick="header::navigation::rankings" data-clicktype="N">Rankings</a></div><div class="nav__item"><a class="nav__link btn-menu btn-hover-primary js-nav-item" href="/en/presentation" target="_self" data-xtclick="header::navigation::presentation" data-clicktype="N">Presentation</a></div><div class="nav__item"><a class="nav__link btn-menu btn-hover-primary js-nav-item" href="/en/calendar" target="_self" data-xtclick="header::navigation::calendar" data-clicktype="N">Calendar</a></div><div class="nav__item"><a class="nav__link btn-menu btn-hover-primary js-nav-item" href="/en/register" target="_self" data-xtclick="header::navigation::register" data-clicktype="N">Register</a></div><div class="nav__item"><a class="nav__link btn-menu btn-hover-primary js-nav-item" href="/en/home-gallery" target="_self" data-xtclick="header::navigation::videos-photos" data-clicktype="N">Videos &amp; Photos</a></div>
+                                                                            
+                        </div>
+        </div>
+
+        <div class="header-container__menu header-container__menu-2">
+                                                                 <div class="dropdown nav__item header__lang">
+                                    
+    <a class="nav__link nav__link--arrow js-dropdown dropdown__toggle js-display-click" id="nav-lang-en" data-toggle="dropdown" data-target="dropdown-navlang" aria-haspopup="true" role="button" data-xtclick="header::langue">
+        <span class="flag-wrapper">
+                    en
+            <span class="arrow-bottom"></span>
+        </span>
+    </a>
+
+        <div class="dropdown__menu header__lang__menu js-dropdown-menu" role="menu" aria-labelledby="nav-lang-en" data-target="dropdown-navlang">
+
+        <ul class="list">
+                                                                                                    
+                                                                    
+                <li class="dropdown__menu__item">
+                    <a class="dropdown__menu__link nav__link" href="/fr/actus//le-rallye-raid-recoit-le-statut-de-championnat-du-monde-fia-avec-le-dakar-en-evenement-phare-et-a-s-o-comme-promoteur/1" data-lang="fr">
+                                            <span class="is-ibl header__lang__label">fr</span>
+                    </a>
+                </li>
+                                                                                                    
+                                                                    
+                <li class="dropdown__menu__item">
+                    <a class="dropdown__menu__link nav__link" href="/es/noticias//el-rally-raid-se-suma-al-campeonato-del-mundo-de-la-fia-con-el-dakar-como-prueba-estrella-y-a-s-o-como-promotor-mundial/6" data-lang="es">
+                                            <span class="is-ibl header__lang__label">es</span>
+                    </a>
+                </li>
+                        <script>
+                checkCookieForRedirect();
+                var hostname = location.hostname;
+                if (hostname === 'www.dakar.com') {
+                    getJSON(geolocApiUrl, function(data) {
+                        if (data.countryCode === 'PL') {
+                            var idToGet = window.innerWidth < 1280 ? 'js-rewrite-link-mobile' : 'js-rewrite-link',
+                                $linkToRewrite = document.getElementById(idToGet);
+                            $linkToRewrite.setAttribute('href', '/en/visit-the-official-licensee-of-dakar');
+                        }
+                    });
+                }
+            </script>
+        </ul>
+    </div>
+
+            </div>
+                        <div class="btn btn-lg btn-menu btn-hamburger hamburger hamburger--elastic js-sidebar-btn" data-sidebar-type="menu" id="hamburger-desktop">
+                                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+                </button>
+            </div>
+            <div class="btn btn-lg btn-menu btn-hamburger hamburger hamburger--elastic js-sidebar-btn" data-sidebar-type="menu" id="hamburger-mobile">
+                                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+                </button>
+            </div>
+        </div>
+
+    </div>
+    <div class="header__logo__filler"></div>
+    <script>
+        if (window.innerWidth < 768) {
+            var $headerMenu = document.getElementById('header-menu');
+            if (typeof($headerMenu) != 'undefined' && $headerMenu != null) {
+                var $emptyElt = $headerMenu.getElementsByClassName('js-empty')[0];
+                if(typeof($emptyElt) != 'undefined' && $emptyElt != null) {
+                    $emptyElt.remove();
+                }
+            }
+            var $burgerDesktop = document.getElementById('hamburger-desktop');
+            if (typeof($burgerDesktop) != 'undefined' && $navSearch != null) {
+                $burgerDesktop.remove();
+            }
+        }
+    </script>
+</div>
+
+        </div>
+    <main>
+            
+        
+                            
+        <div class="content content-elements one-col full-slide">
+                                            
+                
+                                        <div >
+                <div >
+                    
+
+                    
+
+
+        <section class="article">
+        <article>
+            <main class="main">
+                <header>
+                    <div class="article__infos">
+                        <span class="badge">News</span>
+                        <span class="article__date">
+                            June 17
+                            <sup>
+                                th
+                            </sup>
+                             2021
+
+                                                        
+                            - 16:25
+
+                                                    </span>
+                    </div>
+                    <h1 class="heading heading--2">FIA World Championship status for cross-country rallying, with Dakar Rally as its cornerstone; A.S.O. appointed global promoter</h1>
+                                    </header>
+                <p>
+                    <b>
+
+                    </b>
+                </p>
+                <div class="article__content">
+                    
+                    <blockquote class="blockquote blockquote--1"><p>Following an e-vote by its members last week, the <strong>World Motor Sport Council (WMSC) has granted full World Championship status to the FIA&rsquo;s cross-country rallying discipline</strong>. The new World Championship will be launched in 2022 in tandem with an agreement with Amaury Sport Organisation (A.S.O.), which will become the exclusive promoter of the championship for a five-year term.</p></blockquote>
+
+                    <p>In a landmark development to support the further growth of this spectacular discipline, <strong>the legendary Dakar Rally will also launch the beginning of this new era in cross-country rallying as it fittingly becomes the opening round of the 2022 FIA World Championship</strong>.</p>
+<p>As part of the new agreement, FIA and A.S.O. Sporting and Technical regulations will be aligned, ensuring consistency for competitors across all events. The FIA is also developing technical regulations for new, alternative and experimental technologies within the discipline, in line with its environmental strategy to support climate action, technology and innovation, and sustainable practices. This will prove to be the ultimate challenge in a discipline where the action takes place in some of the most remote and harsh environments in the world.</p>
+
+                    <p><strong>FIA President, Jean Todt</strong>, said: <em>&ldquo;I am delighted of the outcome of long and fruitful discussions with A.S.O., which becomes the promoter of the FIA World Rally Championship for cross-country rallying, with a calendar that includes the famous Dakar.&rdquo;</em></p>
+<p><strong>Yann Le Mo&euml;nner, CEO of Amaury Sport Organisation</strong>, said: <em>"At a time when cross-country is undergoing a fundamental transformation, the creation of an FIA World Championship is an excellent news for the development of our discipline. As its exclusive promoter, A.S.O. is proud to integrate the Dakar Rally into the FIA World Championship calendar, and will work to promote the events in order to better showcase the technical expertise of the car manufacturers taking part in these rallies in extreme conditions. The World Championship will accompany them in this progressive transition to alternative energies, with the FIA integrating categories and classifications specific to these new technologies into the technical regulations. Through the FIA World Championship, drivers, manufacturers and organisers will also benefit from year-round exposure, increasing media coverage of the discipline and its audience worldwide.&rdquo;</em></p>
+
+                    <p>The compact 2022 calendar, to be announced later this year, is anticipated to include a maximum of five rounds, including the Dakar Rally, with events still open to T1, T2, T3 and T4 vehicles. The T3 and T4 categories, in particular, will also benefit from further development under this agreement, and new FIA regulations for T5 Prototype Trucks will be published for 2022, ensuring the inclusivity of all vehicle categories for professionals and amateurs in the World Championship.</p>
+<p>FIA World Championship titles will be awarded to the overall winning driver, co-driver and manufacturer, while new FIA Championship titles will be introduced for all other categories, including a manufacturers&rsquo; title in both T4 and T5.</p>
+<p>This new cross-country World Championship becomes the seventh under FIA governance, joining the FIA Formula One World Championship, the FIA World Rally Championship, the FIA World Endurance Championship, the FIA World Rallycross Championship, the FIA Formula E World Championship and the FIA Karting World Championship at the highest levels of the sport.</p>
+
+                    
+<figure class="figure is-center is-clear js-zoomable"
+        >
+                <a href="https://img.aso.fr/core_app/img-motorSports-wrr-jpg/abu-dhabi-1/0026/0:0,2000:890-1200-0-70/89447"
+           class="js-jzoom"
+           role="button"
+           data-modal-type="image"
+           data-modal-class="modal__box--gutter is-modal-white"
+           data-modal-width="1200"
+           data-modal-height="auto"
+            data-xtclick="article::image::zoom" data-clicktype="A">
+                    <img class="figure__image img--responsive lazyItem js-lazy"
+                 src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 1200 534&quot;%3E%3C/svg%3E"
+                 width="1200"
+                 height="534"
+                 data-src="https://img.aso.fr/core_app/img-motorSports-wrr-jpg/abu-dhabi-1/0026/0:0,2000:890-1200-0-70/89447|https://img.aso.fr/core_app/img-motorSports-wrr-jpg/abu-dhabi-1/0026/0:0,2000:890-2400-0-70/6c4fe"
+                 alt=""
+                  />
+
+                    </a>
+                            </figure>
+
+    
+                    <div class="relatedLinks">
+                                                                                                                                                        </div>
+                </div>
+            </main>
+        </article>
+    </section>
+
+        
+
+                </div>
+
+                
+                            </div>
+        </div>
+    
+                
+            
+        
+                        
+<div id="1349f0f647f78b38e19f064d2920be42a">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('1349f0f647f78b38e19f064d2920be42a', 'core_partners.block.service.bandeau_partners');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('1349f0f647f78b38e19f064d2920be42a', 'core_partners.block.service.bandeau_partners', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_partners.block.service.bandeau_partners/%5B%5D/83f529db531fbbc4313859efdc525935", true);
+                    xhttp.send();
+                };
+                                    var myAnchor = document.getElementById('1349f0f647f78b38e19f064d2920be42a');
+                    myAnchor.classList.add('asyncBlockOnScreen');
+                    myAnchor.dataset.trigger = trigger;
+                
+            })()
+
+        </script>
+</div>
+            
+<div id="17da43b1a0c7cfe836b054526b5462103">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('17da43b1a0c7cfe836b054526b5462103', 'core_partners.block.service.bandeau_partners_bis');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('17da43b1a0c7cfe836b054526b5462103', 'core_partners.block.service.bandeau_partners_bis', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_partners.block.service.bandeau_partners_bis/%7B%22displayTitle%22:false%7D/149260e8741e8722a4ed4e96cb8dd31a", true);
+                    xhttp.send();
+                };
+                                    var myAnchor = document.getElementById('17da43b1a0c7cfe836b054526b5462103');
+                    myAnchor.classList.add('asyncBlockOnScreen');
+                    myAnchor.dataset.trigger = trigger;
+                
+            })()
+
+        </script>
+</div>
+            
+<div id="14ae2a158997a46e58435c5230874dd0a">
+        
+        <script>
+            (function() {
+                var trigger = function(){
+                    var xhttp = new XMLHttpRequest();
+                    if (typeof asyncBlockWillLoad !== 'undefined') {
+                        asyncBlockWillLoad('14ae2a158997a46e58435c5230874dd0a', 'core_partners.block.service.bandeau_partners_ter');
+                    }
+                    xhttp.onreadystatechange = function() {
+                        if (this.readyState === 4 && this.status === 200) {
+                            asyncBlockLoaded('14ae2a158997a46e58435c5230874dd0a', 'core_partners.block.service.bandeau_partners_ter', this.responseText);
+                        }
+                    };
+
+                    xhttp.open("GET", "/en/ajax-block/core_partners.block.service.bandeau_partners_ter/%7B%22displayTitle%22:false%7D/9eea853b8a8459ade81803ac65afb000", true);
+                    xhttp.send();
+                };
+                                    var myAnchor = document.getElementById('14ae2a158997a46e58435c5230874dd0a');
+                    myAnchor.classList.add('asyncBlockOnScreen');
+                    myAnchor.dataset.trigger = trigger;
+                
+            })()
+
+        </script>
+</div>
+        
+        </main>
+
+                
+    <div class="footer">
+        <div class="footer-container container">
+                            <div class="footer-container__logo">
+                    <div>
+                        <img alt="Logo" class="lazyItem js-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/global/logo_aso.png|/img/global/logo_aso@2x.png" width="150" height="56">
+                    </div>
+                    <a href="https://www.fia.com/" target="_blank" data-xtclick="footer::navigation::fia">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/global/logo-fia@2x.png" class="logo-fede lazyItem js-lazy" alt="FIA logo">
+                    </a>
+                    <a href="https://www.fim-moto.com/" target="_blank" data-xtclick="footer::navigation::fim">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/global/logo-fim@2x.png" class="logo-fede lazyItem js-lazy" alt="FIM logo">
+                    </a>
+                    <div class="footer-container__logo__sponsors">
+                        <a href="https://axelerom.com/" target="_blank" style="display: inline-block" data-xtclick="footer::navigation::sponsor-2">
+                            <img 
+                                src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                data-src="/img/sponsors/axelerom.png|/img/sponsors/axelerom@2x.png"
+                                class="logo-fede lazyItem js-lazy"
+                                alt="Axelerom logo"
+                                style="max-width: 100%;"
+                                width="120"
+                                height="auto">
+                        </a>
+                    </div>
+                </div>
+                        <div class="footer-container__nav">
+                                    
+                </div>
+                <div class="footer-container__links  footer-container__links--no-sub">
+                                            <div class="footer-container__links__item">
+                            <a href="/en/news"><h2 class="footer-container__title">News</h2></a>
+                                                    </div>
+                                            <div class="footer-container__links__item">
+                            <a href="/en/privacy-and-cookies-policy"><h2 class="footer-container__title">Privacy Statement/Cookies Policy</h2></a>
+                                                    </div>
+                                            <div class="footer-container__links__item">
+                            <a href="/en/request-management"><h2 class="footer-container__title">Exercise your rights</h2></a>
+                                                    </div>
+                                    </div>
+            </div>
+                                        
+                                            
+                                                                                                        
+
+        </div>
+
+        
+
+<div class="footer__bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col--xs--10 col--sm--10 footer__links">
+                <a href="/en/copyrights" class="footer__links__item"  data-xtclick="footer::bottom::link::terms-conditions">Terms &amp; Conditions</a>
+                                    <a class="footer__links__item ot-sdk-show-settings" data-xtclick="footer::bottom::link::cookie-settings" data-clicktype="A">Cookie settings</a>
+                            </div>
+            <div class="col--xs--2 col--sm--2 footer__copyright">© ASO</div>
+        </div>
+    </div>
+</div>
+    </div>
+
+
+    
+            <script>
+        const cookieName = 'clb';
+        const cookies = document.cookie.split("; ");
+        const filteredCookies = cookies.filter(cookie => {
+        const [name] = cookie.split("=");
+            return name.trim() === cookieName;
+        });
+        var url = location.protocol == 'https:' ? 'https://logs4' : 'http://logc17';
+        xtnv = document;
+        xtsd = url;
+        xtsite = '624850';
+                    xtpage = `actu::fia-world-championship-status-for-cross-country-rallying-with-dakar-rally-as-its-cornerstone-a-s-o-appointed-global-promoter${filteredCookies.length > 0  ? '-logged-in' : '' }`;      //page name (with the use of :: to create chapters)
+            xtn2 = '2';
+                xtdi = '1';                 //implication degree
+    </script><noscript><img alt="" width="1" height="1" src="https://logs4.xiti.com/hit.xiti?s=624850&s2=2&p=actu::[News]&di=1"></noscript>
+    
+<script src="/dist/js/scripts.jquery.4ebe7b0.js"></script>
+    <script src="/dist/js/scripts.runtime.01e8386.js"></script>
+    <script src="/dist/js/scripts.vendors.22854b6.js"></script>
+<script src="/dist/js/scripts.vendor.4a6fe84.js"></script>
+
+<script src="/dist/js/scripts.main.71b3703.js"></script>
+
+
+
+                                                    <script src="/dist/js/scripts.audio.f731de8.js"></script>
+                                
+
+
+
+                                                    <script type="text/javascript" src="https://cdn.cookielaw.org/consent/7219d5bb-0662-4e96-a190-93782cb7dd71/OtAutoBlock.js" ></script>
+            <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="7219d5bb-0662-4e96-a190-93782cb7dd71" ></script>
+                    <script>
+                function OptanonWrapper() {
+                    var targetingActiveGroup = RegExp(',4,').test(OnetrustActiveGroups);
+                    if (typeof googletag.pubads !== 'undefined') {
+                        if (!targetingActiveGroup) {
+                            googletag.pubads().setRequestNonPersonalizedAds(1);
+                        } else {
+                            googletag.pubads().setRequestNonPersonalizedAds(0);
+                        }
+                        googletag.pubads().refresh();
+                    }
+                }
+            </script>
+    
+    </body>
+</html>
+ title 139 FIA World Championship status for cross-country rallying, with Dakar Rally as its cornerstone; A.S.O. appointed global promoter - WRRC 2025 contentType 9 text/html url 186 https://www.worldrallyraidchampionship.com:443/en/news/2021/fia-world-championship-status-for-cross-country-rallying-with-dakar-rally-as-its-cornerstone-a-s-o-appointed-global-promoter/4 responseCode 3 200 

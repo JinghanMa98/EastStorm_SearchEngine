@@ -1,0 +1,751 @@
+gkokooxcbareqepgyqhgimnqykxogqfqdgtaicxi page 80516 <!DOCTYPE html>
+<html lang="en">
+  <head>
+
+        <meta charset="utf-8">
+          <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <meta name="referrer" content="unsafe-url">
+      <meta property="fb:app_id" content="178450008855735">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                
+                    <title>Merriam-Webster&#039;s Collegiate Dictionary, Twelfth Edition | Merriam-Webster</title>
+                    <meta name="description" content="Announcing the new Twelfth Edition of Merriam-Webster's Collegiate Dictionary, thoroughly updated and redesigned to be even more useful and engaging for students, professionals, and everyone who loves words.">
+                                                
+            
+                    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch/dictionary.xml" title="Merriam-Webster Dictionary" />
+      
+            
+          
+            <link rel="icon" href="/favicon.svg">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon.png">
+        <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#305f7a">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#0f3850">
+
+    <script>
+!function(n,e,t,r,i,o,a,c,s){for(var u=!0,f=0;f<document.scripts.length;f++)if(document.scripts[f].src.indexOf("064cb5b67eb54e92a6ad7953ff4bf853")>-1){u&&"no"===document.scripts[f].getAttribute("data-lazy")&&(u=!1);break}var p=[];function d(n){return"e"in n}function l(n){return"p"in n}function v(n){return"f"in n}var h=[];function m(n){u&&(d(n)||l(n)||v(n)&&n.f.indexOf("capture")>-1||v(n)&&n.f.indexOf("showReportDialog")>-1)&&w(),h.push(n)}function y(){m({e:[].slice.call(arguments)})}function g(n){m({p:"reason"in n?n.reason:"detail"in n&&"reason"in n.detail?n.detail.reason:n})}function b(){try{n.SENTRY_SDK_SOURCE="loader";var e=n[i],o=e.init;e.init=function(i){n.removeEventListener(t,y),n.removeEventListener(r,g);var a=c;for(var s in i)Object.prototype.hasOwnProperty.call(i,s)&&(a[s]=i[s]);!function(n,e){var t=n.integrations||[];if(Array.isArray(t)){var r=t.map((function(n){return n.name}));n.tracesSampleRate&&-1===r.indexOf("BrowserTracing")&&t.push(new e.BrowserTracing),(n.replaysSessionSampleRate||n.replaysOnErrorSampleRate)&&-1===r.indexOf("Replay")&&t.push(new e.Replay),n.integrations=t}}(a,e),o(a)},setTimeout((function(){return function(e){try{for(var t=0;t<p.length;t++)"function"==typeof p[t]&&p[t]();for(t=0;t<h.length;t++)v(o=h[t])&&"init"===o.f&&e.init.apply(e,o.a);S()||e.init();var r=n.onerror,i=n.onunhandledrejection;for(t=0;t<h.length;t++){var o;if(v(o=h[t])){if("init"===o.f)continue;e[o.f].apply(e,o.a)}else d(o)&&r?r.apply(n,o.e):l(o)&&i&&i.apply(n,[o.p])}}catch(n){console.error(n)}}(e)}))}catch(n){console.error(n)}}var E=!1;function w(){if(!E){E=!0;var n=e.scripts[0],t=e.createElement("script");t.src=a,t.crossOrigin="anonymous",t.addEventListener("load",b,{once:!0,passive:!0}),n.parentNode.insertBefore(t,n)}}function S(){var e=n.__SENTRY__;return!(void 0===e||!e.hub||!e.hub.getClient())}n[i]=n[i]||{},n[i].onLoad=function(n){S()?n():p.push(n)},n[i].forceLoad=function(){setTimeout((function(){w()}))},["init","addBreadcrumb","captureMessage","captureException","captureEvent","configureScope","withScope","showReportDialog"].forEach((function(e){n[i][e]=function(){m({f:e,a:arguments})}})),n.addEventListener(t,y),n.addEventListener(r,g),u||setTimeout((function(){w()}))}(window,document,"error","unhandledrejection","Sentry",0,"https://browser.sentry-cdn.com/7.77.0/bundle.es5.min.js",{dsn:"https://325506e3332d487999567a7bc91d151d@bug-reporting-xalgha6.m-w.com/1"});
+</script>
+<script>
+  // Check for existence of Sentry in case Ad-blockers block the Sentry Loader Script
+  window.Sentry && Sentry.onLoad(function() {
+    Sentry.init({
+        dsn: "https://325506e3332d487999567a7bc91d151d@bug-reporting-xalgha6.m-w.com/1",
+        sampleRate: 0.01,
+        tracesSampleRate: 0.01,
+        environment: "production",
+    });
+  });
+</script>
+
+
+        <script type="text/javascript">
+      window.mwdata = {};
+      window.mwdata.ENV            = 'production';
+      window.isGdprCountry         = false;
+      window.geoCountry            = 'US';
+      window.geoRegion             = 'NJ';
+      window.mwdata.importModules  = [];
+      window.mwdata.assetsDomain1  = 'https://merriam-webster.com/assets';
+      window.mwdata.assetsDomain2  = 'https://merriam-webster.com/assets';
+      window.mwdata.assetsDomain3  = 'https://media2.merriam-webster.com';
+      window.mwdata.pronsDomain    = 'https://media.merriam-webster.com';
+      window.mwdata.ssoDomainFront = 'https://sso.merriam-webster.com';
+      window.mwdata.svgPath        = '/dist-cross-dungarees/2025-12-04--18-04-15-dmtd';
+      window.mwdata.env            = 'production';
+      window.mwdata.jwkey          = 'zw1JPzyqv2DcY1xJTZncAt9HKaUKLEztLQFMqw==';
+      window.mwdata.isHome         = false;
+      window.mwdata.collectusBaseUri = 'https://prod-collectus-77k9.m-w.com';
+      window.mwdata.isPreviewMode      = false;
+      window.mwdata.statusRefreshTime = 600;
+      window.mwdata.fbAppId       = '178450008855735';
+      window.mwdata.fbSdkReady    = false;
+      window.mwdata.fbSdkQueue    = [];
+      window.mwdata.reCaptcha    = '6LcGMtwaAAAAAHN3cdd6fD2juHRsw8kc23oaMs2M';
+      window.mwdata.gaNoTrackOnLoad       = false;
+      window.mwdata.gaSpecialTracking     = null;
+      window.mwdata.gatReady        = false;
+      window.mwdata.gatQueue        = [];
+      window.mwdata.tagsPrepped     = [];
+      window.mwdata.dfpSvcUp        = false;
+      window.mwdata.search         = "";
+      window.mwdata.cat            = "";
+      window.mwdata.contentType1   = null;
+      window.mwdata.contentType2   = null;
+      window.mwdata.contentType3   = null;
+      window.mwdata.taxon          = null;
+      window.mwdata.userSearch     = "";
+      window.mwdata.partialMatch   = false;
+      window.mwdata.partialURL     = location.pathname;
+      window.mwdata.jwPlayerPath   = window.mwdata.assetsDomain2 + '/mw/jwplayer-8.10.3/';
+      window.mwdata.factotumDomain = "";
+      window.mwdata.launchDarklyClientId = "689f7b22a9ccc80972605ea1";
+
+                    window.mwdata.AB_C_EXPERIMENTS = [{"exp_id":4,"exp_enabled":1,"ab_exp_name":"exp_5050_test","ab_exp_description":"Ga4 test blank ab experiment. 50% of visitors will be labeled as leg-ga4-5050-aardvark and 50% would be as leg-ga4-5050-beetle.","exp_created":"2024-08-05 13:26:51","exp_updated":"2024-08-05 13:26:51","leg_enabled":1,"ab_leg":"leg-ga4-5050-beetle","percentages_start":50,"percentages_end":100},{"exp_id":4,"exp_enabled":1,"ab_exp_name":"exp_5050_test","ab_exp_description":"Ga4 test blank ab experiment. 50% of visitors will be labeled as leg-ga4-5050-aardvark and 50% would be as leg-ga4-5050-beetle.","exp_created":"2024-08-05 13:26:51","exp_updated":"2024-08-05 13:26:51","leg_enabled":1,"ab_leg":"leg-ga4-5050-aardvark","percentages_start":0,"percentages_end":50},{"exp_id":1,"exp_enabled":1,"ab_exp_name":"exp_ga4_test","ab_exp_description":"Ga4 test blank ab experiment. 5% of visitors will be labeled as leg-ga4-test-5 and 95% would be as leg-ga4-test-95.","exp_created":"2023-10-23 15:56:07","exp_updated":"2023-10-23 15:56:07","leg_enabled":1,"ab_leg":"leg-ga4-test-95","percentages_start":5,"percentages_end":100},{"exp_id":1,"exp_enabled":1,"ab_exp_name":"exp_ga4_test","ab_exp_description":"Ga4 test blank ab experiment. 5% of visitors will be labeled as leg-ga4-test-5 and 95% would be as leg-ga4-test-95.","exp_created":"2023-10-23 15:56:07","exp_updated":"2023-10-23 15:56:07","leg_enabled":1,"ab_leg":"leg-ga4-test-5","percentages_start":0,"percentages_end":5}];
+      
+            
+
+      // No variables?
+
+      
+                </script>
+
+    <!-- we need to parse this value outside of json_encode or else escaped characters will be reported to GA -->
+    <script>
+      window.mwdata.gaSpecialTrackingWord = null;
+    </script>
+    
+
+          
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+  // EU-specific settings
+  gtag('consent', 'default', {
+      'ad_personalization': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'analytics_storage': 'denied',
+      'functionality_storage': 'denied',
+      'personalization_storage': 'denied',
+      'security_storage': 'denied',
+      'region': [
+        'GB','AT','BE','BG','CH','CY','DE','DK','EE','ES','FI',
+        'FR','GG','GR','HR','HU','IE','IM','IT','JE','LT','LU',
+        'LV','MT','NL','PL','PT','RO','SE','SI','SK'
+      ],
+      'wait_for_update': 500,
+  });
+  // Default settings
+  gtag('consent', 'default', {
+      'ad_personalization': 'granted',
+      'ad_storage': 'granted',
+      'ad_user_data': 'granted',
+      'analytics_storage': 'granted',
+      'functionality_storage': 'granted',
+      'personalization_storage': 'granted',
+      'security_storage': 'granted',
+  });
+</script>
+
+
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer', 'GTM-WW4KHXF');</script>-->
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    'gtm.start': new Date().getTime(),
+    event: 'gtm.js'
+  });
+
+  (function(w, d, s, l, ids) {
+    for (var i = 0; i < ids.length; i++) {
+      var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l !== 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + ids[i] + dl;
+      f.parentNode.insertBefore(j, f);
+    }
+  })(window, document, 'script', 'dataLayer', ['GTM-WW4KHXF', 'GTM-PQ9SK33N']);
+</script>
+
+        <!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+window._vwo_code || (function() {
+var account_id=698824,
+version=2.1,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;display: block !important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init();})();
+</script>
+<!-- End VWO Async SmartCode -->
+
+
+<script>
+const setVWOConsentState = (state) => {
+    window.VWO = window.VWO || [];
+    window.VWO.init = window.VWO.init ||
+        function (state) {
+            window.VWO.consentState = state;
+        };
+    console.log('setting vwo consent state', state);
+    window.VWO.init(state);
+};
+const updateVWOStatusGDPR = () => {
+  const cmpConsentStatus = window?.__cmp('consentStatus');
+  const consentExists = cmpConsentStatus?.consentExists;
+  const cmpData = window?.__cmp('getCMPData');
+  const vwoVendorId = 's31';
+
+  if (consentExists) {
+    if (cmpData?.vendorConsents?.[vwoVendorId]) {
+      setVWOConsentState(1);
+    } else {
+      setVWOConsentState(3);
+    }
+  } else {
+    setVWOConsentState(2);
+  }
+};
+
+if (window.isGdprCountry === true) {
+    const checkCmpAndAddListener = () => {
+        if (window.__cmp) {
+            window.__cmp('addEventListener', ['consent', updateVWOStatusGDPR, false], null);
+                        updateVWOStatusGDPR(); 
+            return true;
+        }
+        return false; 
+    };
+    if (!checkCmpAndAddListener()) {
+        const cmpCheckInterval = setInterval(() => {
+            if (checkCmpAndAddListener()) {
+                clearInterval(cmpCheckInterval);
+            }
+        }, 100);
+                setTimeout(() => {
+            clearInterval(cmpCheckInterval);
+        }, 10000);
+    }
+} else {
+        setVWOConsentState(1);
+}
+</script>
+    
+        
+
+
+
+                <script>
+(function() {
+  // Make these global as plausible uses them
+  window.getCookie = function(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+  window.setCookie = function(name, value, days, isSecure) {
+    const d = new Date();
+    d.setTime(d.getTime() + 24 * 60 * 60 * 1000 * days);
+    let cookieStr = name + "=" + value + ";path=/;SameSite=Lax;expires=" + d.toGMTString();
+    if (isSecure) {
+      cookieStr += ";secure";
+    }
+    document.cookie = cookieStr;
+  }
+
+  try {
+    let mw8hxid = getCookie('mw8hxid');
+    if (!mw8hxid) {
+      mw8hxid = Math.random().toString().slice(2, 21);
+      setCookie('mw8hxid', mw8hxid, 365, window.mwdata && window.mwdata.ENV !== 'sandbox');
+    }
+
+    const consumerPercent = parseInt(mw8hxid.slice(-2), 10);
+
+    if (window.mwdata && Array.isArray(window.mwdata.AB_C_EXPERIMENTS)) {
+      const exps = {};
+      for (const exp of window.mwdata.AB_C_EXPERIMENTS) {
+        if (consumerPercent >= exp.percentages_start && consumerPercent < exp.percentages_end) {
+          exps[exp.ab_exp_name] = exp.ab_leg;
+        }
+      }
+
+      if (Object.keys(exps).length > 0) {
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+          event: 'internalAbSetUserProperties',
+          user_properties: exps
+        });
+
+        // Let's also make AB legs available as js variables
+        window.mwdata.int_ab_exps = exps;
+      } else {
+        if (typeof Sentry !== 'undefined' && typeof Sentry.captureMessage === 'function') {
+          Sentry.captureMessage('err: mwdata.AB_C_EXPERIMENTS, exps are empty');
+        }
+      }
+    } else {
+      if (typeof Sentry !== 'undefined' && typeof Sentry.captureMessage === 'function') {
+        Sentry.captureMessage('err: mwdata.AB_C_EXPERIMENTS are not found');
+      }
+    }
+  } catch (e) {
+    if (typeof Sentry !== 'undefined' && typeof Sentry.captureException === 'function') {
+      Sentry.captureException(e);
+    }
+  }
+})();
+</script>
+            <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+<script defer data-domain="merriam-webster.com" src="https://analyze-82dfgsi2.m-w.com/js/script.manual.js"></script>
+<script>
+(() => {
+  let mw8hxid = getCookie('mw8hxid');
+  let consumerPercent = parseInt(mw8hxid.slice(-2));
+
+  var exps = {};
+  if (window.mwdata.AB_C_EXPERIMENTS) {
+    for (i in window.mwdata.AB_C_EXPERIMENTS) {
+      let exp = window.mwdata.AB_C_EXPERIMENTS[i];
+      if (consumerPercent >= exp.percentages_start && consumerPercent < exp.percentages_end) {
+        exps[exp.ab_exp_name] = exp.ab_leg;
+      }
+    }
+  }
+  if (Object.keys(exps).length) {
+    plausible('pageview', {props: exps});
+  } else {
+    plausible('pageview');
+  }
+})();
+</script>
+        <script type="text/javascript">
+      window.googletag = window.googletag || { cmd: [] };
+
+      googletag.cmd.push(function() {
+        googletag.pubads().setTagForChildDirectedTreatment(0);
+        googletag.pubads().setTagForUnderAgeOfConsent(0);
+      });
+    </script>
+
+          <!-- Playfair, 700, latin -->
+<link rel="preload" as="font" href="https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Latin.woff2" type="font/woff2" crossorigin="anonymous">
+<!-- Playfair, 700, italic, latin -->
+<link rel="preload" as="font" href="https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Italic-Latin.woff2" type="font/woff2" crossorigin="anonymous">
+<!-- Open Sans, 400, latin -->
+<link rel="preload" as="font" href="https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Latin.woff2" type="font/woff2" crossorigin="anonymous">
+<!-- Open Sans, 400, latin-ext -->
+<link rel="preload" as="font" href="https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Latin-Ext.woff2" type="font/woff2" crossorigin="anonymous">
+<!-- Open Sans, 400, italic, latin-ext -->
+<link rel="preload" as="font" href="https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Latin-Ext.woff2" type="font/woff2" crossorigin="anonymous">
+<!-- Open Sans, 400, italic, latin -->
+<link rel="preload" as="font" href="https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Latin.woff2" type="font/woff2" crossorigin="anonymous">
+<style type="text/css" media="screen, print">
+     @font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Cyrillic-Ext.woff2) format("woff2");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Greek-Ext.woff2) format("woff2");unicode-range:u+1f??}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Greek.woff2) format("woff2");unicode-range:u+0370-03ff}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:400;src:local("Open Sans Italic"),local("OpenSans-Italic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Italic-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Cyrillic-Ext.woff2) format("woff2");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Greek-Ext.woff2) format("woff2");unicode-range:u+1f??}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Greek.woff2) format("woff2");unicode-range:u+0370-03ff}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Open Sans;font-style:italic;font-weight:700;src:local("Open Sans Bold Italic"),local("OpenSans-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Italic-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Cyrillic-Ext.woff2) format("woff2");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Greek-Ext.woff2) format("woff2");unicode-range:u+1f??}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Greek.woff2) format("woff2");unicode-range:u+0370-03ff}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:400;src:local("Open Sans Regular"),local("OpenSans-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-400-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Cyrillic-Ext.woff2) format("woff2");unicode-range:u+0460-052f,u+1c80-1c88,u+20b4,u+2de0-2dff,u+a640-a69f,u+fe2e-fe2f}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Greek-Ext.woff2) format("woff2");unicode-range:u+1f??}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Greek.woff2) format("woff2");unicode-range:u+0370-03ff}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Open Sans;font-style:normal;font-weight:700;src:local("Open Sans Bold"),local("OpenSans-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/OpenSans-700-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Playfair Display;font-style:italic;font-weight:700;src:local("Playfair Display Bold Italic"),local("PlayfairDisplay-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Italic-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Playfair Display;font-style:italic;font-weight:700;src:local("Playfair Display Bold Italic"),local("PlayfairDisplay-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Italic-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Playfair Display;font-style:italic;font-weight:700;src:local("Playfair Display Bold Italic"),local("PlayfairDisplay-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Italic-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Playfair Display;font-style:italic;font-weight:700;src:local("Playfair Display Bold Italic"),local("PlayfairDisplay-BoldItalic"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Italic-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:400;src:local("Playfair Display Regular"),local("PlayfairDisplay-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-400-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:400;src:local("Playfair Display Regular"),local("PlayfairDisplay-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-400-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:400;src:local("Playfair Display Regular"),local("PlayfairDisplay-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-400-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:400;src:local("Playfair Display Regular"),local("PlayfairDisplay-Regular"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-400-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:700;src:local("Playfair Display Bold"),local("PlayfairDisplay-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Cyrillic.woff2) format("woff2");unicode-range:u+0400-045f,u+0490-0491,u+04b0-04b1,u+2116}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:700;src:local("Playfair Display Bold"),local("PlayfairDisplay-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Vietnamese.woff2) format("woff2");unicode-range:u+0102-0103,u+0110-0111,u+1ea0-1ef9,u+20ab}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:700;src:local("Playfair Display Bold"),local("PlayfairDisplay-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Latin-Ext.woff2) format("woff2");unicode-range:u+0100-024f,u+0259,u+1e??,u+2020,u+20a0-20ab,u+20ad-20cf,u+2113,u+2c60-2c7f,u+a720-a7ff}@font-face{font-display:block;font-family:Playfair Display;font-style:normal;font-weight:700;src:local("Playfair Display Bold"),local("PlayfairDisplay-Bold"),url(https://www.merriam-webster.com/assets/mw/fonts-v2/Playfair-700-Latin.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-display:block;font-family:Roboto;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2) format("woff2");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+2000-206f,u+2074,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}</style>    
+                                                      <link rel="stylesheet" href="/dist-cross-dungarees/2025-12-04--18-04-15-dmtd/compiled/css/style-collegiate-dictionary-twelfth-edition.efef447e087e4c3f8b73.css" media="screen">
+                        
+    
+
+              
+      
+      
+          
+          </head>
+
+  <body class='no-touch collegiate-dictionary-twelfth-edition-page noAds toupee-banner-feat'>
+        <script>
+document.body.classList.add('cross-dungarees-lite');
+</script>
+        
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW4KHXF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQ9SK33N"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+    
+          <div id="toupee-banner" class="toupee-banner w-100 text-white text-center">
+  <a href="/collegiate-dictionary-twelfth-edition" class="toupee-banner-link">
+    <div class="container-xxl py-2">
+      <span class="toupee-banner-content d-inline-block">
+        <span class="text-nowrap">✨📕&nbsp;<span class="d-none d-md-inline"><span class="toupee-banner-shout-text">The NEW</span></span><span class="d-inline-block d-md-none"><span class="toupee-banner-shout-text">The NEW</span></span></span><span class="d-none d-md-inline"><span class="toupee-banner-shout-text">&nbsp;Collegiate Dictionary, 12th Edition</span> Over 5,000 words added &mdash; <span class="toupee-banner-cta-text">Buy Now!</span></span><span class="d-inline-block d-md-none"><span class="toupee-banner-shout-text">&nbsp;Collegiate Dictionary</span> &mdash; <span class="toupee-banner-cta-text">Buy Now!</span></span>
+      </span>
+    </div>
+  </a>
+</div>
+    
+    <div class="outer-container">
+      <div class="main-container">
+
+                                  <header id='base-header' class="top-header position-fixed w-100 shrinkheader default-header-mobile" style="" >
+    <nav class="navbar container-xxl flex-nowrap">
+      <button class="navbar-toggler m-0" type="button" aria-expanded="false" aria-label="Toggle navigation">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="20px" viewBox="0 0 24 20" version="1.1" class="svg replaced-svg">
+          <title>Menu Toggle</title>
+          <g id="Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <rect class="menu-rec" fill="#ffffff" x="0" y="0" width="24" height="3" rx="1.5"></rect>
+            <rect class="menu-rec" fill="#ffffff" x="0" y="16" width="24" height="3" rx="1.5"></rect>
+            <rect class="menu-rec" fill="#ffffff" x="0" y="8" width="24" height="3" rx="1.5"></rect>
+          </g>
+        </svg>
+      </button>
+
+      <a href="/" class="navbar-brand d-flex m-0" title="Merriam Webster - established 1828">
+          <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 41 42" fill="none" class="svg replaced-svg">
+            <title>Merriam-Webster Logo</title>
+            <path d="M0 20.5291C0 9.20443 9.20999 0.0291138 20.5723 0.0291138C31.9347 0.0291138 41 9.20881 41 20.5291C41 31.8538 31.9347 41.0291 20.5723 41.0291C9.21437 41.0335 0 31.8538 0 20.5291Z" fill="white"></path>
+            <path d="M1.5 20.5269C1.5 10.0337 10.009 1.52911 20.5022 1.52911C30.9954 1.52911 39.5 10.0337 39.5 20.5269C39.5 31.0202 30.9954 39.5248 20.5022 39.5291C10.009 39.5291 1.50433 31.0202 1.5 20.5269ZM2.74342 20.5269C2.74342 25.4313 4.73201 29.8677 7.9467 33.0824C11.1614 36.2971 15.5978 38.2814 20.5022 38.2857C25.4065 38.2857 29.8429 36.2971 33.0576 33.0824C36.2723 29.8677 38.2609 25.4313 38.2609 20.5269C38.2609 15.6226 36.2723 11.1862 33.0576 7.97148C29.8429 4.7568 25.4065 2.7682 20.5022 2.7682C15.5935 2.7682 11.1614 4.75246 7.9467 7.97148C4.73201 11.1862 2.74342 15.6226 2.74342 20.5269Z" fill="#D71920"></path>
+            <path d="M22.58 25.1859C22.58 24.7011 22.9294 24.4041 23.3355 24.3997C23.8946 24.3997 24.1654 24.8321 24.1654 25.3999L24.4667 25.4174L24.5017 24.5439H24.4842L24.4973 24.5308C24.1523 24.2207 23.7636 24.1377 23.3224 24.1377C22.6367 24.1377 21.9991 24.6094 21.9991 25.4086C22.0078 27.0683 24.161 26.3564 24.1435 27.4875C24.1435 28.0073 23.816 28.3785 23.3093 28.3785H23.2875C22.6498 28.3654 22.2524 27.8413 22.2349 27.1556L21.8986 27.1381V27.1556L21.9074 27.2386L21.9947 28.3916C22.3834 28.6144 22.8114 28.6711 23.2264 28.6711C24.0212 28.6711 24.8161 28.23 24.8161 27.2692C24.803 25.6794 22.5581 26.1424 22.58 25.1859ZM19.9114 24.1813C19.7717 24.1813 19.6406 24.2076 19.5009 24.225L18.7715 24.688L18.8763 24.7753C19.0729 24.7142 19.2694 24.6792 19.4572 24.6792C20.4705 24.6792 20.9203 25.6226 20.9247 26.5791C20.9247 27.5705 20.4923 28.4091 19.597 28.4091C19.0117 28.4091 18.658 28.0029 18.658 27.4177V21.6045L18.4789 21.5259C18.112 21.6875 17.6665 21.8316 17.256 21.884L17.2472 22.05C17.5137 22.0675 17.7058 22.1112 17.9373 22.2247L17.9198 26.863C17.9198 27.0726 17.9198 27.2779 17.9198 27.4875C17.9198 27.8588 17.9155 28.23 17.8893 28.6187L18.0552 28.7104L18.3915 28.3873C18.6711 28.5532 19.0205 28.6842 19.3393 28.6886C20.9247 28.6842 21.6104 27.5487 21.6104 26.3171C21.6104 24.9195 20.9858 24.1813 19.9114 24.1813ZM14.8757 22.5479L14.8888 22.3208L12.7662 22.3033L12.7487 22.5304L13.5785 22.7532L13.4563 23.1069L12.0674 27.0333C11.9145 26.5791 10.779 23.1506 10.7004 22.858L10.8052 22.692L11.4953 22.5872L11.5084 22.3383L9.21542 22.3252V22.3426H9.19795V22.5741L9.82687 22.7182L9.94042 22.9279C9.86181 23.2205 8.67385 26.6009 8.51225 27.0508L7.13649 22.7663L7.1758 22.7532L7.84402 22.5872L7.8746 22.3383H7.85713H7.77414L5.48994 22.3164L5.46811 22.5479L6.28483 22.7488L8.16722 28.6973L8.45547 28.7104L10.1719 23.9804L11.7617 28.6842L12.0674 28.6973L14.1463 22.7401L14.8757 22.5479ZM7.12339 22.775L7.18016 22.9497L7.12339 22.775ZM13.5829 22.7401L13.5305 22.727L13.5829 22.7401ZM27.5807 27.6841L27.5545 27.7059C27.358 27.9025 27.0523 28.2082 26.8077 28.2082C26.3404 28.1994 26.1613 27.8763 26.1569 27.291C26.1569 27.2648 26.1569 27.2386 26.1569 27.2124V24.8802H26.1875L27.4279 24.8976L27.4454 24.4652L26.1395 24.4478L26.1569 23.3341L25.9342 23.3166C25.7551 23.9411 25.2616 24.308 24.7812 24.6574L24.7724 24.8802H24.7899V24.8976H25.4101L25.3926 27.5705C25.3926 28.4047 25.9298 28.7061 26.4146 28.7104C26.4321 28.7104 26.4539 28.7104 26.4714 28.7104C27.1571 28.6755 27.6244 27.9942 27.6288 27.9942L27.5851 27.7147L27.5807 27.6841ZM25.2922 20.0628H25.314C25.8337 20.0497 26.253 19.8532 26.6505 19.5431L26.6286 20.0715C26.6286 20.0715 26.633 20.0715 26.6374 20.0715H26.6461C26.6461 20.0715 26.6592 20.0672 26.6636 20.0672C26.8252 20.0497 27.6594 19.8619 28.035 19.792L28.0612 19.7876L27.9301 19.5867L27.3231 19.5256V16.9182C27.3231 16.1626 26.9955 15.822 26.467 15.822C26.4408 15.822 26.419 15.822 26.3928 15.822C26.3185 15.822 26.2399 15.8263 26.1657 15.8656L25.2092 16.4378C25.1131 16.4989 24.7681 16.6867 24.755 16.8527L24.7244 17.3287L24.7899 17.3812L25.2878 17.2807C25.349 17.2676 25.4407 17.272 25.4407 17.1671V17.154C25.4363 17.0711 25.4319 16.9924 25.4319 16.9182C25.4363 16.5863 25.5106 16.3373 26.1133 16.25C26.1351 16.2456 26.1569 16.2456 26.1788 16.2456C26.4801 16.2456 26.6592 16.5644 26.6592 17.1803V17.8092C26.2487 17.9358 25.7988 18.1149 25.3184 18.2721C24.9559 18.39 24.3925 18.5647 24.3925 19.2854C24.3925 19.6129 24.7812 20.0628 25.2922 20.0628ZM26.6461 20.0541H26.6417L26.6505 19.9274L26.6461 20.0541ZM26.6767 18.0232V18.0275C26.5981 18.0538 26.5282 18.0756 26.4539 18.0974C26.5282 18.0712 26.5981 18.0494 26.6767 18.0232ZM26.6767 18.0406V18.3202L26.6592 19.2548C26.4015 19.4164 25.9997 19.6217 25.7639 19.6217C25.445 19.6217 25.1175 19.3989 25.1175 19.1063C25.1131 18.5298 25.7289 18.3638 26.6767 18.0406ZM23.2264 14.7956C23.4273 14.7956 23.6151 14.634 23.6194 14.4156C23.6194 14.1929 23.4535 13.992 23.2264 13.9876C23.008 13.9876 22.8507 14.206 22.8507 14.4156C22.8507 14.6165 23.0342 14.7956 23.2264 14.7956ZM22.9425 19.6872L22.1651 19.8139L22.1519 20.0235L24.3837 20.041V20.0235H24.4012V19.8313L23.6238 19.6697L23.6369 15.9268L23.4709 15.8482C23.1259 16.001 22.6411 16.1364 22.2568 16.1888L22.2393 16.3985C22.4882 16.4159 22.7372 16.4596 22.9556 16.5688L22.9425 19.6872ZM16.7756 19.6566L16.0287 19.7833L16.0156 20.0279L18.2212 20.0453L18.2387 19.8008L17.4787 19.6392L17.4918 17.5471C17.4918 17.403 17.8849 16.4378 18.3435 16.4378C18.4439 16.4378 18.5881 16.512 18.6754 16.5775L18.9025 16.5994L19.0641 16.0272C18.9156 15.9006 18.575 15.8787 18.3959 15.8787C17.9417 15.8831 17.8063 16.4028 17.6272 16.7479L17.5137 16.9313V15.9311L17.3128 15.8525L17.3084 15.87L17.2997 15.8525C16.9634 16.0054 16.4655 16.1408 16.0724 16.1932L16.0549 16.4028C16.3126 16.4203 16.5659 16.464 16.7843 16.5732L16.7756 19.6566ZM7.05788 19.7964L6.27609 19.6348L6.71284 14.9179L6.75215 14.8L8.85292 19.8706L8.97084 19.8794L11.0148 14.8524L11.0716 14.9572L11.4734 19.6479L10.6349 19.7745L10.6218 20.0191L13.0282 20.0366L13.0457 19.792L12.3163 19.6304L11.7922 14.4244L12.6133 14.2977L12.609 14.2802H12.6264L12.6177 14.0706L10.8314 14.0531L9.04509 18.3944L7.23258 14.0619L5.41133 14.0531L5.38512 14.2802L6.27609 14.4462L5.77383 19.6523L5.08377 19.7789L5.07066 20.0235L7.04041 20.041L7.05788 19.7964ZM34.5644 17.2021C34.5687 16.3504 34.1364 15.87 33.2323 15.8438C33.2279 15.8438 33.2236 15.8438 33.2192 15.8438C33.11 15.8438 32.9353 15.8875 32.6907 16.0796L32.0574 16.6212C31.8303 16.1932 31.3979 15.8569 30.8913 15.8525C30.5594 15.8525 30.4371 15.8962 30.175 16.1015L29.5723 16.4946V15.9224L29.3758 15.8438C29.0395 15.9967 28.5634 16.1321 28.1878 16.1845L28.1704 16.3461C28.4149 16.3635 28.6595 16.4072 28.8692 16.5164L28.8648 19.6392L28.2053 19.7658L28.1922 19.9886L30.2318 20.006L30.2493 19.8051L29.5636 19.6217L29.5767 16.8221C29.8781 16.595 30.2187 16.3199 30.5769 16.3199C31.3412 16.3199 31.3586 17.0929 31.363 17.7786V19.6392L30.7035 19.7876L30.6904 19.9886L32.73 20.006L32.7475 19.8051L32.0618 19.6217L32.0749 16.8134C32.3675 16.5994 32.7606 16.3723 33.1231 16.3723C33.8132 16.3723 33.8568 16.9531 33.8612 17.569C33.8612 17.6738 33.8612 17.7742 33.8612 17.8791V19.6392L33.2017 19.7876L33.1886 19.9886L35.1977 20.006L35.2151 19.8051L34.56 19.6217L34.5644 17.2021ZM14.4564 20.137C14.8801 20.137 15.1771 20.0803 15.2426 20.041L16.2384 19.0059L15.9588 18.984C15.6356 19.3203 15.3212 19.6042 14.8626 19.6042C14.8408 19.6042 14.8189 19.6042 14.7971 19.6042C13.4999 19.5256 13.3209 18.5473 13.3165 17.4292H13.3427L15.5963 17.4467C15.8453 17.4467 15.9457 17.4161 15.9457 17.0885C15.9457 16.3592 15.3212 15.8525 14.452 15.8525C13.4257 15.8525 12.6002 16.6212 12.6002 17.9839C12.6046 19.3684 13.4213 20.1327 14.4564 20.137ZM14.3341 16.1058C14.9587 16.1058 15.2251 16.5513 15.2251 17.1278C15.2251 17.1584 15.2251 17.1934 15.2251 17.2283L13.3383 17.2108C13.382 16.6649 13.7489 16.1058 14.3341 16.1058ZM22.1869 16.0229C22.0384 15.8962 21.6977 15.8744 21.5187 15.8744C21.0644 15.8787 20.929 16.3985 20.75 16.7435L20.6364 16.9269V15.9268L20.4355 15.8482L20.4312 15.8656L20.4224 15.8482C20.0861 16.001 19.5882 16.1364 19.1952 16.1888L19.1821 16.3985C19.4397 16.4159 19.693 16.4596 19.9114 16.5688L19.9027 19.6566L19.1558 19.7833L19.1384 20.0235H19.1558H19.2126L21.344 20.041L21.3614 19.7964L20.6015 19.6348L20.619 17.5428C20.619 17.3986 21.012 16.4334 21.4663 16.4334C21.5667 16.4334 21.7108 16.5077 21.7982 16.5732L22.0253 16.595L22.1869 16.0229ZM32.8392 25.0723L32.7169 25.2689V24.2119L32.5029 24.1333L32.4986 24.1508L32.4898 24.1333C32.136 24.2949 31.6163 24.439 31.2014 24.4914L31.1839 24.7142C31.4547 24.7317 31.7211 24.7753 31.9482 24.8933L31.9395 28.1383L31.1534 28.2737L31.1403 28.527L33.455 28.5445L33.4725 28.2912L32.6776 28.1208L32.6907 25.9196C32.6907 25.7711 33.1013 24.7535 33.5861 24.7535C33.6909 24.7535 33.8437 24.8321 33.9355 24.902L34.1713 24.9238L34.3416 24.3211C34.1888 24.1901 33.8263 24.1682 33.6428 24.1682C33.1711 24.1595 33.0314 24.7098 32.8392 25.0723ZM16.0418 28.1339C16.0156 28.1339 15.9938 28.1339 15.9719 28.1339C14.6005 28.051 14.4127 27.0159 14.4084 25.8366L16.8192 25.8541C17.0813 25.8541 17.1861 25.8192 17.1861 25.4741C17.1861 24.7055 16.5266 24.1682 15.6138 24.1682C14.5307 24.1726 13.6615 24.9806 13.6572 26.4175C13.6615 27.8806 14.5219 28.693 15.6138 28.693C16.0637 28.693 16.3737 28.6318 16.4436 28.5925L17.4962 27.5007L17.2036 27.4744C16.8585 27.8369 16.5266 28.1339 16.0418 28.1339ZM15.4828 24.4434C16.1423 24.4434 16.4262 24.9151 16.4262 25.5265C16.4262 25.5615 16.4262 25.5964 16.4262 25.6314L14.4302 25.6139C14.4783 25.0286 14.8626 24.4434 15.4828 24.4434ZM31.2014 27.4482C30.8607 27.8064 30.5288 28.1034 30.044 28.1034C30.0178 28.1034 29.996 28.1034 29.9698 28.1034C28.5984 28.0204 28.4106 26.9853 28.4062 25.8061L30.8171 25.8235C31.0791 25.8235 31.1839 25.7886 31.1839 25.4436C31.1839 24.6749 30.5244 24.1377 29.6116 24.1377C28.5285 24.142 27.655 24.95 27.655 26.3869C27.655 27.8544 28.5198 28.6624 29.6116 28.6624C30.0571 28.6624 30.3716 28.6013 30.4415 28.562L31.494 27.4701L31.2014 27.4482ZM29.485 24.4128C30.1445 24.4128 30.4284 24.8845 30.4284 25.496C30.4284 25.5309 30.4284 25.5658 30.424 25.6008L28.428 25.5833C28.4805 25.0024 28.8692 24.4128 29.485 24.4128ZM35.1802 17.7044V18.294H36.7831V17.7044H35.1802Z" fill="#004990"></path>
+        </svg>
+      </a>
+
+      <a id="navbar-close-icon-link" href="javascript:void(0);" class="navbar-close" aria-label="Close Search">
+        <div class="chevron-left-circle">
+          <svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M0.667825 5.58964L5.76148 0.488749C6.05802 0.210202 6.51157 0.210202 6.79067 0.488749C7.06978 0.767297 7.06978 1.23734 6.79067 1.51589L2.2029 6.09451L6.79067 10.6731C7.06978 10.9691 7.06978 11.4217 6.79067 11.7003C6.51157 11.9788 6.05802 11.9788 5.76148 11.7003L0.667824 6.61678C0.38872 6.32083 0.38872 5.86819 0.667825 5.58964Z" fill="#97BECE" />
+          </svg>
+        </div>
+      </a>
+
+      <div class="search-form-container d-flex col me-2 ms-3">
+        <div class="w-100 button-switcher-container order-lg-1 order-2">
+          <div class="button-switcher rounded">
+            <button id="mw-search-toggle" class="btn btn-toggle rounded " data-toggle="button" autocomplete="off" data-search-url="/dictionary" title="Toggle Search Dictionary/Thesaurus" aria-label="Dictionary On. Search will provide dictionary results.">
+              <div class="btn-switch"></div>
+            </button>
+          </div>
+        </div>
+        <div id="search-container" class="search-container d-flex col order-lg-2 order-1 flex-fill">
+          <form id="search-form" class="d-flex w-100 position-relative search-form" autocomplete="off" novalidate  action="/dictionary">
+            <input id="search-term" class="form-control rounded border-dark search" type="search" placeholder="Search Dictionary" aria-label="Search" value=""  autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" />
+            <button id="search-close-btn" class="btn position-absolute close-button" title="close" aria-label="Close Search" type="reset">
+              <svg class="align-middle" width="12" height="13" viewBox="0 0 12 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42616 6.5L11.7046 10.7785C12.0985 11.1723 12.0985 11.8108 11.7046 12.2046C11.3108 12.5985 10.6723 12.5985 10.2785 12.2046L6 7.92616L1.72153 12.2046C1.3277 12.5985 0.68919 12.5985 0.295367 12.2046C-0.0984557 11.8108 -0.0984557 11.1723 0.295367 10.7785L4.57384 6.5L0.295367 2.22153C-0.0984557 1.8277 -0.0984557 1.18919 0.295367 0.795367C0.68919 0.401544 1.3277 0.401544 1.72153 0.795367L6 5.07384L10.2785 0.795367C10.6723 0.401544 11.3108 0.401544 11.7046 0.795367C12.0985 1.18919 12.0985 1.8277 11.7046 2.22153L7.42616 6.5Z" fill="#97BECE" />
+              </svg>
+            </button>
+            <button id="search-form-submit-btn" class="btn position-absolute search-button search-dictionary" title="Search" aria-label="Search Word" type="submit">
+              <svg class="svg replaced-svg align-middle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19px" height="21px" viewBox="0 0 26 29" version="1.1">
+                <g class="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g class="g-search-icon" transform="translate(1.000000, 1.000000)" fill="#fff" fill-rule="nonzero">
+                    <path d="M17.5185815,17.4073633 L24.5896493,24.4784311 C24.9801736,24.8689554 24.9801736,25.5021204 24.5896493,25.8926447 L23.1754357,27.3068582 C22.7849114,27.6973825 22.1517464,27.6973825 21.7612221,27.3068582 L14.6901543,20.2357904 C14.29963,19.8452661 14.29963,19.2121011 14.6901543,18.8215769 L16.1043679,17.4073633 C16.4948922,17.016839 17.1280572,17.016839 17.5185815,17.4073633 Z M10.5,21 C4.70101013,21 0,16.2989899 0,10.5 C0,4.70101013 4.70101013,0 10.5,0 C16.2989899,0 21,4.70101013 21,10.5 C21,16.2989899 16.2989899,21 10.5,21 Z M10.5,18 C14.6421356,18 18,14.6421356 18,10.5 C18,6.35786438 14.6421356,3 10.5,3 C6.35786438,3 3,6.35786438 3,10.5 C3,14.6421356 6.35786438,18 10.5,18 Z" class="Oval"></path>
+                  </g>
+                </g>
+              </svg>
+              <span class="visually-hidden">Search</span>
+            </button>
+          </form>
+          <div class="search-results-auto overflow-auto collapse shadow rounded"></div>
+        </div>
+        <div id="chatbot-mobile-nav-item" class="chatbot-nav-item-container order-lg-3 order-3 d-none d-lg-none">
+          <a class="w-100 text-white text-decoration-none btn btn-chatbot d-flex" href="/chatbot">
+            <span class="d-none d-sm-block">Chatbot</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="navigation-container order-md-4 d-none d-lg-flex">
+        <div class="navigation d-lg-flex">
+          <ul class="header-nav-list navigation-second-half d-flex flex-column flex-lg-row justify-content-start align-items-lg-center order-lg-1 p-0">
+            <!-- Chatbot nav item for desktop only -->
+            <li class="me-2 chatbot-nav-item d-none">
+              <a class="w-100 text-white text-decoration-none btn btn-chatbot d-flex" href="/chatbot">
+                <span class="d-none d-sm-block">Chatbot</span>
+              </a>
+            </li>
+            <li data-matching-mobile-id="mw-slim-header-nav-games-mobile" class="position-relative me-2">
+              <a id="mw-global-nav-games-quizzes" class="w-100 text-white text-decoration-none btn btn-blue" href="/games">Games</a>
+            </li>
+            <li data-matching-mobile-id="mw-slim-header-nav-wod-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-wod" class="w-100 text-white text-decoration-none btn btn-blue" href="/word-of-the-day">Word of the Day</a>
+</li>        
+<li data-matching-mobile-id="mw-slim-header-nav-grammar-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-features-grammar" class="w-100 text-white text-decoration-none btn btn-blue" href="/grammar">Grammar</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-wordfinder-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-wordfinder" class="w-100 text-white text-decoration-none btn btn-blue" href="/wordfinder">Word Finder</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-slang-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-slang-words" class="w-100 text-white text-decoration-none btn btn-blue" href="/slang">Slang</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-newsletter-mobile" class="position-relative me-2">
+    <span class="new-nav-link-badge">New</span>
+    <a id="mw-global-nav-newsletter" class="w-100 text-white text-decoration-none btn btn-blue" href="/newsletters">Newsletters</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-wordplay-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-features-wordplay" class="w-100 text-white text-decoration-none btn btn-blue" href="/wordplay">Wordplay</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-rhymes-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-rhymes-words" class="w-100 text-white text-decoration-none btn btn-blue" href="/rhymes">Rhymes</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-thesaurus-mobile" class="position-relative me-2">
+    <a id="mw-global-nav-thesaurus" class="w-100 text-white text-decoration-none btn btn-blue" href="/thesaurus">Thesaurus</a>
+</li>
+<li data-matching-mobile-id="mw-slim-header-nav-joinmwu-mobile" class="position-relative me-xl-2 justify-content-between flex-column flex-lg-row d-mobile-sidebar-only">
+    <a class="w-100 text-white text-decoration-none btn btn-blue" href="https://premium.britannica.com/mw-unabridged/?utm_source=mw&utm_medium=global-nav-join&utm_campaign=evergreen">Join MWU</a>
+</li>            <li id="mw-slim-header-nav-more-dropdown" class="position-relative dropdown pe-1">
+              <button id="mw-global-nav-show-more-mobile" class="w-100 text-white text-decoration-none btn btn-blue parent dropdown-toggle d-flex justify-content-between align-items-center" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <span>More</span>
+                <span class="active-arrow">
+                  <div class="arrow-up"></div>
+                </span>
+              </button>
+              <ul aria-labelledby="mw-global-nav-show-more-mobile" class="nav-dropdown-menu-responsive dropdown-menu submenu menu-list-items flex-row justify-content-between flex-column shadow pb-3 position-absolute overflow-hidden bg-white">
+                <li class="position-relative">
+                    <a id="mw-slim-header-nav-games-mobile" href="/games" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Games</a>
+                </li>
+                <li class="position-relative">
+                    <a id="mw-slim-header-nav-wod-mobile" href="/word-of-the-day" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Word of the Day</a>
+                </li>
+                <li class="position-relative">
+                    <a id="mw-slim-header-nav-grammar-mobile" href="/grammar" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Grammar</a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-wordplay-mobile" href="/wordplay" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Wordplay</a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-slang-mobile" href="/slang" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Slang</a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-rhymes-mobile" href="/rhymes" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Rhymes</a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-wordfinder-mobile" href="/wordfinder" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Word Finder</a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-newsletter-mobile" href="/newsletters" class="position-relative dropdown-item d-flex w-100 text-decoration-none rounded">Newsletters <span class="new-nav-link-badge position-static d-flex justify-content-center align-items-center">New</span></a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-thesaurus-mobile" href="/thesaurus" class="dropdown-item d-flex justify-content-between w-100 text-decoration-none rounded">Thesaurus</a>
+                </li>
+                <li class="position-relative">
+                  <a id="mw-slim-header-nav-joinmwu-mobile" href="https://premium.britannica.com/mw-unabridged/?utm_source=mw&utm_medium=global-nav-join&utm_campaign=evergreen" target="_blank" rel="noopener noreferrer" class="dropdown-item d-flex justify-content-between w-100 text-white text-decoration-none rounded">
+                    <span>Join MWU</span>
+                    <span class="external-link d-none">
+                        <img width="18" height="18" class="svg" src="/dist-cross-dungarees/2025-12-04--18-04-15-dmtd/images/svg/link-icon.svg" alt="link icon" aria-hidden="true">
+                    </span>
+                  </a>
+                </li>
+                <li class="position-relative me-xl-2 justify-content-between flex-column flex-lg-row bg-white">
+    <span class="d-flex justify-content-between w-100 text-white text-decoration-none border-bottom border-gold ps-0">
+        <span class="fs-4 fw-bold font-logo">Shop</span>
+    </span>
+</li>
+<li class="position-relative d-flex me-xl-2 justify-content-between flex-column flex-lg-row mt-4">
+    <a id="mw-global-nav-shop-books" href="https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header" target="_blank" rel="noopener noreferrer" class="dropdown-item d-flex justify-content-between w-100 text-white text-decoration-none rounded">
+        <span>Books</span>
+        <span class="external-link">
+            <img width="18" height="18" class="svg" src="/dist-cross-dungarees/2025-12-04--18-04-15-dmtd/images/svg/link-icon.svg" alt="link icon" aria-hidden="true">
+        </span>
+    </a>
+</li>
+<li class="position-relative d-flex me-xl-2 justify-content-between flex-column flex-lg-row">
+    <a id="mw-global-nav-shop-merch" href="https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header" target="_blank" rel="noopener noreferrer" class="dropdown-item d-flex justify-content-between w-100 text-white text-decoration-none rounded">
+        <span>Merch</span>
+        <span class="external-link">
+            <img width="18" height="18" class="svg" src="/dist-cross-dungarees/2025-12-04--18-04-15-dmtd/images/svg/link-icon.svg" alt="link icon" aria-hidden="true">
+        </span>
+    </a>
+</li>
+<ul id="nav-dropdown-user-account-links" class="p-0 m-0 d-none d-lg-block">
+    <li class="loggedout-links position-relative me-xl-2 justify-content-between flex-column flex-lg-row mt-3 no-hover">
+        <a rel="nofollow" href="/login" class="ul-sign-in fw-bold text-center btn btn-gradient btn-md active w-100 text-white text-decoration-none d-flex justify-content-center align-items-center btn-link">
+            Log In
+        </a>
+    </li>
+    <li class="loggedin-links position-relative me-xl-2 justify-content-between flex-column flex-lg-row bg-white">
+        <span class="d-flex justify-content-between w-100 text-white text-decoration-none border-bottom border-gold ps-0">
+            <span class="fs-4 fw-bold font-logo mw-username text-truncate" style="max-width:250px">Username</span>
+        </span>
+    </li>
+    <li class="loggedin-links position-relative me-xl-2 justify-content-between flex-column flex-lg-row mt-4">
+        <a rel="nofollow" href="/saved-words" class="d-flex justify-content-between w-100 text-white text-decoration-none">
+            <span>My Words</span>
+        </a>
+    </li>
+    <li class="loggedin-links position-relative me-xl-2 justify-content-between flex-column flex-lg-row">
+        <a rel="nofollow" href="/recents" class="d-flex justify-content-between w-100 text-white text-decoration-none">
+            <span>Recents</span>
+        </a>
+    </li>
+    <li class="loggedin-links position-relative me-xl-2 justify-content-between flex-column flex-lg-row">
+        <a rel="nofollow" href="/settings" class="d-flex justify-content-between w-100 text-white text-decoration-none">
+            <span>Account</span>
+        </a>
+    </li>
+    <li class="loggedin-links position-relative me-xl-2 justify-content-between flex-column flex-lg-row mt-3 no-hover">
+        <a rel="nofollow" href="/logout" class="ul-sign-out fw-bold text-center btn btn-gradient btn-md active w-100 text-white text-decoration-none d-flex justify-content-center align-items-center btn-link">
+            Log Out
+        </a>
+    </li>
+</ul>              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+</header>
+<div class="header-placeholder">
+  <div class="container-xxl d-none d-lg-block position-relative">
+      <div class="est font-logo rounded text-center" aria-hidden="true">
+          Est. 1828
+      </div>
+  </div>
+</div>
+
+<mw-menu-games-mobile
+  class="d-lg-none"
+  style="line-height: 1.5;"
+  id="menu-games-mobile"
+></mw-menu-games-mobile>
+
+<script>
+  if (window.mwdata.importModules === undefined) {
+    window.mwdata.importModules  = [];
+  }
+  window.mwdata.importModules.push(["games/menu", function(m) { m.init('menu-games-mobile', '/dist-cross-dungarees/2025-12-04--18-04-15-dmtd'); }]);
+  let menu = document.getElementById('menu-games-mobile');
+  if (menu) {
+    menu.gamesSubmenuOpen = false;
+  }
+</script>        
+                <div class="container-fluid">
+  <div class="clearfix">
+  
+        
+    <div class="lr-cols-area clearfix sticky-column d-flex">
+      <div class="left-content d-block w-100 p-0">
+        <div class="row">
+    <div class="col-12">
+        <div class="article-content-wrapper">
+            <div class="border-container d-flex flex-column align-items-center justify-content-center">
+                <div class="article-content-section">
+                    <div class="logo">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="31" viewBox="0 0 40 31" fill="none">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M32.5968 11.2856C32.6196 11.6507 32.3344 11.9188 32.1861 12.2098C31.8723 12.8259 31.5757 13.4648 31.2619 14.0923C30.9254 14.7711 30.6972 15.4671 30.4062 16.1801C30.3492 16.3284 30.2408 16.4368 30.1666 16.5908C29.9157 17.1328 29.7844 17.766 29.5506 18.3707C29.3281 18.9468 29.1455 19.5344 28.9345 20.1162C28.7177 20.7209 28.5808 21.3484 28.3868 21.9645C28.0674 22.9913 27.7593 23.8926 27.5654 25.0792C27.4969 25.5013 27.3429 25.9291 27.2916 26.3456C27.2573 26.608 27.303 26.9331 27.2573 27.2355C27.206 27.5778 26.9949 28.1653 26.9493 28.5703C26.8923 29.0723 26.9436 29.928 26.7097 29.9737C26.356 30.0421 26.2762 28.7529 26.2648 28.5019C26.2419 27.9086 26.2077 27.4865 26.0936 26.8932C25.8883 25.8322 25.7171 24.7141 25.4433 23.7443C25.2551 23.0712 25.0041 22.4209 24.8272 21.7934C24.6333 21.1031 24.4621 20.43 24.2454 19.8424C24.1826 19.677 24.0571 19.5287 24.0058 19.3632C23.9145 19.0723 23.8575 18.0113 23.5266 17.9942C23.2642 17.9827 22.9105 19.4773 22.842 19.7055C22.3629 21.3199 22.089 22.5293 21.7468 24.2235C21.6726 24.5886 21.5414 25.0164 21.4387 25.5584C21.3418 26.0604 21.3361 26.8248 21.1307 26.859C20.7314 26.9274 20.9196 26.1174 20.9253 25.9691C20.9253 25.8778 20.9025 25.7295 20.8911 25.6268C20.8112 24.8795 20.7143 24.0524 20.5488 23.2309C20.3834 22.4209 20.3378 21.6222 20.1381 20.8692C19.7616 19.4374 19.2026 17.9885 18.8032 16.4197C18.615 15.6724 18.3811 14.2862 17.9133 15.5983C17.166 17.7089 16.4245 19.8881 15.9282 22.1699C15.8141 22.7004 15.7 23.2138 15.5859 23.7101C15.352 24.7312 15.0896 25.8208 14.9356 26.859C14.8956 27.1214 14.9356 27.418 14.9014 27.6462C14.8329 28.1653 14.6446 28.9069 14.4906 29.5629C14.4108 29.9052 14.3195 30.3844 14.0799 29.9394C13.9601 29.7227 14.0229 29.0039 14.0114 28.7757C13.9715 27.8801 13.8859 26.1687 13.8745 25.3872C13.8745 25.1419 13.9145 24.9251 13.9088 24.7369C13.8974 24.4232 13.7719 23.9383 13.7376 23.6074C13.4239 20.5441 12.8934 17.5777 11.992 14.9479C11.9065 14.6912 11.7068 14.0181 11.4786 13.9896C11.1991 13.9554 10.8968 14.5657 10.7941 14.7084C10.332 15.3359 9.96124 15.6439 9.39078 16.1117C8.84886 16.5623 8.29552 16.9046 7.57675 17.2069C6.96066 17.4693 6.45866 17.7318 5.72848 17.823C3.8631 18.0512 1.98632 17.5435 1.10782 16.5566C0.93098 16.357 0.794072 16.0946 0.662868 15.9063C0.195097 15.2275 -0.124356 13.9668 0.0467793 12.8601C0.33771 10.9662 1.60982 9.38033 3.19567 8.5817C4.07417 8.14245 4.89562 7.80588 5.96807 7.69179C6.52141 7.63475 7.33145 7.63475 7.81634 7.69179C8.66631 7.78877 9.2881 8.12534 10.0069 8.54747C10.7313 8.97531 11.1592 9.44308 11.7182 10.0535C11.8951 10.2417 12.1461 10.6296 12.3343 10.6353C12.688 10.6467 12.8762 9.85951 13.0531 9.54006C13.1272 9.40315 13.2813 9.27765 13.3611 9.12933C13.6578 8.5817 13.8974 7.9485 14.2168 7.34952C15.101 5.70091 16.0822 3.98385 17.1261 2.45504C17.4969 1.91882 17.7251 1.37118 18.1187 0.949048C18.2556 0.800731 18.7918 0.275915 18.9744 0.401414C19.2083 0.566845 18.7576 1.12018 18.6321 1.56514C18.5808 1.75909 18.6036 1.94163 18.5637 2.07854C18.5123 2.26109 18.3925 2.4037 18.3583 2.5235C18.2613 2.88288 18.2442 3.6587 18.2214 4.06372C18.21 4.28619 18.2043 4.66269 18.2214 4.95362C18.2955 6.28848 18.5465 7.65186 18.8032 9.02665C18.9516 9.83669 19.1113 10.738 19.5562 9.71119C19.6304 9.54006 19.7388 9.27194 19.8301 9.09511C20.6914 7.38375 21.5243 5.83782 22.6367 4.26908C22.6937 4.18922 23.2414 3.33354 23.4924 3.48186C23.7605 3.64158 23.3326 4.32612 23.287 4.5429C23.1615 5.11335 23.1672 5.72373 23.1159 6.45962C23.0645 7.14986 23.1387 7.90286 23.1843 8.5817C23.2414 9.46019 23.4125 10.0421 23.4924 10.8065C23.5266 11.1202 23.6863 11.5366 23.8004 12.0044C23.886 12.3581 24.0115 13.0655 24.1769 13.0997C24.4907 13.1681 24.8044 11.9816 24.8957 11.7648C25.1467 11.1716 25.3977 10.892 25.6144 10.4642C25.7114 10.2702 25.7057 10.1504 25.7856 9.98501C26.0651 9.40885 26.5272 8.92967 26.8466 8.34211C26.9265 8.19949 26.9607 7.96561 27.0178 7.86293C27.109 7.6975 27.2859 7.53777 27.4285 7.34952C27.5597 7.17268 27.6453 6.9445 27.7708 6.76766C28.0617 6.35693 28.6036 5.96332 28.9345 5.56971C29.0771 5.39857 29.1227 5.1761 29.2425 5.0563C29.4022 4.89087 29.7673 4.75396 29.9955 4.57712C30.0754 4.51437 30.0868 4.40028 30.1666 4.33753C30.9767 3.69863 32.4142 3.00838 33.5894 2.89999C34.3481 2.83154 35.1467 2.73456 35.8484 2.93422C35.9624 2.96845 36.0936 3.08824 36.2591 3.13958C36.4758 3.20804 36.744 3.19093 36.9436 3.27649C37.0805 3.33354 37.2003 3.48186 37.3544 3.58454C37.5027 3.68722 37.6966 3.72715 37.8335 3.82413C38.5808 4.34894 39.5278 5.70091 39.8187 6.73343C39.9955 7.36093 40.0469 8.46761 39.9556 9.30047C39.8529 10.2303 39.3852 11.2514 38.8603 11.936C38.7006 12.1413 38.501 12.4722 38.3127 12.6205C38.1701 12.7346 37.9134 12.7688 37.6966 12.8943C37.2346 13.1567 36.8466 13.5732 35.9853 13.4762C35.6715 13.442 35.2209 13.3336 34.9927 13.2366C34.4736 13.0141 33.9259 12.2554 33.6578 11.5937C33.5665 11.3655 33.4696 10.6125 33.2813 10.5669C32.8706 10.4699 33.0645 11.2172 32.5968 11.2856ZM32.3572 3.92681C32.2146 3.98385 32.0834 4.13788 31.9122 4.23485C31.7411 4.33183 31.5243 4.37747 31.3646 4.47444C30.1324 5.20462 29.3566 6.13446 28.4553 7.31529C27.8563 8.09681 27.2573 8.97531 26.8466 9.81388C26.2933 10.9434 25.6087 12.1927 25.1353 13.442C24.9755 13.8584 24.639 14.3889 24.6219 14.7084C24.5933 15.2674 25.0212 16.1003 25.1695 16.6251C25.352 17.264 25.5916 18.0398 25.7856 18.8156C25.8826 19.1978 25.9168 19.6085 26.0252 19.9793C26.1393 20.3729 26.2819 20.7494 26.3332 21.0746C26.4644 21.9474 26.4302 22.5578 26.6413 23.3336C26.6812 23.4705 26.7496 24.0067 26.8808 24.0181C27.1318 24.041 27.149 23.191 27.1889 23.0255C27.3714 22.2041 27.6966 21.2971 27.9761 20.3901C28.2442 19.5173 28.5009 18.6102 28.8318 17.823C29.4365 16.3912 29.9727 14.9023 30.5774 13.5789C30.6744 13.3621 30.72 13.1225 30.817 12.9285C30.8968 12.7688 31.1763 12.5349 31.2961 12.3467C31.5414 11.9645 31.724 11.5252 31.9807 11.1145C32.477 10.3102 33.0246 9.57999 33.5894 8.82129C33.7548 8.59881 34.2967 7.70891 34.6162 7.96561C34.8387 8.14815 34.4679 8.61022 34.3766 8.88974C34.1085 9.70549 34.291 11.2343 34.6162 11.799C34.7417 12.0215 35.0554 12.3866 35.3692 12.5178C36.145 12.843 36.9893 12.495 37.4913 12.1755C38.8261 11.3199 39.6761 8.87833 38.963 6.87034C38.6493 5.99185 38.2557 5.34723 37.6624 4.85094C36.8238 4.14928 35.6715 3.45333 34.3424 3.58454C33.7263 3.64158 32.8934 3.69863 32.3572 3.92681ZM16.7496 4.23485C16.4302 4.81671 16.0822 5.46703 15.757 6.01466C14.8671 7.51495 14.1598 9.18638 13.2927 10.738C13.1615 10.9776 12.8877 11.3883 12.882 11.5252C12.882 11.7078 13.0759 12.0329 13.19 12.3809C13.2927 12.6947 13.4011 13.0084 13.498 13.2708C14.4051 15.6553 14.696 18.8327 14.7987 21.7591C14.8044 21.9417 14.8329 22.5121 14.9698 22.5464C15.2094 22.6091 15.3862 21.28 15.4148 21.1773C15.5859 20.5555 15.5973 20.2474 15.757 19.7055C15.8939 19.2377 16.1278 18.7357 16.3047 18.1995C16.6583 17.1157 16.9265 16.1687 17.2973 15.0506C17.4342 14.6399 17.8677 13.9839 17.8791 13.5446C17.8848 13.1852 17.7194 13.094 17.6737 12.8943C17.6395 12.746 17.6795 12.5977 17.6395 12.4151C17.5597 12.0558 17.3657 11.7078 17.2973 11.3199C16.9493 9.30047 16.6583 7.02436 16.955 4.85094C16.9949 4.5429 17.1489 4.05801 16.8181 4.1664C16.7781 4.17781 16.7667 4.20063 16.7496 4.23485ZM21.7125 7.38375C21.1763 8.13104 20.9253 8.93538 20.4119 9.95078C20.2636 10.2417 20.0639 10.5383 19.8985 10.9434C19.7673 11.2685 19.4593 11.6907 19.4536 12.0044C19.4479 12.3695 19.7046 12.9171 19.8643 13.442C20.0183 13.9382 20.1951 14.4517 20.3092 14.8453C20.4461 15.3187 20.5773 15.6553 20.6857 15.9748C20.9367 16.7335 20.9596 17.321 21.1649 18.3707C21.2277 18.6787 21.3589 19.175 21.4387 19.5344C21.473 19.6884 21.4958 20.7209 21.7125 20.7323C21.8894 20.738 21.9578 20.2531 22.0206 20.0136C22.2659 19.0438 22.3971 18.5874 22.7051 17.6519C22.8306 17.264 23.1615 16.4653 23.1501 16.0774C23.1387 15.7409 22.8249 15.3244 22.7394 14.811C22.5568 13.7386 22.2602 12.6205 22.089 11.4568C21.9179 10.2702 21.9008 9.03806 21.9521 7.86293C21.9635 7.572 22.0776 7.24114 21.781 7.31529C21.7411 7.3267 21.7354 7.35523 21.7125 7.38375ZM2.92186 9.98501C2.14034 10.4984 1.39875 11.2115 1.10782 12.0386C0.948094 12.4836 0.822594 12.9685 0.799776 13.4077C0.731322 14.8909 1.38734 15.7295 2.20309 16.2828C2.4712 16.4653 2.79065 16.6878 3.05877 16.7962C4.17685 17.2355 5.85398 17.0415 6.72107 16.6935C7.56534 16.357 8.29552 15.9519 8.9116 15.4614C9.29951 15.1533 9.73876 14.6798 10.1096 14.2292C10.2522 14.058 10.4803 13.807 10.6572 13.5446C11.1535 12.8145 11.085 12.5178 10.6572 11.8333C10.2921 11.2514 10.0126 10.892 9.56192 10.4642C8.67772 9.63133 7.2687 8.8384 5.72848 8.92397C4.47349 8.99242 3.7262 9.45449 2.92186 9.98501Z" fill="url(#paint0_linear_4711_6413)" />
+                            <defs>
+                                <linearGradient id="paint0_linear_4711_6413" x1="-4.64916e-07" y1="17.7784" x2="40" y2="17.7784" gradientUnits="userSpaceOnUse">
+                                    <stop stop-color="#C5A332" />
+                                    <stop offset="1" stop-color="#E4C04B" />
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                    </div>
+                    <h1>The New Twelfth Edition</h1>
+                    <div class="body-text-lg body-text-lg-mobile text-center">
+                        <div>America's Most Trusted Dictionary,</div>
+                        <div>Extensively Revised & Redesigned</div>
+                    </div>
+
+                    <div class="main-image"></div>
+
+                    <div class="d-flex justify-content-center logo-container">
+                        <a href="https://www.amazon.com/Merriam-Websters-Collegiate-Dictionary-12th-Merriam-Webster/dp/0877794065" target="_blank" rel="noopener noreferrer" class="logo-item amazon" aria-label="Pre-order from Amazon"></a>
+                        <a href="https://www.barnesandnoble.com/w/anonymous-anonymous/1111590235?ean=9780877794066" target="_blank" rel="noopener noreferrer" class="logo-item barnes-noble" aria-label="Pre-order from Barnes & Noble"></a>
+                        <a href="https://bookshop.org/a/10186/9780877794066" target="_blank" rel="noopener noreferrer" class="logo-item bookshop" aria-label="Pre-order from Bookshop.org"></a>
+                    </div>
+
+                </div>
+
+                <div class="article-videos-section">
+                    <div class="d-flex flex-wrap justify-content-center gap-3">
+                        <div class="video-item">
+                            <iframe width="256" height="144" src="https://www.youtube.com/embed/atzFr6uA5KE?si=XrQdDMI_Wh6PaykX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                        <div class="video-item">
+                            <iframe width="256" height="144" src="https://www.youtube.com/embed/RvQnl3O0D3c?si=YrCljiT6tyy6TZC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                        <div class="video-item">
+                            <iframe width="256" height="144" src="https://www.youtube.com/embed/-AYxA8bdSoE?si=9N-NLJ4AAX0168t4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="article-content-section mt-3">
+                    <div class="spacer-32">
+                        <span class="body-text-lg">For the first time in over twenty years,</span>
+                        <span>and only the twelfth time since 1898, Merriam-Webster has published a new edition of its iconic <span class="fst-italic">Collegiate Dictionary</span>.</span>
+                    </div>
+
+                    <div class="spacer-32">
+                        <span class="fw-bold">Complete with thumb notches and a deep red cover,</span>
+                        <span>weighing almost five pounds, the <span class="fst-italic">Twelfth Edition</span> is available now.
+                    </div>
+
+                    <div class="spacer-32">
+                        <span class="fw-bold">Thoroughly updated and redesigned for students, professionals, and word lovers,</span>
+                        <span>the <span class="fst-italic">Twelfth Edition</span> features over 5,000 new words (including <span class="fst-italic">cold brew</span>, <span class="fst-italic">farm-to-table</span>, <span class="fst-italic">rizz</span>, and <span class="fst-italic">dad bod</span>), 1,000 new phrases and idioms, enhanced entries for the top lookups, and more than 20,000 additional usage examples.</span>
+                    </div>
+
+                    <div class="spacer-32">
+                        <span class="fw-bold">The new <span class="fst-italic">Collegiate</span> also introduces curated word lists</span>
+                        <span>(e.g., "Words From the 1990s" and "Words for Things That Often Go Unnamed"), expanded usage guidance, and fascinating word histories (e.g., <span class="fst-italic">calculate</span> comes from the Latin for "pebble," because Romans used little stones for addition and subtraction). And readers will still find the classic line drawings—from a friendly looking <span class="fst-italic">aardvark</span> to a prickly <span class="fst-italic">zoea</span> ("a free swimming planktonic larval form of many decapod crustaceans").</span>
+                    </div>
+
+                    <div class="spacer-36">
+                        <span class="fw-bold">For generations, <span class="fst-italic">Merriam-Webster's Collegiate Dictionary</span> has been an essential reference source,</span>
+                        <span>consulted, gifted, and cherished by millions of readers. That legacy continues with the <span class="fst-italic">Twelfth Edition</span>.</span>
+                    </div>
+
+                    <div class="d-flex justify-content-center">
+                        <a class="btn press-release-btn d-inline-block text-decoration-none" href="/press-releases/c12-release">Press Release</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- adhesion -->
+
+
+
+                
+<footer class="global-footer ">
+  <div class="footer-mast clearfix">
+    <div class="mw-logo-section lazyload">
+      <a href="/" class="footer-logo">Merriam Webster</a>
+    </div>
+    <div class="footer-mast-content clearfix">
+            <div class="footer-subscribe-block">
+        <div class="footer-subscribe-msg">
+          <p>Learn a new word every day. Delivered to your inbox!</p>
+        </div>
+        <form data-medium="footer" class="footer-subscribe js-wod-subscribe-frm">
+          <input class="footer-subscribe-field" type="text" name="email" value="" aria-label="Sign up for Merriam-Webster's Word of the Day newsletter" placeholder="Your email address">
+          <input class="footer-subscribe-button" type="submit" name="submit" aria-label="Subscribe" value="SUBSCRIBE">
+          <input class="footer-subscribe-button hidden arrow" type="submit" name="submit" value="&gt;">
+        </form>
+      </div>
+            <div class="footer-internal-links">
+        <ul class="footer-menu">
+          <li><a href="/help">Help <span class="rborder"></span></a></li>
+          <li><a href="/about-us">About Us <span class="rborder"></span></a></li>
+          <li><a href="https://corporate.britannica.com/advertise-with-us" rel="noopener" target="_blank">Advertising Info <span class="rborder"></span></a></li>
+          <li><a href="/contact-us">Contact Us <span class="rborder"></span></a></li>
+          <li><a href="/privacy-policy">Privacy Policy <span class="rborder"></span></a></li>
+                    <li class="last"><a href="/terms-of-use">Terms of Use</span></a></li>
+                  </ul>
+      </div>
+      <div class="follow-us lazyload">
+        <div class="follow-links">
+          <ul>
+            <li><a href="https://www.facebook.com/merriamwebster" rel="noopener" target="_blank" class="social-link social-fb">Facebook</a></li>
+            <li><a href="https://twitter.com/merriamwebster" rel="noopener" target="_blank" class="social-link social-tw">Twitter</a></li>
+            <li><a href="https://www.youtube.com/user/MerriamWebsterOnline" rel="noopener" target="_blank" class="social-link social-play">YouTube</a></li>
+            <li><a href="https://www.instagram.com/merriamwebster/" rel="noopener" target="_blank" class="social-link social-ig">Instagram</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="footer-foot clearfix footer-oa cafemedia-footer-foot">
+    <div class="footer-foot-content clearfix internal-page">
+      <p class="copyright">© 2025 Merriam-Webster, Incorporated</p>
+    </div>
+  </div>
+</footer>
+      </div>
+    </div>
+
+    
+        
+                        
+            <script defer src="/dist-cross-dungarees/2025-12-04--18-04-15-dmtd/compiled/js/js-core.8d177d853d958cc0df12.js"></script>
+        
+        
+          </body>
+</html> title 79 Merriam-Webster&#039;s Collegiate Dictionary, Twelfth Edition | Merriam-Webster contentType 9 text/html url 73 https://www.merriam-webster.com:443/collegiate-dictionary-twelfth-edition responseCode 3 200 

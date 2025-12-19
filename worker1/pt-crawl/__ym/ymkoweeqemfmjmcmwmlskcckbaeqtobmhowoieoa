@@ -1,0 +1,1437 @@
+ymkoweeqemfmjmcmwmlskcckbaeqtobmhowoieoa length 5 71488 page 71488 
+<!DOCTYPE html>
+
+<!-- Propagates search term wildcard, a smelly hack -->
+
+
+
+<!-- Customize to send a site message on every page -->
+<!--tal:b 
+  condition="python:request and context.plone_utils.addPortalMessage((u'Site will be read-only while undergoing maintenance from 18:00 US Eastern Time on September 9 through 11:00 on September 10.'))" 
+    ></tal:b-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="
+            bibo: http://purl.org/ontology/bibo/ 
+            cc: http://creativecommons.org/ns#
+            dcterms: http://purl.org/dc/terms/
+            foaf: http://xmlns.com/foaf/0.1/
+            og: http://ogp.me/ns#
+            schema: http://schema.org/
+            " typeof="bibo:Webpage cc:Work schema:ItemPage foaf:page og:article" lang="en">
+
+    
+    
+    
+    
+    
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://pleiades.stoa.org/places/138248/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+
+
+    <title property="dcterms:title og:title schema:name">Burdigala: a Pleiades place resource</title>
+
+    
+        <meta property="dcterms:creator schema:creator" content="H.S. Sivan" />
+    
+    
+        <meta property="dcterms:creator schema:creator" content="R.W. Mathisen" />
+    
+
+    
+        <meta property="dcterms:creator schema:contributor" content="DARMC" />
+    
+    
+        <meta property="dcterms:creator schema:contributor" content="R. Talbert" />
+    
+    
+        <meta property="dcterms:creator schema:contributor" content="Brady Kiesling" />
+    
+    
+        <meta property="dcterms:creator schema:contributor" content="Sean Gillies" />
+    
+    
+        <meta property="dcterms:creator schema:contributor" content="Johan Åhlfeldt" />
+    
+    
+        <meta property="dcterms:creator schema:contributor" content="Jeffrey Becker" />
+    
+    
+        <meta property="dcterms:creator schema:contributor" content="Tom Elliott" />
+    
+
+
+
+<meta property="dcterms:type schema:genre" content="a gazetteer of past places" />
+
+<meta property="og:description dcterms:description schema:description" name="description" content="Burdigala (modern Bordeaux) was a Celtic center of the Bituriges Vivisci. The Romans lost a battle at the site in 107 BC, with consul Lucius Cassius Longinus being killed in the action. Rome eventually controlled the area ca. 60 BC." />
+
+<meta property="dcterms:date schema:dateModified" content="2024-09-27T22:18:07-04:00" />
+
+<meta property="bibo:shortTitle schema:alternateName" content="Burdigala" />
+
+<meta property="dcterms:language schema:inLanguage" content="en" />
+
+<meta property="dcterms:rights" content="Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by)." />
+
+<meta property="license cc:license schema:license dcterms:license" content="https://creativecommons.org/licenses/by/3.0/us/" />
+
+<meta property="dcterms:publisher schema:publisher" content="Institute for the Study of the Ancient World (NYU); Ancient World Mapping Center (UNC-CH)" />
+
+<meta property="dcterms:identifier schema:url" content="https://pleiades.stoa.org/places/138248" />
+
+<meta property="og:site_name" content="Pleiades: a gazetteer of past places" />
+
+<meta property="schema:isPartOf" content="https://pleiades.stoa.org/" />
+
+<link rel="foaf:PrimaryTopic schema:about" href="https://pleiades.stoa.org/places/138248#this" />
+
+</html>
+
+
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/reset-cachekey-e00a72c89c8a43b6b91de95d3c6c4811.css" />
+    <style type="text/css" media="screen">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/base-cachekey-b40e8f5b4a3bde1bd05f242f92fe447a.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcetinymce.stylesheetstinymce-cachekey-bf89cb478f48d04d9dc35c85c42980ad.css" />
+    <style type="text/css">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/print-cachekey-023db2a602e94b9a00e201670ef8edfb.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/resourceplone.app.discussion.stylesheetsdiscussion-cachekey-4cbe026f64f15f6218b0d3d54eea7af3.css" />
+    <style type="text/css" media="screen">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcepleiades.notredame.stylesheetsmain-cachekey-2de74deea1fb3ac36bf88598eeb040f9.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcepleiades.notredame.stylesheetscolumns-cachekey-0f0d6adcf7b566d96490abd89bd99d78.css" />
+    <style type="text/css">@import url(https://pleiades.stoa.org/portal_css/Notre%20Dame/resourcecollective.z3cform.datagridfielddatagridfield-cachekey-be39e48c784812ff46b5ccb79a108374.css);</style>
+
+  
+  
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/resourceplone.app.jquery-cachekey-64bad715a64e738bb037dff73e80ca81.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/referencebrowser-cachekey-0d0f6b82fe4f37c9b6384b506bd3cb40.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/inline_validation-cachekey-5414f4fbccb1d61dd7a110954dc001cb.js"></script>
+    <script type="text/javascript" src="https://pleiades.stoa.org/portal_javascripts/Notre%20Dame/forms-cachekey-1ad9541b6091895a705c56f3b1d410db.js"></script>
+
+
+
+        
+    <link rel="author" href="https://pleiades.stoa.org/author/H.S. Sivan" title="Author information" />
+
+
+    <link rel="canonical" href="https://pleiades.stoa.org/places/138248" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://pleiades.stoa.org/favicon.ico" />
+    <link rel="apple-touch-icon" href="https://pleiades.stoa.org/touch_icon.png" />
+
+
+
+
+
+
+    <link rel="search" href="https://pleiades.stoa.org/@@search" title="Search this site" />
+
+
+
+        
+        
+        
+        
+    
+    
+      <style type="text/css" media="all"><!-- @import url(https://pleiades.stoa.org/keywordwidget.css); --></style>
+    
+    
+      <style type="text/css" media="all"><!-- @import url(https://pleiades.stoa.org/jscalendar/calendar-system.css); --></style>
+    
+    
+  
+        
+    
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="https://pleiades.stoa.org/widgets/js/textcount.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="https://pleiades.stoa.org/widgets/js/inandout.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="https://pleiades.stoa.org/referencebrowser.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="https://pleiades.stoa.org/widgets/js/keywordmultiselect.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="https://pleiades.stoa.org/jscalendar/calendar_stripped.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="https://pleiades.stoa.org/jscalendar/calendar-en.js">
+      </script>
+    
+    
+      
+      <link rel="foaf:primaryTopic" href="https://pleiades.stoa.org/places/138248#this" />
+      <link rel="where" type="application/json" href="https://pleiades.stoa.org/places/138248/json" />
+      
+      <link rel="connections" type="application/json" href="https://pleiades.stoa.org/places/138248/@@connections-json" />
+      <link rel="r-where" type="application/json" href="https://pleiades.stoa.org/places/138248/@@r-neighbors-json" />
+      <link rel="nofollow alternate" type="application/atom+xml" href="https://pleiades.stoa.org/places/138248/atom" />
+      <link rel="nofollow alternate" type="application/json" href="https://pleiades.stoa.org/places/138248/json" />
+      <link rel="nofollow alternate" type="application/vnd.google-earth.kml+xml" href="https://pleiades.stoa.org/places/138248/kml" />
+      <link rel="canonical" href="https://pleiades.stoa.org/places/138248" />
+
+      
+        <link rel="nofollow alternate p-neighbors"
+            type="application/vnd.google-earth.kml+xml"
+            href="https://pleiades.stoa.org/search_kml?predicate=nearest&upperRight=-0.576533%2C44.837205&lowerLeft=-0.576533%2C44.837205&portal_type.query:list:record=Place&tolerance:float=0.015&location_precision.query:list:record=precise&skipId:list=138248&style=peripheral"/>
+        
+      
+        <link rel="nofollow alternate r-neighbors"
+            type="application/vnd.google-earth.kml+xml"
+            href="https://pleiades.stoa.org/search_kml?upperRight=-0.576533%2C44.837205&lowerLeft=-0.576533%2C44.837205&predicate=intersection&portal_type.query:list:record=Place&location_precision.query:list:record=rough&skipId:list=138248&style=peripheral&"/>
+        
+      <style>
+        #map { height: 480px; }
+        #below-map {
+          width: 480px;
+          font-size: 11px;
+          color: #555;
+          margin: 0px;
+          text-align: left;
+        }
+        #below-map p {
+          margin: 0px;
+          padding: 0px;
+        }
+        #map-links {
+          padding-top: 0.3em;
+          padding-bottom: 0.3em;
+        }
+        #map-links > p {
+          padding: 0px;
+        }
+        #map-credit {
+          font-style: italic;
+          padding-top: 0.3em;
+          padding-bottom: 0.3em
+        }
+        .mapbox-gl-reset-box {
+            background-image: url('https://atlantides.org/images/reset-box.svg');
+            background-repeat: no-repeat;
+            background-position: center;
+            pointer-events: auto;
+        }
+        .mapbox-improve-map {
+              display: none;
+        }
+      </style>
+    
+    
+  
+
+        <meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" />
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+</head>
+
+<body data-portal-url="https://pleiades.stoa.org" class="template-base_view portaltype-place site-plone section-places subsection-138248 icons-on userrole-anonymous" dir="ltr" data-base-url="https://pleiades.stoa.org/places/138248">
+
+<div id="visual-portal-wrapper">
+  <div id="visual-padded-portal-wrapper">
+
+        <div id="portal-top">
+            <ul id="portal-siteactions">
+
+    <li id="siteaction-contact"><a href="https://pleiades.stoa.org/contact-info" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-help"><a href="https://pleiades.stoa.org/help" accesskey="" title="Help">Help</a></li>
+</ul>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools" class="visualInline">
+   
+
+    
+        <li>
+            <a href="https://pleiades.stoa.org/login">Log in</a>
+        </li>
+    
+
+</ul>
+</div>
+
+<script>pleiades_default_works = {"PECS": "https://www.zotero.org/groups/2533/items/PV9N7BQD", "Gazetteer of Ancient Arabia (GazAncArab)": "https://www.zotero.org/groups/2533/items/WFV7WNIS", "Procop. Wars (Dewing: Loeb)": "https://www.zotero.org/groups/2533/items/KGMRZN8D", "Oxford Classical Dictionary Online": "https://www.zotero.org/groups/2533/items/YNU2WLIH", "ArchKT: \u0391\u03c1\u03c7\u03b1\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u039a\u03c4\u03b7\u03bc\u03b1\u03c4\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf (Archaiologiko Ktimatologio)": "https://www.zotero.org/groups/2533/items/ES3E4RFF", "BAtlas": "https://www.zotero.org/groups/2533/items/MIAGQ5C6", "Caes. BGall. (Holmes: Perseus)": "https://www.zotero.org/groups/2533/items/QIX4MPDG", "Inscriptiones Latinae Selectae (ILS)": "https://www.zotero.org/groups/2533/items/NIZB6YAK", "Wikipedia (Arabic)": "https://www.zotero.org/groups/2533/items/2GIR336Y", "Skylax": "https://www.zotero.org/groups/2533/items/6FQTZNR8", "TIR Emerita": "https://www.zotero.org/groups/2533/items/PCC822HP", "World Historical Gazetteer (WHG)": "https://www.zotero.org/groups/2533/items/RHX229R6", "Arr. Anab. (Roos; Perseus)": "https://www.zotero.org/groups/2533/items/HTLQUIZD", "DARE": "https://www.zotero.org/groups/2533/items/DJKMJPD7", "Wikipedia (French)": "https://www.zotero.org/groups/2533/items/B4HPCZIK", "Inscriptiones Graecae": "https://www.zotero.org/groups/2533/items/49WFK9SJ", "MANTO": "https://www.zotero.org/groups/2533/items/SLCUI2TB", "ToposText": "https://www.zotero.org/groups/2533/items/MC9RGDVB", "Strabo (Meineke: Perseus)": "https://www.zotero.org/groups/2533/items/FEVTVBA7", "Serv. In Aen. (Thilo; PHI)": "https://www.zotero.org/groups/2533/items/3AMTWT97", "AOI": "https://www.zotero.org/groups/2533/items/ZPCURT27", "TP (Talbert: CUP)": "https://www.zotero.org/groups/2533/items/QT8GLGGI", "RE": "https://www.zotero.org/groups/2533/items/HSGNAEBR", "Hom. (Allen 1920; Perseus)": "https://www.zotero.org/groups/2533/items/MTUPQA3P", "Inscriptions of Roman Cyrenaica 2020": "https://www.zotero.org/groups/2533/items/CCQQ3XJ7", "Theatrum": "https://www.zotero.org/groups/2533/items/NC5FZPQN", "TIB 3: Nikopolis und Kephallenia": "https://www.zotero.org/groups/2533/items/9QBDJWZT", "Tacitus Germania (Anderson: PHI)": "https://www.zotero.org/groups/2533/items/8EK6HLPN", "TIB 1: Hellas": "https://www.zotero.org/groups/2533/items/JN88VMS5", "L\u2019Ann\u00e9e Epigraphique (AE)": "https://www.zotero.org/groups/2533/items/4EG4F7MC", "GeoNames": "https://www.zotero.org/groups/2533/items/IIFE4W6M", "Wikipedia (English)": "https://www.zotero.org/groups/2533/items/CI6F6W7W", "Thuc. Hist. (Jones; Perseus)": "https://www.zotero.org/groups/2533/items/EFG24VXW", "RBrit": "https://www.zotero.org/groups/2533/items/PMV8NEDG", "Odysseus": "https://www.zotero.org/groups/2533/items/KADCFN2V", "FastiOnline (Documents & Research)": "https://www.zotero.org/groups/2533/items/I4672X3J", "Plut. (Perrin 1914; Perseus)": "https://www.zotero.org/groups/2533/items/24DPWZ8V", "PHI Greek Inscriptions": "https://www.zotero.org/groups/2533/items/Q4KKL8DB", "Scylax": "https://www.zotero.org/groups/2533/items/6FQTZNR8", "Paus. (Spiro: Perseus)": "https://www.zotero.org/groups/2533/items/GTGBFEI9", "Caes. BGall. (Seel: PHI)": "https://www.zotero.org/groups/2533/items/Y3E58P65", "Wikipedia (Turkish)": "https://www.zotero.org/groups/2533/items/RXT4VCZC", "Cic. Orationes (Clark/Peterson: PHI)": "https://www.zotero.org/groups/2533/items/BNAC8MFP", "SEG Online": "https://www.zotero.org/groups/2533/items/AKNZR5RR", "Pseudo-Skylax's Periplous": "https://www.zotero.org/groups/2533/items/6FQTZNR8", "Lucan (Ridley; Perseus)": "https://www.zotero.org/groups/2533/items/W5U5YRS2", "Ptol. (Renou; IA)": "https://www.zotero.org/groups/2533/items/8KUG83QQ", "Roman Provincial Coinage (RPC)": "https://www.zotero.org/groups/2533/items/3M3PF9X3", "Xen. An. (Marchant; Perseus)": "https://www.zotero.org/groups/2533/items/BY2BK83J", "TIB 2: Kappadokien": "https://www.zotero.org/groups/2533/items/MIV7H5RQ", "Euripides, Heracles (Murray: Perseus)": "https://www.zotero.org/groups/2533/items/C9L76T8X", "Tacitus, Annales (Fisher; Perseus)": "https://www.zotero.org/groups/2533/items/D7BRHVIM", "Cato, Origines (Peter; PHI)": "https://www.zotero.org/groups/2533/items/TX974KHU", "Ptol. (Humbach and Ziegler)": "https://www.zotero.org/groups/2533/items/CIMP3SHE", "TIB 12: Ostthrakien (Eur\u014dp\u0113)": "https://www.zotero.org/groups/2533/items/HKRP4GGX", "Isidore of Charax (Schoff; archive.org)": "https://www.zotero.org/groups/2533/items/LF6F3PHD", "TIR Philippi": "https://www.zotero.org/groups/2533/items/WUA7IQ6E", "Kastrologos": "https://www.zotero.org/groups/2533/items/4ZQRL22T", "OpenStreetMap": "https://www.zotero.org/groups/2533/items/BA93AHVQ", "RENames": "https://www.zotero.org/groups/2533/items/JS3Y9VGD", "Tabula Imperii Romani: Caesaraugusta - Clunia": "https://www.zotero.org/groups/2533/items/H6EE4IV4", "TCW": "https://www.zotero.org/groups/2533/items/ZV7SNRDS", "Heritage Gazetteer of Cyprus (HGC)": "https://www.zotero.org/groups/2533/items/JVA93YST", "SAGT": "https://www.zotero.org/groups/2533/items/5BCLQ4TG", "TIR Aquincum": "https://www.zotero.org/groups/2533/items/U8NJVRER", "Roman Era Names": "https://www.zotero.org/groups/2533/items/JS3Y9VGD", "OSM": "https://www.zotero.org/groups/2533/items/BA93AHVQ", "StByz (Meineke; archive.org)": "https://www.zotero.org/groups/2533/items/25I8PUYK", "Coin Hoards of the Roman Empire (CHRE)": "https://www.zotero.org/groups/2533/items/FRBNA4WC", "TIB 7: Phrygien": "https://www.zotero.org/groups/2533/items/KSC4MTPR", "Plin., NH (Mayhoff: PHI)": "https://www.zotero.org/groups/2533/items/8AK7HSRG", "Procop. Wars (Dewing: Perseus)": "https://www.zotero.org/groups/2533/items/PDRKPSKS", "Ovid, Met. (Miller/Goold; PHI)": "https://www.zotero.org/groups/2533/items/593UPIS4", "Malalas (Thurn; De Gruyter)": "https://www.zotero.org/groups/2533/items/CSW388MS", "Encyclop\u00e6dia Iranica online (EncIran)": "https://www.zotero.org/groups/2533/items/MGQ4IGT7", "Polyb. (B\u00fcttner-Wobst: Perseus)": "https://www.zotero.org/groups/2533/items/QPGBM7G4", "Wikipedia (Spanish)": "https://www.zotero.org/groups/2533/items/LPYQ8SZL", "Cic. Att. (Shackleton Bailey: PHI)": "https://www.zotero.org/groups/2533/items/QNWZUSJM", "Varro Linguae Latinae (Goetz; PHI)": "https://www.zotero.org/groups/pleiades/items/V5DDRESC", "Tac. Ann. (Fisher; PHI)": "https://www.zotero.org/groups/2533/items/D7BRHVIM", "GeogRav (Schnetz)": "https://www.zotero.org/groups/2533/items/KKKXAPNB", "PAThs Atlas": "https://www.zotero.org/groups/2533/items/USCS9QGQ", "Aristot. Pol. (Ross; Perseus)": "https://www.zotero.org/groups/2533/items/ZI5UWWXC", "Verg. Aen. (Greenough; Perseus)": "https://www.zotero.org/groups/2533/items/RRQDCI4M", "Ne\u015fr\u00ee (Unat/K\u00f6ymen)": "https://www.zotero.org/groups/2533/items/S3RUVA5A", "Hor. Carm. (Klingner: PHI)": "https://www.zotero.org/groups/2533/items/JRPW9RUX", "Aelian (Hercher; Perseus)": "https://www.zotero.org/groups/2533/items/ZMUP5U2Z", "Apollod. Bibl. (Frazer: Perseus)": "https://www.zotero.org/groups/2533/items/PTDGFYQ5", "Pritchett, Studies in ancient Greek topography": "https://www.zotero.org/groups/2533/items/5BCLQ4TG", "Fest. (Linsday; PHI)": "https://www.zotero.org/groups/2533/items/PWGPQSKQ", "Bowen 1747": "https://www.zotero.org/groups/2533/items/ZJCBEC5U", "Plin. Letters (Mynors: PHI)": "https://www.zotero.org/groups/2533/items/KA9R994P", "Digital Atlas of the Roman Empire": "https://www.zotero.org/groups/2533/items/DJKMJPD7", "TIB 11: Makedonien, s\u00fcdlicher Teil": "https://www.zotero.org/groups/2533/items/PBRX9BL5", "Appian, BC (Mendelssohn; Perseus)": "https://www.zotero.org/groups/2533/items/RIT34RYY", "Tabula Imperii Romani: Aquincum - Sarmizegetusa - Sirmium": "https://www.zotero.org/groups/2533/items/U8NJVRER", "Amm. Marc. (Clark/Rolfe: Perseus)": "https://www.zotero.org/groups/2533/items/ZZK23NPA", "Herodotus (Godley: Perseus)": "https://www.zotero.org/groups/2533/items/ZXF7J4U2", "ItMiller (K. Miller: Itineraria romana: R\u00f6mische Reisewege an der Hand der Tabula Peutingeriana)": "https://www.zotero.org/groups/2533/items/Q8X83VMV", "An encyclopaedia of Indian archaeology (EIA)": "https://www.zotero.org/groups/2533/items/BM9TDIKB", "Amphi-theatrum": "https://www.zotero.org/groups/2533/items/NTQZEIIX", "EncAncHist": "https://www.zotero.org/groups/2533/items/J5X5SRY3", "IGLSyr": "https://www.zotero.org/groups/2533/items/GAJPHHXX", "Cic. ad Fam. (Shackleton Bailey: PHI)": "https://www.zotero.org/groups/2533/items/KMEZI2ZD", "iDAI.gazetteer": "https://www.zotero.org/groups/2533/items/KNGREWYQ", "TIR Cyrene": "https://www.zotero.org/groups/2533/items/MIAHPZ4N", "FOLD&R (FastiOnline - Documents & Research)": "https://www.zotero.org/groups/2533/items/I4672X3J", "Roman Britain (www.roman-britain.co.uk)": "https://www.zotero.org/groups/2533/items/PMV8NEDG", "Tabula Imperii Romani: Philippi": "https://www.zotero.org/groups/2533/items/WUA7IQ6E", "Tac. Ann. (Fisher; Perseus)": "https://www.zotero.org/groups/2533/items/D7BRHVIM", "Varro Rust. (Goetz; PHI)": "https://www.zotero.org/groups/2533/items/4DWZPLI2", "Ovid, Met. (Miller/Goold; Loeb)": "https://www.zotero.org/groups/2533/items/KMSU8Y5V", "TIR Caesaraugusta": "https://www.zotero.org/groups/2533/items/H6EE4IV4", "Q. Horati Flacci Opera (Klingner: PHI)": "https://www.zotero.org/groups/2533/items/JRPW9RUX", "Chronique en ligne": "https://www.zotero.org/groups/2533/items/9KVQ7A64", "TIR BritSep": "https://www.zotero.org/groups/2533/items/ZCE8AR3R", "Epigraphik-Datenbank Clauss/Slaby": "https://www.zotero.org/groups/2533/items/YG2BW6GH", "Str. (Meineke: Perseus)": "https://www.zotero.org/groups/2533/items/FEVTVBA7", "Serv. In Vergilii Georgicon Libros (Thilo; PHI)": "https://www.zotero.org/groups/2533/items/KUHIVZ6K", "Monumenta Asiae Minoris antiqua": "https://www.zotero.org/groups/2533/items/4HZBRPEC", "Arrian, Indica (Hercher; Perseus)": "https://www.zotero.org/groups/2533/items/KKWY3MTH", "Sigiri graffiti": "https://www.zotero.org/groups/2533/items/48FJSEDU", "New Pauly": "https://www.zotero.org/groups/2533/items/DUTS58MJ", "TIR Iudaea": "https://www.zotero.org/groups/2533/items/8GF4B886", "Temples of the Classical World": "https://www.zotero.org/groups/2533/items/ZV7SNRDS", "BAtlDir": "https://www.zotero.org/groups/2533/items/9377UUFB", "BTCGI": "https://www.zotero.org/groups/2533/items/3X8QE9ZE", "KvA: Karten von Attika: Text": "https://www.zotero.org/groups/2533/items/XW4EGEC2", "Trismegistos": "https://www.zotero.org/groups/2533/items/TN3GJAU8", "Xen. Hell. (Marchant; Perseus)": "https://www.zotero.org/groups/2533/items/SQY9BEJ6", "Dion. Hal. Ant. Rom. (Perseus: Jacoby)": "https://www.zotero.org/groups/2533/items/WQRTYKMX", "EDCS": "https://www.zotero.org/groups/2533/items/YG2BW6GH", "TIR Lutetia": "https://www.zotero.org/groups/2533/items/WJXDVUB3", "Tac. Ger. (Anderson: PHI)": "https://www.zotero.org/groups/2533/items/8EK6HLPN", "TIB 4: Galatien": "https://www.zotero.org/groups/2533/items/N5VITZ98", "DiodSic (Vogel; Perseus)": "https://www.zotero.org/groups/2533/items/I5ZBYD5J", "MycAtlas": "https://www.zotero.org/groups/2533/items/LCVZLMUJ", "PastScape": "https://www.zotero.org/groups/2533/items/2GLEU38X", "Stephanus of Byzantium: Ethnikon (StByz: Meineke; archive.org)": "https://www.zotero.org/groups/2533/items/25I8PUYK", "Cassius Dio (Cary: Perseus)": "https://www.zotero.org/groups/2533/items/KSHBBJR4", "Seally 1787": "https://www.zotero.org/groups/2533/items/ELN6T7BX", "ItAnt (Cuntz)": "https://www.zotero.org/groups/2533/items/M4UH8NCU", "Wikipedia (German)": "https://www.zotero.org/groups/2533/items/QVRBJVTM", "Lucius Annaeus Seneca iunior (Zierlein: PHI)": "https://www.zotero.org/groups/2533/items/JTEZN8IV", "TIB 10: Aigaion Pelagos": "https://www.zotero.org/groups/2533/items/5D7W735C", "Mela (Ranstrand: PHI)": "https://www.zotero.org/groups/2533/items/QWWQR674", "SenPhil (Zierlein: PHI)": "https://www.zotero.org/groups/2533/items/JTEZN8IV", "Notitia dignitatum (Seeck: Hathi)": "https://www.zotero.org/groups/2533/items/GEE2XBWU", "Ptol (M\u00fcller: Hathi Trust)": "https://www.zotero.org/groups/2533/items/2AUSPQIZ", "Tac. Hist. (Fisher: PHI)": "https://www.zotero.org/groups/2533/items/MN3P4YI2", "MAMA": "https://www.zotero.org/groups/2533/items/4HZBRPEC", "Hdt. (Godley: Perseus)": "https://www.zotero.org/groups/2533/items/ZXF7J4U2", "Verg. (Mynors: PHI)": "https://www.zotero.org/groups/2533/items/YMYCTNYR", "Pastscape": "https://www.zotero.org/groups/2533/items/2GLEU38X", "Nomisma": "https://www.zotero.org/groups/2533/items/N5BAUNTN", "AAA": "https://www.zotero.org/groups/2533/items/4TV4GA6X", "Cato, Origines (Chassignet)": "https://www.zotero.org/groups/2533/items/SSCUKGC3", "TIB 8: Lykien und Pamphylien": "https://www.zotero.org/groups/2533/items/WIZNMDYJ", "IRCyr2020": "https://www.zotero.org/groups/2533/items/CCQQ3XJ7", "Curtius (M\u00fcller: PHI)": "https://www.zotero.org/groups/2533/items/HJ7ZYH8X", "Tabula imperii Romani: Britannia septentrionalis": "https://www.zotero.org/groups/2533/items/ZCE8AR3R", "OCD Online": "https://www.zotero.org/groups/2533/items/YNU2WLIH", "vici.org": "https://www.zotero.org/groups/2533/items/CQWHNDIM", "Horace, Carmina (Klingner: PHI)": "https://www.zotero.org/groups/2533/items/JRPW9RUX", "Atlas arch\u00e9ologique de l'Alg\u00e9rie": "https://www.zotero.org/groups/2533/items/4TV4GA6X", "Jos. BJ (Niese: Perseus)": "https://www.zotero.org/groups/2533/items/WLPHDE3F", "Appian, Bella civilia (Mendelssohn; Perseus)": "https://www.zotero.org/groups/2533/items/RIT34RYY", "Jos., AJ (Niese: Perseus)": "https://www.zotero.org/groups/2533/items/LGJXWFPN", "DARMC": "https://www.zotero.org/groups/2533/items/9UD9W75C", "TIR Tarraco": "https://www.zotero.org/groups/2533/items/XH3XVBTP", "Varro LL (Goetz; PHI)": "https://www.zotero.org/groups/pleiades/items/V5DDRESC", "TIB 15: Syria": "https://www.zotero.org/groups/2533/items/LLMFUTMV", "IsidChar (Schoff; archive.org)": "https://www.zotero.org/groups/2533/items/LF6F3PHD", "Liv. (OCT: PHI)": "https://www.zotero.org/groups/2533/items/MCDKGDL9", "Ovid Fasti (Frazer: Perseus)": "https://www.zotero.org/groups/2533/items/TJP78G4U", "OEANE": "https://www.zotero.org/groups/2533/items/XGVW46WI", "Tacitus, Histories (Fisher: PHI)": "https://www.zotero.org/groups/2533/items/MN3P4YI2", "TM": "https://www.zotero.org/groups/2533/items/TN3GJAU8", "TIB 6: Thrakien": "https://www.zotero.org/groups/2533/items/WQI2G5PR", "TGN": "https://www.zotero.org/groups/2533/items/ZLJQ5AZJ", "TIB 5: Kilikien": "https://www.zotero.org/groups/2533/items/AU4EVEK8", "Arr. Ind. (Hercher; Perseus)": "https://www.zotero.org/groups/2533/items/KKWY3MTH", "Ael. (Hercher; Perseus)": "https://www.zotero.org/groups/2533/items/ZMUP5U2Z", "Cic. ad Fam. (Purser: Perseus)": "https://www.zotero.org/groups/2533/items/D2D6VQQK", "Malalas (Dindorf; archive.org)": "https://www.zotero.org/groups/2533/items/6WIP236C", "Procop. Aed. (Dewing; Loeb)": "https://www.zotero.org/groups/2533/items/66AD4S8J", "Encyclop\u00e9die berb\u00e8re (EncBerb)": "https://www.zotero.org/groups/2533/items/BHPQPEJB", "Tabula Imperii Romani: Lisboa: Emerita, Scallabis, Pax Iulia, Gades": "https://www.zotero.org/groups/2533/items/PCC822HP", "Evagrius (Bidez; archive.org)": "https://www.zotero.org/groups/2533/items/YFPVT38V", "DiodSic (Oldfather; Perseus)": "https://www.zotero.org/groups/2533/items/N6CPV4WG", "Supplementum Epigraphicum Graecum Online": "https://www.zotero.org/groups/2533/items/AKNZR5RR", "Wikipedia (Italian)": "https://www.zotero.org/groups/2533/items/UMFZH98D", "NotDig (Seeck: Hathi)": "https://www.zotero.org/groups/2533/items/GEE2XBWU", "HGC": "https://www.zotero.org/groups/2533/items/JVA93YST", "IG": "https://www.zotero.org/groups/2533/items/49WFK9SJ", "Attic Inscriptions Online": "https://www.zotero.org/groups/2533/items/ZPCURT27", "K\u00fcnh\u00fc'l-ahb\u00e2r": "https://www.zotero.org/groups/2533/items/WKDD5W8W", "Tacitus, Annales (Fisher; PHI)": "https://www.zotero.org/groups/2533/items/D7BRHVIM", "Ptol. (Nobbe: Hathi)": "https://www.zotero.org/groups/2533/items/56UMLU8H", "CFL/AGO": "https://www.zotero.org/groups/2533/items/9KVQ7A64", "Eur. Her. (Murray: Perseus)": "https://www.zotero.org/groups/2533/items/C9L76T8X", "Wikidata": "https://www.zotero.org/groups/2533/items/BCQIKDKS", "FastiOnline (Excavation)": "https://www.zotero.org/groups/2533/items/5MUH5XWP", "TIB 9: Paphlagonien": "https://www.zotero.org/groups/2533/items/235QWW8W", "Wikipedia (Greek)": "https://www.zotero.org/groups/2533/items/BUR4V79V", "TIB 13: Bithynien und Hellespont": "https://www.zotero.org/groups/2533/items/NPD25TNV"}</script>
+        </div>
+        <div id="portal-header">
+            <p class="hiddenStructure">
+  <a accesskey="2" href="https://pleiades.stoa.org/places/138248#content">Skip to content.</a> |
+
+  <a accesskey="6" href="https://pleiades.stoa.org/places/138248#portal-globalnav">Skip to navigation</a>
+</p>
+
+
+
+<a id="portal-logo" title="Pleiades" accesskey="1" href="https://pleiades.stoa.org">
+    <img src="https://pleiades.stoa.org/pleiades-logo-neg-tag.png" alt="Pleiades" title="Pleiades" height="130" width="340" /></a>
+
+
+    <p class="hiddenStructure">Navigation</p>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="https://pleiades.stoa.org/home" title="">Home</a></li><li id="portaltab-places" class="selected"><a href="https://pleiades.stoa.org/places" title="Information about ancient places recorded in Pleiades.">Places</a></li><li id="portaltab-credits" class="plain"><a href="https://pleiades.stoa.org/credits" title="">Credits</a></li><li id="portaltab-participate" class="plain"><a href="https://pleiades.stoa.org/participate" title="Information about joining and logging in to Pleiades.">Participate</a></li><li id="portaltab-blog" class="plain"><a href="https://pleiades.stoa.org/news/blog" title="">Blog</a></li><li id="portaltab-docs" class="plain"><a href="https://pleiades.stoa.org/docs" title="">Documentation</a></li><li id="portaltab-downloads" class="plain"><a href="https://pleiades.stoa.org/downloads" title="Data to download">Downloads</a></li></ul>
+
+
+        </div>
+    <div id="portal-columns">
+
+        
+        
+
+        <div id="portal-column-two">
+          <div class="visualPadding">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e652f706c616365730a736561726368" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e652f706c616365730a736561726368">
+<dl class="portlet portletSearch">
+
+  <dt class="portletHeader">
+      <span class="portletTopLeft"></span>
+      <a class="tile" href="https://pleiades.stoa.org/@@search">Search</a>
+      <span class="portletTopRight"></span>
+  </dt>
+
+    <dd class="portletItem">
+      <form id="searchform" action="https://pleiades.stoa.org/@@search">
+        <div class="LSBox">
+          <input class="searchField portlet-search-gadget" name="SearchableText" type="text" size="15" title="Search Site" placeholder="Search Site" />
+          <input class="searchButton" type="submit" value="Search" />
+
+          <div class="LSResult" style="">
+            <div class="LSShadow"></div>
+          </div>
+        </div>
+      </form>
+      <div class="visualClear"><!-- --></div>
+    </dd>
+
+    <dd class="portletFooter">
+        <a href="https://pleiades.stoa.org/search_form" class="tile">
+        Advanced Search&hellip;
+        </a>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e652f706c616365730a6c696e6b65642d646174612d706f72746c6574" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f706c6f6e652f706c616365730a6c696e6b65642d646174612d706f72746c6574"><dl class="portlet portletLinkedData">
+
+  <style>
+    li.reciprocal::marker {
+      content: "\2B50\FE0F ";
+    }
+
+    .portletItem button {
+      color: #2575ad;
+      font-size: initial;
+      border: none;
+      padding: 0;
+    }
+
+    .portletItem button.closed::before {
+      content: "\25B6 ";
+      margin-right: .3em;
+    }
+
+    .portletItem button.expanded::before {
+      content: "\25BC ";
+      margin-right: .2em;
+    }
+
+    button .link-count {
+      font-size: 75%;
+    }
+
+    button.expanded .link-count {
+      visibility: hidden;
+    }
+
+    .clicky-list {
+      margin-bottom: 1em;
+    }
+
+    .clicky-list.hidden {
+      display: none;
+    }
+
+    .portletItem ul {
+      margin-left: 1em;
+    }
+
+    .portletItem li {
+      padding-left: .2em;
+    }
+
+    dl.portlet dt.portletHeader a.circle-question {
+      color: #fff;
+      background-color: #2575ad;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 1.2em;
+      height: 1.2em;
+    }
+  </style>
+
+  <dt class="portletHeader">
+      <span class="portletTopLeft"></span>
+      Linked Data <a class="circle-question" href="https://pleiades.stoa.org/help/using-pleiades-data/linked-data-sidebar">?</a>
+      <span class="portletTopRight"></span>
+  </dt>
+  <dd class="portletItem">
+    <div>
+      
+        
+        <button class="closed">
+          EDH
+          <span class="link-count">(5)</span>
+        </button>
+        <ul class="clicky-list hidden">
+          <li class="">
+            <a target="_blank" href="https://edh.ub.uni-heidelberg.de/edh/geographie/G001646">
+                Burdigala
+                
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://edh.ub.uni-heidelberg.de/edh/geographie/G001799">
+                Burdigala (Place Pey-Berland, spätantike Stadtmauer, sekundär verwendet)
+                
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://edh.ub.uni-heidelberg.de/edh/geographie/G001802">
+                Burdigala (Quartier de S.-Christoly)
+                
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://edh.ub.uni-heidelberg.de/edh/geographie/G001823">
+                Burdigala (S.-Christoly)
+                
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://edh.ub.uni-heidelberg.de/edh/geographie/G001835">
+                Burdigala (rue Duffour-Dubergier - cours d'Alsace-et-Lorraine, Kreuzung)
+                
+            </a>
+          </li>
+        </ul>
+        
+      
+      
+        
+        <button class="closed">
+          Itiner-E
+          <span class="link-count">(6)</span>
+        </button>
+        <ul class="clicky-list hidden">
+          <li class="">
+            <a target="_blank" href="https://itiner-e.org/route-segment/29011" title="Conjectured Augustus (13-14 CE) Main Road (Tabula Peutingeriana, Itinerarium Antonini, Via Aquitania)">
+                29011 Burdigala-Alingo
+                <title>Conjectured Augustus (13-14 CE) Main Road (Tabula Peutingeriana, Itinerarium Antonini, Via Aquitania)</title>
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://itiner-e.org/route-segment/29040" title="Conjectured Main Road (Itinerarium Antonini, Tabula Peutingeriana)">
+                29040 Mosconnum-Burdigala
+                <title>Conjectured Main Road (Itinerarium Antonini, Tabula Peutingeriana)</title>
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://itiner-e.org/route-segment/29041" title="Conjectured Main Road (Itinerarium Antonini, Tabula Peutingeriana)">
+                29041 Aquis Terebellicis-Burdigala
+                <title>Conjectured Main Road (Itinerarium Antonini, Tabula Peutingeriana)</title>
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://itiner-e.org/route-segment/29278" title="Conjectured Claudius (46 CE) Main Road (Itinerarium Antonini, Tabula Peutingeriana)">
+                29278 Burdigala-Blauto
+                <title>Conjectured Claudius (46 CE) Main Road (Itinerarium Antonini, Tabula Peutingeriana)</title>
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://itiner-e.org/route-segment/29279" title="Conjectured Claudius (46 CE) Main Road (Itinerarium Antonini, Tabula Peutingeriana)">
+                29279 Burdigala-Blauto
+                <title>Conjectured Claudius (46 CE) Main Road (Itinerarium Antonini, Tabula Peutingeriana)</title>
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="https://itiner-e.org/route-segment/29280" title="Conjectured Florian (276 CE) Main Road (Tabula Peutingeriana)">
+                29280 Burdigala-Corterate
+                <title>Conjectured Florian (276 CE) Main Road (Tabula Peutingeriana)</title>
+            </a>
+          </li>
+        </ul>
+        
+      
+      
+        
+        <button class="expanded">
+          ToposText
+          <span class="link-count">(1)</span>
+        </button>
+        <ul class="clicky-list">
+          <li class="reciprocal">
+            <a target="_blank" href="https://topostext.org/place/448000UBur" title="Ancient city Burdigala, modern Bordeaux. commune Bordeaux, département Gironde, FR">
+                Burdigala (Gallia)
+                <title>Ancient city Burdigala, modern Bordeaux. commune Bordeaux, département Gironde, FR</title>
+            </a>
+          </li>
+        </ul>
+        
+      
+      
+        
+        <button class="expanded">
+          Wikidata
+          <span class="link-count">(2)</span>
+        </button>
+        <ul class="clicky-list">
+          <li class="">
+            <a target="_blank" href="http://www.wikidata.org/entity/Q1479" title="City and commune in Gironde, New Aquitaine, France">
+                Bordeaux
+                <title>City and commune in Gironde, New Aquitaine, France</title>
+            </a>
+          </li>
+          <li class="">
+            <a target="_blank" href="http://www.wikidata.org/entity/Q103149151" title="Bordeaux as Samian Ware discovery site">
+                Bordeaux (Samian Ware Discovery Site)
+                <title>Bordeaux as Samian Ware discovery site</title>
+            </a>
+          </li>
+        </ul>
+        
+      
+      <hr>
+      <a target="_blank" href="https://raw.githubusercontent.com/isawnyu/pleiades.datasets/refs/heads/main/data/sidebar/1/3/8/138248.json">JSON version</a>
+    </div>
+    
+  </dd>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Select all source/domain heading buttons
+    const buttons = document.querySelectorAll('.portletLinkedData button');
+
+    buttons.forEach((button) => {
+      button.addEventListener('click', function () {
+        // The list of links are in the next sibling UL element
+        const ul = button.nextElementSibling;
+
+        if (ul && ul.classList.contains('clicky-list')) {
+          // Toggle the visibility of the list of links
+          ul.classList.toggle('hidden');
+
+          // Toggle the button's class to change the arrow/triangle
+          // and hide/reveal the link count
+          if (button.classList.contains('expanded')) {
+            button.classList.remove('expanded');
+            button.classList.add('closed');
+          } else {
+            button.classList.remove('closed');
+            button.classList.add('expanded');
+          }
+        }
+      });
+    });
+  });
+  </script>
+</dl>
+
+</div>
+
+<div class="portletWrapper" data-portlethash="706c6f6e652e7269676874636f6c756d6e0a636f6e74656e745f747970650a506c6163650a72656c617465642d666c69636b722d636f6e74656e74" id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e74656e745f747970650a506c6163650a72656c617465642d666c69636b722d636f6e74656e74"><dl class="portlet portletExamplePortlet">
+
+  <style type="text/css">
+    .machine-tag-tiny { font-size: smaller; background-color: rgb(247, 247, 247); border: 1px solid rgb(215, 215, 215); padding: 0px 0.2em; }
+  </style>
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        Photos
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <div>
+      <a id="flickr-portrait-link" href="" style="display:none"><img width="180" id="flickr-portrait" src="" title="" /></a>
+      <p id="flickr-portrait-attribution" style="display:none"><span></span> from the  <a href="http://www.flickr.com/groups/pleiades-places/pool/">Pleiades Places pool on Flickr</a></p>
+      <p id="flickr-portrait-loading">Loading...</p>
+      <p id="flickr-portrait-tip" style="display:none">This place has no portrait photo. One from the list of related photos could be suggested for the <a href="http://flickr.com/groups/1876758@N22/">Pleiades Places group on Flickr</a>.</p>
+      <p id="flickr-photos-link"><a id="flickr-photos-link" href="#"><span id="flickr-photos-count">0</span> other related photos...</a></p>
+      <div>
+      <p>Use this tag in Flickr to mark <a href="http://flickr.com/photos/tags/pleiades:depicts=138248">depictions of this place's site(s)</a>:
+      <pre class="machine-tag-tiny">pleiades:depicts=138248</pre></p>
+      <p>or this one to mark <a href="http://flickr.com/photos/tags/pleiades:findspot=138248">objects found here</a>:
+      <pre class="machine-tag-tiny">pleiades:findspot=138248</pre></p>
+      </div>
+    </div>
+
+<script type="text/javascript">
+jQuery(function($) {
+    var base_uri = document.baseURI.replace(/\/$/, "");
+    $.ajax({
+      url: base_uri + "/@@flickr-tagged",
+      dataType: "json",
+      success: function (data) {
+        $("#flickr-photos-count").html(data['related']['total']);
+        $("#flickr-photos-link a").attr("href", data['related']['url']);
+        if (data['portrait'] == null) {
+          $("#flickr-portrait-loading").hide();
+          $("#flickr-portrait-tip").show();
+        }
+        else {
+          $("#flickr-portrait").attr("src", data['portrait']['img']);
+          $("#flickr-portrait").attr("title", data['portrait']['title']);
+          $("#flickr-portrait-link").attr("href", data['portrait']['page']);
+          $("#flickr-portrait-attribution").html(data['portrait']['title']);
+          $("#flickr-portrait-loading").hide();
+          $("#flickr-portrait-link").show();
+          $("#flickr-portrait-attribution").show();
+        }
+      },
+      error: function (req, status, err) {
+        $("#flickr-portrait-loading").hide();
+        $("#flickr-portrait-attribution").hide();
+        $("#flickr-photos-link").hide();
+        $("#flickr-portrait-tip").html("Photo API has not responded. Reload the page after a minute or two.");
+        $("#flickr-portrait-tip").show();
+      }
+    });
+
+});
+</script>
+
+</dl>
+</div>
+
+
+
+
+            
+          </div>
+        </div>
+        
+
+        <div id="portal-column-content" class="sr">
+          <div id="portal-content-wrapper">
+
+            <div id="viewlet-above-content"></div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <a href="https://pleiades.stoa.org/home">Home</a>
+    <span class="breadcrumbSeparator">
+        &rarr;
+        
+    </span>
+    <span dir="ltr">
+        
+            <a href="https://pleiades.stoa.org/places">Ancient Places</a>
+            <span class="breadcrumbSeparator">
+                &rarr;
+                
+            </span>
+            
+         
+    </span>
+    <span dir="ltr">
+        
+            
+            
+            <span>Burdigala</span>
+         
+    </span>
+
+</div>
+<p class="hiddenStructure">
+  <a accesskey="2" href="https://pleiades.stoa.org/places/138248#content">Skip to content.</a> |
+
+  <a accesskey="6" href="https://pleiades.stoa.org/places/138248#portal-globalnav">Skip to navigation</a>
+</p>
+</div>
+                             
+                                 
+                                 <span id="content-type-title-icon" class="Place-icon"></span>
+                                 <span> 
+                                     
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Burdigala
+                </h1>
+            
+            
+        
+                                 </span>
+                             
+                             <div id="viewlet-below-content-title"><div class="documentByLine" id="plone-document-byline">
+  
+
+  
+      <span>a Pleiades </span> 
+        <!-- I realise this following code is not optimal but access to .lower() throws
+            Unauthorized: The container has no security assertions.  Access to 'lower' of u'Place' denied. -->
+      
+      
+      
+      <span>place</span>
+      <span> resource</span><br /><br />
+  
+
+  
+    <span class="documentAuthor">
+      Creators:
+<span><span>H.S. Sivan</span></span><span>, <span>R.W. Mathisen</span></span>
+    </span>
+  
+
+
+
+  <div class="documentContributors">
+    Contributors:
+    <span><span>DARMC</span></span><span>, <span>R. Talbert</span></span><span>, <a href="/author/bkiesling">Brady Kiesling</a></span><span>, <a href="/author/sgillies">Sean Gillies</a></span><span>, <a href="/author/jahlfeldt">Johan Åhlfeldt</a></span><span>, <a href="/author/jbecker">Jeffrey Becker</a></span><span>, <a href="/author/thomase">Tom Elliott</a></span>
+  </div>
+
+  
+    Copyright © The Creators. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).
+  
+
+  <div class="documentModified">
+    <span>
+      Last modified
+    </span>
+    Sep 27, 2024 10:18 PM
+    <span class="contentHistory" id="content-history">
+      —
+      <a href="https://pleiades.stoa.org/places/138248/@@historyview">History</a>
+    </span>
+  </div>
+
+</div>
+
+<div id="category" class="documentByLine">
+  tags:
+  <span>
+    <a href="https://pleiades.stoa.org/search?Subject%3Alist=dare%3Aancient%3D1" class="link-category" rel="tag">dare:ancient=1</a>,
+  </span>
+  <span>
+    <a href="https://pleiades.stoa.org/search?Subject%3Alist=dare%3Amajor%3D1" class="link-category" rel="tag">dare:major=1</a>,
+  </span>
+  <span>
+    <a href="https://pleiades.stoa.org/search?Subject%3Alist=dare%3Afeature%3Dmajor%20settlement" class="link-category" rel="tag">dare:feature=major settlement</a>
+  </span>
+</div>
+
+<div class="RatingViewlet">
+
+
+</div></div>
+
+                             
+                                 
+                                 
+            
+                <div id="parent-fieldname-description" class="documentDescription">
+                   Burdigala (modern Bordeaux) was a Celtic center of the Bituriges Vivisci. The Romans lost a battle at the site in 107 BC, with consul Lucius Cassius Longinus being killed in the action. Rome eventually controlled the area ca. 60 BC.
+                </div>
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body"></div>
+                             <div id="content-core">
+                                 
+      
+
+        
+
+        <div id="map-block">
+          <div id="map"></div>
+          <div id="below-map">
+            <div id="accuracy-buffer-widget">
+              <input type="checkbox" id="accuracy-buffer" />
+              <label for="accuracy-buffer">Display location accuracy buffer(s)</label>
+            </div>
+            <div id="map-links">
+              <p>Show place in
+                <a href="https://pleiades.stoa.org/places/138248/kml">Google Earth</a>.
+              </p>
+              <p>
+                <span>Show area in
+                <a href="http://www.geonames.org/maps/google_44.837205_-0.576533.html">
+                  GeoNames</a>,
+                <a href="http://maps.google.com/?q=44.837205,-0.576533">
+                  Google Maps</a>, or
+                <a href="http://openstreetmap.org/?mlat=44.837205&amp;mlon=-0.576533&amp;zoom=12&amp;layers=M">
+                  OpenStreetMap</a>.</span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div id="canonicalUrlField" class="field">
+          <label>Canonical URI for this page:</label>
+          <br />
+          <code id="canonical-url">https://pleiades.stoa.org/places/138248</code>
+          <button class="copy-button" data-clipboard-target="#canonical-url" title="copy to clipboard"><svg class="octicon octicon-clippy" viewbox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></button>
+        </div>
+
+        
+
+        <div>
+
+          <div id="representativePointField" class="field">
+            <label>Representative Point (Latitude, Longitude):</label><br />
+            <span id="representative-point">44.837205, -0.576533</span>
+            <button class="copy-button" data-clipboard-target="#representative-point" title="copy to clipboard"><svg class="octicon octicon-clippy" viewbox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></button>
+          </div> <!-- representativePointField -->
+
+          <div id="locationsField" class="field">
+            <label>Locations:</label>
+            <ul class="placeChildren"><li><b>Representative Locations:</b>
+<ul>
+<li id="darmc-location-11859_where" class="placeChildItem Location" title="Point; 30 BC - AD 640; 1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.">
+
+<a class="state-published" href="https://pleiades.stoa.org/places/138248/darmc-location-11859">DARMC location 11859</a>
+ (30 BC - AD 640)
+accuracy: +/- 10 meters.
+</li>
+</ul></ul>
+
+            
+
+          </div> <!-- locationsField -->
+
+          <div id="namesField" class="field">
+            <label>Names:</label>
+            <ul class="placeChildren"><li id="geographic" class="placeChildItem">
+<label>Geographic Names:</label>
+<ul>
+<li id="bordeaux" class="placeChildItem" title="Bordeaux: Modern Name">
+
+<a class="state-published nameUnattested" href="https://pleiades.stoa.org/places/138248/bordeaux"><span lang="und">Bordeaux</span></a>
+ (modern)
+
+</li>
+<li id="bourdigala" class="placeChildItem" title="Bourdigala">
+
+<a class="state-published nameAttested" href="https://pleiades.stoa.org/places/138248/bourdigala"><span lang="grc">Βουρδίγαλα</span></a>
+ (Bourdigala: Ancient Greek, 30 BC - AD 300)
+
+</li>
+<li id="burdigala" class="placeChildItem" title="Burdigala">
+
+<a class="state-published nameUnattested" href="https://pleiades.stoa.org/places/138248/burdigala"><span lang="und">Burdigala</span></a>
+ (30 BC - AD 640)
+
+</li>
+<li id="burdigalenses" class="placeChildItem" title="Burdigalenses">
+
+<a class="state-published nameUnattested" href="https://pleiades.stoa.org/places/138248/burdigalenses"><span lang="und">Burdigalenses</span></a>
+ (30 BC - AD 640)
+
+</li>
+</ul></li> <!-- placeChildItem geographic -->
+<!-- geographic, ethnic, associated_modern, label, undefined, unknown ---></ul>
+            
+          </div> <!-- namesField -->
+
+          <div id="connectionsField" class="field">
+            <label>Burdigala makes connections with:</label>
+            <ul class="placeChildren"><li id="771100775" class="placeChildItem" title="Ab Asturica Burdigalam">
+
+<span class = "connection-subject state-published" title = "subject of this connection: Burdigala">Burdigala</span>
+<a href = "https://pleiades.stoa.org/places/138248/771100775" class = "connection-verb state-published">connection</a>
+<a href = "https://pleiades.stoa.org/places/771100775" class = "connection-predicate state-published" title = "predicate of this connection: Ab Asturica Burdigalam">Ab Asturica Burdigalam</a>
+(unspecified date range)
+</li>
+<li id="aquitania" class="placeChildItem" title="Aquitania II (province)">
+
+<span class = "connection-subject state-published" title = "subject of this connection: Burdigala">Burdigala</span>
+<a href = "https://pleiades.stoa.org/places/138248/aquitania" class = "connection-verb state-published">capital of</a>
+<a href = "https://pleiades.stoa.org/places/991323" class = "connection-predicate state-published" title = "predicate of this connection: Aquitania II (province)">Aquitania II (province)</a>
+(AD 300 - AD 640)
+</li>
+<li id="138226" class="placeChildItem" title="Bituriges Vivisci">
+
+<span class = "connection-subject state-published" title = "subject of this connection: Burdigala">Burdigala</span>
+<a href = "https://pleiades.stoa.org/places/138248/138226" class = "connection-verb state-published">part of (administrative)</a>
+<a href = "https://pleiades.stoa.org/places/138226" class = "connection-predicate state-published" title = "predicate of this connection: Bituriges Vivisci">Bituriges Vivisci</a>
+(30 BC - AD 300)
+</li>
+<li id="141201" class="placeChildItem" title="Untitled">
+
+<span class = "connection-subject state-published" title = "subject of this connection: Burdigala">Burdigala</span>
+<a href = "https://pleiades.stoa.org/places/138248/141201" class = "connection-verb state-published">connection</a>
+<a href = "https://pleiades.stoa.org/places/141201" class = "connection-predicate state-published" title = "predicate of this connection: Untitled">Untitled</a>
+(unspecified date range)
+</li>
+<li id="untitled" class="placeChildItem" title="Untitled">
+
+<span class = "connection-subject state-published" title = "subject of this connection: Burdigala">Burdigala</span>
+<a href = "https://pleiades.stoa.org/places/138248/untitled" class = "connection-verb state-published">located on</a>
+<a href = "https://pleiades.stoa.org/places/141200" class = "connection-predicate state-published" title = "predicate of this connection: Untitled">Untitled</a>
+(unspecified date range)
+</li>
+<li id="601039654" class="placeChildItem" title="Via Aquitania">
+
+<span class = "connection-subject state-published" title = "subject of this connection: Burdigala">Burdigala</span>
+<a href = "https://pleiades.stoa.org/places/138248/601039654" class = "connection-verb state-published">connection</a>
+<a href = "https://pleiades.stoa.org/places/601039654" class = "connection-predicate state-published" title = "predicate of this connection: Via Aquitania">Via Aquitania</a>
+(unspecified date range)
+</li></ul>
+            
+          </div> <!-- connectionField -->
+
+          
+
+        </div>
+
+        
+
+        <div id="connectionsField-reverse" class="field">
+          <label>Burdigala receives connections from:</label>
+
+          
+            <ul class="placeChildren">
+              <li id="1098377752" class="placeChildItem" title="Burdigala">
+
+<a href = "https://pleiades.stoa.org/places/700097745" class = "connection-subject state-published" title = "subject of this connection: Roman amphitheater at Burdigala">Roman amphitheater at Burdigala</a>
+<a href = "https://pleiades.stoa.org/places/700097745/1098377752" class = "connection-verb state-published">located at</a>
+<span class = "connection-predicate state-published" title = "predicate of this connection: Burdigala">Burdigala</span>
+(unspecified date range)
+</li>
+            </ul>
+            <!-- Navigation -->
+
+
+  
+
+
+
+          
+        </div>
+
+        
+          
+        
+        
+          
+        
+        
+          
+            
+            
+              <div class="field ArchetypesField-LinesField" id="archetypes-fieldname-placeType-6c5430c78dd3f9754c6cc7439fb56836">
+          
+      
+        
+          
+            
+      <label class="formQuestion"><span>Place type</span>:</label>
+      
+      <br />
+    
+          
+          
+      
+
+     
+
+     
+       settlement
+     
+
+    
+    
+        
+      
+    
+    </div>
+            
+          
+        
+        
+          
+        
+        
+          
+        
+        
+          
+        
+        
+          
+        
+        
+          
+        
+        
+          
+            
+              <div class="field ArchetypesField-ArrayField" id="archetypes-fieldname-referenceCitations-6c5430c78dd3f9754c6cc7439fb56836">
+          
+      
+        
+          
+            
+      <label class="formQuestion"><span>References</span>:</label>
+      
+      <br />
+    
+          
+          
+      
+      <dl class="ReferenceList">
+      
+        <dt>Evidence:</dt>
+        <dd>
+        <ul>
+          <li>
+            
+              <a class="ReferenceLink" href="http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace697.html" title=" Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In Explore the Peutinger Map. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html. ">TP (Talbert: CUP) 1B1 (Talbert 697)</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+        </ul>
+        </dd>
+      
+      
+        <dt>See Further:</dt>
+        <dd>
+        <ul>
+          <li>
+            
+              <a class="ReferenceLink" href="http://www.worldcat.org/oclc/43970336" title=" Talbert, Richard J. A., ed. Barrington Atlas of the Greek and Roman World. Princeton, N.J.: Princeton University Press, 2000. http://www.worldcat.org/oclc/43970336. ">BAtlas 14 E4 Burdigala</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="http://petrae.huma-num.fr/160100900146" title=" “(16/1/9/146) Épitaphe de L. Iulius Mutacus.” AUSONIUS, February 8, 2016. http://petrae.huma-num.fr/160100900146. ">ILA, Bordeaux, 146 </a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="http://www.worldcat.org/oclc/936644063" title=" Cuntz, Otto, ed. Itineraria Antonini Augusti et Burdigalense. Itineraria Romana 1. Leipzig: Teubner, 1929. http://www.worldcat.org/oclc/936644063. ">ItAnt (Cuntz) 457,2 Burdigala</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="https://www.zotero.org/groups/pleiades/items/Q8X83VMV" title=" Miller, Konrad. Itineraria romana: Römische Reisewege an der Hand der Tabula Peutingeriana. Stuttgart: Strecker und Schröder, 1916. http://www.worldcat.org/oclc/6684340. ">ItMiller 106,118, 107 Burdegalo</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="https://doi.org/10.1163/1574-9347_bnp_e221750" title=" Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. Brill’s New Pauly: Encyclopaedia of the Ancient World. Brill, 2015. https://referenceworks.brill.com/display/db/npoe. ">New Pauly Burdigala (E. Frezouls)</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=burdigala" title=" Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. The Princeton Encyclopedia of Classical Sites. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006. ">PECS (Perseus) BURDIGALA (Bordeaux) Dept. Gironde, France</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="https://topostext.org/place/448000UBur" title="Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.">ToposText Burdigala (Gallia)</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="https://en.wikipedia.org/wiki/Bordeaux" title="Wikipedia: the free encyclopedia that anyone can edit (2001-), Bordeaux.">Wikipedia (English) Bordeaux</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+        </ul>
+        </dd>
+      
+      
+        <dt>See Also:</dt>
+        <dd>
+        <ul>
+          <li>
+            
+              <a class="ReferenceLink" href="http://francia.ahlfeldt.se/places/147" title=" Åhlfeldt, Johan. Regnum Francorum Online, 2009. http://francia.ahlfeldt.se/. ">RFO 147</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="https://en.wikipedia.org/wiki/Battle_of_Burdigala" title="Wikipedia: the free encyclopedia that anyone can edit (2001-), Battle of Burdigala.">Wikipedia (English) Battle of Burdigala</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+          <li>
+            
+              <a class="ReferenceLink" href="https://en.wikipedia.org/wiki/Lucius_Cassius_Longinus_(consul_107_BC)" title="Wikipedia: the free encyclopedia that anyone can edit (2001-), Lucius Cassius Longinus (consul 107 BC).">Wikipedia (English) Lucius Cassius Longinus (consul 107 BC)</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+        </ul>
+        </dd>
+      
+      
+        <dt>Related:</dt>
+        <dd>
+        <ul>
+          <li>
+            
+              <a class="ReferenceLink" href="http://www.trismegistos.org/place/22864" title=" Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. Trismegistos: An Interdisciplinary Portal of the Ancient World. Leuven, 2006. http://www.trismegistos.org/. ">TM GEO ID 22864: Burdigala (Bordeaux)</a>
+            
+            <!--tal:block tal:condition="not:citation/identifier">
+              <span tal:content="citation/range">Range</span>
+            </tal:block-->
+          </li>
+        </ul>
+        </dd>
+      
+      </dl>
+    
+    
+        
+      
+    
+    </div>
+            
+            
+          
+        
+        
+          
+            
+            
+              <div class="field ArchetypesField-StringField" id="archetypes-fieldname-initialProvenance-6c5430c78dd3f9754c6cc7439fb56836">
+          
+      
+        
+          
+            
+      <label class="formQuestion"><span>Initial Provenance</span>:</label>
+      
+      <br />
+    
+          
+          
+      
+        <span class="" id="parent-fieldname-initialProvenance-6c5430c78dd3f9754c6cc7439fb56836">
+            Barrington Atlas: BAtlas 14 E4 Burdigala
+        </span>
+    
+    
+        
+      
+    
+    </div>
+            
+          
+        
+        
+          
+            
+            
+              <div class="field ArchetypesField-TextField" id="archetypes-fieldname-text-6c5430c78dd3f9754c6cc7439fb56836">
+          
+      
+        
+          
+            
+      <label class="formQuestion"><span>Details</span>:</label>
+      
+      <br />
+    
+          
+          
+      
+        <div class="" id="parent-fieldname-text-6c5430c78dd3f9754c6cc7439fb56836">
+            <p>The Barrington Atlas Directory notes: Bordeaux</p>
+            
+        </div>
+    
+    
+        
+      
+    
+    </div>
+            
+          
+        
+
+        <div class="visualClear"></div>
+        <div class="field">
+          <label>Alternate representations:</label>
+          <br />
+          <span>
+            <a type="application/atom+xml" rel="nofollow alternate" href="https://pleiades.stoa.org/places/138248/atom">Atom</a>,
+            <a type="application/json" rel="nofollow alternate" href="https://pleiades.stoa.org/places/138248/json">JSON</a>,
+            <a type="application/vnd.google-earth.kml+xml" rel="nofollow alternate" href="https://pleiades.stoa.org/places/138248/kml">KML</a>,
+           <a type="application/rdf+xml" rel="nofollow alternate" href="https://pleiades.stoa.org/places/138248/rdf">RDF+XML</a>,
+           <a type="text/turtle" rel="nofollow alternate" href="https://pleiades.stoa.org/places/138248/turtle">Turtle</a>
+          </span>
+        </div>
+
+        <div id="suggestedCitationField" class="field">
+          <label>Suggested citation:</label>
+          <br />
+          <span id="suggested-citation">
+            
+              
+              <span>H.S. Sivan</span>,
+            
+            
+              
+              <span>R.W. Mathisen</span>,
+            
+            
+              
+              <span>DARMC</span>,
+            
+            
+              
+              <span>R. Talbert</span>,
+            
+            
+              
+              <span>Brady Kiesling</span>,
+            
+            
+              
+              <span>Sean Gillies</span>,
+            
+            
+              
+              <span>Johan Åhlfeldt</span>,
+            
+            
+              
+              <span>Jeffrey Becker</span>,
+            
+            
+              <span> and </span>
+              <span>Tom Elliott</span>,
+            
+            &#39;Burdigala: a Pleiades place resource&#39;,
+            <span><i>Pleiades: A Gazetteer of Past Places,</i> </span>2024
+            &lt;https://pleiades.stoa.org/places/138248&gt; [accessed: 04 December 2025]
+          </span>
+
+          <button class="copy-button" data-clipboard-target="#suggested-citation" title="copy to clipboard"><svg class="octicon octicon-clippy" viewbox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></button>
+        </div>
+
+        <div id="wikiCitationField" class="field">
+          <label>Cite this resource in Wikipedia:</label>
+          <br />
+          <pre id="wiki-citation">
+            {{cite web |url=https://pleiades.stoa.org/places/138248 |title=Places: 138248 (Burdigala) |author=Sivan, H., R. Mathisen |accessdate=December 4, 2025 3:59 pm |publisher=Pleiades}}
+          </pre>
+          <button class="copy-button" data-clipboard-target="#wiki-citation" title="copy to clipboard"><svg class="octicon octicon-clippy" viewbox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></button>
+        </div>
+
+
+<script type="text/javascript">
+  jQuery("span.formButton").click(function(){jQuery("div.createLocationForm").toggle();});
+</script>
+
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+<script type="module" src="https://pleiades.stoa.org/turf.min.js?v=20240219-1"></script>
+<script type="module" src="https://pleiades.stoa.org/place_map.js?v=20251201-1"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.12/clipboard.min.js"></script>
+<script>
+  $(function () {
+    var clipboard = new Clipboard('.copy-button');
+
+    function show_tooltip(e, msg, timeout) {
+      var $tip = jQuery('<span></span').addClass('tooltip').html(msg);
+      var $el = $(e.trigger);
+      $el.prepend($tip);
+      setTimeout(function () {
+        $tip.remove();
+        e.clearSelection();
+      }, timeout);
+    }
+
+    clipboard.on('success', function (e) {
+      show_tooltip(e, 'Copied!', 1000);
+      e.clearSelection();
+    });
+
+    clipboard.on('error', function (e) {
+      show_tooltip(e, 'Press &#x2318;-C to '+e.action, 3000);
+    });
+  });
+</script>
+
+    
+        
+      <!-- nothing -->
+    
+
+      
+    
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+    <div class="reply">
+        <form action="https://pleiades.stoa.org/login_form?came_from=https%3A//pleiades.stoa.org/places/138248/base_view">
+            <input class="standalone loginbutton" type="submit" value="Log in to add comments" />
+        </form>
+    </div>
+
+    
+
+    
+
+    
+
+
+</div>
+          </div>
+          <div class="visualClear" id="clear-space-after-portal-wrapper"><!-- --></div>
+        </div>
+
+    </div>
+
+
+    <div id="portal-footer-wrapper" class="row">
+        <div class="cell width-full position-0">
+            <div id="portal-footer">
+
+<p>
+Copyright © Ancient World Mapping Center and Institute for the Study of the Ancient World. 
+Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).
+Please see our <a href="https://pleiades.stoa.org/credits">credits</a>.
+</p>
+
+</div>
+
+<div id="portal-colophon">
+<div class="colophonWrapper">
+<ul>
+  <li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul>
+</div>
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-contact"><a href="https://pleiades.stoa.org/contact-info" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-help"><a href="https://pleiades.stoa.org/help" accesskey="" title="Help">Help</a></li>
+</ul>
+
+
+        </div>
+    </div>
+
+
+  </div>
+</div>
+</body>
+</html>
+
+
+ title 36 Burdigala: a Pleiades place resource contentType 9 text/html url 43 https://pleiades.stoa.org:443/places/138248 responseCode 3 200 

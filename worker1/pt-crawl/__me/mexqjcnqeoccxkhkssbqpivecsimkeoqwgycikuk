@@ -1,0 +1,1076 @@
+mexqjcnqeoccxkhkssbqpivecsimkeoqwgycikuk page 172309 <!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Britannica Premium Membership - Encyclopædia Britannica, Inc.</title>
+	<meta name="title" content="Britannica Premium Membership - Encyclopædia Britannica, Inc.">
+	<meta name="description" content="Britannica &amp; Merriam-Webster Memberships" />
+	<meta name="author" content="" />
+	<meta name="Copyright" content="Copyright &copy; Encyclopædia Britannica, Inc. 2025. All Rights Reserved.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://premium.britannica.com/xmlrpc.php" />
+
+	<script>
+document.addEventListener('DOMContentLoaded', function() {
+    function updateUrlParameter(url, paramName, paramValue) {
+        var pattern = new RegExp('\\b('+paramName+'=).*?(&|$)');
+        if(url.search(pattern)>=0){
+            return url.replace(pattern,'$1' + paramValue + '$2');
+        }
+        return url + (url.indexOf('?')>0 ? '&' : '?') + paramName + '=' + paramValue;
+    }
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const utm_source = urlParams.get('utm_source') || 'default_source';
+    const utm_medium = urlParams.get('utm_medium') || 'default_medium';
+    const utm_campaign = urlParams.get('utm_campaign') || 'default_campaign';
+    const partnerCode = urlParams.get('partnerCode') || 'default_partner';
+
+    const links = document.querySelectorAll('.utm-button a');
+    links.forEach(function(link) {
+        let href = link.href;
+        href = updateUrlParameter(href, 'utm_source', utm_source);
+        href = updateUrlParameter(href, 'utm_medium', utm_medium);
+        href = updateUrlParameter(href, 'utm_campaign', utm_campaign);
+        href = updateUrlParameter(href, 'partnerCode', partnerCode);
+        link.href = href;
+    });
+});
+</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	    <!-- Start VWO Common Smartcode -->
+    <script  type='text/javascript'>
+        var _vwo_clicks = 10;
+    </script>
+    <!-- End VWO Common Smartcode -->
+        <!-- Start VWO Async SmartCode -->
+    <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+    <script  type='text/javascript' id='vwoCode'>
+        /* Fix: wp-rocket (application/ld+json) */
+        window._vwo_code || (function () {
+            var account_id=698824,
+                version=2.1,
+                settings_tolerance=2000,
+                library_tolerance=2500,
+                use_existing_jquery=false,
+                hide_element='body',
+                hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+                /* DO NOT EDIT BELOW THIS LINE */
+                f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var i=this.getSettings(),n=d.createElement('script'),r=this;t=t||{};if(i){n.textContent=i;d.getElementsByTagName('head')[0].appendChild(n);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var i=this.hide_element(),n=i?i+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=n;else t.appendChild(d.createTextNode(n));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var n=d.createElement('div');n.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;';n.setAttribute('id','_vis_opt_path_hides');n.classList.add('_vis_hide_layer');t.parentNode.insertBefore(n,t.nextSibling)}var o='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:o})}else{this.load(o+'&x=true')}}};w._vwo_code=code;code.init();})();
+    </script>
+    <!-- End VWO Async SmartCode -->
+    
+	<!-- This site is optimized with the Yoast SEO plugin v26.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Britannica Premium provides unlimited, fact-checked content for professionals, everyday experts, and anyone on the hunt for facts." />
+	<link rel="canonical" href="https://premium.britannica.com/premium-membership/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Britannica Premium Membership - Encyclopædia Britannica, Inc." />
+	<meta property="og:description" content="Britannica Premium provides unlimited, fact-checked content for professionals, everyday experts, and anyone on the hunt for facts." />
+	<meta property="og:url" content="https://premium.britannica.com/premium-membership/" />
+	<meta property="og:site_name" content="Encyclopædia Britannica, Inc." />
+	<meta property="article:publisher" content="https://www.facebook.com/Britannica/" />
+	<meta property="article:modified_time" content="2025-12-02T22:43:54+00:00" />
+	<meta property="og:image" content="https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024.jpg" />
+	<meta property="og:image:width" content="2516" />
+	<meta property="og:image:height" content="1703" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@britannica" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://premium.britannica.com/premium-membership/","url":"https://premium.britannica.com/premium-membership/","name":"Britannica Premium Membership - Encyclopædia Britannica, Inc.","isPartOf":{"@id":"https://premium.britannica.com/#website"},"primaryImageOfPage":{"@id":"https://premium.britannica.com/premium-membership/#primaryimage"},"image":{"@id":"https://premium.britannica.com/premium-membership/#primaryimage"},"thumbnailUrl":"https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-1024x693.jpg","datePublished":"2024-06-27T18:01:14+00:00","dateModified":"2025-12-02T22:43:54+00:00","description":"Britannica Premium provides unlimited, fact-checked content for professionals, everyday experts, and anyone on the hunt for facts.","breadcrumb":{"@id":"https://premium.britannica.com/premium-membership/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://premium.britannica.com/premium-membership/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://premium.britannica.com/premium-membership/#primaryimage","url":"https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024.jpg","contentUrl":"https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024.jpg","width":2516,"height":1703,"caption":"Premium Subscription for all devices"},{"@type":"BreadcrumbList","@id":"https://premium.britannica.com/premium-membership/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://premium.britannica.com/"},{"@type":"ListItem","position":2,"name":"Premium Membership"}]},{"@type":"WebSite","@id":"https://premium.britannica.com/#website","url":"https://premium.britannica.com/","name":"Encyclopædia Britannica, Inc.","description":"Britannica &amp; Merriam-Webster Memberships","publisher":{"@id":"https://premium.britannica.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://premium.britannica.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://premium.britannica.com/#organization","name":"Encyclopædia Britannica, Inc.","url":"https://premium.britannica.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://premium.britannica.com/#/schema/logo/image/","url":"https://premium.britannica.com/wp-content/uploads/2024/02/cropped-Thumbnail-Logo.png","contentUrl":"https://premium.britannica.com/wp-content/uploads/2024/02/cropped-Thumbnail-Logo.png","width":512,"height":512,"caption":"Encyclopædia Britannica, Inc."},"image":{"@id":"https://premium.britannica.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/Britannica/","https://x.com/britannica","https://www.instagram.com/britannica/","https://www.youtube.com/c/encyclopaediabritannica"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel="alternate" type="application/rss+xml" title="Encyclopædia Britannica, Inc. &raquo; Feed" href="https://premium.britannica.com/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/premium.britannica.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id='if-so-public-dummy-inline-css' type='text/css'>
+        .lds-dual-ring {
+          display: inline-block;
+          width: 16px;
+          height: 16px;
+        }
+        .lds-dual-ring:after {
+          content: " ";
+          display: block;
+          width: 16px;
+          height: 16px;
+          margin: 0px;
+          border-radius: 50%;
+          border: 3px solid #000;
+          border-color: #000 transparent #000 transparent;
+          animation: lds-dual-ring 1.2s linear infinite;
+        }
+        @keyframes lds-dual-ring {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+        /*loader 2*/
+        .ifso-logo-loader {
+            font-size: 20px;
+            width: 64px;
+            font-family: sans-serif;
+            position: relative;
+            height: auto;
+            font-weight: 800;
+        }
+        .ifso-logo-loader:before {
+            content: '';
+            position: absolute;
+            left: 30%;
+            top: 36%;
+            width: 14px;
+            height: 22px;
+            clip-path: polygon(100% 50%, 0 0, 0 100%);
+            background: #fd5b56;
+            animation: spinAndMoveArrow 2s infinite;
+            height: 9px;
+            width: 7px;
+        }
+        .ifso-logo-loader:after {
+            content: "If So";
+            word-spacing: 12px;
+        }
+        @keyframes spinAndMoveArrow {
+                40% {
+                    transform: rotate(360deg);
+                }
+    
+                60% {
+                    transform: translateX(-5px);
+                }
+    
+                80% {
+                    transform: translateX(5px);
+                }
+    
+                100% {
+                    transform: translateX(0);
+                }
+        }
+        /*Loader 3 - default content*/
+        .ifso-default-content-loader{
+            display:inline-block;
+        }
+        
+</style>
+<link rel='stylesheet' id='base-css' href='https://premium.britannica.com/wp-content/themes/eb-premium/assets/css/base.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google_fonts-css' href='//use.typekit.net/wbv0znc.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mmenu-css' href='https://premium.britannica.com/wp-content/themes/eb-premium/assets/css/jquery.mmenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mmenu-position-css' href='https://premium.britannica.com/wp-content/themes/eb-premium/assets/css/jquery.mmenu.positioning.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mmenu-themes-css' href='https://premium.britannica.com/wp-content/themes/eb-premium/assets/css/jquery.mmenu.themes.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-css' href='https://premium.britannica.com/wp-content/themes/eb-premium/assets/css/nav.css?ver=1614901406' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://premium.britannica.com/wp-content/themes/eb-premium/assets/css/custom.css?ver=1737669306' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://premium.britannica.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1764702594' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+.elementor-kit-8{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-846b309:#0C406C;--e-global-color-b7fcd33:#071C2E;--e-global-color-dd24d1d:#14599D;--e-global-color-e0ca371:#00794A;--e-global-color-10d5945:#00462B;--e-global-color-d893945:#9A2222;--e-global-color-e90a724:#701919;--e-global-color-64bc50a:#FFC615;--e-global-color-c2709c9:#FEFEC6;--e-global-color-781ee4f:#F87307;--e-global-color-d4bd2ad:#C94100;--e-global-color-a470041:#376470;--e-global-color-c87d200:#FFFFFF;--e-global-color-c42fb9b:#FEE900;--e-global-color-5dd38a6:#E02624;--e-global-color-cd3959a:#df8f2e;--e-global-color-8c210cd:#0F0D0D;--e-global-color-0608b2b:#34C3D3;--e-global-color-b76ca09:#E02624E6;--e-global-color-25c8e02:#049B60;--e-global-color-ce997c8:#D3C4C0;--e-global-color-909d08c:#CE5E52;--e-global-color-3f7a60c:#4F2C34;--e-global-color-a9d8b1f:#1E2172;--e-global-color-2bd161b:#F8F8F8;--e-global-color-363865e:#CA0403;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-size:48px;--e-global-typography-primary-font-weight:700;--e-global-typography-primary-line-height:1em;--e-global-typography-primary-letter-spacing:0px;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-1cf3ce7-font-family:"Helvetica";--e-global-typography-1cf3ce7-font-size:75px;--e-global-typography-1cf3ce7-font-weight:800;--e-global-typography-1cf3ce7-text-transform:uppercase;--e-global-typography-1cf3ce7-line-height:1em;--e-global-typography-1cf3ce7-letter-spacing:0px;}.elementor-kit-8 h1{font-size:38px;}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{color:#ECE7E7;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-8 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-357 .elementor-element.elementor-element-69b5fe92:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-69b5fe92 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-846b309 );}.elementor-357 .elementor-element.elementor-element-69b5fe92{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-357 .elementor-element.elementor-element-69b5fe92 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-2c78ff9 > .elementor-element-populated{padding:0px 0px 10px 0px;}.elementor-357 .elementor-element.elementor-element-dd91225 > .elementor-widget-container{margin:12px 0px 0px 0px;padding:25px 0px 7px 0px;}.elementor-357 .elementor-element.elementor-element-dd91225{text-align:center;}.elementor-357 .elementor-element.elementor-element-dd91225 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:63px;font-weight:800;color:var( --e-global-color-c87d200 );}.elementor-357 .elementor-element.elementor-element-32132dc{text-align:center;font-family:"Helvetica", Sans-serif;font-size:28px;font-weight:300;color:var( --e-global-color-c87d200 );}.elementor-357 .elementor-element.elementor-element-74049ff5:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-74049ff5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-74049ff5 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-74049ff5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-74049ff5 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-7c9f01 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-357 .elementor-element.elementor-element-7c9f01 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-308fc0e3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:20px 40px 10px 40px;}.elementor-357 .elementor-element.elementor-element-308fc0e3{text-align:center;}.elementor-357 .elementor-element.elementor-element-308fc0e3 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:48px;font-weight:800;line-height:1em;letter-spacing:0px;-webkit-text-stroke-color:#000;stroke:#000;color:#000000;}.elementor-357 .elementor-element.elementor-element-154c380c:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-154c380c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-154c380c > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-154c380c, .elementor-357 .elementor-element.elementor-element-154c380c > .elementor-background-overlay{border-radius:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-154c380c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0px 35px 0px;}.elementor-357 .elementor-element.elementor-element-154c380c > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-a22651e:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-357 .elementor-element.elementor-element-a22651e > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-bc-flex-widget .elementor-357 .elementor-element.elementor-element-a22651e.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-357 .elementor-element.elementor-element-a22651e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-357 .elementor-element.elementor-element-a22651e > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-357 .elementor-element.elementor-element-a22651e > .elementor-element-populated{border-style:none;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 10px 0px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;padding:31px 31px 31px 31px;}.elementor-357 .elementor-element.elementor-element-a22651e > .elementor-element-populated, .elementor-357 .elementor-element.elementor-element-a22651e > .elementor-element-populated > .elementor-background-overlay, .elementor-357 .elementor-element.elementor-element-a22651e > .elementor-background-slideshow{border-radius:0% 0% 0% 0%;}.elementor-357 .elementor-element.elementor-element-a22651e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-6b6236b0{text-align:center;}.elementor-357 .elementor-element.elementor-element-6b6236b0 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:35px;font-weight:normal;}.elementor-357 .elementor-element.elementor-element-3137de7b > .elementor-widget-container{margin:0px -14px -14px -14px;padding:20px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-3137de7b{text-align:center;font-family:"Helvetica", Sans-serif;font-size:36px;font-weight:bold;color:#000000;}.elementor-357 .elementor-element.elementor-element-3d99431c > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-3d99431c{text-align:center;font-family:"Helvetica", Sans-serif;font-size:21px;font-weight:normal;color:#000000;}.elementor-357 .elementor-element.elementor-element-57cf7f73{text-align:center;font-family:"Helvetica", Sans-serif;font-size:18px;}.elementor-357 .elementor-element.elementor-element-642659ca .elementor-button{background-color:var( --e-global-color-dd24d1d );font-family:"Helvetica", Sans-serif;font-size:18px;text-shadow:0px 1px 0px rgba(0,0,0,0.3);fill:#FFFFFF;color:#FFFFFF;}.elementor-357 .elementor-element.elementor-element-75fdb35b:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-bc-flex-widget .elementor-357 .elementor-element.elementor-element-75fdb35b.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-357 .elementor-element.elementor-element-75fdb35b.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-element-populated{border-style:none;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 10px 0px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;padding:31px 31px 31px 31px;}.elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-element-populated, .elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-element-populated > .elementor-background-overlay, .elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-background-slideshow{border-radius:0% 0% 0% 0%;}.elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-71ddbce > .elementor-widget-container{background-color:var( --e-global-color-cd3959a );margin:0px 20px 0px 20px;padding:0px 0px 0px 0px;border-radius:24px 24px 24px 24px;}.elementor-357 .elementor-element.elementor-element-71ddbce{text-align:center;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;letter-spacing:7.9px;text-shadow:0px 0px 10px rgba(0,0,0,0.3);color:#FFFFFF;}.elementor-357 .elementor-element.elementor-element-3d1ade5c{text-align:center;}.elementor-357 .elementor-element.elementor-element-3d1ade5c .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:35px;font-weight:normal;}.elementor-357 .elementor-element.elementor-element-5d0cda18 > .elementor-widget-container{margin:0px -14px -14px -14px;padding:20px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5d0cda18{text-align:center;font-size:36px;font-weight:bold;color:#000000;}.elementor-357 .elementor-element.elementor-element-5b1b8965 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5b1b8965{text-align:center;font-family:"Helvetica", Sans-serif;font-size:21px;font-weight:normal;color:var( --e-global-color-text );}.elementor-357 .elementor-element.elementor-element-dfb0ff7{text-align:center;font-family:"Helvetica", Sans-serif;font-size:18px;}.elementor-357 .elementor-element.elementor-element-547ef519 .elementor-button{background-color:var( --e-global-color-dd24d1d );font-family:"Helvetica", Sans-serif;font-size:18px;fill:#FFFFFF;color:#FFFFFF;}.elementor-357 .elementor-element.elementor-element-245338e5:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-bc-flex-widget .elementor-357 .elementor-element.elementor-element-245338e5.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-357 .elementor-element.elementor-element-245338e5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-element-populated{border-style:none;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 10px 0px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;padding:31px 31px 31px 31px;}.elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-element-populated, .elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-element-populated > .elementor-background-overlay, .elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-background-slideshow{border-radius:0% 0% 0% 0%;}.elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-35545823 > .elementor-widget-container{background-color:var( --e-global-color-cd3959a );margin:0px 20px 0px 20px;padding:0px 0px 0px 0px;border-radius:24px 24px 24px 24px;}.elementor-357 .elementor-element.elementor-element-35545823{text-align:center;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;letter-spacing:7.9px;text-shadow:0px 0px 10px rgba(0,0,0,0.3);color:var( --e-global-color-c87d200 );}.elementor-357 .elementor-element.elementor-element-5e334d95{text-align:center;}.elementor-357 .elementor-element.elementor-element-5e334d95 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:35px;font-weight:normal;}.elementor-357 .elementor-element.elementor-element-1e0adef7 > .elementor-widget-container{margin:0px -14px -14px -14px;padding:20px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-1e0adef7{text-align:center;font-family:"Helvetica", Sans-serif;font-size:36px;font-weight:bold;color:#000000;}.elementor-357 .elementor-element.elementor-element-1a3ad1e2 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:10px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-1a3ad1e2{text-align:center;font-family:"Helvetica", Sans-serif;font-size:18px;font-weight:normal;color:var( --e-global-color-text );}.elementor-357 .elementor-element.elementor-element-687d194c .elementor-button{background-color:var( --e-global-color-dd24d1d );font-family:"Helvetica", Sans-serif;font-size:18px;fill:#FFFFFF;color:#FFFFFF;}.elementor-357 .elementor-element.elementor-element-2c3528d6:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-2c3528d6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-2c3528d6 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-2c3528d6{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0px 21px 0px;}.elementor-357 .elementor-element.elementor-element-2c3528d6 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-1ae4240a > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-4321819b{text-align:center;font-family:"Helvetica", Sans-serif;font-size:25px;font-weight:300;color:#14599D;}.elementor-357 .elementor-element.elementor-element-4321819b a{color:#14599D;}.elementor-357 .elementor-element.elementor-element-292f8bab:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-292f8bab > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5EADC;}.elementor-357 .elementor-element.elementor-element-292f8bab > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-292f8bab{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:40px 0px 17px 0px;}.elementor-357 .elementor-element.elementor-element-292f8bab > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-30e0e325 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-30e0e325{text-align:center;}.elementor-357 .elementor-element.elementor-element-30e0e325 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:48px;font-weight:900;line-height:1em;letter-spacing:0px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-580226c2:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-580226c2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5EADC;}.elementor-357 .elementor-element.elementor-element-580226c2 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-580226c2{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 50px 27px 50px;}.elementor-357 .elementor-element.elementor-element-580226c2 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-9bc5cfa > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-9bc5cfa{text-align:left;font-family:"Helvetica", Sans-serif;font-weight:400;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-4dedeb5d{font-family:"Helvetica", Sans-serif;font-size:17px;font-weight:300;color:#7A7A7A;}.elementor-357 .elementor-element.elementor-element-cfe3e6f > .elementor-widget-container{padding:19px 0px 0px 0px;}.ee-tooltip.ee-tooltip-cfe3e6f.to--top,
+							 .ee-tooltip.ee-tooltip-cfe3e6f.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-cfe3e6f.to--left,
+							 .ee-tooltip.ee-tooltip-cfe3e6f.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-5b973215:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-5b973215 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0C406C;}.elementor-357 .elementor-element.elementor-element-5b973215 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-5b973215{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:41px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5b973215 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.ee-tooltip.ee-tooltip-d37f5f2.to--top,
+							 .ee-tooltip.ee-tooltip-d37f5f2.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-d37f5f2.to--left,
+							 .ee-tooltip.ee-tooltip-d37f5f2.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-d37f5f2 img{height:60px;}.elementor-357 .elementor-element.elementor-element-a9deae6{text-align:center;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;letter-spacing:4.5px;color:#FFFDFD;}.ee-tooltip.ee-tooltip-27ee6f99.to--top,
+							 .ee-tooltip.ee-tooltip-27ee6f99.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-27ee6f99.to--left,
+							 .ee-tooltip.ee-tooltip-27ee6f99.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-27ee6f99 img{height:60px;}.elementor-357 .elementor-element.elementor-element-5ad43e54{text-align:center;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;letter-spacing:4.5px;color:#FFFDFD;}.ee-tooltip.ee-tooltip-3421f359.to--top,
+							 .ee-tooltip.ee-tooltip-3421f359.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-3421f359.to--left,
+							 .ee-tooltip.ee-tooltip-3421f359.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-3421f359 img{height:60px;}.elementor-357 .elementor-element.elementor-element-4234433d{text-align:center;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;}.ee-tooltip.ee-tooltip-72768df1.to--top,
+							 .ee-tooltip.ee-tooltip-72768df1.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-72768df1.to--left,
+							 .ee-tooltip.ee-tooltip-72768df1.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-72768df1 img{height:60px;}.elementor-357 .elementor-element.elementor-element-3cbc7bb0{text-align:center;font-family:"Helvetica", Sans-serif;font-size:15px;font-weight:400;}.elementor-357 .elementor-element.elementor-element-1e75f3b9:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-1e75f3b9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-1e75f3b9 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-1e75f3b9{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:45px 0px 10px 0px;}.elementor-357 .elementor-element.elementor-element-1e75f3b9 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-4185c221 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-357 .elementor-element.elementor-element-4185c221 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-5ea34109 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:15px 40px 0px 40px;}.elementor-357 .elementor-element.elementor-element-5ea34109{text-align:center;}.elementor-357 .elementor-element.elementor-element-5ea34109 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:48px;font-weight:800;line-height:1em;letter-spacing:0px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-9bb7706 > .elementor-widget-container{padding:0px 200px 0px 200px;}.elementor-357 .elementor-element.elementor-element-9bb7706{text-align:left;font-family:"Helvetica", Sans-serif;font-size:26px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-20fa216c:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-20fa216c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-20fa216c > .elementor-container{max-width:1000px;}.elementor-357 .elementor-element.elementor-element-20fa216c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:13px 0px 67px 0px;}.elementor-357 .elementor-element.elementor-element-20fa216c > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.ee-tooltip.ee-tooltip-7e06a1e0.to--top,
+							 .ee-tooltip.ee-tooltip-7e06a1e0.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-7e06a1e0.to--left,
+							 .ee-tooltip.ee-tooltip-7e06a1e0.to--right{margin-top:0px;}.ee-tooltip.ee-tooltip-349b31d3.to--top,
+							 .ee-tooltip.ee-tooltip-349b31d3.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-349b31d3.to--left,
+							 .ee-tooltip.ee-tooltip-349b31d3.to--right{margin-top:0px;}.ee-tooltip.ee-tooltip-41ca83e9.to--top,
+							 .ee-tooltip.ee-tooltip-41ca83e9.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-41ca83e9.to--left,
+							 .ee-tooltip.ee-tooltip-41ca83e9.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-413ec78a:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-413ec78a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5EADC;background-image:url("https://premium.britannica.com/wp-content/uploads/2022/05/FirstEdition-bg-1.jpg");background-position:center center;background-repeat:no-repeat;background-size:100% auto;}.elementor-357 .elementor-element.elementor-element-413ec78a:not(.elementor-motion-effects-element-type-background) > .ee-parallax > .ee-parallax__inner{background-image:url("https://premium.britannica.com/wp-content/uploads/2022/05/FirstEdition-bg-1.jpg");background-position:center center;background-repeat:no-repeat;background-size:100% auto;}.elementor-357 .elementor-element.elementor-element-413ec78a > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-413ec78a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 300px 0px 300px;}.elementor-357 .elementor-element.elementor-element-413ec78a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-f832a4e > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-357 .elementor-element.elementor-element-f832a4e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-452102e0 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:34px 40px 15px 40px;}.elementor-357 .elementor-element.elementor-element-452102e0{text-align:center;}.elementor-357 .elementor-element.elementor-element-452102e0 .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:48px;font-weight:800;line-height:1em;letter-spacing:0px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-69f2abf0 > .elementor-widget-container{padding:0px 100px 22px 100px;}.elementor-357 .elementor-element.elementor-element-69f2abf0{text-align:left;font-family:"Helvetica", Sans-serif;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-144c41a5:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-144c41a5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-144c41a5 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-144c41a5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:12px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-144c41a5 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-6c1c2319:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-357 .elementor-element.elementor-element-6c1c2319 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-6c1c2319 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 4px 0px;}.elementor-357 .elementor-element.elementor-element-6c1c2319 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-679e32cd > .elementor-widget-container{background-color:#F8F8F8;margin:0px 0px 0px 0px;padding:50px 230px 50px 230px;}.elementor-357 .elementor-element.elementor-element-679e32cd{text-align:center;}.elementor-357 .elementor-element.elementor-element-679e32cd .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:48px;font-weight:800;line-height:1.2em;letter-spacing:0px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-3cb196cb:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-3cb196cb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-3cb196cb > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-3cb196cb{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-357 .elementor-element.elementor-element-3cb196cb > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-171fe9d > .elementor-widget-container{margin:0px 0px -19px 0px;padding:0px 150px 0px 150px;}.elementor-357 .elementor-element.elementor-element-171fe9d{text-align:center;font-family:"Helvetica", Sans-serif;font-weight:400;letter-spacing:3.6px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-2d89c493{--divider-border-style:solid;--divider-color:#000;--divider-border-width:1px;}.elementor-357 .elementor-element.elementor-element-2d89c493 > .elementor-widget-container{margin:-18px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-2d89c493 .elementor-divider-separator{width:37%;margin:0 auto;margin-center:0;}.elementor-357 .elementor-element.elementor-element-2d89c493 .elementor-divider{text-align:center;padding-block-start:4px;padding-block-end:4px;}.elementor-357 .elementor-element.elementor-element-6e531549:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-6e531549 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-6e531549 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-6e531549{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 73px 0px;}.elementor-357 .elementor-element.elementor-element-6e531549 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.ee-tooltip.ee-tooltip-781d0a50.to--top,
+							 .ee-tooltip.ee-tooltip-781d0a50.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-781d0a50.to--left,
+							 .ee-tooltip.ee-tooltip-781d0a50.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-781d0a50 img{width:100%;max-width:160px;}.elementor-357 .elementor-element.elementor-element-5075fe31 > .elementor-widget-container{margin:-0px -0px -11px -0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5075fe31{text-align:center;font-family:"Helvetica", Sans-serif;font-size:37px;font-weight:800;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-25afa165 > .elementor-widget-container{margin:-26px -26px -26px -26px;}.elementor-357 .elementor-element.elementor-element-25afa165{text-align:center;font-family:"Helvetica", Sans-serif;font-size:19px;font-weight:300;color:#1A1A1A;}.ee-tooltip.ee-tooltip-7ad6eb1d.to--top,
+							 .ee-tooltip.ee-tooltip-7ad6eb1d.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-7ad6eb1d.to--left,
+							 .ee-tooltip.ee-tooltip-7ad6eb1d.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-7ad6eb1d img{max-width:160px;}.elementor-357 .elementor-element.elementor-element-5e6ead8a > .elementor-widget-container{margin:-0px -0px -11px -0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5e6ead8a{text-align:center;font-family:"Helvetica", Sans-serif;font-size:37px;font-weight:800;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-13d271a9 > .elementor-widget-container{margin:-26px -26px -26px -26px;}.elementor-357 .elementor-element.elementor-element-13d271a9{text-align:center;font-family:"Helvetica", Sans-serif;font-size:19px;font-weight:300;color:#1A1A1A;}.ee-tooltip.ee-tooltip-28475ee9.to--top,
+							 .ee-tooltip.ee-tooltip-28475ee9.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-28475ee9.to--left,
+							 .ee-tooltip.ee-tooltip-28475ee9.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-28475ee9 img{max-width:160px;}.elementor-357 .elementor-element.elementor-element-5e8cb803 > .elementor-widget-container{margin:-0px -0px -11px -0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5e8cb803{text-align:center;font-family:"Helvetica", Sans-serif;font-size:37px;font-weight:800;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-1131b80d > .elementor-widget-container{margin:-26px -26px -26px -26px;}.elementor-357 .elementor-element.elementor-element-1131b80d{text-align:center;font-family:"Helvetica", Sans-serif;font-size:19px;font-weight:300;color:#1A1A1A;}.ee-tooltip.ee-tooltip-21fc6c97.to--top,
+							 .ee-tooltip.ee-tooltip-21fc6c97.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-21fc6c97.to--left,
+							 .ee-tooltip.ee-tooltip-21fc6c97.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-21fc6c97 img{max-width:160px;}.elementor-357 .elementor-element.elementor-element-60496f43 > .elementor-widget-container{margin:-0px -0px -11px -0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-60496f43{text-align:center;font-family:"Helvetica", Sans-serif;font-size:37px;font-weight:800;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-68e9afe1 > .elementor-widget-container{margin:-26px -26px -26px -26px;}.elementor-357 .elementor-element.elementor-element-68e9afe1{text-align:center;font-family:"Helvetica", Sans-serif;font-size:19px;font-weight:300;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-17e48650:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-17e48650 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-17e48650 > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-17e48650{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-357 .elementor-element.elementor-element-17e48650 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-371557f1 > .elementor-widget-container{margin:0px 0px -19px 0px;padding:0px 150px 0px 150px;}.elementor-357 .elementor-element.elementor-element-371557f1{text-align:center;font-family:"Helvetica", Sans-serif;font-weight:400;letter-spacing:3.6px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-559a9ac6{--divider-border-style:solid;--divider-color:#000;--divider-border-width:1px;}.elementor-357 .elementor-element.elementor-element-559a9ac6 > .elementor-widget-container{margin:-18px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-559a9ac6 .elementor-divider-separator{width:37%;margin:0 auto;margin-center:0;}.elementor-357 .elementor-element.elementor-element-559a9ac6 .elementor-divider{text-align:center;padding-block-start:4px;padding-block-end:4px;}.elementor-357 .elementor-element.elementor-element-494da95a:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-494da95a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F8F8F8;}.elementor-357 .elementor-element.elementor-element-494da95a > .elementor-container{max-width:1000px;}.elementor-357 .elementor-element.elementor-element-494da95a{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 63px 0px;}.elementor-357 .elementor-element.elementor-element-494da95a > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.ee-tooltip.ee-tooltip-4bb43469.to--top,
+							 .ee-tooltip.ee-tooltip-4bb43469.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-4bb43469.to--left,
+							 .ee-tooltip.ee-tooltip-4bb43469.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-45aedc3e{text-align:center;font-family:"Helvetica", Sans-serif;font-size:18px;font-weight:400;color:#1A1A1A;}.ee-tooltip.ee-tooltip-11a03030.to--top,
+							 .ee-tooltip.ee-tooltip-11a03030.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-11a03030.to--left,
+							 .ee-tooltip.ee-tooltip-11a03030.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-3c48ef16{text-align:center;font-family:"Helvetica", Sans-serif;font-size:18px;font-weight:400;color:#1A1A1A;}.ee-tooltip.ee-tooltip-74568f95.to--top,
+							 .ee-tooltip.ee-tooltip-74568f95.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-74568f95.to--left,
+							 .ee-tooltip.ee-tooltip-74568f95.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-74568f95 img{width:100%;}.elementor-357 .elementor-element.elementor-element-2f71a234 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-2f71a234{text-align:center;font-family:"Helvetica", Sans-serif;font-size:18px;font-weight:400;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-46e19a6f:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-46e19a6f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5EADC;}.elementor-357 .elementor-element.elementor-element-46e19a6f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:49px 0px 17px 0px;}.elementor-357 .elementor-element.elementor-element-46e19a6f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-27f5f91d > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 2px 0px;}.elementor-357 .elementor-element.elementor-element-27f5f91d{text-align:center;}.elementor-357 .elementor-element.elementor-element-27f5f91d .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:48px;font-weight:800;line-height:1em;letter-spacing:0px;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-28a74da2 > .elementor-widget-container{padding:-3px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-28a74da2{text-align:center;font-family:"Helvetica", Sans-serif;font-size:34px;font-weight:300;color:#131313;}.elementor-357 .elementor-element.elementor-element-65f1fb8e:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-65f1fb8e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F5EADC;}.elementor-357 .elementor-element.elementor-element-65f1fb8e > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-65f1fb8e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 150px 27px 150px;}.elementor-357 .elementor-element.elementor-element-65f1fb8e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-357 .elementor-element.elementor-element-72dd1cdd > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-72dd1cdd{text-align:left;font-family:"Helvetica", Sans-serif;font-weight:400;color:#1A1A1A;}.elementor-357 .elementor-element.elementor-element-2fc17017{font-family:"Helvetica", Sans-serif;font-size:16px;font-weight:300;color:#7A7A7A;}.elementor-357 .elementor-element.elementor-element-11fc69aa > .elementor-widget-container{padding:8px 25px 25px 25px;}.ee-tooltip.ee-tooltip-11fc69aa.to--top,
+							 .ee-tooltip.ee-tooltip-11fc69aa.to--bottom{margin-left:0px;}.ee-tooltip.ee-tooltip-11fc69aa.to--left,
+							 .ee-tooltip.ee-tooltip-11fc69aa.to--right{margin-top:0px;}.elementor-357 .elementor-element.elementor-element-063e8e8 .elementor-button{background-color:var( --e-global-color-dd24d1d );font-family:"Helvetica", Sans-serif;font-size:18px;fill:#FFFFFF;color:#FFFFFF;}:root{--page-title-display:none;}@media(max-width:1366px){.elementor-357 .elementor-element.elementor-element-9bb7706{line-height:1.4em;}}@media(max-width:1200px){.elementor-357 .elementor-element.elementor-element-71ddbce > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-35545823 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-9bb7706{line-height:1.4em;}}@media(max-width:1024px){.elementor-357 .elementor-element.elementor-element-74049ff5{padding:0px 20px 0px 20px;}.elementor-357 .elementor-element.elementor-element-154c380c{padding:0px 20px 22px 20px;}.elementor-357 .elementor-element.elementor-element-580226c2{padding:0px 15px 0px 15px;}.elementor-357 .elementor-element.elementor-element-cfe3e6f > .elementor-widget-container{padding:70px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5ea34109 > .elementor-widget-container{padding:0px 100px 0px 100px;}.elementor-357 .elementor-element.elementor-element-9bb7706 > .elementor-widget-container{padding:0px 100px 0px 100px;}.elementor-357 .elementor-element.elementor-element-9bb7706{line-height:1.4em;}.elementor-357 .elementor-element.elementor-element-413ec78a:not(.elementor-motion-effects-element-type-background) > .ee-parallax > .ee-parallax__inner{background-size:788px auto;}.elementor-357 .elementor-element.elementor-element-413ec78a:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-413ec78a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-size:788px auto;}.elementor-357 .elementor-element.elementor-element-413ec78a{margin-top:0px;margin-bottom:0px;padding:27px 0px 22px 1px;}.elementor-357 .elementor-element.elementor-element-f832a4e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-452102e0 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-69f2abf0 > .elementor-widget-container{padding:4px 150px 4px 150px;}.elementor-357 .elementor-element.elementor-element-144c41a5{padding:38px 3px 3px 3px;}.elementor-357 .elementor-element.elementor-element-679e32cd > .elementor-widget-container{padding:0px 70px 0px 70px;}.elementor-357 .elementor-element.elementor-element-3cb196cb{padding:0px 20px 0px 20px;}.elementor-357 .elementor-element.elementor-element-6e531549{padding:0px 20px 73px 20px;}.elementor-357 .elementor-element.elementor-element-46e19a6f > .elementor-container{max-width:1200px;}.elementor-357 .elementor-element.elementor-element-46e19a6f{padding:40px 20px 0px 20px;}.elementor-357 .elementor-element.elementor-element-65f1fb8e{padding:0px 10px 22px 10px;}}@media(max-width:880px){.elementor-357 .elementor-element.elementor-element-32132dc{line-height:32px;}.elementor-357 .elementor-element.elementor-element-71ddbce > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-35545823 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-4321819b{line-height:32px;}.elementor-357 .elementor-element.elementor-element-9bb7706{line-height:1.4em;}}@media(max-width:767px){.elementor-357 .elementor-element.elementor-element-dd91225 .elementor-heading-title{font-size:50px;}.elementor-357 .elementor-element.elementor-element-32132dc{font-size:22px;line-height:1.2em;}.elementor-357 .elementor-element.elementor-element-32132dc p{margin-block-end:0px;}.elementor-357 .elementor-element.elementor-element-308fc0e3 > .elementor-widget-container{padding:18px 0px 18px 0px;}.elementor-357 .elementor-element.elementor-element-308fc0e3 .elementor-heading-title{font-size:33px;}.elementor-357 .elementor-element.elementor-element-154c380c{padding:0px 10px 35px 10px;}.elementor-357 .elementor-element.elementor-element-a22651e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-357 .elementor-element.elementor-element-3d99431c > .elementor-widget-container{padding:5px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-75fdb35b > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-357 .elementor-element.elementor-element-71ddbce > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5b1b8965 > .elementor-widget-container{padding:5px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-245338e5 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-357 .elementor-element.elementor-element-35545823 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-1a3ad1e2 > .elementor-widget-container{padding:5px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-4321819b{line-height:1.2em;}.elementor-357 .elementor-element.elementor-element-292f8bab{padding:22px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-30e0e325 .elementor-heading-title{font-size:32px;}.elementor-357 .elementor-element.elementor-element-580226c2{padding:0px 20px 0px 20px;}.elementor-357 .elementor-element.elementor-element-9bc5cfa{font-size:20px;line-height:1.4em;}.elementor-357 .elementor-element.elementor-element-cfe3e6f > .elementor-widget-container{padding:0px 0px 33px 0px;}.elementor-357 .elementor-element.elementor-element-1e75f3b9{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5ea34109 > .elementor-widget-container{padding:23px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-5ea34109 .elementor-heading-title{font-size:30px;}.elementor-357 .elementor-element.elementor-element-9bb7706 > .elementor-widget-container{padding:0px 20px 0px 20px;}.elementor-357 .elementor-element.elementor-element-9bb7706{line-height:1.4em;}.elementor-357 .elementor-element.elementor-element-413ec78a:not(.elementor-motion-effects-element-type-background) > .ee-parallax > .ee-parallax__inner{background-image:url("https://premium.britannica.com/wp-content/uploads/2022/06/FirstEdition-bg-mobile.jpg");background-size:628px auto;}.elementor-357 .elementor-element.elementor-element-413ec78a:not(.elementor-motion-effects-element-type-background), .elementor-357 .elementor-element.elementor-element-413ec78a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://premium.britannica.com/wp-content/uploads/2022/06/FirstEdition-bg-mobile.jpg");background-size:628px auto;}.elementor-357 .elementor-element.elementor-element-413ec78a{padding:29px 0px 25px 0px;}.elementor-357 .elementor-element.elementor-element-452102e0 > .elementor-widget-container{padding:0px 20px 0px 20px;}.elementor-357 .elementor-element.elementor-element-452102e0 .elementor-heading-title{font-size:30px;}.elementor-357 .elementor-element.elementor-element-69f2abf0 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 40px 0px 40px;}.elementor-357 .elementor-element.elementor-element-679e32cd > .elementor-widget-container{padding:0px 60px 0px 60px;}.elementor-357 .elementor-element.elementor-element-679e32cd .elementor-heading-title{font-size:29px;}.elementor-357 .elementor-element.elementor-element-171fe9d > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-17e48650{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-371557f1 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-27f5f91d .elementor-heading-title{font-size:32px;}.elementor-357 .elementor-element.elementor-element-28a74da2{font-size:30px;line-height:1.1em;}.elementor-357 .elementor-element.elementor-element-65f1fb8e{padding:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-2fc17017 > .elementor-widget-container{padding:0px 10px 0px 10px;}}@media(max-width:1024px) and (min-width:768px){.elementor-357 .elementor-element.elementor-element-7b8b6354{width:55%;}.elementor-357 .elementor-element.elementor-element-5613e597{width:44%;}}@media(min-width:2400px){.elementor-357 .elementor-element.elementor-element-71ddbce > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-357 .elementor-element.elementor-element-35545823 > .elementor-widget-container{margin:0px 0px 0px 0px;}}
+</style>
+<link rel='stylesheet' id='namogo-icons-css' href='https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/nicons/css/nicons.css?ver=2.2.52' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-extras-frontend-css' href='https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/css/frontend.min.css?ver=2.2.52' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://premium.britannica.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://premium.britannica.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://premium.britannica.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.32.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://premium.britannica.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1744927502' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://premium.britannica.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1744927504' type='text/css' media='all' />
+<script type="text/javascript" src="https://premium.britannica.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="if-so-js-before">
+/* <![CDATA[ */
+    var nonce = "4fdb2af252";//compat
+    var ifso_nonce = "4fdb2af252";
+    var ajaxurl = "https://premium.britannica.com/wp-admin/admin-ajax.php";
+    var ifso_page_url = window.location.href;
+    var isAnalyticsOn = true;
+    var isPageVisitedOn = 0;
+    var isVisitCountEnabled = 1;
+    var referrer_for_pageload = document.referrer;
+    var ifso_attrs_for_ajax = ["ga4","the_content"];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/if-so/public/js/if-so-public.js?ver=1.9.5" id="if-so-js"></script>
+<script type="text/javascript" id="if-so-geolocation-js-before">
+/* <![CDATA[ */
+            var geoOverrideCookieName = 'ifso-geo-override-data';
+            var browserLocationCookieName = 'ifso-browser-location-data';
+            var requestBrowserLocCookieName = 'ifso-request-browser-location';
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/if-so-geolocation/assets/js/if-so-geolocation-public.js?ver=6.8.3" id="if-so-geolocation-js"></script>
+<link rel="https://api.w.org/" href="https://premium.britannica.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://premium.britannica.com/wp-json/wp/v2/pages/357" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://premium.britannica.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://premium.britannica.com/?p=357' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://premium.britannica.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpremium.britannica.com%2Fpremium-membership%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://premium.britannica.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpremium.britannica.com%2Fpremium-membership%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.32.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sheerid/jslib@2/sheerid-install.css" type="text/css" />
+
+<script type="module">
+  import sheerId from "https://cdn.jsdelivr.net/npm/@sheerid/jslib@2/sheerid-install.js";
+
+  function displayVerification() {
+    sheerId.loadInModal(
+      'https://services.sheerid.com/verify/64947072b5210666d5c53e50/',
+      {
+        mobileRedirect: false,
+        closeButtonText: "Close",
+      },
+    );
+  }
+
+  document.getElementById("modal-button").addEventListener("click", displayVerification);
+</script>
+
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://premium.britannica.com/wp-content/uploads/2024/02/cropped-Thumbnail-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://premium.britannica.com/wp-content/uploads/2024/02/cropped-Thumbnail-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://premium.britannica.com/wp-content/uploads/2024/02/cropped-Thumbnail-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://premium.britannica.com/wp-content/uploads/2024/02/cropped-Thumbnail-Logo-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.elementor-359 .elementor-element.elementor-element-76808aaf .elementor-price-table__button {
+	color:#fff;
+}
+
+.elementor-price-table__button {
+	color: #fff;
+}		</style>
+			
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55G4MFXR');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Admiral Visitor Relationship Management tag for britannica.com -->
+<script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://superficialsquare.com/v2fvo2JF0u_MSnXSih4RSQPx_WXKzmn6JKj6tWRpOInbJFjshu614j410jI3bD69K",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){function t(){(t.q=t.q||[]).push(arguments)}t.v=1,o[n]=o[n]||t})(window,"admiral");!(function(c,e,o,t,n){function r(o,t){(function n(){try{return 0<(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]}catch(o){}return!1})()&&(t=c[e].pubads())&&t.setTargeting("admiral-engaged","true")}(n=c[e]=c[e]||{}).cmd=n.cmd||[],typeof n.pubads===o?r():typeof n.cmd.unshift===o?n.cmd.unshift(r):n.cmd.push(r)})(window,"googletag","function");</script>
+
+<script async src="https://js.alpixtrack.com/alphpixel.js?cust=4167814-623-WFAA"></script>
+
+
+</head>
+
+<body class="wp-singular page-template-default page page-id-357 wp-theme-eb-premium page-premium-membership elementor-default elementor-kit-8 elementor-page elementor-page-357">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="ns "
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="sidenav" class="sidenav none">
+	<ul>
+		<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-357 current_page_item menu-item-has-children menu-item-365"><a href="https://premium.britannica.com/premium-membership/" aria-current="page">Premium Membership</a>
+<ul class="sub-menu">
+	<li id="menu-item-6533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6533"><a href="https://premium.britannica.com/student-subscription/">Premium Student Membership</a></li>
+</ul>
+</li>
+<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://premium.britannica.com/kids-membership/">Kids Membership</a></li>
+<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="https://premium.britannica.com/family-bundle/">Family Bundle</a></li>
+<li id="menu-item-1349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="https://premium.britannica.com/mw-unabridged/">Merriam-Webster</a></li>
+<li id="menu-item-6521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6521"><a href="https://premium.britannica.com/merriam-webster-unabridged-bundle/">Merriam-Webster Bundle</a></li>
+<li id="menu-item-6138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6138"><a href="https://premium.britannica.com/gift-subscriptions/">Gift Subscriptions</a></li>
+		<li id="menu-item-1347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1347"><a href="https://premium.britannica.com/?page_id=1270">Letter from the Editor</a></li>
+	</ul>
+</div>
+
+<div id="sidenav-wrapper">
+
+<header class="header clear">
+	<div class="container-full">
+		<div class="row">
+			
+			<div class="header-logo col-6 col-3-m no-padding flex flex-middle">
+				<a href="https://premium.britannica.com/" title="Encyclopædia Britannica, Inc." rel="home" class="trigger-logo">
+				<img src="https://cdn.britannica.com/marketing/Britannica-MW_Updated_Logo.png" alt="Encyclopædia Britannica, Inc." />
+				</a>
+
+			</div>
+
+			<nav class="header-nav col-6 col-9-m no-padding flex flex-end flex-middle block-l" role="navigation">
+			
+				<!--<div class="header-navutil none flex-l flex-column-l">
+									</div>-->
+				<div class="header-navmain none flex-l flex-column-l">
+					<ul id="menu-main-1" class="list-inlineblock"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-357 current_page_item menu-item-has-children menu-item-365"><a href="https://premium.britannica.com/premium-membership/" aria-current="page">Premium Membership</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6533"><a href="https://premium.britannica.com/student-subscription/">Premium Student Membership</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://premium.britannica.com/kids-membership/">Kids Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="https://premium.britannica.com/family-bundle/">Family Bundle</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="https://premium.britannica.com/mw-unabridged/">Merriam-Webster</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6521"><a href="https://premium.britannica.com/merriam-webster-unabridged-bundle/">Merriam-Webster Bundle</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6138"><a href="https://premium.britannica.com/gift-subscriptions/">Gift Subscriptions</a></li>
+</ul>				</div>
+
+<!-- 				<div class="header-search">
+					<a href="#search" class="js-toggle-search trigger trigger-search icon icon-search">
+						<img src="https://premium.britannica.com/wp-content/themes/eb-premium/assets/images/icon-search.png" />
+						<span class="icon-label sr">Search</span>
+					</a>
+					<form role="search" method="get" id="searchform" class="search-form is-active" action="https://premium.britannica.com/">
+						<a href="#" class="js-toggle-search trigger trigger-close icon icon-close">
+							<span></span>
+							<div class="icon-label sr">Close Search</div>
+						</a>
+						<label class="" for="s">Search:</label>
+						<input type="text" value="" name="s" id="s">
+						<button type="submit" id="searchsubmit"><span class="">Submit</span></button>
+					</form>
+				</div> -->
+
+				<a href="#sidenav" class="trigger-sidenav inline-block none-l">
+					<span class="icon-symbol icon-menu"><span></span></span>
+					<span class="icon-label">Menu</span>
+				</a>
+
+			</nav>
+
+		</div>
+	</div>
+</header>
+
+
+<main class="main clear">
+
+	<div class="container">
+
+	
+				<div data-elementor-type="wp-page" data-elementor-id="357" class="elementor elementor-357" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-69b5fe92 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="69b5fe92" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2c78ff9" data-id="2c78ff9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dd91225 elementor-widget elementor-widget-heading" data-id="dd91225" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Over 250 Years of Trusted Knowledge
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-32132dc elementor-widget elementor-widget-text-editor" data-id="32132dc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400;">Britannica Premium gives you unlimited access to endless fact-based content.</span></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-74049ff5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74049ff5" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c9f01" data-id="7c9f01" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-308fc0e3 elementor-widget elementor-widget-heading" data-id="308fc0e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Membership Options </h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-154c380c elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="154c380c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a22651e" data-id="a22651e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6b6236b0 elementor-widget elementor-widget-heading" data-id="6b6236b0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Britannica Premium
+<b>Monthly</b></h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3137de7b elementor-widget elementor-widget-text-editor" data-id="3137de7b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>$8.99</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3d99431c elementor-widget elementor-widget-text-editor" data-id="3d99431c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Monthly</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-57cf7f73 elementor-widget elementor-widget-text-editor" data-id="57cf7f73" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>FREE 7-DAY TRIAL</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-642659ca elementor-align-center utm-button elementor-widget elementor-widget-button" data-id="642659ca" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://cam.britannica.com/subscribe/bp-monthly-free-trial">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">$8.99/MONTH</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-75fdb35b" data-id="75fdb35b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-71ddbce elementor-widget elementor-widget-text-editor" data-id="71ddbce" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>MOST POPULAR</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3d1ade5c elementor-widget elementor-widget-heading" data-id="3d1ade5c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Britannica Premium
+<b>Annual</b></h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5d0cda18 elementor-widget elementor-widget-text-editor" data-id="5d0cda18" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>$74.95</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5b1b8965 elementor-widget elementor-widget-text-editor" data-id="5b1b8965" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Annual</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-dfb0ff7 elementor-widget elementor-widget-text-editor" data-id="dfb0ff7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>FREE 7-DAY TRIAL</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-547ef519 elementor-align-center utm-button elementor-widget elementor-widget-button" data-id="547ef519" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="http://cam.britannica.com/subscribe/bp-annual-free-trial">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">SUBSCRIBE</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-245338e5" data-id="245338e5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-35545823 elementor-widget elementor-widget-text-editor" data-id="35545823" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>BEST OFFER</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5e334d95 elementor-widget elementor-widget-heading" data-id="5e334d95" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Britannica Family
+Bundle</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e0adef7 elementor-widget elementor-widget-text-editor" data-id="1e0adef7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>$99.00</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-1a3ad1e2 elementor-widget elementor-widget-text-editor" data-id="1a3ad1e2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Save $50 by bundling digital access to Britannica Premium and Kids</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-687d194c elementor-align-center utm-button elementor-widget elementor-widget-button" data-id="687d194c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="http://cam.britannica.com/subscribe/fam-annual">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">SUBSCRIBE</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2c3528d6 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c3528d6" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ae4240a" data-id="1ae4240a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4321819b family_bundle_link elementor-widget elementor-widget-text-editor" data-id="4321819b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong><a class="student-verify" href="https://premium.britannica.com/student-subscription">Are you a student? Get our special academic rate for Britannica Premium!</a></strong></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-292f8bab elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="292f8bab" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a0b1eaa" data-id="4a0b1eaa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-30e0e325 elementor-widget elementor-widget-heading" data-id="30e0e325" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Britannica Premium Subscriber Benefits</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-580226c2 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="580226c2" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-7b8b6354" data-id="7b8b6354" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9bc5cfa elementor-widget elementor-widget-text-editor" data-id="9bc5cfa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<ul><li>Unlimited, ad-free access to the full Britannica database of information</li><li aria-level="1"><span style="font-weight: 400;">The premier online learning resource for </span>professionals<span style="font-weight: 400;">, </span>college students<span style="font-weight: 400;">, and </span>lifelong learners<span style="font-weight: 400;"> </span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Thousands of articles and scholarly resources written by trusted and world-renowned experts</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Complete access to our educational media library of images, podcasts, and videos</span></li><li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cancel anytime</span></li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-4dedeb5d elementor-widget elementor-widget-text-editor" data-id="4dedeb5d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><a href="https://corporate.britannica.com/termsofuse.html"><em>*Subscriptions are for personal use or use within a single household. </em></a><em><i>Games not included and will continue to include ads</i></em><em>.</em></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5613e597" data-id="5613e597" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cfe3e6f elementor-widget elementor-widget-image" data-id="cfe3e6f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="1024" height="693" src="https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-1024x693.jpg" class="attachment-large size-large wp-image-5608" alt="Premium Subscription for all devices" srcset="https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-1024x693.jpg 1024w, https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-300x203.jpg 300w, https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-768x520.jpg 768w, https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-1536x1040.jpg 1536w, https://premium.britannica.com/wp-content/uploads/2024/10/Premium-alldevices-color-2024-2048x1386.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5b973215 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5b973215" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4d6e5b2" data-id="4d6e5b2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d37f5f2 elementor-widget elementor-widget-image" data-id="d37f5f2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="200" height="199" src="https://premium.britannica.com/wp-content/uploads/2024/01/money.png" class="attachment-full size-full wp-image-5195" alt="" srcset="https://premium.britannica.com/wp-content/uploads/2024/01/money.png 200w, https://premium.britannica.com/wp-content/uploads/2024/01/money-150x150.png 150w, https://premium.britannica.com/wp-content/uploads/2024/01/elementor/thumbs/money-qir4b9vp5jenh17p4ddapo71msodilvrqkc8643u1w.png 10w" sizes="(max-width: 200px) 100vw, 200px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a9deae6 elementor-widget elementor-widget-text-editor" data-id="a9deae6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>BRITANNICA MONEY</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9409f5a" data-id="9409f5a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27ee6f99 elementor-widget elementor-widget-image" data-id="27ee6f99" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://premium.britannica.com/wp-content/uploads/2022/05/noads.svg" title="noads" alt="no ads" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5ad43e54 elementor-widget elementor-widget-text-editor" data-id="5ad43e54" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>NO ADS</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3729a8c" data-id="3729a8c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3421f359 elementor-widget elementor-widget-image" data-id="3421f359" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://premium.britannica.com/wp-content/uploads/2022/05/content.svg" title="content" alt="content" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4234433d elementor-widget elementor-widget-text-editor" data-id="4234433d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="color: #fffdfd; letter-spacing: 4.5px;">FULL CONTENT ACCESS</span></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-47721ac3" data-id="47721ac3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-72768df1 elementor-widget elementor-widget-image" data-id="72768df1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://premium.britannica.com/wp-content/uploads/2022/06/book-01.svg" title="book-01" alt="book icon" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-3cbc7bb0 elementor-widget elementor-widget-text-editor" data-id="3cbc7bb0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="color: #fffdfd; letter-spacing: 4.5px;">DIGITAL FIRST EDITION </span></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1e75f3b9 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e75f3b9" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4185c221" data-id="4185c221" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5ea34109 elementor-widget elementor-widget-heading" data-id="5ea34109" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Unlimited Access to Trusted Content</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9bb7706 elementor-widget elementor-widget-text-editor" data-id="9bb7706" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Britannica is continuously reviewed and updated, with articles written by experts and vetted by fact-checkers.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-20fa216c elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20fa216c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-37ae051f" data-id="37ae051f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7e06a1e0 elementor-widget elementor-widget-image" data-id="7e06a1e0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1000" height="1000" src="https://premium.britannica.com/wp-content/uploads/2022/06/MarieKondo-article.jpg" class="attachment-large size-large wp-image-3518" alt="6 Questions for Tidying Expert Marie Kondo" srcset="https://premium.britannica.com/wp-content/uploads/2022/06/MarieKondo-article.jpg 1000w, https://premium.britannica.com/wp-content/uploads/2022/06/MarieKondo-article-300x300.jpg 300w, https://premium.britannica.com/wp-content/uploads/2022/06/MarieKondo-article-150x150.jpg 150w, https://premium.britannica.com/wp-content/uploads/2022/06/MarieKondo-article-768x768.jpg 768w, https://premium.britannica.com/wp-content/uploads/2022/06/MarieKondo-article-800x800.jpg 800w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a337b32" data-id="3a337b32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-349b31d3 elementor-widget elementor-widget-image" data-id="349b31d3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="1000" src="https://premium.britannica.com/wp-content/uploads/2022/06/FilmPreservation-article.jpg" class="attachment-large size-large wp-image-3517" alt="Film Preservation: A Dire Need by Martin Scorsese" srcset="https://premium.britannica.com/wp-content/uploads/2022/06/FilmPreservation-article.jpg 1000w, https://premium.britannica.com/wp-content/uploads/2022/06/FilmPreservation-article-300x300.jpg 300w, https://premium.britannica.com/wp-content/uploads/2022/06/FilmPreservation-article-150x150.jpg 150w, https://premium.britannica.com/wp-content/uploads/2022/06/FilmPreservation-article-768x768.jpg 768w, https://premium.britannica.com/wp-content/uploads/2022/06/FilmPreservation-article-800x800.jpg 800w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3465dc69" data-id="3465dc69" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-41ca83e9 elementor-widget elementor-widget-image" data-id="41ca83e9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1000" height="1000" src="https://premium.britannica.com/wp-content/uploads/2022/06/NaomiOsaka-article.jpg" class="attachment-large size-large wp-image-3519" alt="4 Questions for Tennis Star Naomi Osaka" srcset="https://premium.britannica.com/wp-content/uploads/2022/06/NaomiOsaka-article.jpg 1000w, https://premium.britannica.com/wp-content/uploads/2022/06/NaomiOsaka-article-300x300.jpg 300w, https://premium.britannica.com/wp-content/uploads/2022/06/NaomiOsaka-article-150x150.jpg 150w, https://premium.britannica.com/wp-content/uploads/2022/06/NaomiOsaka-article-768x768.jpg 768w, https://premium.britannica.com/wp-content/uploads/2022/06/NaomiOsaka-article-800x800.jpg 800w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-413ec78a elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="413ec78a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;https:\/\/premium.britannica.com\/wp-content\/uploads\/2022\/05\/FirstEdition-bg-1.jpg&quot;,&quot;id&quot;:3380,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;Collage of illustrations from Britannica&#039;s First Edition&quot;,&quot;source&quot;:&quot;library&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;https:\/\/premium.britannica.com\/wp-content\/uploads\/2022\/06\/FirstEdition-bg-mobile.jpg&quot;,&quot;id&quot;:3877,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f832a4e" data-id="f832a4e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-452102e0 elementor-widget elementor-widget-heading" data-id="452102e0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">1768 First Edition: Digitized</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-69f2abf0 elementor-widget elementor-widget-text-editor" data-id="69f2abf0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400;">Our famed encyclopedia — first published in 1768 but all digital today — remains the oldest continuously published and revised work in the English language.</span></p><p>Access the world’s original book of answers.</p><p>Curated collections of our first edition book are now available online through a Britannica membership.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-144c41a5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="144c41a5" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6c1c2319" data-id="6c1c2319" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-679e32cd elementor-widget elementor-widget-heading" data-id="679e32cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-large">Plus, all your favorite features of Britannica.com</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3cb196cb elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3cb196cb" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3218b333" data-id="3218b333" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-171fe9d elementor-widget elementor-widget-text-editor" data-id="171fe9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>WORLD-RENOWNED CONTRIBUTORS</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2d89c493 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2d89c493" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6e531549 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e531549" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-563d20ff" data-id="563d20ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-781d0a50 elementor-widget elementor-widget-image" data-id="781d0a50" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="400" src="https://premium.britannica.com/wp-content/uploads/2024/01/Leymah-Gbowee.png" class="attachment-large size-large wp-image-5188" alt="Headshot of Leymah Gbowee, Emma Simmons/UN Photo" srcset="https://premium.britannica.com/wp-content/uploads/2024/01/Leymah-Gbowee.png 400w, https://premium.britannica.com/wp-content/uploads/2024/01/Leymah-Gbowee-300x300.png 300w, https://premium.britannica.com/wp-content/uploads/2024/01/Leymah-Gbowee-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5075fe31 elementor-widget elementor-widget-text-editor" data-id="5075fe31" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>120&nbsp;<strong><br></strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-25afa165 elementor-widget elementor-widget-text-editor" data-id="25afa165" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Nobel Prize Winners<strong><br /></strong></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-17f225c5" data-id="17f225c5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7ad6eb1d elementor-widget elementor-widget-image" data-id="7ad6eb1d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="400" src="https://premium.britannica.com/wp-content/uploads/2022/06/Madeleine-K-Albright.png" class="attachment-large size-large wp-image-3461" alt="Portrait of Madeleine K. Albright" srcset="https://premium.britannica.com/wp-content/uploads/2022/06/Madeleine-K-Albright.png 400w, https://premium.britannica.com/wp-content/uploads/2022/06/Madeleine-K-Albright-300x300.png 300w, https://premium.britannica.com/wp-content/uploads/2022/06/Madeleine-K-Albright-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5e6ead8a elementor-widget elementor-widget-text-editor" data-id="5e6ead8a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>100+</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-13d271a9 elementor-widget elementor-widget-text-editor" data-id="13d271a9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Heads of State <br />&amp; World Activists<strong><br /></strong></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4b2a6731" data-id="4b2a6731" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-28475ee9 elementor-widget elementor-widget-image" data-id="28475ee9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="400" src="https://premium.britannica.com/wp-content/uploads/2022/06/Bill-Clinton.png" class="attachment-large size-large wp-image-3462" alt="" srcset="https://premium.britannica.com/wp-content/uploads/2022/06/Bill-Clinton.png 400w, https://premium.britannica.com/wp-content/uploads/2022/06/Bill-Clinton-300x300.png 300w, https://premium.britannica.com/wp-content/uploads/2022/06/Bill-Clinton-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5e8cb803 elementor-widget elementor-widget-text-editor" data-id="5e8cb803" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>5<strong><br></strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-1131b80d elementor-widget elementor-widget-text-editor" data-id="1131b80d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>U.S. Presidents<strong><br /></strong></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-679213d7" data-id="679213d7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-21fc6c97 elementor-widget elementor-widget-image" data-id="21fc6c97" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="400" src="https://premium.britannica.com/wp-content/uploads/2024/01/JeanneGang-architect-forweb.png" class="attachment-large size-large wp-image-5191" alt="Jeanne Gang attending the WSJ. Magazine Innovator Awards at the Museum of Modern Art, New York, 2022. (Dia Dipasupil/Getty Images Entertainment)" srcset="https://premium.britannica.com/wp-content/uploads/2024/01/JeanneGang-architect-forweb.png 400w, https://premium.britannica.com/wp-content/uploads/2024/01/JeanneGang-architect-forweb-300x300.png 300w, https://premium.britannica.com/wp-content/uploads/2024/01/JeanneGang-architect-forweb-150x150.png 150w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-60496f43 elementor-widget elementor-widget-text-editor" data-id="60496f43" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>50+</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-68e9afe1 elementor-widget elementor-widget-text-editor" data-id="68e9afe1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Journalists, sports figures, scholars, artists, and business leaders</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-17e48650 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="17e48650" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7d840a85" data-id="7d840a85" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-371557f1 elementor-widget elementor-widget-text-editor" data-id="371557f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>CURATED CONTENT</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-559a9ac6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="559a9ac6" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-494da95a elementor-section-stretched curated_content elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="494da95a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2d5f2121" data-id="2d5f2121" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4bb43469 curated_content elementor-widget elementor-widget-image" data-id="4bb43469" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.britannica.com/money">
+							<img loading="lazy" decoding="async" width="600" height="302" src="https://premium.britannica.com/wp-content/uploads/2024/02/EB_MoneyV2_AQSections_600x302_Feb22-min.png" class="attachment-full size-full wp-image-5237" alt="Image collage of several Britannica Money topics" srcset="https://premium.britannica.com/wp-content/uploads/2024/02/EB_MoneyV2_AQSections_600x302_Feb22-min.png 600w, https://premium.britannica.com/wp-content/uploads/2024/02/EB_MoneyV2_AQSections_600x302_Feb22-min-300x151.png 300w" sizes="(max-width: 600px) 100vw, 600px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-45aedc3e elementor-widget elementor-widget-text-editor" data-id="45aedc3e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Britannica Money</strong></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-24826c32" data-id="24826c32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11a03030 curated_content elementor-widget elementor-widget-image" data-id="11a03030" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.britannica.com/videos/explains">
+							<img loading="lazy" decoding="async" width="600" height="302" src="https://premium.britannica.com/wp-content/uploads/2024/02/EB_BritannicaExplainsV2_AQSections_600x302_Feb22-min.png" class="attachment-large size-large wp-image-5238" alt="Image collage of several Britannica Explains topics" srcset="https://premium.britannica.com/wp-content/uploads/2024/02/EB_BritannicaExplainsV2_AQSections_600x302_Feb22-min.png 600w, https://premium.britannica.com/wp-content/uploads/2024/02/EB_BritannicaExplainsV2_AQSections_600x302_Feb22-min-300x151.png 300w" sizes="(max-width: 600px) 100vw, 600px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-3c48ef16 elementor-widget elementor-widget-text-editor" data-id="3c48ef16" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Britannica Explains Video Series</strong></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5145e414" data-id="5145e414" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-74568f95 curated_content elementor-widget elementor-widget-image" data-id="74568f95" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.britannica.com/on-this-day">
+							<img loading="lazy" decoding="async" width="600" height="302" src="https://premium.britannica.com/wp-content/uploads/2024/02/EB_OnThisDay_AQSections_600x302_Feb22-min.png" class="attachment-full size-full wp-image-5236" alt="Image collage of several On This Day topics" srcset="https://premium.britannica.com/wp-content/uploads/2024/02/EB_OnThisDay_AQSections_600x302_Feb22-min.png 600w, https://premium.britannica.com/wp-content/uploads/2024/02/EB_OnThisDay_AQSections_600x302_Feb22-min-300x151.png 300w" sizes="(max-width: 600px) 100vw, 600px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-2f71a234 elementor-widget elementor-widget-text-editor" data-id="2f71a234" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>On This Day Series</strong></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e19a6f elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e19a6f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fd7ef13" data-id="7fd7ef13" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27f5f91d elementor-widget elementor-widget-heading" data-id="27f5f91d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Upgrade and Save! </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-28a74da2 elementor-widget elementor-widget-text-editor" data-id="28a74da2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Britannica Family Bundle Benefits</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-65f1fb8e elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="65f1fb8e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_image&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;background_image_widescreen&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_laptop&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_tablet&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile_extra&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;background_image_mobile&quot;:{&quot;url&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;}}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-65559e04" data-id="65559e04" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-72dd1cdd elementor-widget elementor-widget-text-editor" data-id="72dd1cdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<ul>
+<li aria-level="1">Save $50 by bundling Britannica Premium and Britannica Kids and get unlimited, ad-free access across both products</li>
+<li style="font-weight: 400;" aria-level="1">Access thousands of expertly curated articles and scholarly resources</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Discover unique reading levels that fit everyone in the family</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Unlock the special Britannica Kids Activities Corner featuring downloadable, hands-on activities, games, and curriculum-based lessons</span></li>
+<li aria-level="1">Get homework help with citation tools and quick facts on popular people and topics</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cancel at any time</span><span style="font-weight: 400;"><br></span></li>
+</ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2fc17017 elementor-widget elementor-widget-text-editor" data-id="2fc17017" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><a href="https://corporate.britannica.com/termsofuse.html"><em>*Subscriptions are for personal use or use within a single household. </em></a><em>Britannica G</em><em><i>ames not included and will continue to include ads</i>.</em></p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-78bf63c9" data-id="78bf63c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11fc69aa elementor-widget elementor-widget-image" data-id="11fc69aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1024" height="689" src="https://premium.britannica.com/wp-content/uploads/2024/10/FamilyBundle-color-2024-1024x689.jpg" class="attachment-large size-large wp-image-5607" alt="Britannica Family Bundle Subscription" srcset="https://premium.britannica.com/wp-content/uploads/2024/10/FamilyBundle-color-2024-1024x689.jpg 1024w, https://premium.britannica.com/wp-content/uploads/2024/10/FamilyBundle-color-2024-300x202.jpg 300w, https://premium.britannica.com/wp-content/uploads/2024/10/FamilyBundle-color-2024-768x517.jpg 768w, https://premium.britannica.com/wp-content/uploads/2024/10/FamilyBundle-color-2024-1536x1034.jpg 1536w, https://premium.britannica.com/wp-content/uploads/2024/10/FamilyBundle-color-2024-2048x1378.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-063e8e8 elementor-align-center utm-button elementor-widget elementor-widget-button" data-id="063e8e8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://cam.britannica.com/subscribe/fam-annual">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">SUBSCRIBE</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+	
+	</div>
+
+</main>
+
+<footer class="footer clear">
+	<div class="container">
+		<div class="row">
+
+			<nav class="footer-nav col-10">
+				<ul id="menu-footer" class="list-block list-disable"><li id="menu-item-417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-417"><a target="_blank" href="http://www.facebook.com/britannica">Follow us on Social</a>
+<ul class="sub-menu">
+	<li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-413"><a target="_blank" href="http://www.facebook.com/britannica">Facebook</a></li>
+	<li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414"><a target="_blank" href="http://www.x.com/britannica">X</a></li>
+	<li id="menu-item-415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-415"><a target="_blank" href="http://www.instagram.com/britannica">Instagram</a></li>
+	<li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416"><a target="_blank" href="http://www.pinterest.com/britannica">Pinterest</a></li>
+</ul>
+</li>
+<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-418"><a href="https://premium.britannica.com/britannica-family-holiday-bundle/">Purchase a Membership</a>
+<ul class="sub-menu">
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-357 current_page_item menu-item-419"><a href="https://premium.britannica.com/premium-membership/" aria-current="page">Premium Membership</a></li>
+	<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://premium.britannica.com/kids-membership/">Kids Membership</a></li>
+	<li id="menu-item-1103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"><a href="https://premium.britannica.com/family-bundle/">Britannica Family Bundle</a></li>
+	<li id="menu-item-1353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353"><a href="https://premium.britannica.com/mw-unabridged/">Merriam-Webster Unabridged</a></li>
+	<li id="menu-item-6132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6132"><a href="https://premium.britannica.com/gift-subscriptions/">Gift Subscriptions</a></li>
+</ul>
+</li>
+<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-423"><a href="http://www.corporate.britannica.com">About Britannica</a>
+<ul class="sub-menu">
+	<li id="menu-item-424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-424"><a target="_blank" href="http://www.corporate.britannica.com">Corporate Website</a></li>
+	<li id="menu-item-5023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5023"><a target="_blank" href="https://corporate.britannica.com/diversity">Diversity</a></li>
+	<li id="menu-item-425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425"><a target="_blank" href="https://books.britannica.com/">Britannica Books Website</a></li>
+	<li id="menu-item-4431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4431"><a target="_blank" href="https://britannica.threadless.com/?utm_source=aqsite&#038;utm_medium=footer&#038;utm_campaign=evergreen">Britannica Merch</a></li>
+</ul>
+</li>
+</ul>			</nav>
+
+		</div>
+	</div>
+
+	<div class="container pad-top-10 flex flex-bottom">
+		<div class="row">
+
+			<div class="footer-legal col-12">
+				<a href="https://premium.britannica.com/" title="Encyclopædia Britannica, Inc." rel="home">
+					<img src="https://cdn.britannica.com/marketing/Britannica_MW_white_2024.png" alt="Encyclopædia Britannica, Inc." />
+				</a>
+				<small><ul id="menu-legal" class="list-inlineblock"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a target="_blank" href="https://corporate.britannica.com/privacy-policy2">Privacy Policy</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://corporate.britannica.com/termsofuse.html">Terms of Use</a></li>
+</ul>				Copyright 2025&nbsp;<a href="https://premium.britannica.com">Encyclopædia Britannica, Inc.</a>. All rights reserved.</small>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<!--[if lt IE 8]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/eb-premium\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" src="https://premium.britannica.com/wp-content/themes/eb-premium/assets/js/jquery.mmenu.js" id="functions-mmenu-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/themes/eb-premium/assets/js/functions.js?ver=1602712026" id="functions-script-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.5" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.5" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":true},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":true},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.32.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"https:\/\/premium.britannica.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/premium.britannica.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/premium.britannica.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"f3857eb150"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_mobile_extra","viewport_tablet","viewport_tablet_extra","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":357,"title":"Britannica%20Premium%20Membership%20-%20Encyclop%C3%A6dia%20Britannica%2C%20Inc.","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.5" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.27.1" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/premium.britannica.com\/wp-admin\/admin-ajax.php","nonce":"42ba448e64","urls":{"assets":"https:\/\/premium.britannica.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/premium.britannica.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/premium.britannica.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.27.1" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.1" id="pro-elements-handlers-js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js" id="gsap-js-js"></script>
+<script type="text/javascript" id="elementor-extras-frontend-js-extra">
+/* <![CDATA[ */
+var elementorExtrasFrontendConfig = {"urls":{"assets":"https:\/\/premium.britannica.com\/wp-content\/plugins\/elementor-extras\/assets\/"},"refreshableWidgets":["ee-offcanvas.classic","ee-popup.classic","gallery-slider.default","media-carousel.default","image-carousel.default","slides.default"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/js/frontend.min.js?ver=2.2.52" id="elementor-extras-frontend-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/parallax-gallery/parallax-gallery.min.js?ver=1.0.0" id="parallax-gallery-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/parallax-element/parallax-element.min.js?ver=1.0.0" id="parallax-element-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/jquery-visible/jquery.visible.min.js?ver=1.0.0" id="jquery-visible-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/parallax-background/parallax-background.min.js?ver=1.2.0" id="parallax-background-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/jquery-resize/jquery.resize.min.js?ver=3.0.2" id="jquery-resize-ee-js"></script>
+<script type="text/javascript" src="https://premium.britannica.com/wp-content/plugins/elementor-extras/assets/lib/hotips/hotips.min.js?ver=1.1.0" id="hotips-js"></script>
+
+</body>
+</html>
+<!-- Cache Enabler by KeyCDN @ Wed, 03 Dec 2025 15:05:38 GMT (https-index.html) --> title 62 Britannica Premium Membership - Encyclopædia Britannica, Inc. contentType 9 text/html url 123 https://premium.britannica.com:443/premium-membership/?utm_source=premium&utm_medium=global-nav&utm_campaign=blue-evergreen responseCode 3 200 

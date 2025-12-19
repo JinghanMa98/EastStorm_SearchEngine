@@ -1,0 +1,1845 @@
+hojiboagsocscsgsvgukrgwkkavozmccsojelkhs page 116443 <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"> <!--<![endif]-->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association","20160306144038","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1457275238");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta charset="utf-8">
+<meta http-equiv="content-language" content="en">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8AVFJTGwcFVlhQDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta name="google-site-verification" content="XbHDFDo9cDSfBkKb6vVXSEJq8eSKgKuYBgWbA7YLI5A">
+<meta property="wb: webmaster" content="a0659333f7c4b1fb"/>
+<meta name="msvalidate.01" content="7943642544D92DAFD05F9E185EC93924"/>
+<meta name="context" content="article"/>
+<meta name="context:articleId" content="1665888"/>
+<meta name="context:sectionId" content="745"/>
+<meta name="context:sectionTag" content=""/>
+<meta name="context:sectionSlug" content="fifa"/>
+<link rel="publisher" href="https://plus.google.com/103293707757222394794/"/>
+<title>FIFA Ratify Suspension Of Iraqi Football Association - Goal.com</title><meta name="page" content="article"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<meta property="og:site_name" content="Goal.com"/>
+<meta property="og:locale" content="en"/>
+<meta property="article:publisher" content="https://www.facebook.com/Goal"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://web.archive.org/web/20160306144038im_/http://static.goal.com/49000/49046_heroa.jpg"/>
+<meta property="og:url" content="https://web.archive.org/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association"/>
+<meta property="og:title" content="FIFA Ratify Suspension Of Iraqi Football Association - Goal.com"/>
+<meta property="og:description" content="FIFA Ratify Suspension Of Iraqi Football Association"/>
+<meta property="fb:admins" content="100003849970393,1400257270,100003761445113"/>
+<meta property="article:modified_time" content="2009-12-04T17:24:26+00:00"/>
+<meta property="article:published_time" content="2009-12-04T14:58:06+00:00"/>
+<meta property="article:section" content="Fifa"/>
+<meta property="article:tag" content="Iraq"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@goal_intl"/>
+<meta name="twitter:description" content="FIFA Ratify Suspension Of Iraqi Football Association"/>
+<meta name="twitter:title" content="FIFA Ratify Suspension Of Iraqi Football Association"/>
+<meta name="twitter:image" content="https://web.archive.org/web/20160306144038im_/http://static.goal.com/49000/49046_news.jpg"/>
+<meta name="twitter:app:name:iphone" content="Goal.com"/>
+<meta name="twitter:app:id:iphone" content="518026818"/>
+<meta name="twitter:app:name:ipad" content="Goal.com"/>
+<meta name="twitter:app:id:ipad" content="518026818"/>
+<meta name="twitter:app:name:googleplay" content="Goal.com"/>
+<meta name="twitter:app:id:googleplay" content="com.freerange360.mpp.GOAL"/><link rel="alternate" href="https://web.archive.org/web/20160306144038/http://m.goal.com/s/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association" hreflang="" media="only screen and (max-device-width: 660px)"/>
+<link rel="canonical" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association"/>
+
+<script src="/web/20160306144038js_/http://www.goal.com/static/js?files=%2Fjs%2Fredirects.js&amp;version=2016.03.03-v1"></script><meta name="viewport" content="width=device-width, minimum-scale=0.1, initial-scale=1.0">
+
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fbase.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fmodule.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fpage.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fsnippets.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fbranding.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fmodule%2Fsmartbanner%2Fdesktop.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fdefault%2Flayout%2Fmodal.css%2C%2Fcss%2Fdefault%2Flayout%2Flogin.css%2C%2Fcss%2Fdefault%2Flayout%2Fgigyalogin.css%2C%2Fcss%2Fdefault%2Flayout%2Falert_message.css%2C%2Fcss%2Fdefault%2Frebrand-registration.css&amp;version=2016.03.03-v1" type="text/css">
+<link rel="stylesheet" href="/web/20160306144038cs_/http://www.goal.com/static/css?files=%2Fcss%2Fbase%2Fcompetitions.css&amp;version=2016.03.03-v1" type="text/css"><link rel="stylesheet" href="https://web.archive.org/web/20160306144038cs_/http://widget.cloud.opta.net/2.0/css/widgets.opta.css" type="text/css">
+
+
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie9.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie8.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie7.widgets.opta.css" media="screen" />
+<![endif]-->
+<script type="text/javascript" src="https://web.archive.org/web/20160306144038js_/http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">
+try {
+amznads.getAds('3117');
+} catch(e) {
+
+}
+</script>
+<script type="text/javascript">
+var key='amznslots';
+window.amzValues="" + amznads.getTokens().join(':');
+</script>
+<script>
+var s_account="goalglobal";</script>
+
+<script src="/web/20160306144038js_/http://www.goal.com/static/js?files=%2Fjs%2Fnormalize.js%2C%2Fjs%2Fexternal%2Fmodernizr.min.js%2C%2Fjs%2Fexternal%2Fjquery.min.js%2C%2Fjs%2Fjquery%2Fheader%2C%2Fjs%2Fomniture-icid.js%2C%2Fjs%2Fuser-country-code.js%2C%2Fjs%2Fs_code.js&amp;version=2016.03.03-v1"></script><script type="text/javascript" src="https://web.archive.org/web/20160306144038js_/http://cdns.gigya.com/JS/socialize.js?apikey=2_Y8Ou2zve7eSZI-lzS_Sx1CPu9ZO65T9xjCUz9vX5C60PxafAuK2Z5fPvO_tmfs7D">
+{
+connectWithoutLoginBehavior: 'alwaysLogin',
+enabledProviders: 'facebook,google,yahoo,twitter',
+lang: 'en',
+cid: 'en'
+}
+</script>
+<link rel="icon" href="/web/20160306144038im_/http://www.goal.com/favicon.ico" type="image/x-icon"/>
+<!-- SiteCatalyst code version: H.25. Copyright 1996-2012 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="News : B - Popular Sections (Opta/Transfer Zone etc) : Fifa : FIFA Ratify Suspension Of Iraqi Football Association"
+s.channel="News"
+s.prop1="News : B - Popular Sections (Opta/Transfer Zone etc)"
+s.prop2="News : B - Popular Sections (Opta/Transfer Zone etc) : Fifa"
+s.prop3="News : B - Popular Sections (Opta/Transfer Zone etc) : Fifa"
+s.hier1="News,B - Popular Sections (Opta/Transfer Zone etc),Fifa"
+s.prop4="article page"
+s.prop5="FIFA Ratify Suspension Of Iraqi Football Association"
+s.prop6=s.eVar10="1665888"
+s.server=""
+s.pageType=""
+s.prop11=
+s.prop12="Desktop"
+s.prop13="goalglobal,goalinternational"
+s.prop14=""
+s.prop15=s.eVar6="https://web.archive.org/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association"
+s.prop16=s.eVar5="Iraq"
+s.prop18=""
+s.prop19="N"
+s.prop21="745"
+s.prop22="1665888"
+s.prop23=""
+s.prop28=""
+s.prop29=""
+s.prop30=""
+s.prop31=""
+s.prop32=""
+s.prop33=""
+s.prop34=""
+s.prop40=""
+s.prop41=""
+s.prop43="745"
+s.prop44="14,745,1277"
+s.prop45=""
+s.prop46=""
+s.prop47=""
+s.prop48=""
+s.prop51=""
+s.eVar15=""
+s.events="event13"
+//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script> <script language="JavaScript" type="text/javascript">
+if(navigator.appVersion.indexOf('Opera Mini')>=0) {
+document.write('<img src="https://web.archive.org/web/20160306144038/http://premiumtv.122.2o7.net/b/ss/goalglobal/1/H.25--NS/0?pageName=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa+%3A+FIFA+Ratify+Suspension+Of+Iraqi+Football+Association&g=%2Fen%2Fnews%2F745%2Ffifa%2F2009%2F12%2F04%2F1665888%2Ffifa-ratify-suspension-of-iraqi-football-association&ch=News&c1=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29&c2=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa&c3=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa&c4=article+page&c5=FIFA+Ratify+Suspension+Of+Iraqi+Football+Association&c6=1665888&c12=Desktop&c13=goalglobal%2Cgoalinternational&c14=&c15=http%3A%2F%2Fwww.goal.com%2Fen%2Fnews%2F745%2Ffifa%2F2009%2F12%2F04%2F1665888%2Ffifa-ratify-suspension-of-iraqi-football-association&c16=Iraq&v5=Iraq&c18=&c19=N&c21=745&c22=1665888&c23=&c28=&c29=&c30=&c31=&c32=&c33=&c34=&c51=&v15=" height="1" width="1" border="0" alt="" />');
+}
+</script>
+<noscript><img src="https://web.archive.org/web/20160306144038im_/http://premiumtv.122.2o7.net/b/ss/goalglobal/1/H.25--NS/0?pageName=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa+%3A+FIFA+Ratify+Suspension+Of+Iraqi+Football+Association&amp;g=%2Fen%2Fnews%2F745%2Ffifa%2F2009%2F12%2F04%2F1665888%2Ffifa-ratify-suspension-of-iraqi-football-association&amp;ch=News&amp;c1=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29&amp;c2=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa&amp;c3=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa&amp;c4=article+page&amp;c5=FIFA+Ratify+Suspension+Of+Iraqi+Football+Association&amp;c6=1665888&amp;c12=Desktop&amp;c13=goalglobal%2Cgoalinternational&amp;c14=&amp;c15=http%3A%2F%2Fwww.goal.com%2Fen%2Fnews%2F745%2Ffifa%2F2009%2F12%2F04%2F1665888%2Ffifa-ratify-suspension-of-iraqi-football-association&amp;c16=Iraq&amp;v5=Iraq&amp;c18=&amp;c19=N&amp;c21=745&amp;c22=1665888&amp;c23=&amp;c28=&amp;c29=&amp;c30=&amp;c31=&amp;c32=&amp;c33=&amp;c34=&amp;c51=&amp;v15=" height="1" width="1" border="0" alt=""/></noscript><!-- End SiteCatalyst code version: H.25. -->
+
+<!-- Begin: Google Analytics analytics.js -->
+<script>
+var operaMiniVersion = window.navigator.userAgent.match(/(opera\smini)\/([\w\.-]+)/i);
+if (operaMiniVersion) {
+var gaTrackingPixel = document.createElement('img');
+var gaTrackingPixelUrl = 'https://web.archive.org/web/20160306144038/http://gaproxy.goal.com/collect?v=1&tid=UA-62411523-1&cid=54d7116e-5988-4850-9b8a-1425ae5184dd&t=pageview&dh=www.goal.com&dp=%2Fen%2Fnews%2F745%2Ffifa%2F2009%2F12%2F04%2F1665888%2Ffifa-ratify-suspension-of-iraqi-football-association&cd1=soccer&cd2=Desktop&cd10=International&cd4=FIFA+Ratify+Suspension+Of+Iraqi+Football+Association&cd5=News+%3A+B+-+Popular+Sections+%28Opta%2FTransfer+Zone+etc%29+%3A+Fifa+%3A+FIFA+Ratify+Suspension+Of+Iraqi+Football+Association&cd9=article&cd13=745&cd14=1665888&cd25=Opera+Mini';
+gaTrackingPixelUrl.replace('Opera Mini', operaMiniVersion[2]);
+gaTrackingPixel.setAttribute('src', gaTrackingPixelUrl);
+document.getElementsByTagName('body')[0].appendChild(gaTrackingPixel);
+}else {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//web.archive.org/web/20160306144038/http://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-62411523-1', 'auto', {'legacyHistoryImport': false});
+if (typeof Google_Analytics === 'undefined') {
+var Google_Analytics = {};
+Google_Analytics.pageviewExecute = function() {
+ga('set', 'dimension1', "soccer");
+ga('set', 'dimension2', "Desktop");
+ga('set', 'dimension4', "FIFA Ratify Suspension Of Iraqi Football Association");
+ga('set', 'dimension5', "News : B - Popular Sections (Opta/Transfer Zone etc) : Fifa : FIFA Ratify Suspension Of Iraqi Football Association");
+ga('set', 'dimension9', "article");
+ga('set', 'dimension10', "International");
+ga('set', 'dimension13', "745");
+ga('set', 'dimension14', "1665888");
+ga('send', 'pageview');
+}
+}
+Google_Analytics.pageviewExecute();}</script> <!-- End: New Google Analytics analytics.js --><!-- Hotjar Tracking Code for www.goal.com -->
+<script>
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:71354,hjsv:5};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'//web.archive.org/web/20160306144038/http://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- Begin: MoreVisibleAds -->
+<script type="text/javascript" src="//web.archive.org/web/20160306144038js_/http://wfpscripts.webspectator.com/bootstrap/ws-B112A62E.js">
+</script>
+<!-- End: MoreVisibleAds -->
+<!-- Facebook SDK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//web.archive.org/web/20160306144038/http://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Facebook SDK -->
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push(
+{"article":"auto"});
+!function (e, f, u)
+{ e.async = 1; e.src = u; f.parentNode.insertBefore(e, f); }
+(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//web.archive.org/web/20160306144038/http://cdn.taboola.com/libtrc/performmediagroup-network/loader.js');
+</script>
+</head>
+<body class="page-article dir-ltr lang-en en lang-code-en context-undefined hour-format-24" data-omniture-icid="AR" data-user-country-code="">
+<script type="text/javascript">
+$.omnitureIcid({
+domain: 'goal.com'
+});
+</script>
+<script type="text/javascript">
+var cc_client_id = 3150;
+
+document.write('<scr'+'ipt type="text/javascript" src="https://web.archive.org/web/20160306144038/http://ad.crwdcntrl.net/5/c='+cc_client_id.toString()+'/pe=y/callback=processauds"></scr'+'ipt>');
+
+var adtechCCvals = "";
+function processauds(adtechccauds) {
+if (typeof(adtechccauds) != 'undefined') {
+for (var cci = 0; cci < adtechccauds.Profile.Audiences.Audience.length; cci++) {
+if (cci > 0) adtechCCvals += ":";
+adtechCCvals += adtechccauds.Profile.Audiences.Audience[cci].abbr;
+}
+}
+}
+</script>
+<div class="page-wrapper">
+<div class="module module-cookie-info hidden" data-country-code="GB,UK" data-allowed-edition="en-gb">
+<div class="wrapper">
+<div class="message"></div>
+</div>
+<div class="cookie-content">
+<!--
+<span class="close img-rep"></span>
+<p>We use cookies on this web site... To find out more about cookies, please see our <a href="/en/legal/privacy-policy">Privacy Policy</a>. If you continue using our website, we will assume that you consent to the cookies we set.</p>
+-->
+</div>
+</div>
+<div class="module-outdated-browsers hidden">
+<!--
+<div class="container">
+<p class="ob-msie-6 hidden">
+This website does not support Internet Explorer 6. To get the best experience when using Goal, please update your browser.<span class="ob-nl">Click <a href="http://www.whatbrowser.com/intl/en/" target="_blank">here</a> to update your browser</span>
+</p>
+<p class="ob-msie-7 hidden">
+This website does not support Internet Explorer 7. To get the best experience when using Goal, please update your browser.<span class="ob-nl">Click <a href="http://www.whatbrowser.com/intl/en/" target="_blank">here</a> to update your browser</span>
+</p>
+<p class="ob-msie-8 hidden">
+This website does not support Internet Explorer 8. To get the best experience when using Goal, please update your browser.<span class="ob-nl">Click <a href="http://www.whatbrowser.com/intl/en/" target="_blank">here</a> to update your browser</span>
+</p>
+<p class="ob-msie-9 hidden">
+You are using an outdated browser. To get the best experience when using Goal, please update your browser.<span class="ob-nl">Click <a href="http://www.whatbrowser.com/intl/en/" target="_blank">here</a> to update your browser</span>
+</p>
+<p class="ob-msie-other hidden">
+You are using an outdated browser. To get the best experience when using Goal, please update your browser.<span class="ob-nl">Click <a href="http://www.whatbrowser.com/intl/en/" target="_blank">here</a> to update your browser</span>
+</p>
+<span class="close-button"></span>
+</div>
+-->
+</div>
+<div class="module module-ad leaderboard" id="ad728x90">
+<div>
+<script language="javascript">
+
+(function(dispatch) {
+if ("" === 'mpu' && null && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== null) {
+return false;
+}
+else if ("" === 'floating') {
+if ($.cookie('goal_no_ad_floating_bar')) return false;
+}
+dispatch.call();
+})(function() {
+window.adgroupid = window.adgroupid || Math.round(Math.random() * 1000);document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|3555308|0|225|ADTECH;cookie=info;alias=enTL;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/adlink|3.0|327.0|3555308|0|225|ADTECH;loc=300;alias=enTL;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;" target="_blank">
+<img src="https://web.archive.org/web/20160306144038im_/http://adserver.adtech.de/adserv|3.0|327.0|3555308|0|225|ADTECH;loc=300;alias=enTL;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;">
+</a>
+</noscript></div>
+</div>
+
+<div class="module-edition-picker" data-module="editionpicker">
+<div class="clearfix">
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/en" class="flag-en">International</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-us" class="flag-en-us">America</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-ar" class="flag-es-ar">Argentina</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-au" class="flag-en-au">Australia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ba" class="flag-ba">Bosna i Hercegovina</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/br" class="flag-br">Brasil</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ca" class="flag-en-ca">Canada</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/es-cl" class="flag-es-cl">Chile</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-co" class="flag-es-co">Colombia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/de" class="flag-de">Deutsch</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es" class="flag-es">España</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/fr" class="flag-fr">Français</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-gh" class="flag-en-gh">Ghana</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/hr" class="flag-hr">Hrvatska</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/en-india" class="flag-en-india">India</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/id-ID" class="flag-id-ID">Indonesia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ie" class="flag-en-ie">Ireland</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/it" class="flag-it">Italia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ke" class="flag-en-ke">Kenya</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-my" class="flag-en-my">Malaysia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-mx" class="flag-es-mx">México</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/nl" class="flag-nl">Nederlands</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ng" class="flag-en-ng">Nigeria</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-sg" class="flag-en-sg">Singapore</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-za" class="flag-en-za">South Africa</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-tz" class="flag-en-tz">Tanzania</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/tr" class="flag-tr">Türkçe</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-gb" class="flag-en-gb">UK</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/hk" class="flag-hk">繁體中文</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/kr" class="flag-kr">한국어</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/jp" class="flag-jp">日本語</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/th" class="flag-th">ภาษาไทย</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ar" class="flag-ar">العربية</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ar-eg" class="flag-ar-eg">المصرية</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ar-sa" class="flag-ar-sa">السعودية</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/rs" class="flag-rs">Srbija</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/si" class="flag-si">Slovenija</a></li>
+</ul>
+</div>
+</div>
+<header class="module-header clearfix" data-module="header">
+<ul>
+<li class="edition-picker-trigger">
+<a href="#" class="flag-en" data-role="edition-picker-opener"> <b>Edition</b>: International</a>
+</li>
+<li>
+<a data-role="sign-out" data-user-state="logged-in" href="https://web.archive.org/web/20160306144038/https://secure.goal.com/en/account/logout" class="logout">Sign out</a>
+<a data-role="sign-in" data-user-state="logged-out" href="#" data-url="https://web.archive.org/web/20160306144038/https://secure.goal.com/en/account/login" class="login">Register / Login</a>
+</li>
+<li class="social">
+<span>Follow us on</span>
+<a href="https://web.archive.org/web/20160306144038/https://www.facebook.com/Goal" class="facebook img-rep" target="_blank">Facebook</a>
+<a href="https://web.archive.org/web/20160306144038/http://twitter.com/goal_intl" class="twitter img-rep" target="_blank">Twitter</a>
+<a href="https://web.archive.org/web/20160306144038/http://www.youtube.com/goal" class="youtube img-rep" target="_blank">YouTube</a>
+<a href="https://web.archive.org/web/20160306144038/http://www.instagram.com/goalglobal" class="instagram img-rep" target="_blank">instagram</a>
+<a href="https://web.archive.org/web/20160306144038/https://plus.google.com/+Goal" class="googleplus img-rep" target="_blank">Google+</a>
+<a href="/web/20160306144038/http://www.goal.com/en/feeds/news?id=745&amp;fmt=rss" class="rss img-rep" target="_blank">RSS</a>
+</li>
+</ul>
+<div class="main-logo"><a href="/web/20160306144038/http://www.goal.com/en" class="img-rep">Goal.com - Home</a></div>
+<div class="user" data-user-state="logged-in">
+<a href="https://web.archive.org/web/20160306144038/https://secure.goal.com/en/account">
+<img data-user="thumbnail" src="/web/20160306144038im_/http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association" height="23" width="23" alt="thumbnail">
+</a>
+<span class="greeting">Hello,</span>
+<a href="https://web.archive.org/web/20160306144038/https://secure.goal.com/en/account" data-user="nickname"></a>
+</div>
+</header>
+
+<div class="module-navigation" data-module="navigation" data-omniture-icid="TN">
+<div>
+<ul class="main clearfix" data-navigation>
+<li data-omniture-icid="1">
+<a href="/web/20160306144038/http://www.goal.com/en/">Home</a>
+</li>
+<li data-omniture-icid="2">
+<a href="/web/20160306144038/http://www.goal.com/en/news/archive/1">News</a>
+<ul class="sub">
+<li>
+<span>News</span>
+<ul data-omniture-icid="1">
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/archive/1">All news</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/596/exclusive/archive/">Exclusives</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/1785/fifa-ballon-dor">Ballon d'Or</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/1715/match-preview/archive/1">Match Previews</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/1127/player-ratings/archive/1">Player Ratings</a></li>
+</ul>
+</li>
+<li>
+<span>Europe</span>
+<ul data-omniture-icid="2">
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/9/england/archive/1">England</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/12/spain/archive/1">Spain</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/10/italy/archive/1">Italy</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/15/germany/archive/1">Germany</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/1549/rest-of-europe-football/archive/1">Rest of Europe</a></li>
+</ul>
+</li>
+<li>
+<span>Rest of the World</span>
+<ul data-omniture-icid="3">
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/60/south-america/archive/1">South America</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/14/asia-football-news/archive/1">Asia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/89/africa/archive/1">Africa</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/news/13/usa-soccer-united-states-football-news/archive/1">America</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-omniture-icid="3">
+<a href="/web/20160306144038/http://www.goal.com/en/news/2466/goal-50">Goal 50</a>
+</li>
+<li data-omniture-icid="4">
+<a href="#">Competitions</a>
+<ul class="sub">
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1716/champions-league">Champions League</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/586/copa-america">Copa America</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/9/england-football-news">Premier League</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/12/spain-football-news">La Liga</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/10/italy-football-news">Serie A</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/15/germany-football-news">Bundesliga</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/166/europa-league">Europa League</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1549/rest-of-europe-football">Rest of Europe</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/7157/euro-2016-qualifiers">Euro 2016 Qualifiers</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/brasilglobaltour/en" target="_blank">Brasil Global Tour</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/7094/huawei-european-team-ranking">Huawei Team Ranking</a>
+</li>
+</ul>
+</li>
+<li data-omniture-icid="5">
+<a href="#">Clubs</a>
+<ul class="sub">
+<li>
+<span>England</span>
+<ul data-omniture-icid="1">
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/england/arsenal/660">Arsenal</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/england/chelsea/661">Chelsea</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/england/liverpool/663">Liverpool</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/england/manchester-city/676">Manchester City</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/england/manchester-united/662">Manchester United</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/england/tottenham-hotspur/675">Tottenham</a></li>
+</ul>
+</li>
+<li>
+<span>Spain</span>
+<ul data-omniture-icid="2">
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/spain/barcelona/2017">Barcelona</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/spain/real-madrid/2016">Real Madrid</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/spain/atl%C3%A9tico-madrid/2020">Atletico Madrid</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/spain/real-sociedad/2028">Real Sociedad</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/spain/sevilla/2021">Sevilla</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/spain/valencia/2015">Valencia</a></li>
+</ul>
+</li>
+<li>
+<span>Italy</span>
+<ul data-omniture-icid="3">
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/italy/milan/1240">AC Milan</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/italy/juventus/1242">Juventus</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/italy/fiorentina/1259">Fiorentina</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/italy/internazionale/1244">Inter</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/italy/napoli/1270">Napoli</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/italy/roma/1241">Roma</a></li>
+</ul>
+</li>
+<li>
+<span>Germany</span>
+<ul data-omniture-icid="4">
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/germany/bayern-m%C3%BCnchen/961">Bayern Munich</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/germany/borussia-dortmund/964">Borussia Dortmund</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/germany/bayer-leverkusen/963">Leverkusen</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/germany/wolfsburg/968">Wolfsburg</a></li>
+</ul>
+</li>
+<li>
+<span>France</span>
+<ul data-omniture-icid="5">
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/france/psg/886">Paris Saint-Germain</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/monaco/monaco/885">Monaco</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/france/olympique-lyonnais/884">Olympique Lyonnais</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/france/olympique-marseille/890">Olympique de Marseille</a></li>
+</ul>
+</li>
+<li>
+<span>Rest of Europe</span>
+<ul data-omniture-icid="6">
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/netherlands/ajax/1515">Ajax</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/scotland/celtic/1898">Celtic</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/turkey/galatasaray/2217">Galatasaray</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/teams/portugal/porto/1678">Porto</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-omniture-icid="6">
+<a href="/web/20160306144038/http://www.goal.com/en/live-scores">LIVE</a>
+<ul class="sub">
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/live-scores">Live Football Scores</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/5312/featured-story/2013/10/25/4356045/new-the-ultimate-app-for-live-scores">Goal Live Scores Mobile App</a>
+</li>
+</ul>
+</li>
+<li data-omniture-icid="7">
+<a href="/web/20160306144038/http://www.goal.com/en/news/11/transfer-zone">Transfers</a>
+<ul class="sub">
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/rumours/last/72">Transfer Talk</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/live-update/1054/transfer-window-live">Transfers LIVE</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/11/transfer-zone/archive/1">Latest News</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/scores/transfer-zone">Done Deals</a>
+</li>
+</ul>
+</li>
+<li data-omniture-icid="8">
+<a href="/web/20160306144038/http://www.goal.com/en/news/1717/editorial/archive/1">Features</a>
+<ul class="sub">
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1717/editorial/archive/1">All Features</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1126/english-debate/archive/1">England</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1125/spanish-debate/archive/1">Spain</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1124/calcio-debate/archive/1">Italy</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/7180/galleries/2015/03/05/9449332/goal-rich-list-2015">Rich List 2015</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/3947/cartoon-of-the-day/2016/03/03/20866272/cartoon-of-the-day-march">Cartoon of the Day</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1718/team-of-the-week/archive/1">Teams of the Week</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1715/match-preview/archive/1">Match Preview</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1716/champions-league/archive/1">Champions League</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/1127/player-ratings/archive/1">Player Ratings</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/755/europe/2015/07/01/13209142/play-the-new-goal-fantasy-football-game?ICID=HP_BN_8">Fantasy Football</a>
+</li>
+</ul>
+</li>
+<li data-omniture-icid="9">
+<a href="/web/20160306144038/http://www.goal.com/en/news/2994/goal-com-betting">Bet</a>
+<ul class="sub">
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/2994/goal-com-betting">Betting Home</a>
+</li>
+</ul>
+</li>
+<li class="more"><a href="#">More</a></li>
+</ul>
+<span class="slide-left" data-role="submenu-slider"></span>
+<span class="slide-right" data-role="submenu-slider"></span>
+</div>
+<form action="/web/20160306144038/http://www.goal.com/en/search" method="get" class="form-search">
+<input type="search" name="q" placeholder="Search for team or player" class="keyword" required="required">
+<input type="submit" value="" class="submit">
+</form>
+</div>
+
+<div class="main-section">
+<div class="main-content clearfix" role="main">
+<article class="module-article" itemscope itemtype="http://schema.org/Article">
+<div class="module module-ad header-strip">
+<script language="javascript">
+
+(function(dispatch) {
+if ("" === 'mpu' && "NAV" && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== "NAV") {
+return false;
+}
+else if ("" === 'floating') {
+if ($.cookie('goal_no_ad_floating_bar')) return false;
+}
+dispatch.call();
+})(function() {
+window.adgroupid = window.adgroupid || Math.round(Math.random() * 1000);document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|5249175|0|16|ADTECH;cookie=info;alias=enNAV;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/adlink|3.0|327.0|5249175|0|16|ADTECH;loc=300;alias=enNAV;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;" target="_blank">
+<img src="https://web.archive.org/web/20160306144038im_/http://adserver.adtech.de/adserv|3.0|327.0|5249175|0|16|ADTECH;loc=300;alias=enNAV;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;">
+</a>
+</noscript></div>
+<div data-role="view-count" data-gid="1714293"></div><div class="top-section clearfix">
+<header class="article-header default">
+<img class="article-image" itemprop="image" src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/49000/49046_heroa.jpg" alt="FIFA Ratify Suspension Of Iraqi Football Association" width="620" height="430">
+<div class="headlines">
+<h1 itemprop="headline"><span><span>FIFA Ratify Suspension Of Iraqi Football Association</span></span></h1>
+</div>
+</header>
+<aside>
+<section class="module module-article-featured-story" data-omniture-icid="FS">
+<header class="widget-header">
+<h2>Featured</h2>
+<div class="branding"></div>
+</header>
+<article>
+<a href="/web/20160306144038/http://www.goal.com/en/live-update/3792/live-matchday-blog">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2763600/2763672_sq_thumb.jpg" alt="" width="72" height="72">
+</a>
+<h3><a href="/web/20160306144038/http://www.goal.com/en/news/14482/matchday-blog">Matchday Blog</a></h3>
+<h2><a href="/web/20160306144038/http://www.goal.com/en/live-update/3792/live-matchday-blog">Sunday's football - all the action LIVE!</a></h2>
+<div class="module module-social-share-icons dark" data-role="share-icons" data-url="https://web.archive.org/web/20160306144038oe_/http://www.goal.com/en/live-update/3792/live-matchday-blog" data-title="Sunday's football - all the action LIVE!" data-description="Liverpool face Crystal Palace in the early kick off, while Barcelona, Man Utd, Juventus and AC Milan are all in action across the day - follow it LIVE on Goal!" data-image="http://static.goal.com/2763600/2763672_hp.jpg">
+<div id="unique-shareicon-1" data-provider="twitter" data-url-suffix="" class="twitter">
+</div>
+<div id="unique-shareicon-1" data-provider="facebook" data-url-suffix="" class="facebook">
+</div>
+</div>
+</article>
+</section>
+<section class="module module-article-related-stories" data-omniture-icid="RS">
+<header class="widget-header">
+<h2>Related Stories</h2>
+<div class="branding"></div>
+</header>
+<article data-omniture-role="item">
+<h3><a href="/web/20160306144038/http://www.goal.com/en/news/14/asia">Asia</a></h3>
+<h2><a href="/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/11/17/1630347/fifa-express-concern-about-iraqi-fa-situation">FIFA Express Concern About Iraqi FA Situation</a></h2>
+</article>
+<article data-omniture-role="item">
+<h3><a href="/web/20160306144038/http://www.goal.com/en/news/14/asia">Asia</a></h3>
+<h2><a href="/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/11/20/1637256/fifa-suspend-iraqi-football-association">FIFA Suspend Iraqi Football Association</a></h2>
+</article>
+</section></aside>
+<a class="arrow prev" href="/web/20160306144038/http://www.goal.com/en/news/745/fifa/2015/12/06/18063162/nothing-secretive-about-fifa-payment-to-platini-claims"><span>Next</span></a>
+</div>
+
+<div class="article-section clearfix" data-matchid="">
+<div class="article-content">
+<div class="module module-ad mpu-620x50">
+<script language="javascript">
+
+(function(dispatch) {
+if ("" === 'mpu' && null && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== null) {
+return false;
+}
+else if ("" === 'floating') {
+if ($.cookie('goal_no_ad_floating_bar')) return false;
+}
+dispatch.call();
+})(function() {
+window.adgroupid = window.adgroupid || Math.round(Math.random() * 1000);document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|4618327|0|16|ADTECH;cookie=info;alias=enST;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/adlink|3.0|327.0|4618327|0|16|ADTECH;loc=300;alias=enST;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;" target="_blank">
+<img src="https://web.archive.org/web/20160306144038im_/http://adserver.adtech.de/adserv|3.0|327.0|4618327|0|16|ADTECH;loc=300;alias=enST;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;">
+</a>
+</noscript></div>
+<section class="module module-article-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<header class="clearfix">
+<h2 class="author"></h2>
+<div class="social-wrapper">
+<div class="module module-social-share-comments">
+<a href="#article-comments" class="comments-link"></a>
+<span class="comment-count">0</span>
+</div>
+<div class="module module-social-share-wide" data-plugin="gigya-share" data-url="https://web.archive.org/web/20160306144038oe_/http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association" data-title="FIFA Ratify Suspension Of Iraqi Football Association" data-description="The suspension of the Iraqi Football Association has been ratified..." data-image="http://static.goal.com/49000/49046_hp.jpg" data-stream-id="article_1665888" data-category-id="en" data-providers="facebook,google,yahoo,twitter" data-blank-img-url="http://i1.goal.com/web/goal/2016.03.03-v1/images/module/blank.png" data-share-icons="{&quot;facebook&quot;:&quot;http://i2.goal.com/web/goal/2016.03.03-v1/images/module/social-share-icons/facebook-share.png&quot;}" id="unique-id-2">
+</div></div>
+</header>
+<div class="author-info"></div>
+</section>
+<div class="module module-article-body clearfix">
+<time datetime="2009-12-04T15:14:37+00:00" itemprop="datePublished">Dec 4, 2009 15:14:37</time>
+<div itemprop="articleBody" class="article-text">
+<p class="leading">The suspension of the Iraqi Football Association has been ratified...</p>
+<div class="module module-ad fresh8-inline-leaderboar">
+<!-- Begin: Fresh8 placement --> <div id="f8-005"></div><!-- End: Fresh8 placement --></div>
+<!-- Article Start -->
+The FIFA Executive Committee has decided to ratify the suspension imposed on the
+Iraqi Football Association by the FIFA Emergency Committee on 20
+November 2009 due to governmental interference.<span dir="ltr" id="ecx:r8"><br><br></span><span dir="ltr" id="ecx:r8">The
+FIFA Emergency Committee had previously decided to suspend
+the IFA until the decision of the Iraqi Olympic Committee </span><span dir="ltr" id="ecx:r8">to disband the IFA </span><span dir="ltr" id="ecx:r8">was revoked
+and the IFA retook possession of its offices.<br><br>In accordance
+with FIFA Statutes, the clubs and representative teams of Iraq are no
+longer permitted to take part in international matches, whether
+friendly or competitive.<br><br>Furthermore, the IFA has been deprived of
+its right to vote at any congresses held by international bodies and is
+no longer entitled to receive financial assistance. </span><br><br><div class="module module-ad fresh8-footer-widget">
+<!-- Begin: Fresh8 placement --> <div id="f8-007"></div><!-- End: Fresh8 placement --></div>
+<i><b>Stefan Coerts, Goal.com</b></i><br><!-- Article End -->
+</div>
+</div>
+
+<section class="module module-article-related-articles" data-omniture-icid="RA">
+<header class="widget-header">
+<h2>Related</h2>
+</header>
+<ul>
+<li class="tags" itemprop="keywords">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/iraq/iraq/1179">Iraq</a></li>
+<li data-omniture-role="item"><a href="/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/11/17/1630347/fifa-express-concern-about-iraqi-fa-situation">FIFA Express Concern About Iraqi FA Situation</a></li>
+<li data-omniture-role="item"><a href="/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/11/20/1637256/fifa-suspend-iraqi-football-association">FIFA Suspend Iraqi Football Association</a></li>
+</ul>
+</section>
+<div class="module-ad-taboola">
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push(
+{ mode: 'thumbnails-a', container: 'taboola-below-article-thumbnails', placement: 'Below Article Thumbnails', target_type: 'mix' }
+);
+</script>
+</div>
+<div class="module module-gigya-comments">
+<a name="article-comments"></a>
+<div id="unique-id-3" data-role="comments" data-stream-id="article_1665888" data-stream-tags="section_14,section_745,section_1277" data-stream-title="FIFA Ratify Suspension Of Iraqi Football Association" data-stream-url="http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association" data-width="620" data-category-id="en" data-translations-title="Leave a comment">
+</div>
+</div>
+</div>
+<div class="article-sidebar">
+<div class="module module-ad mpu-300x250">
+<script language="javascript">
+
+(function(dispatch) {
+if ("mpu" === 'mpu' && null && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== null) {
+return false;
+}
+else if ("mpu" === 'floating') {
+if ($.cookie('goal_no_ad_floating_bar')) return false;
+}
+dispatch.call();
+})(function() {
+window.adgroupid = window.adgroupid || Math.round(Math.random() * 1000);document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|3555309|0|170|ADTECH;cookie=info;alias=enTM;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/adlink|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=enTM;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;" target="_blank">
+<img src="https://web.archive.org/web/20160306144038im_/http://adserver.adtech.de/adserv|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=enTM;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;">
+</a>
+</noscript></div>
+<div class="module-ad-taboola">
+<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push(
+{ mode: 'thumbnails-rr', container: 'taboola-right-rail-thumbnails', placement: 'Right Rail Thumbnails', target_type: 'mix' }
+);
+</script>
+</div>
+<div class="module module-ad">
+<script language="javascript">
+
+(function(dispatch) {
+if ("" === 'mpu' && "UEFA-W1" && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== "UEFA-W1") {
+return false;
+}
+else if ("" === 'floating') {
+if ($.cookie('goal_no_ad_floating_bar')) return false;
+}
+dispatch.call();
+})(function() {
+window.adgroupid = window.adgroupid || Math.round(Math.random() * 1000);document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|5249176|0|16|ADTECH;cookie=info;alias=enW1;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/adlink|3.0|327.0|5249176|0|16|ADTECH;loc=300;alias=enW1;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;" target="_blank">
+<img src="https://web.archive.org/web/20160306144038im_/http://adserver.adtech.de/adserv|3.0|327.0|5249176|0|16|ADTECH;loc=300;alias=enW1;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;">
+</a>
+</noscript></div>
+
+<section class="module module-competitions" data-plugin="tabs" data-omniture-icid="CO">
+<header class="widget-header">
+<h2>Competitions</h2>
+</header>
+<ul class="tabs">
+<li class="tab" data-tab="schedule"><a href="#">Schedule</a></li>
+<li class="tab" data-tab="table"><a href="#">Table</a></li>
+</ul>
+<div class="selector">
+<select id="clubs-league-list" data-plugin="customDropdown">
+<option selected="selected" data-country-code="ENG" data-area-id="68" value="8">
+Premier League</option>
+<script type="text/template" data-role="branding" data-competition="8">
+</script>
+<option data-country-code="ESP" data-area-id="176" value="7">
+Primera División</option>
+<script type="text/template" data-role="branding" data-competition="7">
+</script>
+<option data-country-code="ITA" data-area-id="100" value="13">
+Serie A</option>
+<script type="text/template" data-role="branding" data-competition="13">
+</script>
+<option data-country-code="DEU" data-area-id="80" value="9">
+Bundesliga</option>
+<script type="text/template" data-role="branding" data-competition="9">
+</script>
+<option data-country-code="FRA" data-area-id="76" value="16">
+Ligue 1</option>
+<script type="text/template" data-role="branding" data-competition="16">
+</script>
+<option data-country-code="NLD" data-area-id="138" value="1">
+Eredivisie</option>
+<script type="text/template" data-role="branding" data-competition="1">
+</script>
+<option data-country-code="" data-area-id="7" value="10">
+UEFA Champions League</option>
+<script type="text/template" data-role="branding" data-competition="10">
+</script>
+<option data-country-code="" data-area-id="7" value="18">
+UEFA Europa League</option>
+<script type="text/template" data-role="branding" data-competition="18">
+</script>
+<option data-country-code="" data-area-id="4" value="247">
+CONCACAF Gold Cup</option>
+<script type="text/template" data-role="branding" data-competition="247">
+</script>
+<option data-country-code="" data-area-id="5" value="288">
+Copa America</option>
+<script type="text/template" data-role="branding" data-competition="288">
+</script>
+<option data-country-code="" data-area-id="7" value="1000">
+EC Qualification</option>
+<script type="text/template" data-role="branding" data-competition="1000">
+</script>
+<option data-country-code="" data-area-id="3" value="385">
+Africa Cup of Nations</option>
+<script type="text/template" data-role="branding" data-competition="385">
+</script>
+<option data-country-code="" data-area-id="5" value="225">
+WC Qualification South America</option>
+<script type="text/template" data-role="branding" data-competition="225">
+</script>
+<option data-country-code="" data-area-id="2" value="229">
+WC Qualification Asia</option>
+<script type="text/template" data-role="branding" data-competition="229">
+</script>
+<option data-country-code="" data-area-id="4" value="227">
+WC Qualification CONCACAF</option>
+<script type="text/template" data-role="branding" data-competition="227">
+</script>
+<option data-country-code="" data-area-id="6" value="230">
+WC Qualification Oceania</option>
+<script type="text/template" data-role="branding" data-competition="230">
+</script>
+<option data-country-code="" data-area-id="7" value="224">
+WC Qualification Europe</option>
+<script type="text/template" data-role="branding" data-competition="224">
+</script>
+</select>
+</div>
+<section class="tab-content schedule" data-omniture-icid="SC" data-tabcontent="schedule" data-competitionid="8">
+
+<header>
+<div class="matchday-selector">
+<div class="btn arrow left" data-gameweek="28" data-roundid="31553"></div>
+<div class="btn arrow right" data-gameweek="30" data-roundid="31553"></div>
+<div class="matchday-name">
+Matchday 29</div>
+</div>
+</header>
+<div class="wrapper">
+<ul class="games">
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/tottenham-hotspur/675" title="TOT">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-675" width="20" height="20">
+<span>TOT</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/tottenham-hotspur-vs-arsenal/2043446">
+
+2&#8202;-&#8202;2
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/arsenal/660" title="Arsenal FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-660" width="20" height="20">
+<span>ARS</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/manchester-city/676" title="MCI">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-676" width="20" height="20">
+<span>MCI</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/manchester-city-vs-aston-villa/2043448">
+
+4&#8202;-&#8202;0
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/aston-villa/665" title="Aston Villa FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-665" width="20" height="20">
+<span>AST</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/newcastle-united/664" title="NEW">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-664" width="20" height="20">
+<span>NEW</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/newcastle-united-vs-afc-bournemouth/2043449">
+
+1&#8202;-&#8202;3
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/afc-bournemouth/711" title="AFC Bournemouth">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-711" width="20" height="20">
+<span>BOR</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/wales/swansea-city/738" title="SWA">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-738" width="20" height="20">
+<span>SWA</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/swansea-city-vs-norwich-city/2043456">
+
+1&#8202;-&#8202;0
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/norwich-city/677" title="Norwich City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-677" width="20" height="20">
+<span>NOR</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/chelsea/661" title="CHE">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-661" width="20" height="20">
+<span>CHE</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/chelsea-vs-stoke-city/2043458">
+
+1&#8202;-&#8202;1
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/stoke-city/690" title="Stoke City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-690" width="20" height="20">
+<span>STO</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/southampton/670" title="SOT">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-670" width="20" height="20">
+<span>SOT</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/southampton-vs-sunderland/2043460">
+
+1&#8202;-&#8202;1
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/sunderland/683" title="Sunderland AFC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-683" width="20" height="20">
+<span>SUN</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/everton/674" title="EVE">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-674" width="20" height="20">
+<span>EVE</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/everton-vs-west-ham-united/2043462">
+
+2&#8202;-&#8202;3
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/west-ham-united/684" title="West Ham United FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-684" width="20" height="20">
+<span>WHU</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+FT</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/watford/696" title="WAT">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-696" width="20" height="20">
+<span>WAT</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/watford-vs-leicester-city/2043451">
+
+0&#8202;-&#8202;1
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/leicester-city/682" title="Leicester City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-682" width="20" height="20">
+<span>LEI</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+06/03</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/crystal-palace/679" title="CRY">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-679" width="20" height="20">
+<span>CRY</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/crystal-palace-vs-liverpool/2043452">
+
+13:30
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/liverpool/663" title="Liverpool FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-663" width="20" height="20">
+<span>LIV</span>
+</a>
+</div>
+</li>
+<li class="game" data-omniture-role="item">
+<span class="date-state">
+06/03</span>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/west-bromwich-albion/678" title="WBA">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-678" width="20" height="20">
+<span>WBA</span>
+</a>
+</div>
+
+<a class="info" href="/web/20160306144038/http://www.goal.com/en/match/west-bromwich-albion-vs-manchester-united/2043454">
+
+16:00
+</a>
+
+<div class="module module-team away">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/manchester-united/662" title="Manchester United FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-662" width="20" height="20">
+<span>MUN</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+
+</section>
+<section class="tab-content table" data-omniture-icid="TA" data-tabcontent="table" data-competitionid="8">
+<header>
+<b class="title">Team</b>
+<b class="title">P</b>
+<b class="title">Pts</b>
+</header>
+<div class="wrapper">
+<table>
+<tbody>
+<tr data-omniture-role="item">
+<td>1</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/leicester-city/682" title="Leicester City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-682" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Leicester City FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/leicester-city/682">
+Leicester City FC</a>
+</td>
+<td>29</td>
+<td>60</td>
+</tr>
+<tr data-omniture-role="item">
+<td>2</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/tottenham-hotspur/675" title="Tottenham Hotspur FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-675" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Tottenham Hotspur FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/tottenham-hotspur/675">
+Tottenham Hotspur FC</a>
+</td>
+<td>29</td>
+<td>55</td>
+</tr>
+<tr data-omniture-role="item">
+<td>3</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/arsenal/660" title="Arsenal FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-660" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Arsenal FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/arsenal/660">
+Arsenal FC</a>
+</td>
+<td>29</td>
+<td>52</td>
+</tr>
+<tr data-omniture-role="item">
+<td>4</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/manchester-city/676" title="Manchester City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-676" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Manchester City FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/manchester-city/676">
+Manchester City FC</a>
+</td>
+<td>28</td>
+<td>50</td>
+</tr>
+<tr data-omniture-role="item">
+<td>5</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/west-ham-united/684" title="West Ham United FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-684" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="West Ham United FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/west-ham-united/684">
+West Ham United FC</a>
+</td>
+<td>29</td>
+<td>49</td>
+</tr>
+<tr data-omniture-role="item">
+<td>6</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/manchester-united/662" title="Manchester United FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-662" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Manchester United FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/manchester-united/662">
+Manchester United FC</a>
+</td>
+<td>28</td>
+<td>47</td>
+</tr>
+<tr data-omniture-role="item">
+<td>7</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/stoke-city/690" title="Stoke City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-690" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Stoke City FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/stoke-city/690">
+Stoke City FC</a>
+</td>
+<td>29</td>
+<td>43</td>
+</tr>
+<tr data-omniture-role="item">
+<td>8</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/southampton/670" title="Southampton FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-670" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Southampton FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/southampton/670">
+Southampton FC</a>
+</td>
+<td>29</td>
+<td>41</td>
+</tr>
+<tr data-omniture-role="item">
+<td>9</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/liverpool/663" title="Liverpool FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-663" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Liverpool FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/liverpool/663">
+Liverpool FC</a>
+</td>
+<td>27</td>
+<td>41</td>
+</tr>
+<tr data-omniture-role="item">
+<td>10</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/chelsea/661" title="Chelsea FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-661" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Chelsea FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/chelsea/661">
+Chelsea FC</a>
+</td>
+<td>29</td>
+<td>40</td>
+</tr>
+<tr data-omniture-role="item">
+<td>11</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/everton/674" title="Everton FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-674" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Everton FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/everton/674">
+Everton FC</a>
+</td>
+<td>28</td>
+<td>38</td>
+</tr>
+<tr data-omniture-role="item">
+<td>12</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/watford/696" title="Watford FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-696" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Watford FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/watford/696">
+Watford FC</a>
+</td>
+<td>29</td>
+<td>37</td>
+</tr>
+<tr data-omniture-role="item">
+<td>13</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/west-bromwich-albion/678" title="West Bromwich Albion FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-678" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="West Bromwich Albion FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/west-bromwich-albion/678">
+West Bromwich Albion FC</a>
+</td>
+<td>28</td>
+<td>36</td>
+</tr>
+<tr data-omniture-role="item">
+<td>14</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/afc-bournemouth/711" title="AFC Bournemouth">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-711" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="AFC Bournemouth" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/afc-bournemouth/711">
+AFC Bournemouth</a>
+</td>
+<td>29</td>
+<td>35</td>
+</tr>
+<tr data-omniture-role="item">
+<td>15</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/crystal-palace/679" title="Crystal Palace FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-679" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Crystal Palace FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/crystal-palace/679">
+Crystal Palace FC</a>
+</td>
+<td>28</td>
+<td>33</td>
+</tr>
+<tr data-omniture-role="item">
+<td>16</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/wales/swansea-city/738" title="Swansea City AFC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-738" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Swansea City AFC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/wales/swansea-city/738">
+Swansea City AFC</a>
+</td>
+<td>29</td>
+<td>33</td>
+</tr>
+<tr data-omniture-role="item">
+<td>17</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/sunderland/683" title="Sunderland AFC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-683" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Sunderland AFC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/sunderland/683">
+Sunderland AFC</a>
+</td>
+<td>29</td>
+<td>25</td>
+</tr>
+<tr data-omniture-role="item">
+<td>18</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/norwich-city/677" title="Norwich City FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-677" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Norwich City FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/norwich-city/677">
+Norwich City FC</a>
+</td>
+<td>29</td>
+<td>24</td>
+</tr>
+<tr data-omniture-role="item">
+<td>19</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/newcastle-united/664" title="Newcastle United FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i1.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-664" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Newcastle United FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/newcastle-united/664">
+Newcastle United FC</a>
+</td>
+<td>28</td>
+<td>24</td>
+</tr>
+<tr data-omniture-role="item">
+<td>20</td>
+<td>
+<div class="module module-team home">
+<a href="/web/20160306144038/http://www.goal.com/en/teams/england/aston-villa/665" title="Aston Villa FC">
+<img src="https://web.archive.org/web/20160306144038im_/http://i2.goal.com/web/goal/2016.03.03-v1/images/blank.png" alt="blank" class="team-logo competition-8 team-665" width="20" height="20">
+<span></span>
+</a>
+</div>
+</td>
+<td class="team-name">
+<a title="Aston Villa FC" href="https://web.archive.org/web/20160306144038/http://www.goal.com/en/teams/england/aston-villa/665">
+Aston Villa FC</a>
+</td>
+<td>29</td>
+<td>16</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<footer data-omniture-icid="FX" class="widget-footer" data-role="view-all-schedule"><a href="/web/20160306144038/http://www.goal.com/en/live-scores/fixtures?tab=all" class="btn">view all</a></footer>
+<footer data-omniture-icid="ST" class="widget-footer" data-role="view-all-table"><a href="/web/20160306144038/http://www.goal.com/en/live-scores/standings" class="btn">view all</a></footer>
+</section>
+<div class="module module-ad fresh8-mpu">
+<!-- Begin: Fresh8 placement --> <div id="f8-003"></div><!-- End: Fresh8 placement --></div>
+
+<section class="module module-popular-now" data-plugin="tabs" data-omniture-icid="PN">
+<header class="widget-header">
+<h2>Popular Now</h2>
+</header>
+<ul class="tabs">
+<li class="tab" data-tab="most-read"><a href="#">Most Read</a></li>
+<li class="tab" data-tab="most-discussed"><a href="#">Most Discussed</a></li>
+</ul>
+<div class="tab-content read" data-tabcontent="most-read">
+<ol>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/03/20956132/ronaldo-i-dream-of-scoring-impossible-goal" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://images.performgroup.com/di/library/goal_es/33/ac/cristiano-ronaldo-levante-real-madrid-02032016_1vihor7ddkhzi1baqyaq7mum14.jpg?t=957582355&amp;w=40&amp;h=40" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Ronaldo dreams of 'impossible' goal</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/584/brazil/2016/03/03/20967472/neymar-must-cope-with-off-field-issues-dunga" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://images.performgroup.com/di/library/omnisport/5b/83/neymar-cropped_1jl1zd1kdckkn1uzkim5arffvk.jpg?t=1036561835&amp;w=40&amp;h=40" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Dunga: Neymar must cope with pressure</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/03/20967062/neymar-matches-ronaldinhos-barcelona-record" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2771700/2771772_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Neymar matches Ronaldinho record</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/03/20964502/messi-record-breaking-barca-still-making-la-liga-look-easy" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2793200/2793242_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Messi &amp; Barca making La Liga look easy</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/05/21021942/with-this-ronaldo-every-week-madrid-would-be-first-in-la" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2801100/2801142_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">With this Ronaldo, Real WOULD be first</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/05/21010672/maradona-i-would-have-punched-messi-over-that-penalty-with" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2631400/2631422_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Maradona: I would have punched Messi</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/1862/premier-league/2016/03/04/20981652/he-sits-in-the-best-seats-wenger-hits-back-at-henry" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://images.performgroup.com/di/library/omnisport/91/fc/thierryhenryarsenewenger-cropped_1viel1jtdbz1n1degssu7ceb17.jpg?t=1093934867&amp;w=40&amp;h=40" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Wenger hits back at Henry</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/05/21020462/real-madrid-7-1-celta-vigo-ronaldo-quadruple-obliterates" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2801200/2801222_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">REPORT: Ronaldo obliterates Celta</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/03/20843222/barcelona-surpass-real-madrid-to-set-new-unbeaten-record" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2792800/2792892_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Barca break Madrid's unbeaten record</span>
+</a>
+</li>
+<li itemscope itemtype="http://schema.org/Article">
+<a class="clearfix" href="/web/20160306144038/http://www.goal.com/en/news/722/la-liga/2016/03/05/21022112/ronaldo-responds-to-real-madrid-whistles-with-celebration" itemprop="url">
+<img src="https://web.archive.org/web/20160306144038im_/http://static.goal.com/2801100/2801142_mugshot.jpg" width="38" height="38" class="icon" alt="">
+<span class="title" itemprop="headline">Ronaldo responds to Madrid whistles</span>
+</a>
+</li>
+</ol>
+</div>
+<div class="tab-content discussed" data-tabcontent="most-discussed">
+<ol data-plugin="most-discussed" data-stream-tag="" data-max-stream-age="7" data-limit="10" data-category-id="en">
+<!--
+<li class="clearfix" itemscope itemtype="http://schema.org/Article">
+<a class="comments" href="<%= url %>#article-comments">
+<span class="comment-ico img-rep">comments:</span>
+<span class="comment-count"><%= counts %></span>
+</a>
+<a href="<%= url %>" itemprop="url"><span class="title" itemprop="headline"><%= title %></span></a>
+</li>
+-->
+</ol></div>
+</section>
+<div class="module module-ad mpu-300x250-extra">
+<script language="javascript">
+
+(function(dispatch) {
+if ("mpu" === 'mpu' && null && ($(window).width() > 1020 ? 'desktop' : 'tablet') !== null) {
+return false;
+}
+else if ("mpu" === 'floating') {
+if ($.cookie('goal_no_ad_floating_bar')) return false;
+}
+dispatch.call();
+})(function() {
+window.adgroupid = window.adgroupid || Math.round(Math.random() * 1000);document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|3555309|0|170|ADTECH;cookie=info;alias=enBM;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');
+
+});
+</script>
+<noscript>
+<a href="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/adlink|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=enBM;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;" target="_blank">
+<img src="https://web.archive.org/web/20160306144038im_/http://adserver.adtech.de/adserv|3.0|327.0|3555309|0|170|ADTECH;loc=300;alias=enBM;key=article:index+1665888+745+13812;kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;cookie=info;">
+</a>
+</noscript></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="clearfix module module-footer" data-module="footer">
+<nav class="navigation">
+<header class="widget-header">
+<h2>Goal <span class="current-edition">International</span></h2>
+</header>
+<ul class="common-links">
+<li><a href="/web/20160306144038/http://www.goal.com/en/legal/privacy-policy">Privacy Policy</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/legal/terms-conditions">Terms of Service</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en/contact/about">About Us</a></li>
+<li class="line-spacer"><a href="/web/20160306144038/http://www.goal.com/en/contact">Contact Us</a></li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/2994/goal-com-betting">Betting</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/info/2793/our-goalcom/2011/09/02/1743703/new-goalcom-mobile-app-now-available">Goal App</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/5312/featured-story/2013/10/25/4356045/new-the-ultimate-app-for-live-scores">Goal Live Scores</a>
+</li>
+<li>
+<a href="/web/20160306144038/http://www.goal.com/en/news/755/europe/2015/07/01/13209142/play-the-new-goal-fantasy-football-game?ICID=HP_BN_8">Fantasy Football</a>
+</li>
+</ul>
+</nav>
+<section class="editions">
+<header class="widget-header">
+<h2>Editions</h2>
+</header>
+
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/en/" class="flag-en">International</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-us/" class="flag-en-us">America</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-ar/" class="flag-es-ar">Argentina</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-au/" class="flag-en-au">Australia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ba/" class="flag-ba">Bosna i Hercegovina</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/br/" class="flag-br">Brasil</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ca/" class="flag-en-ca">Canada</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-cl/" class="flag-es-cl">Chile</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-co/" class="flag-es-co">Colombia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/de/" class="flag-de">Deutsch</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es/" class="flag-es">España</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/fr/" class="flag-fr">Français</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-gh/" class="flag-en-gh">Ghana</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/hr/" class="flag-hr">Hrvatska</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-india/" class="flag-en-india">India</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/id-ID/" class="flag-id-ID">Indonesia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ie/" class="flag-en-ie">Ireland</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/it/" class="flag-it">Italia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ke/" class="flag-en-ke">Kenya</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-my/" class="flag-en-my">Malaysia</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/es-mx/" class="flag-es-mx">México</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/nl/" class="flag-nl">Nederlands</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-ng/" class="flag-en-ng">Nigeria</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-sg/" class="flag-en-sg">Singapore</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-za/" class="flag-en-za">South Africa</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-tz/" class="flag-en-tz">Tanzania</a></li>
+</ul>
+<ul>
+<li><a href="/web/20160306144038/http://www.goal.com/tr/" class="flag-tr">Türkçe</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/en-gb/" class="flag-en-gb">UK</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/hk/" class="flag-hk">繁體中文</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/kr/" class="flag-kr">한국어</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/jp/" class="flag-jp">日本語</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/th/" class="flag-th">ภาษาไทย</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ar/" class="flag-ar">العربية</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ar-eg/" class="flag-ar-eg">المصرية</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/ar-sa/" class="flag-ar-sa">السعودية</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/rs/" class="flag-rs">Srbija</a></li>
+<li><a href="/web/20160306144038/http://www.goal.com/si/" class="flag-si">Slovenija</a></li>
+</ul>
+
+</section>
+<footer itemscope itemtype="http://schema.org/WPFooter">
+<small>Copyright &copy; <span itemprop="copyrightYear">2016</span> <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Goal.com</span></span> All rights reserved. The information contained in Goal.com may not be published, broadcast, rewritten, or redistributed without the prior written authority of Goal.com</small>
+</footer>
+</div>
+</div>
+<!--[if IE]>
+
+<script src="/static/js?files=%2Fjs%2Fexternal%2Fplugins%2Fexcanvas.compiled.js&version=2016.03.03-v1"></script><![endif]-->
+
+
+<script src="/web/20160306144038js_/http://www.goal.com/static/js?files=%2Fjs%2Fexternal%2Flodash.min.js%2C%2Fjs%2Fexternal%2Funderscore.string.min.js%2C%2Fjs%2Fexternal%2Fcallbacks.lodash.js%2C%2Fjs%2Fexternal%2Fjstorage.js%2C%2Fjs%2Fglobals.js%2C%2Fjs%2Fhelpers.js%2C%2Fjs%2Fevents.js%2C%2Fjs%2Fexternal%2Fplugins%2C%2Fjs%2Finternal%2Fplugins%2C%2Fjs%2Finternal%2Flibraries%2C%2Fjs%2Fjquery%2Ffooter%2C%2Fjs%2Fexternal%2Fmoments.js&amp;version=2016.03.03-v1"></script>
+<script src="/web/20160306144038js_/http://www.goal.com/static/js?files=%2Fjs%2Fsettings.js%2C%2Fjs%2Fapplication.js&amp;locale=en&amp;version=2016.03.03-v1"></script>
+<script src="/web/20160306144038js_/http://www.goal.com/static/js?files=%2Fjs%2Finternal%2Fplugins%2Fsmartbanner%2Fjquery.smartbanner.js%2C%2Fjs%2Finternal%2Flibraries%2Fsmartbanner.js&amp;version=2016.03.03-v1"></script><div class="tracking-codes">
+<!-- Begin: Google Analytics dc.js -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-3459197-19']);
+_gaq.push(['_setDomainName', '.goal.com']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End: Google Analytics dc.js --><!-- Begin: William Hill -->
+<img src="https://web.archive.org/web/20160306144038im_/http://serve.williamhill.com/promoLoadDisplay?member=goalcom&amp;campaign=DEFAULT&amp;channel=widget&amp;zone=593986973&amp;lp=0" height="1" width="1" style="width:1px;height:1px"/>
+<!-- End: William Hill --><!-- Begin: Tribes Tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-94wNw88f65Rhk",
+labels:"MTVN Digital Tribes"
+};
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20160306144038js_/http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="https://web.archive.org/web/20160306144038im_/http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=MTVN%20Digital%20Tribes" style="display: none;" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End: Tribes Tag --><!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+var _em_survey_rate = 0;
+</script>
+<script type="text/javascript">
+(function() {
+var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+em.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20160306144038/https://me-ssl' : 'https://web.archive.org/web/20160306144038/http://me-cdn') + '.effectivemeasure.net/em.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+})();
+</script>
+<noscript>
+<img src="//web.archive.org/web/20160306144038im_/http://me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;"/>
+</noscript>
+<!--END EFFECTIVE MEASURE CODE --><!-- Begin: Comscore Beacon -->
+<img id="comscore-beacon-img" height="1" width="1" alt="">
+<script type="text/javascript">
+var randnum = Math.floor(Math.random()*99999999);
+var p_url = escape(window.location.href);
+var p_title = escape(document.title);
+document.getElementById("comscore-beacon-img").src="https://web.archive.org/web/20160306144038/http://beacon.securestudies.com/scripts/beacon.dll?C1=2&C2=6153249&C3=6153249&C4=www.goal.com&C5=Sports-Soccer&C6=Sports-Soccer&C7=" + p_url + "&C8=" + p_title + "&rn=" + randnum;
+</script>
+<!-- End: Comscore Beacon --><!-- Begin: Nielsen Tag -->
+<script type="text/javascript">
+var _nol = { pvar: { cid: 'sportal-goal', content: "0", server: 'secure-au'} };
+(function () {
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = '//web.archive.org/web/20160306144038/http://secure-au.imrworldwide.com/v60a.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+})();
+</script>
+<noscript>
+<div>
+<img src="//web.archive.org/web/20160306144038im_/http://secure-au.imrworldwide.com/cgi-bin/m?ci=sportal-goal&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""/>
+</div>
+</noscript>
+<!-- End: Nielsen Tag --><script type="text/javascript" src="https://web.archive.org/web/20160306144038js_/http://tags.crwdcntrl.net/c/3376/cc.js?ns=_cc3376" id="LOTCC_3376"></script>
+<script type="text/javascript" language="javascript">_cc3376.bcp();</script>
+<script language="javascript" type="text/javascript" src="//web.archive.org/web/20160306144038js_/http://js.revsci.net/gateway/gw.js?csid=F09828&amp;auto=t&amp;bpid=performgroup"></script>
+<!-- Begin: Sentinel -->
+<script async="async" type="text/javascript" src="https://web.archive.org/web/20160306144038js_/http://d3avqv6zaxegeu.cloudfront.net/sentinel.js" data-client-id="tBdOzZizJrxtncD"></script>
+<!-- End: Sentinel --></div>
+
+<div class="module module-ad floatingbar" data-adtech="adtech-floating">
+<div class="floatingbar-wrapper desktop">
+<script language="javascript">
+(function(){
+var cookieName = 'goal_no_ad_floating_bar';
+if (!$.cookie(cookieName) && Goal.is('desktop')) {
+document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|4633655|0|16|ADTECH;cookie=info;alias=enFB;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');}
+})();
+</script>
+<span class="close">&nbsp;</span>
+</div>
+<div class="floatingbar-wrapper tablet">
+<script language="javascript">
+(function(){
+var cookieName = 'goal_no_ad_floating_bar';
+if (!$.cookie(cookieName) && Goal.is('tablet')) {
+document.write('<scr'+'ipt language="javascript1.1" ' +' src="https://web.archive.org/web/20160306144038/http://adserver.adtech.de/addyn|3.0|327.0|4633655|0|16|ADTECH;cookie=info;alias=enFB;key=article:index+1665888+745+13812;kvcampaign=' + ((typeof $.getCampaignName == 'function') ? $.getCampaignName() : '') + ';kvlayout=' + (($(window).width() > 1020) ? 'wide' : 'narrow') + ';kvskin=' + (($(window).width() > 1024) ? 'yes' : 'no') + ';kvabbr=' + (window.adtechCCvals || '') + ';kvenv=production;kvpagetype=article:index;kvpagetag=;kvarticleid=1665888;kvoteamid=1179;kvamz=' + window.amzValues + ';kvmatchid=;kvsectionid=745:13812;kvcompetitionid=;kvocompid=;loc=100;target=_blank;sub1=[subst];grp=' + window.adgroupid +';misc=' + window.adgroupid + '"></scri'+'pt>');}
+})();
+</script>
+<span class="close">&nbsp;</span>
+</div>
+</div><script type="text/javascript" src="https://web.archive.org/web/20160306144038js_/http://widget.cloud.opta.net/2.0/js/widgets.opta.js"></script>
+<script type="text/javascript">
+var _optaParams = {
+custID: '24b3090269b03c8d196e17104e917977',
+language: 'en_GB',
+timezone: '-1'
+};
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push(
+{flush: true}
+);
+</script><!-- Begin: Fresh8 data --><div id="fresh8-data-container" data-teamids="1179"></div><!-- End: Fresh8 data --><!-- Begin: Fresh8 script --><script language="javascript">
+(function () {var url = '//web.archive.org/web/20160306144038/http://fresh8.co/CODE/embed.js?view=non-betting-article',defaultCountryCode = 'default',
+countryCode,
+fresh8Codes = {"default":864237,"GB":864238,"AU":864239,"CA":864240,"ES":864241,"GH":864242,"IE":864243,"NG":864244,"KE":864245,"ZA":864246,"IT":864247,"DE":864248,"FR":864249,"ID":864250,"TH":864251,"CS":864252,"SI":864253,"JP":864254,"MX":864255},
+blackListCountryCodes = ["AF","AS","AO","BE","BI","KH","TD","CN","CD","CG","ER","FR","GF","GP","GU","GW","HT","HK","IR","IQ","IL","LY","MQ","MC","MM","NL","KP","PH","PR","SG","SO","ZA","SD","SY","TJ","TR","TM","US","UM","UZ","VE","YE","ZW"],
+fresh8Interval;
+function getFresh8 () {
+countryCode = $('body').data()['userCountryCode'];
+if (typeof(countryCode) !== 'undefined') {
+clearInterval(fresh8Interval);
+if (Object.keys(fresh8Codes).indexOf(countryCode) >= 0) {
+countryCode = fresh8Codes[countryCode];
+$.getScript( url.replace('CODE', countryCode) );
+} else {
+if (blackListCountryCodes.indexOf(countryCode) === -1) {
+countryCode = fresh8Codes[defaultCountryCode];
+$.getScript( url.replace('CODE', countryCode) );
+}
+}
+}
+}
+fresh8Interval = setInterval(getFresh8, 250);
+})();
+</script><!-- End: Fresh8 script --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"dddd82eb94","applicationID":"4529285","transactionName":"MQEBYhRVXkAEVEJZDghLIlUSXV9dSnlZfQ4CEQ9TSVVCRwxUWlVODwoHUx4=","queueTime":0,"applicationTime":802,"atts":"HUYCFFxPTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 14:40:38 Mar 06, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:43:20 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.534
+  exclusion.robots: 0.068
+  exclusion.robots.policy: 0.059
+  esindex: 0.007
+  cdx.remote: 11.952
+  LoadShardBlock: 323.189 (3)
+  PetaboxLoader3.resolve: 224.31 (4)
+  PetaboxLoader3.datanode: 177.649 (4)
+  load_resource: 168.818
+--> title 63 FIFA Ratify Suspension Of Iraqi Football Association - Goal.com contentType 9 text/html url 155 https://web.archive.org:443/web/20160306144038/http://www.goal.com/en/news/745/fifa/2009/12/04/1665888/fifa-ratify-suspension-of-iraqi-football-association responseCode 3 200 

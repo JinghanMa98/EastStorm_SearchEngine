@@ -1,0 +1,208 @@
+leecfikqescejgpesqekqocsasugtqccnsxamgvc length 4 6868 page 6868 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+Info | daily-article-l@lists.wikimedia.org - lists.wikimedia.org
+</title>
+    <link rel="shortcut icon" href="/mailman3/static/postorius/img/favicon.ico">
+    <link rel="stylesheet" href="/mailman3/static/postorius/libs/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/mailman3/static/django-mailman3/css/main.css">
+    <link rel="stylesheet" href="/mailman3/static/postorius/css/style.css">
+    <link rel="stylesheet" href="/mailman3/static/postorius/libs/fonts/font-awesome/css/font-awesome.min.css" type="text/css" media="all" />
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="/mailman3/static/postorius/libs/html5shiv/html5shiv.min.js"></script>
+      <script src="/mailman3/static/postorius/libs/respond/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light navbar-default">
+    <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#header-nav" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="fa fa-bars"></span>
+                </button>
+                <a class="navbar-brand" href="/postorius/lists/"><span><img src="/mailman3/static/postorius/img/mailman_logo_small_trans.png" alt="Mailman logo"/> Postorius</span></a>
+            </div>
+            <div class="collapse navbar-collapse" id="header-nav">
+                <ul class="nav navbar-nav mr-auto">
+                    <li class="nav-item"><a href="/postorius/lists/" class="nav-link">
+                        <span class="fa fa-envelope"></span>
+                        Lists
+                    </a></li>
+                    
+                    
+                        <li class="nav-item"><a href="/hyperkitty/" class="nav-link">
+                            <span class="fa fa-comment"></span>
+                            Archives
+                        </a></li>
+                    
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    
+                        <li class="nav-item"><a class="nav-link" href="/accounts/login/?next=/postorius/lists/daily-article-l.lists.wikimedia.org/">
+                            <span class="fa fa-sign-in"></span>
+                            Login
+                        </a></li>
+                        <li  class="nav-item"><a class="nav-link" href="/accounts/signup/?next=/postorius/lists/daily-article-l.lists.wikimedia.org/">
+                            <span class="fa fa-user-plus"></span>
+                            Sign Up
+                        </a></li>
+                    
+                </ul>
+            </div>
+            </div>
+    </nav>
+
+    <div class="container" role="main">
+        
+        
+
+    
+
+<header class="page-header">
+    daily-article-l <small>daily-article-l@lists.wikimedia.org</small>
+</header>
+
+
+<h2>Summary </h2>
+<br>
+
+
+    <p>English Wikipedia Article of the Day</p>
+    
+    <p>To contact the list owners, use the following email address: <em>daily-article-l-owner@lists.wikimedia.org</em></p>
+
+    
+    
+      
+        
+        <h2>Archives</h2>
+        <p>
+          
+            <a class="btn btn-primary" href="/hyperkitty/list/daily-article-l@lists.wikimedia.org/">Archives</a>
+          
+        </p>
+      
+    
+
+    <hr />
+
+    
+    
+      <div>
+        <h2>Subscription / Unsubscription</h2>
+        <p>
+        To subscribe or unsubscribe from this list, please log in first.
+        If you have not previously logged in, you may need to set up an account
+        with the appropriate email address.
+        </p>
+        <p><a href="/accounts/login/?next=/postorius/lists/daily-article-l.lists.wikimedia.org/" class="btn btn-primary">Log In</a></p>
+      </div>
+      <hr />
+      <div>
+        <p>
+        
+        You can also subscribe without creating an account.
+        If you wish to do so, please use the form below.
+        
+        </p>
+        <form action="/postorius/lists/daily-article-l.lists.wikimedia.org/anonymous_subscribe"
+              method="post" class="form-horizontal">
+          
+
+
+
+
+<input type="hidden" name="csrfmiddlewaretoken" value="6Ik9hyScvjA8N39KR5AtaYtagQxuuadKi6gPRJAv3fXq8qdmKvGF9c9gOKfxdwXp">
+
+
+
+    <div class="form-group  row">
+        <label class="control-label font-weight-bold col-md-2"
+               for="id_email">
+            
+                Your email address
+            
+        </label>
+        <div class="col-md-8">
+            
+                <input type="text" name="email" class="form-control" required id="id_email">
+            
+            
+        </div>
+        
+    </div>
+
+    <div class="form-group  row">
+        <label class="control-label font-weight-bold col-md-2"
+               for="id_display_name">
+            
+                Your name (optional)
+            
+        </label>
+        <div class="col-md-8">
+            
+                <input type="text" name="display_name" class="form-control" id="id_display_name">
+            
+            
+        </div>
+        
+    </div>
+
+
+    <div class="form-group">
+        <div class="offset-md-2 col-md-8">
+            <button class="btn btn-primary" type="submit">Subscribe</button>
+        </div>
+    </div>
+
+
+          <p hidden>Subscribe</p>
+        </form>
+      </div>
+    
+
+    
+    
+
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="text-center">
+                <a href="https://postorius.readthedocs.org">Postorius Documentation</a>
+                &bull;
+                <a href="http://list.org">GNU Mailman</a>
+                &bull;
+                Postorius Version 1.3.8
+                
+            </p>
+        </div>
+    </footer>
+
+    <script src="/mailman3/static/postorius/libs/jquery/jquery-3.6.0.min.js"></script>
+    <script src="/mailman3/static/postorius/libs/popperjs/popper-v1.11.0.min.js"></script>
+    <script src="/mailman3/static/postorius/libs/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/mailman3/static/django-mailman3/js/main.js"></script>
+    <script src="/mailman3/static/postorius/js/script.js"></script>
+    <script>
+      // Add the .js-enabled class to the body so we can style the elements
+      // depending on whether Javascript is enabled.
+      $(document).ready(function(){
+          $("body").addClass("js-enabled");
+      });
+    </script>
+    
+</body>
+</html>
+ title 64 Info | daily-article-l@lists.wikimedia.org - lists.wikimedia.org contentType 9 text/html url 84 https://lists.wikimedia.org:443/postorius/lists/daily-article-l.lists.wikimedia.org/ responseCode 3 200 

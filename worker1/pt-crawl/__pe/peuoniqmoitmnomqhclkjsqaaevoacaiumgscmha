@@ -1,0 +1,677 @@
+peuoniqmoitmnomqhclkjsqaaevoacaiumgscmha page 42085 <!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://publicaccess.nih.gov/include-pmcid-citations.htm","20201229092734","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1609234054");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://web.archive.org/web/20201229092734js_/https://www.googletagmanager.com/gtag/js?id=UA-21455298-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-21455298-4');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://web.archive.org/web/20201229092734/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDBBNP');</script>
+<!-- End Google Tag Manager -->
+
+  <meta charset="utf-8"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/web/20201229092734/https://publicaccess.nih.gov/include-pmcid-citations.htm"/>
+<link rel="shortlink" href="/web/20201229092734/https://publicaccess.nih.gov/node/10"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20201229092734im_/https://publicaccess.nih.gov/favicon.ico" type="image/vnd.microsoft.icon"/>
+  <title>Include PMCID in Citations | publicaccess.nih.gov</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <style>
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/system/system.base.css?qkb0vu");
+</style>
+<style>
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/aggregator/aggregator.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/comment/comment.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/modules/date/date_api/date.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/field/theme/field.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/node/node.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/search/search.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/modules/user/user.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/modules/views/css/views.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/modules/ckeditor/css/ckeditor.css?qkb0vu");
+</style>
+<style>
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/modules/ctools/css/ctools.css?qkb0vu");
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/libraries/superfish/css/superfish.css?qkb0vu");
+</style>
+<style>
+@import url("https://web.archive.org/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/themes/pa_2014/css/styles.css?qkb0vu");
+</style>
+  <script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/misc/jquery-extend-3.4.0.js?v=1.7.2"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.7.2"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/misc/jquery.once.js?v=1.2"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/misc/drupal.js?qkb0vu"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?qkb0vu"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/libraries/superfish/sfsmallscreen.js?qkb0vu"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/libraries/superfish/supposition.js?qkb0vu"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/libraries/superfish/superfish.js?qkb0vu"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/libraries/superfish/supersubs.js?qkb0vu"></script>
+<script src="https://web.archive.org/web/20201229092734js_/https://publicaccess.nih.gov/sites/all/modules/superfish/superfish.js?qkb0vu"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pa_2014","theme_token":"HeZTDNXsBt7JNRpHDHVdMBbyshbIogetvjgQZWUletY","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/themes\/pa_2014\/system.menus.css":1,"sites\/all\/themes\/pa_2014\/system.messages.css":1,"sites\/all\/themes\/pa_2014\/system.theme.css":1,"sites\/all\/themes\/pa_2014\/css\/styles.css":1}},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027normal\u0027","autoArrows":true,"dropShadows":false,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","breakpoint":786,"addSelected":true,"menuClasses":false,"hyperlinkClasses":false,"includeClass_menu":"mobilemenu","title":"Main menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="//web.archive.org/web/20201229092734if_/https://www.googletagmanager.com/ns.html?id=GTM-WDBBNP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//web.archive.org/web/20201229092734/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDBBNP');</script>
+<!-- End Google Tag Manager -->
+
+<!--<script id="_fed_an_ua_tag" type="text/javascript" src="/Federated-Analytics.js?agency=HHS&sub-agency=NIH&vcto=6&pua=UA-21455298-4&sp=query&yt=true">-->
+
+<script type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20201229092734js_/https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=HHS&amp;subagency=NIH"></script>
+
+
+</script>
+
+</head>
+
+<!-- shutdown language begin
+<style>
+	.shutdownbox {
+		background-color:yellow; 
+		clear:both; 
+		border: 2px solid black; 
+		padding: 5px; 
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		z-index:9999;
+		}
+	.closebtn {
+		border: 2px solid black; 
+		padding: 2px;
+		float:right;
+		font-weight:900;
+		background-color: white;
+		}	
+		
+</style>
+<div class="shutdownbox"> 
+
+<span class="closebtn" onclick="this.parentElement.style.display='none';">X</span> 
+<p>Due  to the lapse in government funding, the information on this website may not be  up to date, transactions submitted via the website may not be processed, and  the agency may not be able to respond to inquiries until appropriations are  enacted. </p>
+
+Updates regarding government operating status  and resumption of normal operations can be found at <a href="http://www.usa.gov">http://www.usa.gov</a>.
+</div>
+ shutdown language end -->
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-10 node-type-page section-include-pmcid-citationshtm" style="background-color:#e9e8e4">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://web.archive.org/web/20201229092734if_/https://www.googletagmanager.com/ns.html?id=GTM-WDBBNP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<link rel="stylesheet" href="/web/20201229092734cs_/https://publicaccess.nih.gov/sites/all/themes/pa_2014/css/footerstyles.css" type="text/css">
+
+  <!--[if gte IE 8]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+   
+  </style>
+<![endif]-->
+
+<!--[if lte IE 9]>
+  <style type="text/css">
+        .tophead {
+	background:#FFFFFF; padding-bottom:50px; margin-bottom:-50px;
+    
+    }
+    
+    #navigation {
+    position: absolute;
+    top: 0px;
+    height: 50px;
+    margin-left: 0px;
+    background-color: #20558a;
+    margin-bottom:10px;
+    max-width:1200px
+    }
+
+#content {padding-top:15px}
+    
+    .sf-menu LI {
+    float: left;
+    position: relative;
+    z-index: 498;
+    padding: 16px 35px 0 0;
+}
+
+.searcharea {
+float: right;
+margin-left: auto;
+margin-right: 10%;
+margin-top: -60px;
+width:400px
+}
+
+}
+    
+    
+  </style>
+<![endif]-->
+
+<!--[if IE 8]>
+  <style type="text/css">
+        .tophead {
+	background-color:#FFF; padding-bottom:50px; margin-bottom:-50px;
+    }
+    
+    #navigation {
+    position: absolute;
+    top: 150px;
+    height: 50px;
+    width: 94%;
+    margin-left: 0px;
+    background-color: #20558a;
+    margin-bottom:10px }
+
+#content {padding-top:15px}
+    
+    .sf-menu LI {
+    float: left;
+    position: relative;
+    z-index: 498;
+    padding: 16px 35px 0 0;
+}
+}
+    
+    
+  </style>
+<![endif]-->
+
+<div class="tophead">
+
+<div class="hhslogo">
+			<div style="margin-left: auto; margin-right: auto;max-width: 1200px;">
+            <div class="hhs"><img src="/web/20201229092734im_/https://publicaccess.nih.gov/sites/all/themes/pa_2014/images/nihribbon-hhs.png" style="vertical-align:middle; padding-right:5px; margin-top:-5px"><a href="https://web.archive.org/web/20201229092734/http://www.hhs.gov/">U.S. Department of Health &amp; Human Services</a></div>
+            </div>
+</div>
+
+<div style="width:100%; height:90px;">
+
+
+
+<div class="palogo"><a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/index.htm"><img src="/web/20201229092734im_/https://publicaccess.nih.gov/sites/all/themes/pa_2014/images/pa-logo.png"></a></div>
+
+<div class="searcharea">
+
+<form accept-charset="UTF-8" action="//web.archive.org/web/20201229092734/https://search.usa.gov/search" id="search_form" method="get" name="formSearch"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div>
+
+    <input id="affiliate" name="affiliate" type="hidden" value="publicaccess"/>
+    <label for="query"></label>
+    <input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="text" size="30" maxlength="255"/>
+    <input name="commit" type="submit" value="Search" class="searchbutton"/>
+  </form>
+  
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"publicaccess" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//web.archive.org/web/20201229092734/https://search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+<span><a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/glossary.htm" style="color: #000">OER Glossary</a> | <a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/contact" style="color: #000">Contact us</a></span>
+</div>
+
+</div>
+</div>
+
+
+
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+    
+  
+<div id="page">
+
+  <header class="header" id="header" role="banner">
+
+    
+    
+    
+    
+  </header>
+
+  <div id="main" style="background-color:#FFF">
+
+    <div id="content" class="column" role="main">
+                  <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Include PMCID in Citations</h1>
+                                          
+
+
+<article class="node-10 node node-page view-mode-full clearfix" about="/include-pmcid-citations.htm" typeof="foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Include PMCID in Citations" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+	Anyone submitting an application, proposal or report to the NIH must include the PMC reference number (PMCID) when citing&nbsp;<a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/determine_applicability.htm">applicable papers</a>&nbsp;that they author or that arise from their NIH-funded research.
+</p>
+
+<p>
+	<strong>Example</strong>:&nbsp; Three authors collaborate on a paper that falls under the public access policy.&nbsp; Author A has no NIH support, Author B worked on the paper using salary support from his mentor's NIH award, and Author C used her NIH award to support the research reported in the paper.&nbsp; If any of the four scientists (the authors and Author B's mentor) cite the paper when&nbsp;<em>they</em>&nbsp;apply for an NIH award, they must include the PMCID in the citation.&nbsp; However, when another scientist (anyone other than the three authors or Author B's mentor) cites this paper in their NIH research application, they are not required to include the PMCID. &nbsp;In addition, when Author B's mentor and Author C next report on the progress of their respective awards to NIH, they must cite the paper and include the PMCID.
+</p>
+
+<h1>
+	How to Cite
+</h1>
+
+<h3>
+	<strong>A. For non-competing continuation awards, use My NCBI to report papers</strong>
+</h3>
+
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td colspan="2">
+				<strong>&nbsp; Public Access Compliance codes in the RPPR and My NCBI report&nbsp;&nbsp; </strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<strong><em>&nbsp; Compliant</em></strong>
+			</td>
+			<td>
+				<strong><em>&nbsp; Not Compliant</em></strong>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>
+						Complete
+					</li>
+					<li>
+						N/A (not applicable)
+					</li>
+					<li>
+						PMC Journal In Process
+					</li>
+					<li>
+						In process at NIHMS
+					</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>
+						Non-compliant
+					</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<ol>
+	<li>
+		Create a&nbsp;<a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/books/NBK3842/#MyNCBI.Signing_in_to_My_NCBI">Commons linked</a>&nbsp;<a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/myncbi/">My NCBI</a>&nbsp;account.&nbsp; A video overview is available&nbsp;<a href="https://web.archive.org/web/20201229092734/http://www.youtube.com/watch?v=ks46w3mNAQE">here</a>.
+	</li>
+	<li>
+		<a href="https://web.archive.org/web/20201229092734/http://www.nlm.nih.gov/pubs/techbull/ja12/ja12_myncbi_new_features.html">Collaborate</a>&nbsp;with your colleagues to associate publications with NIH awards, and&nbsp;<a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/books/NBK53595/#mybibliography.Managing_Compliance_to_th">track</a>&nbsp;public access compliance or declare the paper is <a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/my-bibliography-faq.htm#II.4%20Declaring%20papers%20not%20applicable%20%28N/A%29%20under%20the%20NIH%20public%20access%20policy">not applicable</a>. My NCBI will provide the current public access compliance status for your paper. A video overview is available <a href="https://web.archive.org/web/20201229092734/http://www.youtube.com/watch?v=JYODIOD_YYE">here</a>.
+		<ul style="list-style:disc">
+			<li>
+				Papers marked “In process at NIHMS” are only provisionally compliant within 3 months of the <a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/faq.htm#4060">official date of publication</a>. My NCBI will change the status to ‘Complete’ when a PMCID is issued. If the paper does not have a PMCID after 3 months, My NCBI will change the paper’s status to ‘non-compliant’ until a PMCID is issued. &nbsp;
+			</li>
+			<li>
+				Papers marked “PMC Journal In Process” are also provisionally compliant.&nbsp; My NCBI will change the status to ‘Complete’ when a PMCID is issued.
+				<ul style="list-style:circle">
+					<li>
+						Papers collected under submission <a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/method-A-BP.htm">Method A</a> will stay provisionally compliant (‘PMC Journal In Process’) until a PMCID is issued.
+					</li>
+					<li>
+						Papers collected under submission <a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/method-B-BP.htm">Method B</a> are only provisionally compliant within 3 months of the official date of publication. If they do not have a PMCID after 3 months, My NCBI will change the paper’s status to ‘non-compliant’ until a PMCID is issued.
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>
+		Report your papers via the&nbsp;<a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/rppr/">RPPR</a>.&nbsp;<span style="-webkit-text-stroke-width:0px; color:rgb(0, 0, 0); display:inline !important; float:none; font-family:helvetica neue,helvetica,arial,sans-serif,arial narrow; font-style:normal; font-variant:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:1; word-spacing:0px">The RPPR draws from every paper in the PI's My Bibliography collection, and any paper linked to the award in the </span><a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/my-bibliography-faq.htm#I.7.UsingOtherCitationstomanagepublicaccesscompliance" style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif,arial narrow; font-style:normal; font-variant:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-decoration:none; text-indent:0px; text-transform:none; white-space:normal; widows:1; word-spacing:0px">Other </a><a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/my-bibliography-faq.htm#I.7.UsingOtherCitationstomanagepublicaccesscompliance" style="-webkit-text-stroke-width:0px; background-color:rgb(255, 255, 255); font-family:helvetica neue,helvetica,arial,sans-serif,arial narrow; font-style:normal; font-variant:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-decoration:none; text-indent:0px; text-transform:none; white-space:normal; widows:1; word-spacing:0px">Citations</a><span style="-webkit-text-stroke-width:0px; color:rgb(0, 0, 0); display:inline !important; float:none; font-family:helvetica neue,helvetica,arial,sans-serif,arial narrow; font-style:normal; font-variant:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:1; word-spacing:0px"> collection</span><span style="-webkit-text-stroke-width:0px; color:rgb(0, 0, 0); display:inline !important; float:none; font-family:helvetica neue,helvetica,arial,sans-serif,arial narrow; font-style:normal; font-variant:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:1; word-spacing:0px">.&nbsp;</span> You can also generate a&nbsp;<a href="https://web.archive.org/web/20201229092734/http://www.nlm.nih.gov/pubs/techbull/nd12/nd12_myncbi_pdf.html">PDF report</a>&nbsp;for the publications section of the PHS 2590.
+	</li>
+</ol>
+
+<h3>
+	<a name="Reporting_resource_sharing">B. <strong>Tracking and reporting papers arising from resource sharing</strong></a>
+</h3>
+
+<p>
+	If an NIH award’s only <a href="https://web.archive.org/web/20201229092734/https://grants.nih.gov/grants/guide/notice-files/NOT-OD-16-079.html">contribution </a>to a publication is a shared resource, awardees should not list the publication in section C.1 of an RPPR or in the progress report publication list of a competitive renewal application.&nbsp;
+</p>
+
+<ul>
+	<li>
+		Awardees are not required to track or report publications arising from the resources they share. Instead:
+	</li>
+	<li>
+		Awardees submitting an RPPR can opt to list and/or summarize these publications in section B.2.&nbsp; Section B.2 requests a description of accomplishments and other achievements. Publications listed and/or summarized in this section will not count against the section’s two-page limit.&nbsp;
+	</li>
+	<li>
+		Awardees submitting a renewal application can opt to list and/or summarize these publications in the appropriate sharing plan (Data Sharing Plan, Genomic Data Sharing Plan, Model Organism Sharing Plan Resource Sharing Plan, etc.).
+	</li>
+</ul>
+
+<p>
+	Awardees should only use a list or summary to highlight how shared resources lead to noteworthy impact(s). Neither a list nor summary is required. If awardees provide a list, it does not have to be complete.
+</p>
+
+<h3>
+	<strong>C. Everywhere else you wish to cite papers you author or arise from your funding, and are&nbsp;</strong><a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/determine_applicability.htm"><strong>subject to</strong></a><strong>&nbsp;the public access policy, including renewal applications (type 2s) and biosketches:</strong>
+</h3>
+
+<ol>
+	<li>
+		<strong>Include the PubMed Central reference number (PMCID) at the end of citations.</strong><br/>
+		<br/>
+		For papers published more than 3 months before an application, proposal and report is submitted:<br/>
+		List the PubMed Central reference number (PMCID) at the end of the full journal citation for the paper in NIH applications, proposals and reports. &nbsp;A PMCID is the only way to demonstrate compliance for these papers. &nbsp;<br/>
+		<br/>
+		For papers in press (often listed as "[epub ahead of print]"), or published within 3 months of when an application, proposal or report is submitted:
+		<ul>
+			<li>
+				When using&nbsp;<a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/submit_process.htm">Submission Method A or B</a>, indicate "PMC Journal - In Process" or the PMCID at the end of the full citation.
+			</li>
+			<li>
+				When using&nbsp;<a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/submit_process.htm">Submission Method C or D</a>, provide a&nbsp;valid&nbsp;NIH Manuscript Submission System reference number (NIHMSID) or PMCID&nbsp;at the end of the full citation. Note, NIH awardees are responsible for ensuring that all steps of the NIHMS submission process are complete within three months of publication.
+			</li>
+		</ul>
+	</li>
+</ol>
+
+<p class="rteindent1">
+	Note: no special notation is required when manually citing publications that do not fall under the public access policy.
+</p>
+
+<ol start="2">
+	<li>
+		<strong>Place the Literature Citations in the appropriate location.</strong>
+	</li>
+</ol>
+
+<blockquote>
+	<p>
+		The appropriate locations for literature citations vary depending on the application type.&nbsp; See the&nbsp;<a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/guide/notice-files/NOT-OD-08-119.html">Guide Notice NOT-OD-08-119</a>&nbsp;for details.
+	</p>
+</blockquote>
+
+<h3>
+	&nbsp;
+</h3>
+
+<h1>
+	Additional Information
+</h1>
+
+<ul>
+	<li>
+		<a href="#Difference"><strong>The Difference Between a PMCID and a PMID</strong></a>
+	</li>
+	<li>
+		<a href="#Examples"><strong>Examples of Citations</strong></a>
+	</li>
+	<li>
+		<a href="#Locating"><strong>Locating the PMCID</strong></a>
+	</li>
+</ul>
+
+<div>
+	<hr/>
+</div>
+
+<p>
+	<a id="Difference" name="Difference"><strong>The Difference Between a PMCID and a PMID</strong></a>
+</p>
+
+<p>
+	The PubMed Central reference number (PMCID) is different from the PubMed reference number (PMID). PubMed Central is an index of full-text papers, while PubMed is an index of abstracts. The PMCID links to full-text papers in PubMed Central, while the PMID links to abstracts in PubMed. PMIDs have nothing to do with the NIH Public Access Policy.
+</p>
+
+<p>
+	<a id="Examples" name="Examples"><strong>Examples of Citations</strong></a>
+</p>
+
+<blockquote>
+	<blockquote>
+		<p>
+			Sala-Torra O, Gundacker HM, Stirewalt DL, Ladne PA, Pogosova-Agadjanyan EL, Slovak ML, Willman CL, Heimfeld S, Boldt DH, Radich JP. Connective tissue growth factor (CTGF) expression and outcome in adult patients with acute lymphoblastic leukemia. Blood. 2007 April 1; 109(7): 3080–3083. PMCID: PMC1852221
+		</p>
+
+		<p>
+			Cerrato A, Parisi M, Santa Anna S, Missirlis F, Guru S, Agarwal S, Sturgill D, Talbot T, Spiegel A, Collins F, Chandrasekharappa S, Marx S, Oliver B. Genetic interactions between Drosophila melanogaster menin and Jun/Fos. Dev Biol. 2006 Oct 1; 298(1): 59-70. PMCID: PMC2291284
+		</p>
+	</blockquote>
+
+	<p>
+		<strong>Examples, before the PMCID is available:</strong>
+	</p>
+
+	<blockquote>
+		<blockquote>
+			<blockquote>
+				<p>
+					For Submission Methods A and B, use "PMC Journal - In Process":<br/>
+					Example: Sala-Torra O, Gundacker HM, Stirewalt DL, Ladne PA, Pogosova-Agadjanyan EL, Slovak ML, Willman CL, Heimfeld S, Boldt DH, Radich JP. Connective tissue growth factor (CTGF) expression and outcome in adult patients with acute lymphoblastic leukemia.&nbsp;<em>Blood.</em>&nbsp;[<em>a publication date within 3 months of when the application, proposal or report was submitted to NIH</em>]. PMCID: PMC Journal - In Process
+				</p>
+
+				<p>
+					For Submission Methods C and D, use the NIHMSID:<br/>
+					Example: Cerrato A, Parisi M, Santa Anna S, Missirlis F, Guru S, Agarwal S, Sturgill D, Talbot T, Spiegel A, Collins F, Chandrasekharappa S, Marx S, Oliver B. Genetic interactions between<em>&nbsp;Drosophila melanogaster&nbsp;</em>menin and Jun/Fos.<em>&nbsp;Dev Biol</em>. In press. NIHMSID: NIHMS44135
+				</p>
+			</blockquote>
+		</blockquote>
+	</blockquote>
+</blockquote>
+
+<p>
+	<em>Note:&nbsp;</em>NIH expects NIH applications, proposals and reports to provide the most up-to-date information available on Public Access Policy compliance.&nbsp; The NIH Manuscript Submission reference number (NIHMSID) or "PMC Journal - In Process" should not be used once the PMCID is available.&nbsp; Previously submitted applications, proposals and reports need not be updated when the PMCID becomes available.
+</p>
+
+<p>
+	<a id="Locating" name="Locating"><strong>Locating the PMCID</strong></a>
+</p>
+
+<p>
+	The PMCID is posted in PubMed as soon as an article has been successfully processed by PMC, which usually occurs around the time of publication.&nbsp;
+</p>
+
+<ul>
+	<li>
+		The easiest way to find and track PMCIDs is to add the paper to My NCBI (See&nbsp;<a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/sites/myncbi/">My NCBI</a>&nbsp;and My Bibliography training materials at <a href="https://web.archive.org/web/20201229092734/http://publicaccess.nih.gov/communications.htm">http://publicaccess.nih.gov/communications.htm</a>&nbsp; for instructions).&nbsp; My NCBI will automatically add the PMCID to a citation as soon as it is available.
+	</li>
+	<li>
+		PMCIDs are listed in the lower right corner of the Abstract Plus view of PubMed (<a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/PubMed">http://www.ncbi.nlm.nih.gov/PubMed</a>).&nbsp; If the paper is successfully processed but not yet publicly available on PMC, PubMed will also list the date the paper will become available.&nbsp;
+	</li>
+	<li>
+		NIH provides other methods of locating PMCIDs (e.g. the PMCID - PMID - Manuscript ID - DOI <a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/pmc/pmctopmid/">Converter</a>), as do several bibliography management software packages.
+	</li>
+</ul>
+
+<p>
+	&nbsp;
+</p>
+</div></div></div><div class="field field-name-field-date field-type-datetime field-label-inline clearfix"><div class="field-label">Last Updated:&nbsp;</div><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-03-25T00:00:00-04:00">Friday, March 25, 2016</span></div></div></div>
+  
+  
+</article>
+          </div>
+
+    <div id="navigation">
+
+      
+        <div class="region region-navigation">
+    <div id="block-superfish-1" class="block block-superfish first last odd">
+
+      
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-8 sf-parent-items-3 sf-single-items-5"><li id="menu-535-1" class="first odd sf-item-1 sf-depth-1 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/index.htm" class="sf-depth-1">Home</a></li><li id="menu-392-1" class="middle even sf-item-2 sf-depth-1 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/communications.htm" class="sf-depth-1">Training</a></li><li id="menu-391-1" class="middle odd sf-item-3 sf-depth-1 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/policy.htm" class="sf-depth-1">Policy Details</a></li><li id="menu-427-1" class="active-trail middle even sf-item-4 sf-depth-1 main-sub sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/submit_process.htm" title="" class="sf-depth-1 menuparent">Managing Papers</a><ul><li id="menu-390-1" class="first odd sf-item-1 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/submit_process.htm" title="How to submit papers to PMC" class="sf-depth-2">Submitting Papers</a></li><li id="menu-426-1" class="active-trail last even sf-item-2 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/include-pmcid-citations.htm" title="How to report papers to NIH" class="sf-depth-2 active">Reporting Papers</a></li></ul></li><li id="menu-393-1" class="middle odd sf-item-5 sf-depth-1 main-sub sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/list-faqs.htm" title="" class="sf-depth-1 menuparent">FAQs</a><ul><li id="menu-414-1" class="first odd sf-item-1 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/faq.htm" class="sf-depth-2">NIH Public Access Policy FAQ</a></li><li id="menu-413-1" class="middle even sf-item-2 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/my-bibliography-faq.htm" class="sf-depth-2">My Bibliography FAQ</a></li><li id="menu-422-1" class="middle odd sf-item-3 sf-depth-2 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/http://nihms.nih.gov/help/" title="" class="sf-depth-2">NIHMS Help and FAQ</a></li><li id="menu-423-1" class="middle even sf-item-4 sf-depth-2 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/rppr/faqs.htm" title="" class="sf-depth-2">RPPR FAQ</a></li><li id="menu-661-1" class="last odd sf-item-5 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/my-ncbi-delegates-faq.htm" class="sf-depth-2">MY NCBI Delegates FAQ</a></li></ul></li><li id="menu-400-1" class="middle even sf-item-6 sf-depth-1 main-sub sf-total-children-3 sf-parent-children-1 sf-single-children-2 menuparent"><a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/sponsored-programs.htm" title="" class="sf-depth-1 menuparent">Special users</a><ul><li id="menu-540-1" class="first odd sf-item-1 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/sponsored-programs.htm" class="sf-depth-2">For Sponsored Programs</a></li><li id="menu-401-1" class="middle even sf-item-2 sf-depth-2 main-sub sf-no-children"><a href="/web/20201229092734/https://publicaccess.nih.gov/nih_employee_procedures.htm" class="sf-depth-2">For NIH Employee Authors</a></li><li id="menu-402-1" class="last odd sf-item-3 sf-depth-2 main-sub sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="https://web.archive.org/web/20201229092734/http://nih-extramural-intranet.od.nih.gov/PublicAccess/" title="" class="sf-depth-2 menuparent">For NIH Extramural Staff</a><ul><li id="menu-1440-1" class="first odd sf-item-1 sf-depth-3 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/https://nih-extramural-intranet.od.nih.gov/PublicAccess/temp-processing-delays.htm" title="" class="sf-depth-3">Temporary  NIHMS Processing Delays</a></li><li id="menu-1441-1" class="middle even sf-item-2 sf-depth-3 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/https://nih-extramural-intranet.od.nih.gov/PublicAccess/guidance-for-all-ics.htm" title="" class="sf-depth-3">Guidance for all  ICs</a></li><li id="menu-1442-1" class="middle odd sf-item-3 sf-depth-3 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/https://nih-extramural-intranet.od.nih.gov/PublicAccess/ics-not-using-pa-support-center.htm" title="" class="sf-depth-3">Information  for ICs not using the Public Access Support Center</a></li><li id="menu-1443-1" class="middle even sf-item-4 sf-depth-3 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/https://nih-extramural-intranet.od.nih.gov/PublicAccess/ics-enrolled-in-pa-support-center.htm" title="" class="sf-depth-3">Information  for ICs enrolled in the Public Access Support Center</a></li><li id="menu-1444-1" class="last odd sf-item-5 sf-depth-3 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/https://nih-extramural-intranet.od.nih.gov/PublicAccess/tools-and-questions.htm" title="" class="sf-depth-3">Communication  and Training Tools</a></li></ul></li></ul></li><li id="menu-416-1" class="middle odd sf-item-7 sf-depth-1 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/http://www.ncbi.nlm.nih.gov/sites/myncbi/" title="External Link Sign in to My NCBI to access My Bibliography" class="sf-depth-1">My NCBI</a></li><li id="menu-415-1" class="last even sf-item-8 sf-depth-1 main-sub sf-no-children"><a href="https://web.archive.org/web/20201229092734/http://nihms.nih.gov/" title="External link Sign in to NIHMS" class="sf-depth-1">NIHMS </a></li></ul>
+</div>
+  </div>
+
+    </div>
+
+    
+    
+  </div>
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <p>
+	<strong>Technical Issues:</strong>&nbsp;<a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/email.htm">E-mail OER Webmaster</a></p>
+
+</div>
+  </footer>
+
+</div>
+
+    
+
+<div id="footer">
+
+<div class="footer_main">
+	<!--- main footer --->
+		
+		<!-- ****************** FOOTER ****************** -->
+		<div id="footerNIH">
+			<h2>Page Footer</h2>
+			<ul>
+				<!---<li><a href="http://www.nih.gov">NIH Home</a></li>
+				<li><a href="http://www.nih.gov/about/visitor/index.htm">Visitor Information</a></li>
+				<li><a href="http://www.nih.gov/about/privacy.htm">Privacy Notice</a></li>
+				<li><a href="http://www.nih.gov/grants/disclaimer.htm">Disclaimer</a></li>
+				<li><a href="http://www.nih.gov/about/access.htm">Accessibility</a></li>
+				<li><a href="http://www.nih.gov/sitemap.html">Site Map</a></li>
+				<li><a href="http://www.nih.gov/google.search.nih.html">Search</a></li>
+				<li><a href="http://www.nih.gov/icd/od/foia/index.htm">FOIA</a></li>
+				<li><a href="http://oeodm.od.nih.gov/complaints-no-fear-act-data.htm">No Fear Act</a></li>
+				<li><a href="http://oig.hhs.gov/">OIG</a></li>
+				<li class="last"><a href="/about/FAQ.htm">FAQ</a></li>--->
+                     <li><a href="https://web.archive.org/web/20201229092734/http://search.usa.gov/search/advanced?affiliate=publicaccess">Search</a></li>
+  <li><a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/edocs.htm">Help Downloading Files</a></li>
+  <li><a href="https://web.archive.org/web/20201229092734/https://publicaccess.nih.gov/disclaimer.htm">Disclaimer</a></li>
+  <li><a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/privacy.htm">Privacy Notice</a></li>
+  <li><a href="https://web.archive.org/web/20201229092734/http://grants.nih.gov/grants/accessibility.htm">Accessibility</a></li>
+  <li><a href="https://web.archive.org/web/20201229092734/http://www.nih.gov/icd/od/foia/index.htm">FOIA</a></li>
+  <li class="last">
+
+
+<a href="https://web.archive.org/web/20201229092734/https://web.archive.org/web/publicaccess.nih.gov/include-pmcid-citations.htm">Older Versions of this Page</a></li>
+
+
+
+			</ul>
+            
+            
+            
+
+            
+			<ul style="margin-top:-10px">
+				<li><a href="https://web.archive.org/web/20201229092734/http://www.hhs.gov/">U.S. Department of Health and Human Services</a></li>
+                <li><a href="https://web.archive.org/web/20201229092734/http://www.grants.gov/">Grants.gov</a></li>
+				<li class="last"><a href="https://web.archive.org/web/20201229092734/http://www.usa.gov/">USA.gov &ndash; Government Made Easy</a></li>
+
+			</ul>
+            <div style="margin-top:-20px">
+			<p class="address">National Institutes of Health (NIH), 9000 Rockville Pike, Bethesda, Maryland 20892</p>
+			<p style="margin-top:-10px">NIH&hellip;Turning Discovery Into Health</p>
+            </div>
+		</div>
+		<!-- ****************** END FOOTER ****************** -->
+	<!--- end main footer --->
+</div>
+<!--- drop down maps --->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:27:34 Dec 29, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:39:04 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.483
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.031
+  esindex: 0.011
+  cdx.remote: 36.245
+  LoadShardBlock: 210.779 (3)
+  PetaboxLoader3.datanode: 121.69 (4)
+  PetaboxLoader3.resolve: 90.162 (3)
+  load_resource: 72.919
+--> title 49 Include PMCID in Citations | publicaccess.nih.gov contentType 9 text/html url 103 https://web.archive.org:443/web/20201229092734/https://publicaccess.nih.gov/include-pmcid-citations.htm responseCode 3 200 

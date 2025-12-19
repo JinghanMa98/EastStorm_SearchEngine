@@ -1,0 +1,1335 @@
+mokilctosgpitohqtgpsucdscotgxereikdeqoua page 121255 <!doctype html>
+<html lang="en">
+<head>
+    <script type="text/javascript" data-cmp-ab="1" src="https://cdn.consentmanager.net/delivery/js/semiautomatic.min.js" data-cmp-cdid="47007190b2fe6" data-cmp-host="c.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="0"></script>
+    <script>
+        !(function(n){function t(e){n.addEventListener(e,B)}function o(e){n.removeEventListener(e,B)}function u(e,n,t){L?C(e,n):(t||u.lazy&&void 0===t?q:S).push(e,n)}function c(e){k.head.appendChild(e)}function i(e,n){z.call(e.attributes)[y](n)}function r(e,n,t,o){return o=(n?k.getElementById(n):o)||k.createElement(e),n&&(o.id=n),t&&(o.onload=t),o}function s(e,n,t){(t=e.src)&&((n=r(m)).rel="preload",n.as=h,n.href=t,(t=e[g](w))&&n[b](w,t),(t=e[g](x))&&n[b](x,t),c(n))}function a(e,n){return z.call((n||k).querySelectorAll(e))}function f(e,n){e.parentNode.replaceChild(n,e)}function l(t,e){a("source,img",t)[y](l),i(t,function(e,n){(n=/^data-(.+)/.exec(e.name))&&t[b](n[1],e.value)}),"string"==typeof e&&e&&(t.className+=" "+e),p in t&&t[p]()}function e(e,n,t){u(function(t){(t=a(e||N))[y](s),(function o(e,n){(e=t[E]())&&((n=r(e.nodeName)).text=e.text,i(e,function(e){"type"!=e.name&&n[b](e.name,e.value)}),n.src&&!n[g]("async")?(n.onload=n.onerror=o,f(e,n)):(f(e,n),o()))})()},n,t)}var d="Defer",m="link",h="script",p="load",v="pageshow",y="forEach",g="getAttribute",b="setAttribute",E="shift",w="crossorigin",x="integrity",A=["mousemove","keydown","touchstart","wheel"],I="on"+v in n?v:p,N=h+"[type=deferjs]",j=n.IntersectionObserver,k=n.document||n,C=n.setTimeout,L=/p/.test(k.readyState),S=[],q=[],z=S.slice,B=function(e,n){for(n=I==e.type?(o(I),L=u,A[y](t),S):(A[y](o),q);n[0];)C(n[E](),n[E]())};e(),u.all=e,u.dom=function(e,n,i,c,r){u(function(t){function o(e){c&&!1===c(e)||l(e,i)}t=!!j&&new j(function(e){e[y](function(e,n){e.isIntersecting&&(t.unobserve(n=e.target),o(n))})},r),a(e||"[data-src]")[y](function(e){e[d]!=u&&(e[d]=u,t?t.observe(e):o(e))})},n,!1)},u.css=function(n,t,e,o,i){u(function(e){(e=r(m,t,o)).rel="stylesheet",e.href=n,c(e)},e,i)},u.js=function(n,t,e,o,i){u(function(e){(e=r(h,t,o)).src=n,c(e)},e,i)},u.reveal=l,n[d]=u,L||t(I)})(this);
+    </script>
+
+    <script type="application/javascript">
+            document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+            var setNptTechAdblockerCookie = function(adblocker) {
+                var d = new Date();
+                d.setTime(d.getTime() + 60 * 5 * 1000);
+                document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+            };
+            var script = document.createElement("script");
+            script.setAttribute("async", true);
+            script.setAttribute("src", "//www.npttech.com/advertising.js");
+            script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+            document.getElementsByTagName("head")[0].appendChild(script);
+        </script>
+        
+    <meta name="csrf-token" content="0RHT8jXObatRQTkPyT2S9clCuKhuaHYAYkfVNM3X">
+    <meta charset="utf-8">
+    <meta name="referrer" content="origin">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name='robots' content='max-image-preview:large'/>
+    <meta name="robots" content="max-snippet:-1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-itunes-app" content="app-id=1078564301">
+    <meta name="p:domain_verify" content="8948a77d334a5a512e1a94f7df2371e4"/>
+    <meta property="fb:pages" content="258002227555924" />
+    <meta property="fb:app_id" content="239712906458571" />
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="icon" href="/images/favicons/fr.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/images/favicons/fr.ico"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/fr/image/apple-touch-icon/120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/fr/image/apple-touch-icon/152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/images/fr/image/apple-touch-icon/167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/fr/image/apple-touch-icon/180.png">
+    <meta name="theme-color" content="#EF6C00"/>
+
+ 
+    <title>New survey ranks France&#039;s best cities for restaurants (and Paris is not top)</title>
+    <meta property="news_keywords" content="restaurants,life-in-paris,food-drink"/>
+    <meta property="article:published_time" content="2017-06-15T15:05:06+02:00" />
+    <meta property="article:modified_time" content="2017-06-15T15:05:08+02:00"/>
+    <meta name="cXenseParse:articleid" content="155939"/>
+    <meta property="cXenseParse:image" content="https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2017/06/4f327f01635782cc23362c9b487846716c3dc51e2b0065af2a4ad137a1035fd9.jpg@webp"/>
+    <meta property="cXenseParse:url" content="https://www.thelocal.fr/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants"/>
+    <meta property="og:article:author" content="The Local France"/>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="https://www.thelocal.fr/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants"/>
+    <meta property="og:title" content="New survey ranks France&#039;s best cities for restaurants (and Paris is not top)"/>
+    <meta property="og:description" content="A food website has revealed a league table of the best cities for restaurants in France and the rankings may surprise a few people."/>
+    <meta property="og:image" content="https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2017/06/watermarks-logo-4f327f01635782cc23362c9b487846716c3dc51e2b0065af2a4ad137a1035fd9.jpg@webp"/>
+    <meta property="og:image:type" content="image/webp">
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="The Local France" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@thelocalfrance" />
+    <meta name="twitter:title" content="New survey ranks France&#039;s best cities for restaurants (and Paris is not top)" />
+    <meta name="twitter:description" content="A food website has revealed a league table of the best cities for restaurants in France and the rankings may surprise a few people." />
+    <meta name="twitter:image" content="https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2017/06/watermarks-logo-4f327f01635782cc23362c9b487846716c3dc51e2b0065af2a4ad137a1035fd9.jpg@webp" />
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="The Local France">
+    <meta name="description" content="A food website has revealed a league table of the best cities for restaurants in France and the rankings may surprise a few people." />
+        <link rel="canonical" href="https://www.thelocal.fr/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants" />
+            <meta name="googlebot" content="index">
+            <meta property="article:content_tier" content="metered" />
+                    <link rel="alternate" type="application/rss+xml" href="https://feeds.thelocal.com/rss/fr/nonpremium">
+    
+    <!-- Styles -->
+        <style>
+:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-black:#000;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg,hsla(0,0%,100%,.15),hsla(0,0%,100%,0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff;--bs-border-width:1px;--bs-border-style:solid;--bs-border-color:#dee2e6;--bs-border-color-translucent:rgba(0,0,0,.175);--bs-border-radius:0.375rem;--bs-border-radius-sm:0.25rem;--bs-border-radius-lg:0.5rem;--bs-border-radius-xl:1rem;--bs-border-radius-2xl:2rem;--bs-border-radius-pill:50rem;--bs-link-color:#0d6efd;--bs-link-hover-color:#0a58ca;--bs-code-color:#d63384;--bs-highlight-bg:#fff3cd}*,:after,:before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{-webkit-text-size-adjust:100%;background-color:var(--bs-body-bg);color:var(--bs-body-color);font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);margin:0;text-align:var(--bs-body-text-align)}h1,h3,h5{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}h5{font-size:1.25rem}p{margin-top:0}p{margin-bottom:1rem}ul{padding-left:2rem}ul{margin-bottom:1rem;margin-top:0}ul ul{margin-bottom:0}strong{font-weight:bolder}a{color:var(--bs-link-color);text-decoration:underline}figure{margin:0 0 1rem}img,svg{vertical-align:middle}button{border-radius:0}button{font-family:inherit;font-size:inherit;line-height:inherit;margin:0}button{text-transform:none}[type=button],button{-webkit-appearance:button}iframe{border:0}.img-fluid{height:auto;max-width:100%}.figure{display:inline-block}.figure-img{line-height:1;margin-bottom:.5rem}.container,.container-md{--bs-gutter-x:1.5rem;--bs-gutter-y:0;margin-left:auto;margin-right:auto;padding-left:calc(var(--bs-gutter-x)*.5);padding-right:calc(var(--bs-gutter-x)*.5);width:100%}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container,.container-md{max-width:720px}}@media (min-width:992px){.container,.container-md{max-width:960px}}@media (min-width:1200px){.container,.container-md{max-width:1140px}}@media (min-width:1400px){.container,.container-md{max-width:1320px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-left:calc(var(--bs-gutter-x)*-.5);margin-right:calc(var(--bs-gutter-x)*-.5);margin-top:calc(var(--bs-gutter-y)*-1)}.row>*{flex-shrink:0;margin-top:var(--bs-gutter-y);max-width:100%;padding-left:calc(var(--bs-gutter-x)*.5);padding-right:calc(var(--bs-gutter-x)*.5);width:100%}@media (min-width:1200px){.col-xl-4{flex:0 0 auto;width:33.33333333%}.col-xl-8{flex:0 0 auto;width:66.66666667%}}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle:after{border-bottom:0;border-left:.3em solid transparent;border-right:.3em solid transparent;border-top:.3em solid;content:"";display:inline-block;margin-left:.255em;vertical-align:.255em}.dropdown-menu{--bs-dropdown-min-width:10rem;--bs-dropdown-padding-x:0;--bs-dropdown-padding-y:0.5rem;--bs-dropdown-spacer:0.125rem;--bs-dropdown-font-size:1rem;--bs-dropdown-color:#212529;--bs-dropdown-bg:#fff;--bs-dropdown-border-color:var(--bs-border-color-translucent);--bs-dropdown-border-radius:0.375rem;--bs-dropdown-border-width:1px;--bs-dropdown-inner-border-radius:calc(0.375rem - 1px);--bs-dropdown-divider-bg:var(--bs-border-color-translucent);--bs-dropdown-divider-margin-y:0.5rem;--bs-dropdown-box-shadow:0 0.5rem 1rem rgba(0,0,0,.15);--bs-dropdown-link-color:#212529;--bs-dropdown-link-hover-color:#1e2125;--bs-dropdown-link-hover-bg:#e9ecef;--bs-dropdown-link-active-color:#fff;--bs-dropdown-link-active-bg:#0d6efd;--bs-dropdown-link-disabled-color:#adb5bd;--bs-dropdown-item-padding-x:1rem;--bs-dropdown-item-padding-y:0.25rem;--bs-dropdown-header-color:#6c757d;--bs-dropdown-header-padding-x:1rem;--bs-dropdown-header-padding-y:0.5rem;background-clip:padding-box;background-color:var(--bs-dropdown-bg);border:var(--bs-dropdown-border-width) solid var(--bs-dropdown-border-color);border-radius:var(--bs-dropdown-border-radius);color:var(--bs-dropdown-color);display:none;font-size:var(--bs-dropdown-font-size);list-style:none;margin:0;min-width:var(--bs-dropdown-min-width);padding:var(--bs-dropdown-padding-y) var(--bs-dropdown-padding-x);position:absolute;text-align:left;z-index:1000}.dropdown-item{background-color:transparent;border:0;clear:both;color:var(--bs-dropdown-link-color);display:block;font-weight:400;padding:var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);text-align:inherit;text-decoration:none;white-space:nowrap;width:100%}.dropdown-item.active{background-color:var(--bs-dropdown-link-active-bg);color:var(--bs-dropdown-link-active-color);text-decoration:none}.nav-link{color:var(--bs-nav-link-color);display:block;font-size:var(--bs-nav-link-font-size);font-weight:var(--bs-nav-link-font-weight);padding:var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);text-decoration:none}.navbar{--bs-navbar-padding-x:0;--bs-navbar-padding-y:0.5rem;--bs-navbar-color:rgba(0,0,0,.55);--bs-navbar-hover-color:rgba(0,0,0,.7);--bs-navbar-disabled-color:rgba(0,0,0,.3);--bs-navbar-active-color:rgba(0,0,0,.9);--bs-navbar-brand-padding-y:0.3125rem;--bs-navbar-brand-margin-end:1rem;--bs-navbar-brand-font-size:1.25rem;--bs-navbar-brand-color:rgba(0,0,0,.9);--bs-navbar-brand-hover-color:rgba(0,0,0,.9);--bs-navbar-nav-link-padding-x:0.5rem;--bs-navbar-toggler-padding-y:0.25rem;--bs-navbar-toggler-padding-x:0.75rem;--bs-navbar-toggler-font-size:1.25rem;--bs-navbar-toggler-icon-bg:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");--bs-navbar-toggler-border-color:rgba(0,0,0,.1);--bs-navbar-toggler-border-radius:0.375rem;--bs-navbar-toggler-focus-width:0.25rem;align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between;padding:var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);position:relative}.navbar-brand{color:var(--bs-navbar-brand-color);font-size:var(--bs-navbar-brand-font-size);margin-right:var(--bs-navbar-brand-margin-end);padding-bottom:var(--bs-navbar-brand-padding-y);padding-top:var(--bs-navbar-brand-padding-y);text-decoration:none;white-space:nowrap}.navbar-nav{--bs-nav-link-padding-x:0;--bs-nav-link-padding-y:0.5rem;--bs-nav-link-font-weight: ;--bs-nav-link-color:var(--bs-navbar-color);--bs-nav-link-hover-color:var(--bs-navbar-hover-color);--bs-nav-link-disabled-color:var(--bs-navbar-disabled-color);display:flex;flex-direction:column;list-style:none;margin-bottom:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-toggler{background-color:transparent;border:var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);border-radius:var(--bs-navbar-toggler-border-radius);color:var(--bs-navbar-color);font-size:var(--bs-navbar-toggler-font-size);line-height:1;padding:var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x)}.navbar-toggler-icon{background-image:var(--bs-navbar-toggler-icon-bg);background-position:50%;background-repeat:no-repeat;background-size:100%;display:inline-block;height:1.5em;vertical-align:middle;width:1.5em}.btn-close{background:transparent url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3E%3C/svg%3E") 50%/1em auto no-repeat;border:0;border-radius:.375rem;box-sizing:content-box;color:#000;height:1em;opacity:.5;padding:.25em;width:1em}.offcanvas{--bs-offcanvas-width:400px;--bs-offcanvas-height:30vh;--bs-offcanvas-padding-x:1rem;--bs-offcanvas-padding-y:1rem;--bs-offcanvas-color: ;--bs-offcanvas-bg:#fff;--bs-offcanvas-border-width:1px;--bs-offcanvas-border-color:var(--bs-border-color-translucent);--bs-offcanvas-box-shadow:0 0.125rem 0.25rem rgba(0,0,0,.075);background-clip:padding-box;background-color:var(--bs-offcanvas-bg);bottom:0;color:var(--bs-offcanvas-color);display:flex;flex-direction:column;max-width:100%;outline:0;position:fixed;visibility:hidden;z-index:1045}.offcanvas.offcanvas-start{border-right:var(--bs-offcanvas-border-width) solid var(--bs-offcanvas-border-color);left:0;top:0;transform:translateX(-100%);width:var(--bs-offcanvas-width)}.offcanvas-header{align-items:center;display:flex;justify-content:space-between;padding:var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x)}.offcanvas-header .btn-close{margin-bottom:calc(var(--bs-offcanvas-padding-y)*-.5);margin-right:calc(var(--bs-offcanvas-padding-x)*-.5);margin-top:calc(var(--bs-offcanvas-padding-y)*-.5);padding:calc(var(--bs-offcanvas-padding-y)*.5) calc(var(--bs-offcanvas-padding-x)*.5)}.offcanvas-body{flex-grow:1;overflow-y:auto;padding:var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x)}.d-block{display:block!important}.d-none{display:none!important}.mb-3{margin-bottom:1rem!important}.text-capitalize{text-transform:capitalize!important}.text-reset{--bs-text-opacity:1;color:inherit!important}.rounded-circle{border-radius:50%!important}@media (min-width:768px){.d-md-none{display:none!important}}:root{--swiper-theme-color:#007aff}:root{--swiper-navigation-size:44px}html{scroll-padding-top:120px}@media (max-width:576px){html{scroll-padding-top:82px}}@media (min-width:1200px){.container,.container-md{max-width:1280px}}a{color:#ef6c00;text-decoration:none}.sticky{position:-webkit-sticky;position:-moz-sticky;position:-o-sticky;position:-ms-sticky;position:sticky;top:1rem;z-index:1}@font-face{font-display:swap;font-family:Noto Sans;font-style:normal;font-weight:400;src:local(""),url(/fonts/noto-sans-v27-latin-regular.woff2?668fa41f4ecaf0c7ea97a76059ca0fc9) format("woff2"),url(/fonts/noto-sans-v27-latin-regular.woff?42ae48a94d685849704eda73eb183304) format("woff")}@font-face{font-display:swap;font-family:Noto Sans;font-style:normal;font-weight:500;src:local(""),url(/fonts/noto-sans-v27-latin-500.woff2?4e538da632049d278c0cf90d4f99aff5) format("woff2"),url(/fonts/noto-sans-v27-latin-500.woff?9f5bccf7e46af3f2b3375360a6377edd) format("woff")}@font-face{font-display:swap;font-family:Noto Sans;font-style:normal;font-weight:700;src:local(""),url(/fonts/noto-sans-v27-latin-700.woff2?ed37599f330779774b3c0527ba64577f) format("woff2"),url(/fonts/noto-sans-v27-latin-700.woff?2d4a02a9455c08478ecb679140015291) format("woff")}@font-face{font-display:swap;font-family:Noto Sans;font-style:normal;font-weight:600;src:local(""),url(/fonts/noto-sans-v27-latin-600.woff2?93a909601fc1dfa86adc742fa8d929bc) format("woff2"),url(/fonts/noto-sans-v27-latin-600.woff?37211cea6835acfdb1134e28766e10ac) format("woff")}@font-face{font-display:swap;font-family:Noto Sans;font-style:normal;font-weight:800;src:local(""),url(/fonts/noto-sans-v27-latin-800.woff2?fb28cc122ce9655d13ca669657c269e5) format("woff2"),url(/fonts/noto-sans-v27-latin-800.woff?b74f98114112a57bc50e5580d1e19ed0) format("woff")}@font-face{font-display:swap;font-family:EB Garamond;font-style:normal;font-weight:400;src:local(""),url(/fonts/eb-garamond-v26-latin-regular.woff2?b958a9290281491c3c0b844e81589f43) format("woff2"),url(/fonts/eb-garamond-v26-latin-regular.woff?241cca67068a6f68a53760b36d0c3182) format("woff")}@font-face{font-display:swap;font-family:EB Garamond;font-style:normal;font-weight:500;src:local(""),url(/fonts/eb-garamond-v26-latin-500.woff2?4b3ab158a72b3ccfeca93ec674f397ce) format("woff2"),url(/fonts/eb-garamond-v26-latin-500.woff?f7602adbdf54b954c9641a2f98560e64) format("woff")}@font-face{font-display:swap;font-family:EB Garamond;font-style:normal;font-weight:700;src:local(""),url(/fonts/eb-garamond-v26-latin-700.woff2?d36b89762e6305ab8ae0efe36813a9c6) format("woff2"),url(/fonts/eb-garamond-v26-latin-700.woff?3edde71cc47fff3e099e2f1960a88e21) format("woff")}a,h1,h3,h5,p{font-family:Noto Sans,sans-serif}.login-box{align-items:center;display:flex;height:34px;width:220px}@media (max-width:576px){.login-box{margin-bottom:15px;margin-left:auto;margin-right:auto;overflow-y:hidden}}.pn-header{width:100%}header.site-header{background-color:#fff;border-bottom:1px dotted #aeaeae}header.site-header nav.navbar{background-color:#fff;justify-content:space-between;padding:10px 0}@media (max-width:576px){header.site-header nav.navbar{padding:10px 15px}}header.site-header nav.navbar .navbar-brand{margin:0}header.site-header nav.navbar .navbar-brand img{max-width:269px}@media (max-width:576px){header.site-header nav.navbar .navbar-brand img{max-width:200px}}header.site-header nav.navbar .nav-spacer{flex:0 0 calc(50% - 269px);max-width:0 0 calc(50% - 269px)}header.site-header nav.navbar .nav-spacer.nav-spacer--menu .login-box.tablet-login-box{display:none;visibility:hidden}@media (max-width:576px){header.site-header nav.navbar .nav-spacer{flex:0 0 calc(50% - 200px);max-width:0 0 calc(50% - 200px)}}@media (max-width:768px){header.site-header nav.navbar .nav-spacer.nav-spacer--menu .secondary-menu{display:none}header.site-header nav.navbar .nav-spacer.nav-spacer--menu .login-box.tablet-login-box{display:block;margin-left:auto;visibility:visible}}@media (max-width:1024px){header.site-header nav.navbar .nav-spacer.nav-spacer--menu .secondary-menu{display:none}header.site-header nav.navbar .nav-spacer.nav-spacer--menu .login-box.tablet-login-box{display:block;margin-left:auto;visibility:visible}}header.site-header nav.navbar .navbar-toggler{border:none;box-shadow:none!important;outline:none!important;padding:0;text-align:left}header.site-header nav.navbar .navbar-toggler .navbar-toggler-icon{background-image:url(/images/menu.svg)}header.site-header nav.navbar .offcanvas{z-index:5002}header.site-header nav.navbar .offcanvas .offcanvas-header{justify-content:flex-end}header.site-header nav.navbar .offcanvas .offcanvas-header .btn-close{box-shadow:none;outline:none}header.site-header nav.navbar .offcanvas .offcanvas-header a{display:none;margin-left:auto;margin-right:auto}@media (max-width:576px){header.site-header nav.navbar .offcanvas .offcanvas-header a{display:block}}header.site-header nav.navbar .offcanvas .offcanvas-body{padding:16px 20px}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-toggle{color:#666;font-size:20px;font-weight:500;padding-left:40px;position:relative}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-toggle:after,header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-toggle:before{background-color:#ef6c00;border:0;border-radius:20px;content:"";line-height:0;margin:0;position:absolute;transform:translateY(-50%) rotate(0deg);vertical-align:0}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-toggle:before{height:24px;left:11px;top:50%;width:2px}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-toggle:after{height:2px;left:0;top:50%;width:24px}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-menu{border:0;display:block;margin:0;max-height:0;overflow:hidden;padding:0 0 0 40px;visibility:hidden}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-menu li a.dropdown-item{background-color:transparent!important;color:#666;font-size:18px;padding:5px 0}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.dropdown .dropdown-menu li a.dropdown-item.active{color:#ef6c00}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.indented{padding-left:40px}header.site-header nav.navbar .offcanvas .offcanvas-body .navbar-nav li.nav-item.indented a.nav-link{font-size:20px;font-weight:500}header.site-header nav.navbar .offcanvas .offcanvas-body .login-box{display:flex;padding-bottom:30px;padding-top:30px;width:100%}@media (min-width:768px){header.site-header nav.navbar .offcanvas .offcanvas-body .login-box{display:none}}header.site-header nav.navbar .offcanvas .offcanvas-body::-webkit-scrollbar{display:none}header.site-header nav.navbar .offcanvas .offcanvas-body{-ms-overflow-style:none;scrollbar-width:none}header.site-header nav.navbar .navbar-nav{padding-bottom:20px}header.site-header nav.navbar .navbar-nav:not(:last-child){border-bottom:1px dotted #aeaeae;margin-bottom:30px}header.site-header nav.navbar .navbar-nav h5{color:#666;font-size:15px;font-weight:600;margin-bottom:15px;text-transform:uppercase}header.site-header nav.navbar .navbar-nav li.nav-item a.nav-link{align-items:center;color:#666;display:flex;font-size:18px}header.site-header nav.navbar .navbar-nav li.nav-item a.nav-link svg{fill:#666;height:16px;margin-right:5px;width:23px}header.site-header nav.navbar .navbar-nav li.nav-item a.nav-link>i{color:#666;font-size:16px;margin-right:5px}header.site-header nav.navbar.navbar--complex{flex-wrap:wrap}header.site-header nav.navbar.navbar--complex .navbar-brand{flex:0 0 100%;max-width:100%;order:1;text-align:center}header.site-header nav.navbar.navbar--complex .nav-spacer{flex:0 0 auto;max-width:100%}header.site-header nav.navbar.navbar--complex .nav-spacer--toggler{order:2}header.site-header nav.navbar.navbar--complex .nav-spacer--menu{flex-grow:1;order:3}header.site-header nav.navbar.navbar--complex .secondary-menu{align-items:center;flex-direction:row;flex-grow:1;flex-wrap:wrap;justify-content:space-between;margin-left:1.4vw;padding:0}@media (max-width:576px){header.site-header nav.navbar.navbar--complex .secondary-menu{justify-content:center;margin-left:0}}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item:not(:last-child){margin-right:1.4vw}@media (max-width:576px){header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item:not(.auth-item){display:none}}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item.nav-item--btn{margin-left:auto}@media (max-width:576px){header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item.nav-item--btn{margin-left:0}}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item.dropdown>.dropdown-menu{border:none;border-radius:0;box-shadow:0 2px 4px 2px rgba(0,0,0,.25);padding:0}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item.dropdown>.dropdown-menu li:not(:last-child){border-bottom:1px dotted #aeaeae}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item.dropdown>.dropdown-menu li a.dropdown-item{background-color:transparent!important;font-size:13px;font-weight:600;padding:10px;text-transform:uppercase}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item a.nav-link{font-size:15px;font-weight:600;text-transform:uppercase}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav li.nav-item a.nav-link.dropdown-toggle:after{background-image:url(/images/chevron-down.svg);background-position:100%;background-repeat:no-repeat;background-size:10px 10px;border:none!important;height:10px;margin-bottom:4px;width:10px}header.site-header nav.navbar.navbar--complex .secondary-menu.navbar-nav .dropdown-menu{position:absolute}@media (max-width:576px){header.site-header nav.navbar.navbar--complex{justify-content:center}header.site-header nav.navbar.navbar--complex .navbar-brand{flex:0 0 auto;order:2}header.site-header nav.navbar.navbar--complex .nav-spacer--toggler{left:15px;order:1;position:absolute;top:25px}header.site-header nav.navbar.navbar--complex .nav-spacer--menu{display:none;flex-grow:1;order:3}}.fflag{background-image:url(/images/flagSprite42.png);background-repeat:no-repeat;background-size:100% 49494%;box-sizing:content-box;display:inline-block;overflow:hidden;position:relative;vertical-align:middle}.fflag-CH{box-shadow:none!important}.fflag-AT{background-position:center .8958%}.fflag-DK{background-position:center 2.6674%}.fflag-FR{background-position:center 3.5542%}.fflag-DE{background-position:center 3.7759%}.fflag-IT{background-position:center 5.3298%}.fflag-NO{background-position:center 8.2099%}.fflag-ES{background-position:left 10.2052%}.fflag-SE{background-position:center 10.4269%}.fflag-CH{background-position:center 10.6486%}.fflag.ff-sm{height:11px;width:18px}@media (max-width:576px){.article-page header.site-header{background-color:#fff;border-bottom:none}.article-page header.site-header nav.navbar{background-color:transparent}.article-page header.site-header nav.navbar .navbar-toggler .navbar-toggler-icon{background-image:url(/images/menu.svg)}}.site-footer.dark *{color:#fff!important}.site-footer.dark .footer-copyright *{color:#666!important}.site-footer .footer-copyright *{color:#fff!important}.site-footer .footer-copyright .dp-links>*{background:transparent;border:none;box-shadow:none;color:#fff;font-size:14px;outline:none;position:relative;text-decoration:none}.site-footer .footer-copyright .dp-links>:not(:last-child){margin-right:25px}.site-footer .footer-copyright .dp-links>:not(:last-child):after{content:"â€¢";left:calc(100% + 10px);position:absolute;top:50%;transform:translateY(-50%)}@media (max-width:576px){.footer-column{margin-bottom:0}}.footer-column.footer-column__general{max-width:220px}.footer-column .footer-logo{margin-bottom:20px;max-width:211px}.footer-column .footer-info{color:#666;font-size:15px;font-weight:500;line-height:1.5;margin:0}.hp-new__container .hp-new__article--1{grid-area:article-1}.hp-new__container .hp-new__article--4{grid-area:article-4}.hp-new__container .hp-new__article--2{grid-area:article-2-hero}.hp-new__container .hp-new__article--3{grid-area:article-3}.hp-new__container .hp-new__article--6{grid-area:article-6}.hp-new__container .hp-new__article--5{grid-area:article-5}.hp-new__container .hp-new__article--7{grid-area:article-7}.hp-new__container .hp-new__article--8{grid-area:article-8}.hp-new__container .hp-new__article--9{grid-area:article-9}.hp-new__container .hp-new__article--10{grid-area:article-10}.hp-new__container .hp-new__article--11{grid-area:article-11}.hp-new__container .hp-new__article--12{grid-area:article-12}.hp-new__container .hp-new__article--13{grid-area:article-13}.hp-new__container .hp-new__article--14{grid-area:article-14}.tl-ad-container{background-color:#fafafa;}.tl-ad-container{align-items:center;display:flex;flex-direction:column;justify-content:center;text-align:center;width:100%}.tl-ad-heading{color:#545454;display:block;font-size:11px;font-weight:400;margin-bottom:auto;padding:15px 0 0;text-align:center;text-transform:uppercase}.article-single{padding:48px 0}@media (max-width:576px){.article-single{padding:0 0 30px}.article-single .mobile-full-width{padding:0}}.article-single__main{display:flex;flex-direction:column;position:relative}.article-single__main .tag-wrapper{align-items:center;display:flex;flex-wrap:wrap;justify-content:space-between}.article-single__main .tag{color:#ef6c00;font-family:Noto Sans,serif;font-size:14px;font-weight:500;text-transform:capitalize}.article-single__main .tag-wrapper span{background-color:#42b3bc;color:#fff;display:block;font-style:italic;font-weight:400;padding:5px 15px}@media (max-width:576px){.article-single__main .tag-wrapper>a{order:2}}.article-single__main .article-single__excerpt{font-family:"EB Garamond",serif;font-weight:700;font-size:26px;line-height:1.62;margin-bottom:20px}.article-single__main .tag{color:#ef6c00;font-family:Noto Sans,serif;font-size:14px;font-weight:500;text-transform:capitalize}@media (max-width:576px){.article-single__main .tag{font-size:14px;text-transform:uppercase}}.article-single__main h1{color:#393939;font-family:EB Garamond,serif;font-size:40px;font-weight:700;margin-bottom:20px}@media (max-width:576px){.article-single__main h1{font-size:30px;line-height:1.3}}.article-single__main .meta{align-items:center;display:flex;justify-content:space-between;margin-bottom:40px;min-height:50px}@media (max-width:576px){.article-single__main .meta{flex-wrap:wrap;margin-bottom:0;min-height:110px}}.article-single__main .meta .article-single__social{align-items:center;display:flex;height:30px;justify-content:space-between}.article-single__main .meta .article-single__social>div{align-items:center;display:flex}@media (max-width:576px){.article-single__main .meta .article-single__social{margin-top:20px;width:100%}}.article-single__main .meta .article-single__social .copy{background-color:transparent;background-image:url(/images/share-icon.svg);background-position:0;background-repeat:no-repeat;background-size:14.88px 18.27px;border:none;color:#666;display:none;font-size:14px;margin-right:7px;padding:0 6px 0 18px}@media (max-width:576px){.article-single__main .meta .article-single__social .copy{background-image:url(/images/share-icon-dark.png);display:block}}.article-single__main .meta .article-single__social ul{align-items:center;display:inline-flex;justify-content:center;list-style:none;margin:0;padding:0}.article-single__main .meta .article-single__social ul li{margin:2px 5px}.article-single__main .article-single__content p,.article-single__main .article-single__content>div{font-size:23px;font-weight:400;font-family:"EB Garamond",serif;color:#393939;margin-bottom:30px;line-height:1.62}.article-single__main .meta .article-single__social ul li a,.article-single__main .meta .article-single__social ul li button{background-color:transparent;border:none;text-decoration:none}.article-single__main .meta .article-single__social ul li a i,.article-single__main .meta .article-single__social ul li button i{color:#666;font-size:19px}.article-single__main .meta .article-single__social ul li a.comments-link{align-items:center;display:inline-flex}.article-single__main .meta .article-single__social ul li a.comments-link span{color:#666;font-size:12px;margin-left:3px}.article-single__main .meta .article-single__social .app-btn{width:0}@media (max-width:576px){.article-single__main .meta .article-single__social .app-btn{height:37px;width:200px}}.article-single__main .article-single__feature{color:#afafaf;font-family:Noto Sans,sans-serif!important;font-size:14px;width:100%}@media (max-width:576px){.article-single__main .article-single__feature{font-size:12px}}.article-single__main .article-single__feature img{max-height:550px;min-height:550px;-o-object-fit:cover;object-fit:cover;width:100%}@media (max-width:576px){.article-single__main .article-single__feature img{max-height:300px;min-height:300px;-o-object-fit:cover;object-fit:cover}}.article-single__main .article-single__feature .figure-img{margin-bottom:10px}.article-single__main .article-single__author{align-items:center;display:flex}.article-single__main .article-single__author img{margin-right:9px;-o-object-fit:cover;object-fit:cover;-o-object-position:center;object-position:center}.article-single__main .article-single__author>div span{color:#666;display:block;font-size:11px;font-weight:500}.article-single__main .article-single__author>div span strong{font-size:13px;font-weight:600}.article-single__main .article-single__author>div span strong a{color:#666;text-decoration:underline}.article-single__main .article-single__author>div .article__published{-moz-column-gap:6px;column-gap:6px;display:flex;flex-direction:row}.article-single__main .article-single__author>div .article__published span{color:#666;display:block;font-size:11px;font-weight:500}@media (max-width:768px){.article-single__main .article-single__author>div .article__published{flex-direction:column;row-gap:3px}}.article-single__main .article-single__comments .comments-collapsible>div:first-child{padding-top:15px}.article-single__main .article-single__comments .comments-collapsible>div:first-child.comment-wrapper--intro{display:none;font-size:14px}@media (max-width:576px){.article-single__main .article-single__feature{order:1}.article-single__main .meta{margin-bottom:20px;order:2}.article-single__main .meta .article-single__social{height:37px;margin-top:15px}.article-single__main .tag-wrapper{order:3}.article-single__main h1{order:4}.article-single__main .meta,.article-single__main .tag,.article-single__main h1{padding-left:10px;padding-right:10px}}.article-single__side{display:flex;flex-direction:column;margin-left:auto;max-width:405px}@media (max-width:1024px){.article-single__side{margin-top:40px;max-width:100%}}@media (max-width:576px){.article-single__side .tl-ad-container{order:1}}.search-nav-container{order:2;margin-left:1vw;width:20px;height:24px}@media all and (max-width:576px){.search-nac-container{position:absolute;top:25px;right:15px;order:3;margin-top:4px}}.grecaptcha-badge{visibility:hidden!important;}
+</style>
+    <link rel="preload" href="/css/app.css?id=ca8e3d95f6c7bcb4d866df7588b66216" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet';"/>
+                <script>
+            window.dataLayer = window.dataLayer || [];
+            dataLayer.push({
+                'event': 'Pageview',
+                'pagePath': 'https://www.thelocal.fr/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants',
+                'pageTitle': 'New survey ranks France&#039;s best cities for restaurants (and Paris is not top)',
+                'pageId': '429564',
+                'pageTags': 'articlepage, restaurants, life-in-paris, food-drink',
+                'visitorType': 'free',
+                'UID': '',
+            });
+            
+            if(document.referrer !== '') {
+                let prevUrl = new URL(document.referrer);
+                if(prevUrl.pathname === '/') {
+                    dataLayer.push({ ecommerce: null });
+                    dataLayer.push({
+                        event: 'select_promotion',
+                        ecommerce: {
+                            promotion_name: 'Homepage',
+                            items: [
+                                {
+                                    item_id: '429564',
+                                    item_name: 'New survey ranks France&#039;s best cities for restaurants (and Paris is not top)',
+                                    item_category: 'restaurants'
+                                }
+                            ]
+                        }
+                    });
+                }
+            }
+            </script>
+        <script type='tl-js'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            
+            })(window,document,'script','dataLayer','GTM-NMLDXPL');</script>
+    <script type="application/javascript" src="https://experience.piano.io/xbuilder/experience/load?aid=AMQ66v1Rpu"></script><script type="application/javascript" src="https://cdn.cxense.com/cx.cce.js" data-vendor="iab:412"></script><script type='application/javascript' data-vendor="iab:412">var cX = window.cX = window.cX || {}; cX.callQueue = cX.callQueue || []; cX.options = cX.options || { compat: { c1x: { wait: 3000 } } };cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];cX.callQueue.push(['setSiteId', '1129593794869594606']);</script>
+
+            
+                <script type="application/ld+json">
+                    {
+                        "@context": "http://schema.org",
+                        "@type": "NewsArticle",
+                        "mainEntityOfPage": {
+                            "@type": "WebPage",
+                            "@id": "https://www.thelocal.fr/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants"
+                        },
+                        "headline": "New survey ranks France's best cities for restaurants (and Paris is not top)",
+                        "datePublished": "2017-06-15T15:05:06+02:00",
+                        "dateModified": "2017-06-15T15:05:08+02:00",
+                        "description": "A food website has revealed a league table of the best cities for restaurants in France and the rankings may surprise a few people.",
+                        "keywords": "France news, restaurants,life-in-paris,food-drink",
+                        "isAccessibleForFree": "true",
+                        "author": {
+                            "@type": "Organization",
+                            "name": "The Local France",
+                            "email": "news@thelocal.fr",
+                            "url": "https://www.thelocal.fr/author/the-local-3"
+                        },
+                        "isPartOf": {
+                            "@type": ["CreativeWork", "Product"],
+                            "name" : "The Local France",
+                            "productID": "thelocal.fr:member"
+                        },
+                        "publisher": {
+                            "@type": "NewsMediaOrganization",
+                            "name": "The Local France",
+                            "keywords": "France's news in English",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "/images/the-local-network-logo-300x60.png",
+                                "width": "300",
+                                "height": "60"
+                            }
+                        },
+                        "image": {
+                            "@type": "ImageObject",
+                            "url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2017/06/4f327f01635782cc23362c9b487846716c3dc51e2b0065af2a4ad137a1035fd9.jpg@webp",
+                            "width": "1200",
+                            "height": "800"
+                        }
+                    }
+                </script>
+            
+        <script async type="application/javascript" subscriptions-control="manual" src="https://news.google.com/swg/js/v1/swg.js"></script>
+            
+    
+    <script type='application/javascript' async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script><script src='https://tags.refinery89.com/thelocalfr.js' async></script>
+    <script type='application/javascript'>
+    window.googletag = window.googletag || { cmd: [] };
+    googletag.cmd.push(function () {
+        googletag.pubads().setCentering(true);
+        googletag.pubads().enableLazyLoad({ fetchMarginPercent: 50, renderMarginPercent: 20, mobileScaling: 1.0 });
+        googletag.enableServices();
+    });
+</script>
+    
+        <!-- MailerLite Universal -->
+        <script type="tl-js">
+            (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+            var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+            f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+            var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+            _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+            var ml_account = ml('accounts', '3138025', 'd2z5z7j0w6', 'load');
+        </script>
+        <!-- End MailerLite Universal -->
+        
+    
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css' type='text/css' media='all' />
+
+    
+    
+                <script type="tl-js">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({article:"auto"});
+                    !function (e, f, u, i) {
+                        if (!document.getElementById(i)){
+                        e.async = 1;
+                        e.src = u;
+                        e.id = i;
+                        f.parentNode.insertBefore(e, f);
+                        }
+                    }(document.createElement("script"),
+                    document.getElementsByTagName("script")[0],
+                    "//cdn.taboola.com/libtrc/thelocal-network/loader.js",
+                    "tb_loader_script");
+                    if(window.performance && typeof window.performance.mark == "function")
+                        {window.performance.mark("tbl_ic");}
+                </script>
+                
+    
+</head>
+<body class="antialiased article-page article-page--regular" data-auth="false">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMLDXPL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div class="relative min-h-screen sm:pt-0" id="app">
+        <default-js :data="{&quot;login_route&quot;:&quot;https:\/\/www.thelocal.fr\/login&quot;,&quot;register_route&quot;:&quot;https:\/\/www.thelocal.fr\/register&quot;,&quot;logout_route&quot;:&quot;https:\/\/www.thelocal.fr\/logout&quot;,&quot;piano_sync_route&quot;:&quot;https:\/\/www.thelocal.fr\/piano-sync&quot;,&quot;account_route&quot;:&quot;https:\/\/www.thelocal.fr\/members\/account&quot;,&quot;piano_abandoned_cart_route&quot;:&quot;https:\/\/www.thelocal.fr\/api\/v1\/piano\/abandoned-cart&quot;,&quot;auth&quot;:false,&quot;auth_paid&quot;:false}"></default-js>
+                                                                            <div class='tl-ad-container'><h3 class='tl-ad-heading'>Advertisement</h3><div class='r89-desktop-billboard-atf'></div></div>
+                                                                    <header class="site-header">
+                <div class="container">
+    <nav class="navbar navbar--complex">
+        <div class="nav-spacer nav-spacer--toggler">
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+        <a class="navbar-brand" href="https://www.thelocal.fr">
+            <img width="269" height="51" src="https://www.thelocal.fr/images/logo-fr.svg" alt="The Local">
+        </a>
+        <div class="nav-spacer nav-spacer--menu" role="navigation" aria-label="Quick Links">
+            
+            <div class="login-box tablet-login-box"></div>
+                            <ul class="secondary-menu navbar-nav">
+                                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="FrenchNewsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        French News
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="FrenchNewsDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/category/france-news">Latest news</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/talking-france">Talking France</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/travel-news">Travel news</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/strikes">Strikes</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/politics">Politics</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/john-lichfield">John Lichfield</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/second-homes">Second homes</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/paris">Paris</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/lyon">Lyon</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/nice">Nice</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/brittany">Brittany</a>
+                                            
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                <li class="nav-item">
+                    <a href="/podcasts/talking-france" class="nav-link">Podcasts</a>
+                </li>
+                                                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="PracticalhelpDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Practical help
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="PracticalhelpDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/category/living-in-france">Living in France</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-citizenship">French citizenship</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/residency-permits">Residency permits</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/visas">Visas</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/health">Health</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/moving-to-france">Moving to France</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/driving">Driving</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/taxes">Taxes</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/money">Living costs</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/question">Reader questions</a>
+                                            
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="DiscoverFranceDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Discover France
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="DiscoverFranceDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/discover-france">Discover France</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/americans-in-france">Americans in France</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/food-drink">Food and Drink</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/culture">Culture</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-habits">French habits</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-traditions">French traditions</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-history">french history</a>
+                                            
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                                                                                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="LanguageDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Language
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="LanguageDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/language-lessons">Language Lessons</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-language-tests">Language Tests</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/learning-french">Learning French</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-word-of-the-day">French Word of the Day</a>
+                                            
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="HomesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Homes
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="HomesDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/property">Property</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/renting">Renting</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/second-homes">Second homes</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/property">Property Sales</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/rentals">Find rentals</a>
+                                            
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                        <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="JobsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Jobs
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="JobsDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/working-in-france">Working in France</a>
+                                            
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/jobs">Jobs in France</a>
+                                            
+                            </li>
+                                            </ul>
+                </li>
+                                                                                <li class="nav-item nav-item--btn login-box"></li>
+</ul>                    </div>
+        <div class="search-nav-container">
+            <search-component-js :data='{"search_route":"https:\/\/www.thelocal.fr\/search"}'></search-component-js>
+        </div>
+
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasWithBackdrop" aria-labelledby="offcanvasWithBackdropLabel">
+            <div class="offcanvas-header">
+                <a href="https://www.thelocal.fr">
+                    <img width="200" height="51" src="https://www.thelocal.fr/images/logo-fr.svg" alt="The Local">
+                </a>
+
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <div class="login-box"></div>
+
+                                    <ul class="navbar-nav">
+    <h5>Topics</h5>
+                                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        French News
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/category/france-news">Latest news</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/talking-france">Talking France</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/travel-news">Travel news</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/strikes">Strikes</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/politics">Politics</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/john-lichfield">John Lichfield</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/second-homes">Second homes</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/paris">Paris</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/lyon">Lyon</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/nice">Nice</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/brittany">Brittany</a>
+                                                      
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                <li class="nav-item indented">
+                    <a href="/podcasts/talking-france" class="nav-link">Podcasts</a>
+                </li>
+                                                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Practical help
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/category/living-in-france">Living in France</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-citizenship">French citizenship</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/residency-permits">Residency permits</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/visas">Visas</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/health">Health</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/moving-to-france">Moving to France</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/driving">Driving</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/taxes">Taxes</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/money">Living costs</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/question">Reader questions</a>
+                                                      
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Discover France
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/discover-france">Discover France</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/americans-in-france">Americans in France</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/food-drink">Food and Drink</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/culture">Culture</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-habits">French habits</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-traditions">French traditions</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-history">french history</a>
+                                                      
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                                                                                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Language
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/language-lessons">Language Lessons</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-language-tests">Language Tests</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/learning-french">Learning French</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/french-word-of-the-day">French Word of the Day</a>
+                                                      
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Homes
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/property">Property</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/renting">Renting</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/second-homes">Second homes</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/property">Property Sales</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/rentals">Find rentals</a>
+                                                      
+                            </li>
+                                            </ul>
+                </li>
+                                                                                                                                                                                                        <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Jobs
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                    <li>
+                                                                        <a class="dropdown-item" href="https://www.thelocal.fr/tag/working-in-france">Working in France</a>
+                                                      
+                            </li>
+                                                    <li>
+                                                                        <a class="dropdown-item" href="/jobs">Jobs in France</a>
+                                                      
+                            </li>
+                                            </ul>
+                </li>
+                                                                            </ul>                                <ul class="navbar-nav">
+    <h5>Choose edition</h5>
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle editorial-select text-capitalize" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            france
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="nav-item">
+                <a class="dropdown-item " aria-current="page" href="https://www.thelocal.com">All Editions</a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.at">
+                    <div class="fflag fflag-AT ff-sm" title="Austria AT"></div>
+                    Austria
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.dk">
+                    <div class="fflag fflag-DK ff-sm" title="Denmark DK"></div>
+                    Denmark
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item active" href="https://www.thelocal.fr">
+                    <div class="fflag fflag-FR ff-sm" title="France FR"></div>
+                    France
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.de">
+                    <div class="fflag fflag-DE ff-sm" title="Germany DE"></div>
+                    Germany
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.it">
+                    <div class="fflag fflag-IT ff-sm" title="Italy IT"></div>
+                    Italy
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.no">
+                    <div class="fflag fflag-NO ff-sm" title="Norway NO"></div>
+                    Norway
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.es">
+                    <div class="fflag fflag-ES ff-sm" title="Spain ES"></div>
+                    Spain
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.se">
+                    <div class="fflag fflag-SE ff-sm" title="Sweden SE"></div>
+                    Sweden
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="dropdown-item " href="https://www.thelocal.ch">
+                    <div class="fflag fflag-CH ff-sm" title="Switzerland CH"></div>
+                    Switzerland
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>                <ul class="navbar-nav">
+    <h5>Membership</h5>
+                                    <li class="nav-item">
+                    <a class="nav-link" href="/membership-offer?tpcc=fr-menu">
+                        <i class="fas fa-user"></i> Become a member
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link" href="https://www.thelocal.fr/free-newsletter">
+                        <i class="far fa-envelope"></i> Newsletters
+                    </a>
+                </li>
+                                                                                            <li class="nav-item">
+                    <a class="nav-link" href="https://thelocalhelp.zendesk.com/hc/en-us">
+                        <i class="far fa-circle-question"></i> Help Centre
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link" href="https://www.thelocal.fr/gift-voucher">
+                        <i class="fas fa-gift"></i> Gift Vouchers
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link" href="https://www.thelocal.fr/membership-student">
+                        <i class="fas fa-user-graduate"></i> Educational Access
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link" href="https://www.thelocal.fr/corporate-membership">
+                        <i class="fas fa-shop"></i> Corporate Access
+                    </a>
+                </li>
+                        
+</ul>                <ul class="navbar-nav">
+    <h5>The Local</h5>
+                                    <li class="nav-item">
+                    <a class="nav-link " href="https://www.thelocal.fr/aboutus">
+                        <svg width="19" height="21" viewBox="0 0 19 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.8308 0.140769C12.1981 0.11446 13.3947 0.545022 14.4697 1.31952C15.7353 2.23134 16.8409 3.33514 17.7224 4.66327C19.3268 7.08071 19.3926 9.64971 18.0746 12.1655C16.5195 15.1337 14.2777 17.4821 11.4716 19.1511C8.9412 20.6559 6.44941 20.4185 4.12068 18.5811C2.97483 17.677 1.98205 16.5975 1.17851 15.3519C-0.183885 13.2406 -0.384344 10.9492 0.677905 8.68117C2.32618 5.16019 4.89327 2.53048 8.21247 0.740604C9.03625 0.296567 9.94191 0.110995 10.8308 0.140769ZM5.89386 10.1305C5.89386 11.9832 5.89308 13.8359 5.89464 15.6885C5.89464 16.0886 5.96593 16.1658 6.34723 16.166C8.45369 16.1685 10.5604 16.1683 12.667 16.1663C13.06 16.166 13.1893 16.0309 13.1938 15.6164C13.1992 15.0853 13.199 14.5544 13.1938 14.0233C13.1896 13.6005 13.0926 13.4997 12.6988 13.4995C11.4213 13.4981 10.1436 13.4886 8.86679 13.5063C8.55971 13.5105 8.46343 13.4226 8.46575 13.0947C8.47902 11.2776 8.472 9.46015 8.472 7.64307C8.472 6.65168 8.47519 5.66056 8.46981 4.6693C8.46762 4.19074 8.36233 4.08564 7.91767 4.08422C7.42438 4.08255 6.93146 4.08306 6.43828 4.08397C5.93732 4.08474 5.89431 4.12876 5.89407 4.64325C5.89407 6.4724 5.89407 8.30142 5.89407 10.1304L5.89386 10.1305Z" fill="#666666"/>
+                            </svg> About Us
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link " href="https://www.thelocal.fr/contact">
+                        <i class="far fa-envelope"></i>Contact Us
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link " href="https://www.thelocal.fr/news-archive">
+                        <i class="fa-solid fa-box-archive"></i>News Archive
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link " href="https://www.thelocal.fr/search">
+                        <i class="fa-solid fa-magnifying-glass"></i>Search articles
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link " href="https://www.thelocal.fr/topics">
+                        <i class="fa-solid fa-newspaper"></i>All topics
+                    </a>
+                </li>
+                                                                                            <li class="nav-item">
+                    <a class="nav-link " href="https://www.thelocal.fr/advertise-with-us">
+                        <i class="fas fa-tag"></i> Advertise with us
+                    </a>
+                </li>
+                                                    <li class="nav-item">
+                    <a class="nav-link " href="https://jobs.thelocal.com/employers/">
+                        <i class="fa-solid fa-clipboard-list"></i> Post a job ad
+                    </a>
+                </li>
+                    </ul>                <ul class="navbar-nav">
+    <div class="footer-badges">
+        <h5>Get The Local App</h5>
+        <a href="https://apps.apple.com/app/the-local/id1078564301?ppid=f6e43b38-c36a-470e-bf62-d6fc99f46478" target="_blank">
+            <img class="lazyload" data-src="https://www.thelocal.fr/images/App_Store_Badge__wht.svg" width="120" height="40" alt="App Store">
+        </a>
+
+        <a href="https://play.google.com/store/apps/details?id=com.thelocal.app" target="_blank">
+            <img class="lazyload" data-src="https://www.thelocal.fr/images/google-play-badge.webp" width="150" height="60" alt="Google Play Store">
+        </a>
+    </div>
+
+    <ul class="footer-socialLinks">
+                                                    <li>
+                        <a href="https://www.facebook.com/thelocalfrance" target="_blank">
+                            <i class="fab fa-square-facebook"></i>
+                        </a>
+                    </li>
+                                                                        <li>
+                        <a href="https://bsky.app/profile/thelocalfrance.bsky.social" target="_blank">
+                            <i class="fab fa-square-bluesky"></i>
+                        </a>
+                    </li>
+                                                                        <li>
+                        <a href="https://instagram.com/TheLocalFrance" target="_blank">
+                            <i class="fab fa-square-instagram"></i>
+                        </a>
+                    </li>
+                                                                        <li>
+                        <a href="https://www.threads.net/@thelocalfrance" target="_blank">
+                            <i class="fab fa-square-threads"></i>
+                        </a>
+                    </li>
+                                                                        <li>
+                        <a href="https://www.linkedin.com/company/thelocaleurope/" target="_blank">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                    </li>
+                                </ul>
+</ul>
+                <div class="footer-column footer-column__general d-block d-md-none">
+                    <img width="211" height="40" src="https://www.thelocal.fr/images/logo-fr.svg" alt="The Local" class="footer-logo">
+                    <p class="footer-info">The Local Europe AB<br>Västmannagatan 43<br>113 25 Stockholm<br>Sweden</p>
+                </div>
+
+            </div>
+        </div>
+    </nav>
+</div>
+            </header>
+                
+                <div id="pn-header" class="pn-header"></div>
+                <div id="main" class="site">
+            <article-js :data="{&quot;post_comment_route&quot;:&quot;https:\/\/www.thelocal.fr\/comment\/save&quot;,&quot;initExtendedAccess&quot;:&quot;&quot;,&quot;googleAuthorizationUrl&quot;:&quot;&quot;,&quot;loginUserFromGoogleSocialRedirectUrl&quot;:&quot;https:\/\/www.thelocal.fr\/api\/v1\/extended-access\/login-user-from-google&quot;,&quot;loginUser&quot;:&quot;https:\/\/www.thelocal.fr\/api\/v1\/extended-access\/login-user&quot;,&quot;getArticleBodyRoute&quot;:&quot;https:\/\/www.thelocal.fr\/api\/v1\/extended-access\/get-article-body\/155939&quot;,&quot;extendedAccessData&quot;:[],&quot;currentEditorial&quot;:&quot;fr&quot;,&quot;articleUrl&quot;:&quot;https:\/\/www.thelocal.fr\/20170615\/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants&quot;,&quot;isCommercial&quot;:false,&quot;updateUserRoute&quot;:&quot;https:\/\/www.thelocal.fr\/api\/v1\/user\/update-piano-custom-fields&quot;,&quot;userPianoId&quot;:null,&quot;articleTypes&quot;:{&quot;for_members&quot;:false,&quot;partner_content&quot;:false,&quot;paywall_free&quot;:false,&quot;sponsored_elementor&quot;:false,&quot;css_classes&quot;:&quot;&quot;}}"></article-js>
+<div class="article-single article-single--regular">
+    <div class="container-md">
+        <div class="row mb-3">
+            <div class="col-xl-8 mobile-full-width">
+                <main class="article-single__main article-single__main--featured " data-url="https://www.thelocal.fr/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants">
+                    <div class="tag-wrapper">
+
+                                                                                    <a href="https://www.thelocal.fr/tag/restaurants" class="tag">restaurants</a>
+                                                    
+                                                                                                                                                                                    
+                        
+                    </div>
+
+                    <h1>New survey ranks France&#039;s best cities for restaurants (and Paris is not top)</h1>
+                    <div class="meta">
+                        <div class="article-single__author">
+                                                                                                <img width="47" height="47" src="https://assets.thelocal.com/cdn-cgi/rs:fit:47/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/05/the-local-spain.jpg@webp" class="rounded-circle" alt="The Local France">
+                                                                                        <div>
+                                                                <span>
+                                                                        <strong><a href="/author/the-local-3">The Local France</a></strong> - news@thelocal.fr
+                                                                    </span>
+                                
+                                <div class="article__published">
+                                    <span>Published: 15 Jun, 2017 CET.</span>
+                                                                            <span>Updated: Thu 15 Jun 2017 15:05 CET</span>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="article-single__social" style="min-height:30px;">
+                            <div>
+                               <button class="copy">Share</button>
+                                <ul class="social-sharers">
+                                    <li style="width:43px;">
+                                        <save-article-js :data="{&quot;currentEditorial&quot;:&quot;fr&quot;,&quot;articleUrl&quot;:&quot;https:\/\/www.thelocal.fr\/20170615\/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants&quot;,&quot;isCommercial&quot;:false,&quot;save_article_route&quot;:&quot;https:\/\/www.thelocal.fr\/api\/v1\/user\/save-article&quot;,&quot;saved_articles_route&quot;:&quot;https:\/\/www.thelocal.fr\/members\/saved-articles&quot;,&quot;articleId&quot;:155939,&quot;userId&quot;:null,&quot;websitePlatform&quot;:&quot;web&quot;,&quot;isArticleSavedByUser&quot;:false,&quot;inSavedPage&quot;:false,&quot;isPaidUser&quot;:false}"></save-article-js>
+                                    </li>
+                                    <li>
+                                        <a class="comments-link" href="#article-comments">
+                                            <i class="fas fa-comment"></i>
+                                                                                        <span>Add a comment</span>
+                                                                                    </a>
+                                    </li>
+                                    <li>
+                                        <button class="social-share facebook" data-sharer="facebook" title="Facebook">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button class="social-share twitter" data-sharer="twitter" data-tweet="New survey ranks France's best cities for restaurants (and Paris is not top)" title="Twitter">
+                                            <i class="fab fa-twitter"></i>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button class="social-share linkedin" data-sharer="linkedin" title="LinkedIn">
+                                            <i class="fab fa-linkedin-in"></i>
+                                        </button>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            
+                            
+
+                            <div class="app-btn" style="height:37px;"></div>
+                        </div>
+                    </div>
+                    <figure class="figure article-single__feature">
+                            <img width="850" height="550" src="https://assets.thelocal.com/cdn-cgi/rs:fit:850/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2017/06/4f327f01635782cc23362c9b487846716c3dc51e2b0065af2a4ad137a1035fd9.jpg@webp" fetchpriority="high" class="figure-img img-fluid" alt="New survey ranks France&#039;s best cities for restaurants (and Paris is not top)">
+                            <figcaption class="figure-caption">Photo: Marko Kudjerski/Flickr</figcaption>
+                    </figure>
+                    <p class="article-single__excerpt">
+                        A food website has revealed a league table of the best cities for restaurants in France and the rankings may surprise a few people.
+                    </p>
+                                                                                                                                                                                                    <div id="article_ad_container">
+                                                                                                                            <div class='tl-ad-container'><h3 class='tl-ad-heading'>Advertisement</h3><div class='r89-desktop-rectangle-atf'></div></div>
+                                                                                    </div>
+                                                            <div id="articleBody" class="article-single__content cXenseParse"  style="display: block" >
+                    <div>
+	Bordeaux has been crowned the best place to eat in France ahead of cities generally considered to be the gastronomic hubs of French cuisine, Paris and Lyon. </div>
+<div>
+	 </div>
+<div>
+	The list, published by food site, Atabula ranks the 30 most populated towns and cities in France according to where people can expect to find the best restaurant cuisine.</div>
+<div>
+	 </div>
+<div>
+	French political heavyweight and mayor of Bordeaux Alain Juppé responded to the good news with barely contained excitement in a tweet saying, "Ouaaaah!"</div>
+<div>
+	 </div>
+<div>
+	<div>
+		<blockquote class="twitter-tweet" data-lang="en">
+			<p dir="ltr" lang="fr">
+				Selon le site Atabula, Bordeaux est la ville de France où l&#039;on mange le mieux au restaurant. Ouaaaah!</p>
+			— Alain Juppé (@alainjuppe) <a href="https://twitter.com/alainjuppe/status/874973621135003651">June 14, 2017</a></blockquote>
+
+			</div>
+</div>
+<div>
+	<p>
+		Bordeaux is home to an impressive selection of restaurants, including three two-star Michelin restaurants, three one-star restaurants and three restaurants awarded the guide&#039;s BIB Gourmand, indicating restaurants that offer exceptionally good food at moderate prices.</p>
+	<p>
+		Even star chef Gordon Ramsey couldn&#039;t resist the allure of the city&#039;s gastronomic scene, opening Le Pressoir d’Argent Gordon Ramsay located on the first floor of the stunning Le Grand Hôtel.</p>
+	<p>
+		This isn&#039;t the first time Bordeaux&#039;s appeal has grabbed headlines. In 2016 a <a href="https://www.thelocal.fr/20160906/why-parisians-want-to-move-to-bordeaux">survey showed that it is the city Parisians most want to move to</a> and <a href="https://www.thelocal.fr/20160420/bordeaux-brilliant-tourists-ranking">in August 2014 Bordeaux and it surrounding region was voted as the "best place to work"</a><a href="https://www.thelocal.fr/20160420/bordeaux-brilliant-tourists-ranking"> by the French</a>.</p>
+	<p>
+		And remember from July Bordeaux is only two hours away from Paris by TGV, thanks to an improved high-speed line.</p>
+</div>
+<div>
+	Paris made it to second place despite being considered a must-visit culinary hotspot by people the world over, something which is likely to disappoint the owners and perhaps even loyal patrons of the city&#039;s whopping 97 Michelin-starred restaurants. </div>
+<div>
+	 </div>
+<div>
+	And Lyon, known as France&#039;s "gastronomic capital" with its much-loved "bouchons", famed for serving up plates of Lyonnaise specialties with a glass of the region&#039;s renowned Beaujolais wine, came in third place on the new list.  </div>
+<div>
+	 </div>
+<div>
+	<strong>READ ALSO: </strong></div>
+<ul>
+	<li>
+		<strong><a href="https://www.thelocal.fr/20160420/bordeaux-brilliant-tourists-ranking">So what&#039;s so bloody brilliant about Bordeaux then?</a></strong></li>
+	<li>
+		<strong><a href="https://www.thelocal.fr/20170209/paris-michelin-restaurants-critique-paris-by-mouth">Why eating at Michelin&#039;s top restaurants in Paris just really isn&#039;t worth it</a></strong></li>
+	<li>
+		<a href="https://www.thelocal.fr/20160503/what-france-can-teach-the-world-about-healthy-eating-diet-french-food-cuisine-"><strong>The French eating habits the world should learn from</strong></a></li>
+</ul>
+<p>
+	<strong><img alt="" src="https://www.thelocal.com/wp-content/uploads/2017/06/1497529868_La Grande Maison de Bernard Magrez2Michelinstars.restowebsite.jpg" style="width: 640px;height: 418px" /></strong></p>
+<p>
+	<i>La Grande Maison de Bernard Magrez, o</i><i>ne of Bordeaux&#039;s Michelin-starred restaurants. Photo: La Grande Maison de Bernard Magrez website</i></p>
+<p>
+	In order to create the list, food site Atabula took into account 13 categories in its decision-making process, including the number of restaurants located in the city, total number of Michelin stars and the number of restaurants listed in the prestigious Michelin Guide food guide.</p>
+<div>
+	It also looked at the number of restaurants included in the influential French restaurant guide, Gault &amp; Millau and other respected food guides, including Le Fooding.</div>
+<div>
+	 </div>
+<div>
+	These were then weighed against the number of people living there. </div>
+<div>
+	 </div>
+<div>
+	Lille, capital of the Hauts-de-France region in northern France and Nice, the capital of the Alpes-Maritimes department on the French Riviera in the south came 4th and 5th, respectively.</div>
+<div>
+	 </div>
+<div>
+	These were closely followed by Strasbourg, capital city of the Grand Est region in 6th place, Montpellier in the Hérault department in the south was 7th and Nantes in western France came in at 8th. </div>
+<div>
+	 </div>
+<div>
+	The university city of Aix-en-Provence, in the south of France and Toulouse in the south west completed the top ten.</div>
+<div>
+	 </div>
+<div>
+	<img alt="" src="https://www.thelocal.com/wp-content/uploads/2017/06/1497523466_Paris.restaurant.Zdenko ZivkovicFlickr.jpg" style="width: 640px;height: 428px" /></div>
+<div>
+	<i>Photo: Zdenko Zivkovic/Flickr</i></div>
+<div>
+	 </div>
+<div>
+	But the news wasn&#039;t so good for Villeurbanne located to the north east of Lyon, coming last with just 1.376 points compared to Bordeaux&#039;s 14.147.</div>
+<div>
+	 </div>
+<div>
+	Atabula also published some useful restaurants statistics to guide diners. Nine out of the 30 ranked cities are completely devoid of Michelin-starred restaurants.</div>
+<div>
+	 </div>
+<div>
+	These are Nantes, Saint-Etienne in eastern central France, Toulon on the country&#039;s Mediterranean coast in the south, Grenoble, in southeastern France, Villeurbanne and Limoges in central France.</div>
+<div>
+	 </div>
+<div>
+	The university town of Tours in the centre of the country, Amiens, a city divided by the Somme river in the north of the country and Besançon, a city in eastern France, near the border with Switzerland are also still waiting for their first Michelin star.</div>
+<div>
+	 </div>
+<div>
+	 </div>
+<div>
+	 </div>
+<div>
+	 </div>
+<div>
+	 </div>
+                    </div>
+                    <p id="articleBodyForbidden"  style="display: none;text-align: center;margin-top: 50px; font-size: 30px; font-weight: bold;" >Please sign up or log in to continue reading</p>
+                    
+                    <div class="member-container"></div>
+                    
+                    <div class="article-single__tags">
+                        <h3 class="block-title border-0">More</h3>
+                        <div class="tags-block">
+                                                                                                <a href="https://www.thelocal.fr/tag/restaurants">#restaurants</a>
+                                                                                                                                <a href="https://www.thelocal.fr/tag/life-in-paris">#life in paris</a>
+                                                                                                                                <a href="https://www.thelocal.fr/tag/food-drink">#Food and Drink</a>
+                                                                                    </div>
+                    </div>
+
+                                            <div class="article-single__comments" id="article-comments">
+    <div data-bs-toggle="collapse" data-bs-target="#comments-collapsible" role="button" aria-expanded="true" aria-controls="comments-collapsible" aria-label="Show comments" class="comments-title-block">
+        <h3 class="block-title mb-0">Comments </h3>
+        <span><i class="fas fa-chevron-down"></i></span>
+    </div>
+    
+    <div class="comments-collapsible collapse show" id="comments-collapsible">
+        <div class="comment-wrapper comment-wrapper--intro">
+            <p>
+                <strong>Join the conversation in our comments section below.</strong> Share your own views and experience and if you have a question or suggestion for our journalists then email us at <a href="mailto:news@thelocal.fr">news@thelocal.fr</a>.<br/>
+                Please keep comments civil, constructive and on topic – and make sure to read our <a href="https://www.thelocal.fr/terms-of-use">terms of use</a> before getting involved.
+            </p>
+        </div>
+                <div id="commentFormNotAuth">
+            <p>Please log in <a class="pn-login" href="javascript:void(0);" role="button" tabindex="-1">here</a> to leave a comment.</p>
+        </div>
+                <div class="comments-list">
+                    </div>
+    </div>
+</div>
+                    
+
+                    <div class="article-single__worth">
+                        <h3 class="block-title">See Also</h3>
+                        <div class="read-also-recs"></div>
+                    </div>
+
+                </main>
+            </div>
+            <div class="col-xl-4">
+                <aside class="article-single__side sticky sticky--sidebar">
+                                                                                            <div class='tl-ad-container'><h3 class='tl-ad-heading'>Advertisement</h3><div class='r89-desktop-rectangle-btf'></div></div>
+                                                                <div class="article-single__recommend">
+
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+    <taboola-widget-js></taboola-widget-js>
+</div>
+
+<script type="application/javascript">
+	tp.push(["setContentCreated", "2017-06-15 15:05:06"]);
+	tp.push(["setContentSection", "France: Learn about France"]);
+	tp.push(["setTags", ["articlepage","restaurants","life-in-paris","food-drink"]]);
+</script>
+        </div>
+                
+        <div id="pn-footer" class="pn-footer"><div id="pn-footer-show"></div></div>
+        <footer class="site-footer dark">
+            <div class="container">
+    <div class="footer-links">
+        <div class="row">
+            <div class="col-lg-3 d-none d-md-block">
+                <div class="footer-column footer-column__general">
+                    <img width="211" height="40"
+                        src="https://www.thelocal.fr/images/logo-fr.svg" alt="The Local"
+                        class="footer-logo">
+                    <p class="footer-info">The Local Europe AB<br>Västmannagatan 43<br>113 25 Stockholm<br>Sweden</p>
+                </div>
+                <div class="footer-badges">
+                    <a href="https://apps.apple.com/app/the-local/id1078564301?ppid=f6e43b38-c36a-470e-bf62-d6fc99f46478" target="_blank" aria-label="Apple App Store link">
+                        <img class="lazyload" data-src="https://www.thelocal.fr/images/App_Store_Badge__wht.svg" width="120" height="40" alt="App Store">
+                    </a>
+
+                    <a href="https://play.google.com/store/apps/details?id=com.thelocal.app" target="_blank" aria-label="Google Play Store link">
+                        <img class="lazyload" data-src="https://www.thelocal.fr/images/google-play-badge.webp" width="150" height="60" alt="Google Play Store">
+                    </a>
+                </div>
+                <ul class="footer-socialLinks">
+                    <li>
+                        <a href="https://www.facebook.com/thelocalfrance" target="_blank" aria-label="The Local Facebook profile">
+                            <i class="fab fa-square-facebook"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://bsky.app/profile/thelocalfrance.bsky.social" target="_blank" aria-label="The Local X profile">
+                            <i class="fab fa-square-bluesky"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://instagram.com/TheLocalFrance" target="_blank" aria-label="The Local Instagram profile">
+                            <i class="fab fa-square-instagram"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.threads.net/@thelocalfrance" target="_blank" aria-label="The Local Threads profile">
+                            <i class="fab fa-square-threads"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/thelocaleurope/" target="_blank" aria-label="The Local LinkedIn profile">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-2 d-none d-md-block">
+                <div class="footer-column">
+                    <h4>The Local</h4>
+                    <nav class="footer-nav">
+                        <a href="https://www.thelocal.fr/aboutus">About us</a>
+                        <a href="https://www.thelocal.fr/contact">Contact us</a>
+                        <a href="https://www.thelocal.fr/news-archive">News Archive</a>
+                        <a href="https://www.thelocal.fr/search">Search articles</a>
+                        <a href="https://www.thelocal.fr/jobs">Find jobs in France</a>
+                        
+                                                    <a href="https://www.thelocal.fr/rentals">Find a rental in France</a>
+                                                                        <a href="https://jobs.thelocal.com/employers/" target="_blank">Post a job ad</a>
+                        <a href="https://www.thelocal.fr/advertise-with-us">Advertise with us</a>
+                                            </nav>
+                </div>
+            </div>
+            <div class="col-lg-2 d-none d-md-block">
+                <div class="footer-column">
+                    <h4>Membership</h4>
+                    <nav class="footer-nav">
+                        
+                                                <a class="pn-login" href="javascript:void(0);" role="button" tabindex="-1">Login</a>
+                            <a href="/membership-offer?tpcc=fr-menu">Become a member</a>
+                                                        <a href="https://www.thelocal.fr/free-newsletter">Newsletters</a>
+                                                                            <a href="https://thelocalhelp.zendesk.com/hc/en-us" target="_blank">Help Centre</a>
+                                                <a href="https://www.thelocal.fr/gift-voucher">Gift Vouchers</a>
+                        <a href="https://www.thelocal.fr/membership-student">Educational access</a>
+                                                <a href="https://www.thelocal.fr/corporate-membership">Corporate access</a>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-lg-2 d-none d-md-block">
+                <div class="footer-column">
+                    <h4>Popular Topics</h4>
+                    <nav class="footer-nav">
+    <a href="https://www.thelocal.fr/category/france-news">Latest News</a>
+    <a href="https://www.thelocal.fr/tag/strikes">Strikes</a>
+    <a href="https://www.thelocal.fr/tag/travel-news">Travel News</a>
+    <a href="https://www.thelocal.fr/tag/paris">News from Paris</a>
+    <a href="https://www.thelocal.fr/tag/french-word-of-the-day">Word of the day</a>
+    <a href="/moving-to-france">Moving to France</a>
+    <a href="https://www.thelocal.fr/category/living-in-france">Living in France</a>
+    <a href="https://www.thelocal.fr/topics">All topics</a>
+</nav>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="footer-column footer-column__subscribe">
+                    <h4>Get daily news straight in your inbox</h4>
+                    <div class="tl-newsletter tl-newsletter--footer">
+                        <div class='ml-form-embed-wrapper' id='ml-form-embed-wrapper'><div class='ml-form-embed-footer ml-form-embed' data-account='3138025:d2z5z7j0w6' data-form='5594258:w0p5j3'></div></div>
+                    </div>
+                    <p class="footer-terms">
+                        By signing up you agree to our <a href="https://www.thelocal.fr/terms-of-use">Terms of Use</a> and <a href="https://www.thelocal.fr/privacy-policy">Privacy Policy.</a> We will use your email address to send you newsletters as well as information and offers related to your account.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-copyright">
+    <div class="container">
+        <p>2025 The Local, All Rights Reserved.</p>
+        <div class="dp-links">
+            <a href="https://www.thelocal.fr/privacy-policy">Privacy Policy</a>
+            <a href="https://www.thelocal.fr/terms-of-use">Terms & Conditions</a>
+        </div>
+    </div>
+</div>
+        </footer>
+            </div>
+    <script src="/js/manifest.js?id=f4cc2625b01dbe694bc80f96a09c30b3"></script>
+    <script src="/js/vendor-utils.js?id=b99ad2bcd384bc21b9294d130c91e8b5"></script>
+    <script src="/js/vendor.js?id=1c36533f91fbbb75feee41cce7b7a24a"></script>
+    <script src="/js/vue.js?id=cc7f306939621f87f36d64be046d0fdc"></script>
+    <script src="/js/bootstrap.js?id=49814008bf49ef04ce6b9d12527e1361"></script>
+    <script src="/js/app.js?id=db0a6749f6da24770d001856eec7db70"></script>
+    <script type="application/javascript">
+            function makeid(length) {
+                var result           = "";
+                var characters       = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+                var charactersLength = characters.length;
+                for ( var i = 0; i < length; i++ ) {
+                    result += characters.charAt(Math.floor(Math.random() * 
+                    charactersLength));
+                }
+                return result;
+            }
+            + new Date()
+            let timestampMS = new Date().getTime();
+            let timestamp = Math.floor(timestampMS / 1000);
+            let g4_location_hostname = encodeURIComponent(window.location.hostname)
+            let g4_location_path;
+            if(encodeURIComponent(window.location.pathname) !== "" || encodeURIComponent(window.location.pathname) !== null || encodeURIComponent(window.location.pathname) !== undefined){
+                g4_location_path = encodeURIComponent(window.location.pathname)
+            } else {
+                g4_location_path = "path_not_exist";
+            }
+            let g4_location = encodeURIComponent(window.location)
+            let referrer = encodeURIComponent(document.referrer);
+            let siteTitle = encodeURIComponent(document.title);
+            let cid = makeid(9) + "." + Math.floor(Math.random() * (999999 - 100000 + 1)) + 100000
+            var queryString = window.location.search
+            var queryParams = new URLSearchParams(queryString);
+            let utm_campaign = queryParams.has("utm_campaign") ? queryParams.get("utm_campaign") : "";
+            let utm_source = queryParams.has("utm_source") ? queryParams.get("utm_source") : "";
+            let utm_term = queryParams.has("utm_term") ? queryParams.get("utm_term") : "";
+            let utm_medium = queryParams.has("utm_medium") ? queryParams.get("utm_medium") : "";
+            let domain = "fr";
+            let country = "";
+            var req = new XMLHttpRequest();
+            req.open("GET", document.location, true);
+            req.send(null);
+            var headers = req.getAllResponseHeaders().toLowerCase();
+            let headersArr = headers.split("\r\n")
+
+            for (let index = 0; index < headersArr.length; index++) {
+                const element = headersArr[index];
+                if(element.includes("visitor-country")){
+                    country = element.split(":").pop();
+                }
+            }
+
+            function sendToAllNewsEvent() {
+                    if(referrer.includes("thelocal.")){
+                        referrer = "";
+                    } 
+        
+                    fetch(`https://ss.thelocal.com/g/collect?v=2&en=total_page_view_ga4&tid=G-XFSR2700S9&cid=${cid}&dt=${siteTitle}&dr=${referrer}&dl=${g4_location}&ep.country_c=${country}&ep.hostname_c=${g4_location_hostname}&ep.path_c=${g4_location_path}&ep.utm_campaign_c=${utm_campaign}&ep.utm_source_c=${utm_source}&ep.utm_term_c=${utm_term}&ep.utm_medium_c=${utm_medium}`,
+                    {
+                    method: "POST",
+                    mode: "no-cors",
+                },).then((response) => {
+                    // console.log(response)
+                });
+        
+            }
+        
+            function sendEvent() {
+                
+                let measurement_id = "";
+                const measurement_ids = {
+                    "at":"G-M0QF2J98ZG",
+                    "ch":"G-RKPPBTRQGN",
+                    "com":"G-PXG8C23QQX",
+                    "de":"G-68EFP8XFKZ",
+                    "dk":"G-87R3SHFK20",
+                    "es":"G-XZ791ZL201",
+                    "fr":"G-1LX6T78HZR",
+                    "it":"G-FYSRWRX4T3",
+                    "no":"G-B6VF16B85K",
+                    "se":"G-S57KNFL4T3"
+                }
+        
+                if(referrer.includes("thelocal.")){
+                    referrer = "";
+                } 
+        
+                if(measurement_ids.hasOwnProperty(domain)){
+                    measurement_id = measurement_ids[domain];
+                }
+        
+                fetch(`https://ss.thelocal.com/g/collect?v=2&en=total_page_view_ga4&tid=${measurement_id}&cid=${cid}&dt=${siteTitle}&dr=${referrer}&dl=${g4_location}&ep.country_c=${country}&ep.hostname_c=${g4_location_hostname}&ep.path_c=${g4_location_path}&ep.utm_campaign_c=${utm_campaign}&ep.utm_source_c=${utm_source}&ep.utm_term_c=${utm_term}&ep.utm_medium_c=${utm_medium}`,
+                {
+                    method: "POST",
+                    mode: "no-cors",
+                },).then((response) => {
+                    // console.log(response)
+                });
+        
+            }
+        
+            sendEvent();
+            sendToAllNewsEvent();
+        </script>
+    
+                <script type="tl-js">
+                    window._taboola = window._taboola || [];
+                    _taboola.push({flush: true});
+                </script>
+                
+    <script>
+        Defer.all('script[type="tl-js"]', 0, true);
+    </script>
+    <script>
+        Defer.all('script[type="tl-chunk-js"]', 0, false);
+    </script>
+</body>
+</html>
+ title 81 New survey ranks France&#039;s best cities for restaurants (and Paris is not top) contentType 9 text/html url 128 https://www.thelocal.fr:443/20170615/bordeaux-beats-paris-and-lyon-to-first-place-on-list-of-frances-best-cities-for-restaurants responseCode 3 200 

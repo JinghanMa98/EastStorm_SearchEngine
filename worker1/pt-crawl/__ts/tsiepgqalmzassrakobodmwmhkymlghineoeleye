@@ -1,0 +1,302 @@
+tsiepgqalmzassrakobodmwmhkymlghineoeleye length 5 16866 page 16866 
+
+
+<!doctype html>
+<html lang="en">
+<head>
+ 
+ 
+ 
+ 
+ 
+<script src="difference.js"></script>
+  
+   
+ 
+
+ 
+ 
+
+
+<meta name="title" property="og:title" content="MEDLINE, PubMed, and PMC (PubMed Central): How are they different?">
+<meta name="type" property="og:type" content="website">
+<meta name="image" property="og:image" content="https://www.nlm.nih.gov/images/NLMgeneric.jpg">
+<meta name="image:alt" property="og:image:alt" content="National Library of Medicine (NLM)">
+  
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NLM_NIH">
+<meta name="twitter:title" content="MEDLINE, PubMed, and PMC (PubMed Central): How are they different?">
+<meta name="twitter:image" content="https://www.nlm.nih.gov/images/NLMgeneric.jpg">
+<meta name="twitter:image:alt" content ="National Library of Medicine (NLM)">
+
+ 
+ 
+    
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+
+<script src="https://assets.nlm.nih.gov/uswds/js/uswds-init.min.js"></script>
+<link rel="stylesheet" href="/home_assets/uswds/css/styles.css">
+<meta http-equiv="refresh" content="0; url=/portals/publishers.html"/>  
+
+  <title>MEDLINE, PubMed, and PMC (PubMed Central): How are they different?</title>
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" title="The Dublin Core metadata Element Set" />
+  <meta name="DC.Title" content="MEDLINE, PubMed, and PMC (PubMed Central): How are they different?" />
+
+  <meta name="DC.Publisher" content="U.S. National Library of Medicine" />
+  <meta name="DC.Date.Issued" content="2025-08-26" />
+  <meta name="DC.Date.Modified" content="2025-08-26" />
+  <meta name="NLMDC.Date.LastReviewed" content="2025-08-26" />
+  <meta name="NLM.Contact.Email" content="NLMDASwebsupport@mail.nlm.nih.gov" />
+  <meta name="DC.Type" content="Other" />
+  <meta name="NLM.Permanence.Level" content="Permanence Not Guaranteed" />
+  <meta name="DC.Rights" content="Public Domain" />
+  <meta name="DC.Language" content="eng" />
+  
+<!-- Google Tag Manager -->
+<script src="/scripts/gtm.js"></script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- TOP NAV --> 
+<a class="usa-skipnav" href="#main">Skip to main content</a>
+ 
+ <section class="usa-banner site-banner" aria-label="Official government website">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto"> <img
+            class="usa-banner__header-flag"
+            src="https://assets.nlm.nih.gov/uswds/img/us_flag_small.png"
+            alt="U.S. flag"
+          /> </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text"> An official website of the United States government </p>
+          <p class="usa-banner__header-action"> Here’s how you know </p>
+        </div>
+        <button
+          class="usa-accordion__button usa-banner__button"
+          aria-expanded="false"
+          aria-controls="gov-banner"
+        > <span class="usa-banner__button-text">Here’s how you know</span> </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6"> <img
+            class="usa-banner__icon usa-media-block__img"
+            src="https://assets.nlm.nih.gov/uswds/img/icon-dot-gov.svg"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p> <strong> Official websites use .gov </strong> <br />
+              A <strong>.gov</strong> website belongs to an official government
+              organization in the United States. </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6"> <img
+            class="usa-banner__icon usa-media-block__img"
+            src="https://assets.nlm.nih.gov/uswds/img/icon-https.svg"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p> <strong> Secure .gov websites use HTTPS </strong> <br />
+              A <strong>lock</strong> ( <span class="icon-lock"
+                >
+              <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="52"
+                  height="64"
+                  viewBox="0 0 52 64"
+                  class="usa-banner__lock-image"
+                  role="img"
+                  aria-labelledby="banner-lock-title-default banner-lock-description-default"
+                  focusable="false"
+                >
+                <title id="banner-lock-title-default">Lock</title>
+                <desc id="banner-lock-description-default">A locked padlock</desc>
+                <path
+                    fill="#000000"
+                    fill-rule="evenodd"
+                    d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                  />
+              </svg
+              >
+              </span> ) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+	
+<!-- HEADER -->
+<header id="siteheader" class="usa-header usa-header--basic">
+  <div class="usa-nav-container tablet:padding-x-4 mobile-lg:padding-x-2 padding-y-1">
+    <div class="grid-row padding-y-105">
+      <div class="grid-col-8 desktop:grid-col-4 tablet-lg:grid-col-4 tablet:grid-col-6"> <a href="https://www.nlm.nih.gov/"> <img src="https://assets.nlm.nih.gov/uswds/img/NLM_White.png" alt="NLM logo" class="logo margin-top-1"> </a> </div>
+      <div class="desktop:grid-col-4 desktop:grid-offset-4 tablet-lg:grid-col-6 tablet-lg:grid-offset-2  tablet:grid-col-6  grid-col-12">
+        <form class="usa-search desktop:margin-top-2 tablet:margin-top-2 mobile:margin-top-1" role="search" data-gtm-form-interact-id="0" method="get" action="//vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta" target="_self" name="searchForm" id="searchForm2">
+          <input class="usa-input ui-autocomplete-input" aria-label="Search" type="search" name="query" data-gtm-form-interact-field-id="0" id="search2" placeholder="Search NLM" autocomplete="off">
+          <input type="hidden" name="v:project" value="nlm-main-website">
+          <button class="usa-button border border-top border-bottom border-right border-white" role="button" aria-label="Search" type="submit"> <span class="usa-search__submit-text"> <i class="fas fa-search"></i> </span> </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="bg-secondary insertCOOP">
+  <div class="usa-nav-container">
+    <div class="usa-navbar ">
+      <button class="usa-menu-btn">Menu</button>
+    </div>
+    <nav aria-label="Primary navigation" class="usa-nav">
+      <button class="usa-nav__close"><img src="https://assets.nlm.nih.gov/uswds/img/close.svg" alt="close"></button>
+      <ul class="usa-nav__primary usa-accordion insertNav">
+ 
+         <li class="usa-nav__primary-item desktop-lg:margin-x-5 desktop:margin-x-3 tablet:margin-x-0">
+          <button type="button" class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="basic-nav-section-one"> <span>Products and Services <i class="fas fa-caret-down margin-left-05"></i> </span> </button>
+          <ul id="basic-nav-section-one" class="usa-nav__submenu bg-secondary" hidden="">
+            <li class="usa-nav__submenu-item"> <a href="//eresources.nlm.nih.gov/nlm_eresources/"><span>All Products and Services</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//clinicaltrials.gov/"><span>ClinicalTrials.gov</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//collections.nlm.nih.gov/"><span>Digital Collections</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//catalog.nlm.nih.gov"><span>LocatorPlus Catalog</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//meshb.nlm.nih.gov/search"><span>Medical Subject Headings (MeSH)</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//medlineplus.gov/"><span>MedlinePlus</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//pubmed.ncbi.nlm.nih.gov/"><span>PubMed/MEDLINE</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//uts.nlm.nih.gov/uts/"><span>Unified Medical Language System (UMLS)</span></a> </li>
+          </ul>
+        </li>
+        <li class="usa-nav__primary-item desktop-lg:margin-x-5 desktop:margin-x-3 tablet:margin-x-0">
+          <button type="button" class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="basic-nav-section-two"> <span> Resources for You <i class="fas fa-caret-down margin-left-05"></i></span> </button>
+          <ul id="basic-nav-section-two" class="usa-nav__submenu bg-secondary" hidden="">
+            <li class="usa-nav__submenu-item"> <a href="/portals/researchers.html"><span>For Researchers</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/portals/publishers.html "><span>For Publishers</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/portals/librarians.html"><span>For Librarians</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/training.html "><span>For Educators/Trainers </span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/portals/healthcare.html"><span>For Health care Professionals</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/portals/public.html "><span>For the Public</span></a> </li>
+          </ul>
+        </li>
+        <li class="usa-nav__primary-item desktop-lg:margin-x-5 desktop:margin-x-3 tablet:margin-x-0">
+          <button type="button" class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="basic-nav-section-three"> <span>Explore NLM <i class="fas fa-caret-down margin-left-05"></i> </span> </button>
+          <ul id="basic-nav-section-three" class="usa-nav__submenu bg-secondary" hidden="">
+            <li class="usa-nav__submenu-item"> <a href="/about/index.html"><span>About the Library</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/about/visitor.html"><span>Visit the Library</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/hmd/index.html"><span>History of Medicine</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/about/org.html"><span>NLM by Organization</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/news/newsandevents.html"><span>Spotlights and Events</span></a> </li>
+          </ul>
+        </li>
+        <li class="usa-nav__primary-item desktop-lg:margin-x-5 desktop:margin-x-3 tablet:margin-x-0">
+          <button type="button" class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="basic-nav-section-four"> <span> Grants and Research <i class="fas fa-caret-down margin-left-05"></i> </span> </button>
+          <ul id="basic-nav-section-four" class="usa-nav__submenu bg-secondary" hidden="">
+            <li class="usa-nav__submenu-item"> <a href="/ep/index.html"><span>NLM Extramural Programs</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="/research/index.html"><span>NLM Division of Intramural Research</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="https://www.ncbi.nlm.nih.gov/"><span>National Center for Biotechnology Information</span></a> </li>
+            <li class="usa-nav__submenu-item"> <a href="//lhncbc.nlm.nih.gov/"><span>Lister Hill National Center for Biomedical Communications</span></a> </li>
+          </ul>
+        </li>
+
+      </ul>
+    </nav>
+  </div>
+</div>
+
+<!-- End of TOP NAV -->
+  
+  
+<!-- Breadcrumbs -->
+  
+	   
+ 
+<div class="grid-container">
+<nav class="usa-breadcrumb usa-breadcrumb--wrap padding-top-1" aria-label="Breadcrumbs">
+  <ol class="usa-breadcrumb__list">
+    <li class="usa-breadcrumb__list-item"><a href="/" class="usa-breadcrumb__link"><span>Home</span></a></li>
+  </ol>
+</nav>	
+</div>   
+
+	
+ 
+   <!-- End Breadcrumbs -->
+	<main id="main">
+	
+	<div class="grid-container">
+	<div class="grid-row padding-bottom-5">
+		<div class="grid-col">
+		<div class="h1">MEDLINE, PubMed, and PMC (PubMed Central): How are they different?</div>
+		<p>This page is no longer being maintained. You can find a previous version at: <a href="/portals/publishers.html">/portals/publishers.html</a>.</p>
+		
+		<ul>
+			<li>There is no guarentee that this redirect page will be maintained.</li>
+			<li>You will be redirected in 10 seconds.</li>
+		</ul>
+	 </div>
+	</div>
+ </div>
+</main>
+<!-- FOOTER -->
+<footer class="usa-footer__primary-section padding-top-5 padding-bottom-3 insertfooter">
+
+   <div class="grid-container">
+    <div class="grid-row">
+      <div class="desktop:grid-col-3 grid-col-6"> <a href="https://www.nlm.nih.gov/socialmedia/index.html">
+        <p class="text-white margin-bottom-1">Connect with NLM</p>
+        </a>
+        <ul class="social_media add-list-reset">
+          <li class="margin-right-05"><a href="https://www.facebook.com/nationallibraryofmedicine"><img class="bg-secondary" src="https://www.nlm.nih.gov/images/facebook.svg"  alt="Facebook"></a></li>
+          <li class="margin-right-05"><a title="External link: please review our privacy policy." href="https://www.linkedin.com/company/national-library-of-medicine-nlm/"><img class="bg-secondary" src="//www.nlm.nih.gov/images/linkedin.svg" alt="LinkedIn"></a></li>
+          <li class="margin-right-05"><a title="External link: please review our privacy policy." href="https://twitter.com/NLM_NIH"><img src="https://www.nlm.nih.gov/images/twitter.svg" class="padding-1 bg-secondary" alt="Twitter"></a></li>
+          <li class="margin-right-05"><a title="External link: please review our privacy policy." href="https://www.youtube.com/user/NLMNIH"><img src="//www.nlm.nih.gov/images/youtube.svg" class="bg-secondary" alt="You Tube"></a></li>
+        </ul>
+      </div>
+      <div class="desktop:grid-col-3 grid-col-6">
+        <p class="address_footer text-white"> National Library of Medicine <br>
+          <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323" class="text-white"> 8600 Rockville Pike <br>
+          Bethesda, MD 20894 </a></p>
+      </div>
+      <div class="desktop:grid-col-3 grid-col-6">
+        <p><a href="/web_policies.html" class="text-white"> Web Policies </a><br>
+          <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="text-white"> FOIA </a><br>
+          <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="text-white">HHS Vulnerability Disclosure</a> </p>
+      </div>
+      <div class="desktop:grid-col-3 grid-col-6">
+        <p><a class="supportLink text-white" href="//support.nlm.nih.gov?from="> NLM Support Center </a> <br>
+          <a href="/accessibility.html" class="text-white"> Accessibility </a><br>
+          <a href="/careers/careers.html" class="text-white"> Careers </a></p>
+      </div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-col-12">
+        <p class="text-center text-white"> <a class="text-white" href="//www.nlm.nih.gov/">NLM</a> | <a class="text-white" href="https://www.nih.gov/">NIH</a> | <a class="text-white" href="https://www.hhs.gov/">HHS</a> | <a class="text-white" href="https://www.usa.gov/">USA.gov</a></p>
+      </div>
+    </div>
+  </div>
+
+</footer>
+<script src="//assets.nlm.nih.gov/uswds/js/uswds.min.js"></script> 
+<script src="/scripts/nlm_autocomplete.js"></script> 
+<script src="/scripts/nlm_uswds.js"></script>
+
+	   
+
+<script src="difference.js"></script>  
+ 
+	   
+ 
+</body>
+</html>
+
+ title 66 MEDLINE, PubMed, and PMC (PubMed Central): How are they different? contentType 9 text/html url 47 https://www.nlm.nih.gov:443/bsd/difference.html responseCode 3 200 

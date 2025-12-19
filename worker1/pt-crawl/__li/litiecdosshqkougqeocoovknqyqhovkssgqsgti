@@ -1,0 +1,717 @@
+litiecdosshqkougqeocoovknqyqhovkssgqsgti page 61664 <!DOCTYPE html>
+<html lang="en">
+
+<head>
+<script type="text/javascript">
+(function() {
+    // Store the original window.open method
+    var originalWindowOpen = window.open;
+
+    // Override window.open
+    window.open = function(url, target) {
+        // Check if this is the specific "Next slide" button (you can use the unique class for targeting)
+        var nextButton = document.querySelector('.wp-block-jetpack-slideshow_button-next');
+        
+        // Only block the new tab if the next button is clicked (and target is '_blank')
+        if (nextButton && target === '_blank') {
+            console.log("Blocked unwanted new tab attempt from the 'Next slide' button.");
+            return null;  // Block the new tab
+        } else {
+            return originalWindowOpen.apply(window, arguments);  // Allow other actions
+        }
+    };
+})();
+</script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XPELBYKHV5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XPELBYKHV5');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MR8BSQQ');</script>
+<!-- End Google Tag Manager -->
+	<!-- Google Tag Manager -->
+
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+        })(window,document,'script','dataLayer','GTM-5GW634T');</script>
+
+	<!-- End Google Tag Manager -->
+	
+	<title>UK’s first ever race correspondent shortlisted for Black Talent Award - FIPP</title>
+	<meta charset="UTF-8" />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="pingback" href="https://www.fipp.com/xmlrpc.php" />
+ 
+		
+	
+			<meta name="twitter:image:src" content="https://www.fipp.com/wp-content/uploads/2022/08/BT.001.jpeg">
+ 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="The Independent’s Race Correspondent, Nadine White, has been shortlisted in the UK Black Talent Awards 2022. Upon joining The Telegraph in March 2021, White became the first dedicated Race Correspondent in UK journalism, and is the only journalist to appear as a finalist in this year’s awards." />
+	<link rel="canonical" href="https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="UK’s first ever race correspondent shortlisted for Black Talent Award - FIPP" />
+	<meta property="og:description" content="The Independent’s Race Correspondent, Nadine White, has been shortlisted in the UK Black Talent Awards 2022. Upon joining The Telegraph in March 2021, White became the first dedicated Race Correspondent in UK journalism, and is the only journalist to appear as a finalist in this year’s awards." />
+	<meta property="og:url" content="https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/" />
+	<meta property="og:site_name" content="FIPP" />
+	<meta property="article:published_time" content="2022-08-18T10:05:20+00:00" />
+	<meta property="article:modified_time" content="2022-08-18T15:51:20+00:00" />
+	<meta property="og:image" content="https://www.fipp.com/wp-content/uploads/2022/08/BT.001.jpeg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1080" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Jamie Gavin" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Jamie Gavin" />
+	<meta name="twitter:label2" content="Estimated reading time" />
+	<meta name="twitter:data2" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/","url":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/","name":"UK’s first ever race correspondent shortlisted for Black Talent Award - FIPP","isPartOf":{"@id":"https://www.fipp.com/#website"},"primaryImageOfPage":{"@id":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/#primaryimage"},"image":{"@id":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/#primaryimage"},"thumbnailUrl":"https://www.fipp.com/wp-content/uploads/2022/08/BT.001.jpeg","datePublished":"2022-08-18T10:05:20+00:00","dateModified":"2022-08-18T15:51:20+00:00","author":{"@id":"https://www.fipp.com/#/schema/person/96e961a52b5c3cb9afb2d25862505d07"},"description":"The Independent’s Race Correspondent, Nadine White, has been shortlisted in the UK Black Talent Awards 2022. Upon joining The Telegraph in March 2021, White became the first dedicated Race Correspondent in UK journalism, and is the only journalist to appear as a finalist in this year’s awards.","breadcrumb":{"@id":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/#primaryimage","url":"https://www.fipp.com/wp-content/uploads/2022/08/BT.001.jpeg","contentUrl":"https://www.fipp.com/wp-content/uploads/2022/08/BT.001.jpeg","width":1920,"height":1080},{"@type":"BreadcrumbList","@id":"https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.fipp.com/"},{"@type":"ListItem","position":2,"name":"News","item":"https://www.fipp.com/news/"},{"@type":"ListItem","position":3,"name":"UK’s first ever race correspondent shortlisted for Black Talent Award"}]},{"@type":"WebSite","@id":"https://www.fipp.com/#website","url":"https://www.fipp.com/","name":"FIPP","description":"Connecting Global Media","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.fipp.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.fipp.com/#/schema/person/96e961a52b5c3cb9afb2d25862505d07","name":"Jamie Gavin","url":"https://www.fipp.com/news/author/jamiegavin/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js-eu1.hs-scripts.com' />
+
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.fipp.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='feedzy-rss-feeds-loop-style-inline-css' type='text/css'>
+.wp-block-feedzy-rss-feeds-loop{display:grid;gap:24px;grid-template-columns:repeat(1,1fr)}@media(min-width:782px){.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-2,.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-3,.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-4,.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-5{grid-template-columns:repeat(2,1fr)}}@media(min-width:960px){.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-2{grid-template-columns:repeat(2,1fr)}.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-3{grid-template-columns:repeat(3,1fr)}.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-4{grid-template-columns:repeat(4,1fr)}.wp-block-feedzy-rss-feeds-loop.feedzy-loop-columns-5{grid-template-columns:repeat(5,1fr)}}.wp-block-feedzy-rss-feeds-loop .wp-block-image.is-style-rounded img{border-radius:9999px}.wp-block-feedzy-rss-feeds-loop .wp-block-image:has(:is(img:not([src]),img[src=""])){display:none}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='app.min-css' href='https://www.fipp.com/wp-content/themes/fipp/assets/css/app.min.css?ver=1764864280' type='text/css' media='all' />
+<link rel='stylesheet' id='appnew.min-css' href='https://www.fipp.com/wp-content/themes/fipp/assets/css/appnew.min.css?ver=1764864280' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.fipp.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.fipp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.fipp.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.fipp.com/wp-json/wp/v2/posts/36600" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fipp.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel='shortlink' href='https://www.fipp.com/?p=36600' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.fipp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fipp.com%2Fnews%2Fuks-first-ever-race-reporter-shortlisted-for-black-talent-award%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.fipp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fipp.com%2Fnews%2Fuks-first-ever-race-reporter-shortlisted-for-black-talent-award%2F&#038;format=xml" />
+<link rel="alternate" href="https://www.fipp.com/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/" hreflang="x-default" /><style type="text/css">
+.feedzy-rss-link-icon:after {
+	content: url("https://www.fipp.com/wp-content/plugins/feedzy-rss-feeds/img/external-link.png");
+	margin-left: 3px;
+}
+</style>
+					<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.21-->
+			<script class="hsq-set-content-id" data-content-id="blog-post">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+			.vertical-centre {
+    padding: 31px 28px 0px 12px;
+}
+td.has-text-align-center {
+    border: none;
+}
+
+p.has-medium-font-size {
+    color: black !important;
+}
+cite {
+    color: black ;
+}
+
+.article blockquote:not(.tiktok-embed) {
+    background: none;
+    padding: 20px;
+    color: #fff;
+    font-weight: 300;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.article blockquote:not(.tiktok-embed):before {
+    content: "“";
+    font-size: 60px;
+    color: #ff4739;
+    background: rgba(255,255,255,0.3);
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    display: none;
+    margin: 0 auto 20px auto;
+    border-radius: 50%;
+}
+
+blockquote.wp-block-quote.has-text-align-center.is-style-large.has-small-font-size.is-layout-flow.wp-block-quote-is-layout-flow {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+}
+figcaption.wp-element-caption {
+    text-align: center;
+}
+div .contribly-gallery-v2 .contribly-fancybox__attributes:not(.fancybox-caption) {
+	margin-bottom: 4rem;
+}
+
+.page-id-2912 .gallery-header__filters {
+	display: none !important;
+}
+
+.page-id-2912 div .contribly-gallery-v2 .contribly-fancybox__attributes {
+	display: block !important;
+	position: relative !important;
+}
+
+ul.attributes.contribly-fancybox__attributes.contribution-attributes {
+    padding-left: 28px !important;
+}
+
+li.place {
+    padding-left: 13px !important;
+}
+
+.article-overview__image img:not(
+  article.article-overview.transition.article-overview--full-width.transition--expand.is-visible .article-overview__image img
+) {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+
+body.postid-44041 td {
+    border: none !important;
+} 
+
+body.postid-44075 td {
+    border: none !important;
+} 
+
+body.postid-44099 td {
+    border: none !important;
+}
+
+body.postid-44097 td {
+    border: none !important;
+}
+
+body.postid-44095 td {
+    border: none !important;
+}
+
+body.postid-44092 td {
+    border: none !important;
+}
+
+figure.wp-block-table.is-style-regular td {
+  border: none !important;
+}
+		</style>
+			
+	<script async src="https://loader.bridged.media/bridged-agent.js"></script>
+	
+</head>
+<body class="wp-singular post-template-default single single-post postid-36600 single-format-standard wp-theme-fipp multiple-domain-www-fipp-com">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MR8BSQQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10821602-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-10821602-1');
+</script>
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GW634T"
+
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+    <header class="header">
+        <div class="header__secondary-nav--wrapper">
+            <div class="container">
+                <nav class="header__secondary-nav  ">
+                    
+                    <!-- ZEPHR_FEATURE login -->
+                    <div>
+                        
+                    </div>
+                     <!-- ZEPHR_FEATURE_END login -->
+                     
+                     <a class="membership" href="https://www.fipp.com/membership/">
+                        <div class="link-wrapper">
+                            <span class="icon-wrapper">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20.178" height="28.994" viewBox="0 0 20.178 28.994">
+  <g id="member" transform="translate(-15.064 -4.168)">
+    <path id="Path_3" data-name="Path 3" d="M35.863,13.765a9.6,9.6,0,1,0-9.6,9.6A9.6,9.6,0,0,0,35.863,13.765Zm-17.916,0a8.318,8.318,0,1,1,8.318,8.317A8.318,8.318,0,0,1,17.947,13.765Z" transform="translate(-1.111)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_4" data-name="Path 4" d="M40.685,22.426a5.758,5.758,0,1,0-5.758,5.758A5.758,5.758,0,0,0,40.685,22.426Zm-10.238,0a4.479,4.479,0,1,1,4.48,4.478A4.48,4.48,0,0,1,30.447,22.426Z" transform="translate(-9.772 -8.661)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_5" data-name="Path 5" d="M57.542,83.891a.64.64,0,0,0-1.028-.762l-2.625,3.544a.64.64,0,0,0,1.028.762Z" transform="translate(-26.814 -54.531)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_6" data-name="Path 6" d="M67.275,84.567a.64.64,0,0,0,.122-1.274l-4.39-.421a.64.64,0,0,0-.122,1.274Z" transform="translate(-32.733 -54.531)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_7" data-name="Path 7" d="M43.742,68.763a.64.64,0,0,0,1.17-.521l-4.466-10.03a.64.64,0,1,0-1.168.521Zm4.336-12.287a.64.64,0,0,0-1.17.521l3.848,8.644a.64.64,0,0,0,1.17-.521Z" transform="translate(-16.738 -35.98)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_8" data-name="Path 8" d="M30.512,83.13a.64.64,0,0,0-1.029.762l2.625,3.544a.64.64,0,0,0,1.028-.762Z" transform="translate(-9.903 -54.532)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_9" data-name="Path 9" d="M15.643,83.293a.64.64,0,0,0,.122,1.274l4.39-.421a.64.64,0,0,0-.122-1.274Z" transform="translate(0 -54.531)" fill="#ff4739" fill-rule="evenodd"/>
+    <path id="Path_10" data-name="Path 10" d="M22.134,68.264a.64.64,0,0,0,1.17.521l2.291-5.148a.639.639,0,1,0-1.168-.519Zm-2-11.236a.64.64,0,0,0-1.17-.521L15.12,65.141a.64.64,0,1,0,1.168.521Z" transform="translate(0 -36.002)" fill="#ff4739" fill-rule="evenodd"/>
+  </g>
+</svg>
+                            </span>
+                            <span class="link-text">Become a member</span>
+                        </div>
+                    </a>
+                    <a class="myaccount" href="https://www.fipp.com/fipp-user-preference-centre">
+                        <div class="link-wrapper">
+                            <span class="icon-wrapper">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="22.419" height="22.418" viewBox="0 0 22.419 22.418">
+  <path id="account" d="M20.586,9.375a11.191,11.191,0,0,0-8.327,18.687.9.9,0,0,0,.172.189,11.161,11.161,0,0,0,16.311,0,.873.873,0,0,0,.172-.19A11.19,11.19,0,0,0,20.586,9.375ZM13.947,27.347a6.893,6.893,0,0,1,13.279,0,9.454,9.454,0,0,1-13.279,0ZM18,18a2.586,2.586,0,1,1,2.587,2.587A2.586,2.586,0,0,1,18,18Zm10.5,7.8a8.7,8.7,0,0,0-4.954-4.684,4.311,4.311,0,1,0-5.919,0A8.7,8.7,0,0,0,12.673,25.8a9.485,9.485,0,1,1,15.827,0Z" transform="translate(-9.377 -9.375)" fill="#ff4739"/>
+</svg>
+                            </span>
+                            <span class="link-text">My account</span>
+                        </div>
+                    </a>
+                    <a href="https://www.fipp.com/newsletter-sign-up/">
+                        <div class="link-wrapper newsletter">
+                            <span class="icon-wrapper">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20.827" height="20.827" viewBox="0 0 20.827 20.827">
+  <g id="newsletter" transform="translate(-4.169 -4.168)">
+    <path id="Path_11" data-name="Path 11" d="M29.353,29.168H21.779a.947.947,0,1,0,0,1.893h7.573a.947.947,0,1,0,0-1.893Z" transform="translate(-12.877 -19.319)" fill="#ff4739"/>
+    <path id="Path_12" data-name="Path 12" d="M29.353,45.832H21.779a.947.947,0,1,0,0,1.894h7.573a.947.947,0,1,0,0-1.894Z" transform="translate(-12.877 -32.197)" fill="#ff4739"/>
+    <path id="Path_13" data-name="Path 13" d="M29.353,62.5H21.779a.947.947,0,1,0,0,1.893h7.573a.947.947,0,1,0,0-1.893Z" transform="translate(-12.877 -45.078)" fill="#ff4739"/>
+    <path id="Path_14" data-name="Path 14" d="M23.1,13.635H21.21V8.9a4.733,4.733,0,0,0-4.734-4.733H8.9A4.733,4.733,0,0,0,4.169,8.9V20.262A4.733,4.733,0,0,0,8.9,25H22.156A2.839,2.839,0,0,0,25,22.155V15.529A1.894,1.894,0,0,0,23.1,13.635ZM6.062,20.262V8.9A2.841,2.841,0,0,1,8.9,6.061h7.573a2.84,2.84,0,0,1,2.84,2.84V22.155a2.848,2.848,0,0,0,.17.947H8.9A2.841,2.841,0,0,1,6.062,20.262ZM23.1,22.155a.947.947,0,1,1-1.893,0V15.529H23.1Z" fill="#ff4739"/>
+  </g>
+</svg>
+                            </span>
+                            <span class="link-text">FIPP Newsletter</span>
+                        </div> 
+                    </a>               
+                </nav>
+            </div>
+        </div>
+        <div class="container container--mobile">
+            
+            <div class="header__logo equal-height">
+                <a href="/">
+                    <img src="https://www.fipp.com/wp-content/themes/fipp/assets/images/logonew.svg" alt="FIPP" />
+                </a>
+            </div>
+            
+            <div class="header__top-bar equal-height group">
+				
+                <div class="header__search">
+                    <form role="search" method="get" class="header__search-form" action="/">
+                        <label>
+                            <span class="screen-reader-text hidden">Search for:</span>
+                            <input type="search" id="header__search-field" class="header__search-field"
+                                   placeholder="Search"
+                                   value="" name="s"
+                                   title="" />
+                        </label>
+                        <button><i class="icon-search"></i></button>
+                    </form>
+                </div>
+               
+				
+            </div>
+            <div class="header__nav-toggle">
+                <a href=""><span></span></a>
+            </div>
+            <div class="header__search-toggle">
+                <a href=""><i class="icon-search"></i></a>
+            </div>
+        </div>
+        <nav class="header__nav">
+            <div class="container">
+                <ul id="menu-main-menu" class="group"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-31"><a href="https://www.fipp.com/news/">News</a></li>
+<li id="menu-item-42642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42642"><a href="https://fipptv.com/fipp-world-media-congress-2025">FIPP TV</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-105"><a href="https://www.fipp.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-resource-type menu-item-107"><a href="https://www.fipp.com/resource-type/reports/">Reports</a></li>
+	<li id="menu-item-38984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38984"><a href="https://www.fipp.com/resource-type/global-digital-subscription-snapshot/">Global Digital Subscription Snapshot</a></li>
+	<li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-resource-type menu-item-106"><a href="https://www.fipp.com/resource-type/podcasts/">Podcasts</a></li>
+	<li id="menu-item-38982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38982"><a href="https://www.fipp.com/resource-type/innovation-in-media-world-report/">Innovation in Media World Report</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-resource-type menu-item-108"><a href="https://www.fipp.com/resource-type/slides/">Slides</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-resource-type menu-item-109"><a href="https://www.fipp.com/resource-type/videos/">Videos</a></li>
+	<li id="menu-item-12032" class="menu-item menu-item-type-taxonomy menu-item-object-resource-type menu-item-12032"><a href="https://www.fipp.com/resource-type/webinar/">Webinar videos</a></li>
+</ul>
+</li>
+<li id="menu-item-12019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12019"><a href="/event/">What&#8217;s On</a></li>
+<li id="menu-item-38980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38980"><a href="https://www.fipp.com/fipp-consulting/">Consulting</a></li>
+<li id="menu-item-41034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41034"><a href="https://www.fipp.com/membership/">Membership</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.fipp.com/partner/">Partner</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://www.fipp.com/about/">About</a></li>
+</ul>
+                
+            </div>
+        </nav>
+    
+        </div>
+    </header>
+
+	<main>
+
+
+    <article class="article ">
+                <section class="s--small article__banner">
+        <div class="container container--mobile">
+            <div class="col-12 transition transition--expand">
+                <picture>
+                    <source media="(min-width: 768px)" srcset="https://www.fipp.com/wp-content/uploads/2022/08/BT.001-1700x760.jpeg" />
+                    <source srcset="https://www.fipp.com/wp-content/uploads/2022/08/BT.001-600x400.jpeg" />
+                    <img src="https://www.fipp.com/wp-content/uploads/2022/08/BT.001-600x400.jpeg" alt="" class="respond" />
+                </picture>
+            </div>
+        </div>
+    </section>
+        <section class="s--small">
+        <div class="container">
+			
+			<!-- ZEPHR_FEATURE stories -->
+			
+            <div class="article__content col-8">
+                <header class="article__title">
+                    <time>18 August 2022</time>
+                    <h1>UK’s first ever race correspondent shortlisted for Black Talent Award</h1>
+                </header>
+                
+                
+<p>The Independent’s Race Correspondent, Nadine White, has been shortlisted in the UK Black Talent Awards 2022. Upon joining The Independent in March 2021, White became the first dedicated Race Correspondent in UK journalism, and is the only journalist to appear as a finalist in this year’s awards.&nbsp;</p>
+
+
+
+<p>The Black Talent programme&nbsp;highlights &#8211; and champions &#8211; Black talent across a range of industries and sectors, showcasing role models and emerging talents in their fields.</p>
+
+
+
+<p>Since joining The Independent, she has been at the forefront of race issues in the country and has led investigations into key issues, such as the Child Q scandal and the fallout from the recent Royal Tour of the Caribbean.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="1600" height="949" src="http://admin.fipp.com/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-10.57.50-1600x949.png" alt="" class="wp-image-36601" srcset="https://www.fipp.com/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-10.57.50-1600x949.png 1600w, https://www.fipp.com/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-10.57.50-800x475.png 800w, https://www.fipp.com/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-10.57.50-768x456.png 768w, https://www.fipp.com/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-10.57.50-1536x911.png 1536w, https://www.fipp.com/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-10.57.50.png 1800w" sizes="(max-width: 1600px) 100vw, 1600px" /></figure></div>
+
+
+
+<p>Nadine has already previously been recognised for her work, including winning the inaugural Paulette Wilson Windrush Award, from the Windrush Caribbean Film Festival in 2020 and appearing on the 2021 Forbes ’30 Under 30’ Media and Marketing list.</p>
+
+
+
+<p>The Independent says that the correspondent is instrumental in driving forward it’s mission of ‘Making Change Happen’, and in commenting on the news herself, Nadine said: </p>
+
+
+
+<p>“These prizes recognise Black people across various industries who have ‘thrived against the odds’; my back story is not that well known but I’m incredibly proud to have overcome tragedies and tribulations along my journey. I hope, as ever, to continue to inspire others in all that I do.”</p>
+
+
+
+<p>Good luck to our industry representative! And you can find out more about the awards, which will be announced on September 29<sup>th</sup>, <a href="https://www.blacktalentawards.co.uk">here</a>.&nbsp;</p>
+				
+								<div class="article__topics">
+					<h4>Topics</h4>
+					<ul><li><a href="https://www.fipp.com/news/tag/black-talent-awards/" rel="tag">black talent awards</a></li><li><a href="https://www.fipp.com/news/tag/nadine-white/" rel="tag">nadine white</a></li><li><a href="https://www.fipp.com/news/tag/race-correspondent/" rel="tag">race correspondent</a></li><li><a href="https://www.fipp.com/news/tag/the-independent/" rel="tag">the independent</a></li></ul>				</div>
+				            </div>
+           
+            <footer class="col-2">
+				
+								<div class="article__tag h4">
+					<a href="https://www.fipp.com/news/category/industry-news/">
+						Industry News					</a>
+				</div>
+								
+												<div class="article__author">
+					<a href="https://www.fipp.com/news/author/jamiegavin/">
+						<figure class="article__author-image">
+							
+							<img src="https://www.fipp.com/wp-content/uploads/2022/10/Screenshot-2022-10-18-at-17.55.57-800x800.png" alt="Jamie Gavin">
+							
+							<figcaption>
+								Jamie Gavin							</figcaption>
+						</figure>
+					</a>
+				</div>
+				
+				<div class="addthis_inline_share_toolbox"></div>
+
+
+
+			</footer>
+   
+
+			<!-- ZEPHR_FEATURE_END stories -->
+        </div>
+    </section>
+</article>
+
+
+<section class="s--medium">
+    <div class="container">
+                
+                    <div class="related-articles">
+                <h2 class="">Related</h2>
+                <ul class="related-articles__items">
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/news/esquire-uk-unveils-a-redesigned-magazine-for-teo-van-den-broekes-first-issue/">
+                                                                        <div class="related-articles__image">
+                                        <img src="https://www.fipp.com/wp-content/uploads/2025/11/esquire-1-800x760.png" alt="Esquire UK unveils a redesign for Teo van den Broeke&#8217;s first &#8216;Better Men&#8217; issue">
+                                    </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        Esquire UK unveils a redesign for Teo van den Broeke&#8217;s first &#8216;Better Men&#8217; issue                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/news/join-the-call-for-truth-in-ai-with-facts-in-facts-out-a-global-stand-for-trustworthy-news/">
+                                                                        <div class="related-articles__image">
+                                        <img src="https://www.fipp.com/wp-content/uploads/2025/11/articles-header_20251117_161739_0000-800x760.png" alt="Join the call for truth in AI with FACTS IN : FACTS OUT – a global stand for trustworthy news">
+                                    </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        Join the call for truth in AI with FACTS IN : FACTS OUT – a global stand for trustworthy news                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/news/fipp-remembers-visionary-media-magnate-derk-sauer/">
+                                                                        <div class="related-articles__image">
+                                        <img src="https://www.fipp.com/wp-content/uploads/2025/08/articles-header-5.png" alt="FIPP remembers visionary media magnate Derk Sauer">
+                                    </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        FIPP remembers visionary media magnate Derk Sauer                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                    </ul>
+            </div>
+            
+            
+                    <div class="related-articles">
+                <h2 class="">Latest News</h2>
+                <ul class="related-articles__items">
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/news/how-kazmedia-holding-is-boosting-the-kazakh-language-through-its-new-york-times-turning-points-licensing-deal/">
+                                                                            <div class="related-articles__image">
+                                            <img src="https://www.fipp.com/wp-content/uploads/2025/11/shutterstock_2504519139-800x800.jpg" alt="How Kazmedia Holding is boosting the Kazakh language through its New York Times Turning Points licensing deal">
+                                        </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        How Kazmedia Holding is boosting the Kazakh language through its New York Times Turning Points licensing deal                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/news/good-housekeeping-uk-launches-next-gen-recipe-app-powered-by-pugpig/">
+                                                                            <div class="related-articles__image">
+                                            <img src="https://www.fipp.com/wp-content/uploads/2025/11/GH-header-800x760.png" alt="Good Housekeeping UK launches next-gen recipe app powered by Pugpig">
+                                        </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        Good Housekeeping UK launches next-gen recipe app powered by Pugpig                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/news/the-right-paper-can-create-an-elevated-brand-experience/">
+                                                                            <div class="related-articles__image">
+                                            <img src="https://www.fipp.com/wp-content/uploads/2025/11/articles-header-3-800x760.png" alt="“The right paper can create an elevated brand experience”">
+                                        </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        “The right paper can create an elevated brand experience”                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                    </ul>
+            </div>
+            
+            
+                    <div class="related-articles">
+                <h2 class="">Latest Resources</h2>
+                <ul class="related-articles__items">
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/resource/fipp-x-tollbit-webinar-state-of-the-bots/">
+                                                                            <div class="related-articles__image">
+                                            <img src="https://www.fipp.com/wp-content/uploads/2025/07/Resources-images-1.png" alt="FIPP x TollBit Webinar: State of the Bots">
+                                        </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        FIPP x TollBit Webinar: State of the Bots                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/resource/harnessing-ai-in-media-insights-from-the-experts/">
+                                                                            <div class="related-articles__image">
+                                            <img src="https://www.fipp.com/wp-content/uploads/2025/05/Resources.png" alt="Harnessing AI in media &#8211; Insights from the experts">
+                                        </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        Harnessing AI in media &#8211; Insights from the experts                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                            <li>
+                            <article class="related-articles__item">
+                                <a href="https://www.fipp.com/resource/fipp-x-ppa-webinar-ai-update/">
+                                                                            <div class="related-articles__image">
+                                            <img src="https://www.fipp.com/wp-content/uploads/2025/04/FIPP-x-PPA-WEBINAR-Presentation-1-800x800.jpg" alt="FIPP x PPA Webinar: AI Update">
+                                        </div>
+                                                                        <h3 class=" p related-articles__title">
+                                        FIPP x PPA Webinar: AI Update                                    </h3>
+                                </a>
+                            </article>
+                        </li>
+                                    </ul>
+            </div>
+                
+        
+    </div>
+</section>
+
+
+    
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="flex-wrapper">
+                <div class="col-25 text-sm-center"> 
+                    <span class="footer-logo 2022">
+                            <svg id="logo-reversed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="247.305" height="114" viewBox="0 0 247.305 114">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="247.305" height="114" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(0 0)">
+    <g id="Group_5" data-name="Group 5" clip-path="url(#clip-path)">
+      <path id="Path_15" data-name="Path 15" d="M56.782,5A50.782,50.782,0,1,1,6,55.782,50.782,50.782,0,0,1,56.782,5" transform="translate(2.348 1.956)" fill="#21003d"/>
+    </g>
+  </g>
+  <g id="Group_8" data-name="Group 8" transform="translate(0 0)">
+    <g id="Group_7" data-name="Group 7" clip-path="url(#clip-path)">
+      <path id="Path_16" data-name="Path 16" d="M57,0a57,57,0,1,0,57,57A57,57,0,0,0,57,0M73.352,67.157a10.017,10.017,0,0,1-8.722-5.092H52.717a10.07,10.07,0,0,1-3.6,3.5l-.029,12.05a10.019,10.019,0,1,1-10.017.1L39.095,65.5a10.018,10.018,0,0,1,.042-17.3l.029-11.808a10.018,10.018,0,1,1,13.7-13.671H64.647a10.017,10.017,0,1,1,.063,10.017H52.868a10.061,10.061,0,0,1-3.687,3.677l-.028,11.767a10.067,10.067,0,0,1,3.793,3.875H64.727a10.017,10.017,0,1,1,8.626,15.109" transform="translate(0 0)" fill="#ff4739"/>
+      <path id="Path_17" data-name="Path 17" d="M104.448,19.745v9.739h17.372V36.5H104.448V50.589H96.875V12.727h27.449v7.018Z" transform="translate(37.905 4.98)" fill="#ff4739"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="7.573" height="37.861" transform="translate(168.188 17.707)" fill="#ff4739"/>
+      <path id="Path_18" data-name="Path 18" d="M160.447,25.979c0,8.462-6.458,14.03-16.2,14.03h-5.9V50.582h-7.573V12.727h14.588c9.075,0,15.088,5.287,15.088,13.252m-7.461,0c0-3.731-3.174-6.291-7.907-6.291h-6.737V33.044h6.737c4.73,0,7.907-2.84,7.907-7.07" transform="translate(51.168 4.98)" fill="#ff4739"/>
+      <path id="Path_19" data-name="Path 19" d="M186.1,25.979c0,8.462-6.458,14.03-16.2,14.03H164V50.582h-7.573V12.727h14.588c9.074,0,15.088,5.287,15.088,13.252m-7.461,0c0-3.731-3.173-6.291-7.907-6.291h-6.737V33.044h6.737c4.73,0,7.907-2.84,7.907-7.07" transform="translate(61.205 4.98)" fill="#ff4739"/>
+      <path id="Path_20" data-name="Path 20" d="M107.117,53.6h2.124a6.2,6.2,0,0,1-6.3,5.185,6.748,6.748,0,0,1,0-13.5,6.162,6.162,0,0,1,6.3,5.148h-2.124a4.063,4.063,0,0,0-4.174-3.235,4.825,4.825,0,0,0,0,9.646,4.061,4.061,0,0,0,4.174-3.253" transform="translate(37.64 17.721)" fill="#ff4739"/>
+      <path id="Path_21" data-name="Path 21" d="M116.332,52.913a4.785,4.785,0,1,1-4.839-4.73h.054a4.579,4.579,0,0,1,4.783,4.366c0,.121.006.243,0,.365m-1.991,0a2.8,2.8,0,1,0-2.8,2.929,2.761,2.761,0,0,0,2.8-2.723c0-.068,0-.138,0-.206" transform="translate(41.774 18.851)" fill="#ff4739"/>
+      <path id="Path_22" data-name="Path 22" d="M123.771,52.394V57.4H121.78V52.509A2.212,2.212,0,0,0,119.91,50a2.254,2.254,0,0,0-.465-.018,3.337,3.337,0,0,0-2.5,1.359v6.066h-1.992V48.413h1.991v.8a4.354,4.354,0,0,1,2.909-1.034,3.82,3.82,0,0,1,3.941,3.7,3.738,3.738,0,0,1-.018.515" transform="translate(44.977 18.852)" fill="#ff4739"/>
+      <path id="Path_23" data-name="Path 23" d="M131.482,52.394V57.4h-1.991V52.509A2.212,2.212,0,0,0,127.621,50a2.254,2.254,0,0,0-.465-.018,3.337,3.337,0,0,0-2.5,1.359v6.066h-1.991V48.413h1.991v.8a4.354,4.354,0,0,1,2.909-1.034,3.82,3.82,0,0,1,3.942,3.7,3.738,3.738,0,0,1-.018.515" transform="translate(47.995 18.852)" fill="#ff4739"/>
+      <path id="Path_24" data-name="Path 24" d="M139.3,53.506H132.24a2.57,2.57,0,0,0,2.735,2.393h0a2.108,2.108,0,0,0,1.914-.843h2.182a4.115,4.115,0,0,1-4.107,2.577,4.73,4.73,0,0,1-.115-9.454A4.39,4.39,0,0,1,139.3,53.5m-7.023-1.377h5.052a2.279,2.279,0,0,0-2.289-2.266c-.06,0-.121,0-.181.008a2.537,2.537,0,0,0-2.584,2.258" transform="translate(51.003 18.85)" fill="#ff4739"/>
+      <path id="Path_25" data-name="Path 25" d="M145.115,54.136h2.03a4.244,4.244,0,0,1-4.383,3.5,4.73,4.73,0,0,1-.363-9.454q.182-.006.363,0a4.245,4.245,0,0,1,4.383,3.5h-2.03a2.291,2.291,0,0,0-2.353-1.707,2.934,2.934,0,0,0,0,5.857,2.29,2.29,0,0,0,2.354-1.7" transform="translate(53.938 18.852)" fill="#ff4739"/>
+      <path id="Path_26" data-name="Path 26" d="M152.83,58.141a5.709,5.709,0,0,1-2.047.363,3.273,3.273,0,0,1-3.538-2.986,3.336,3.336,0,0,1,.017-.707V50.945h-2.124v-1.67h2.124v-3.31h1.991v3.31h3.331v1.67h-3.331V54.81c0,1.3.651,1.856,1.761,1.856a4.089,4.089,0,0,0,1.53-.345Z" transform="translate(56.789 17.986)" fill="#ff4739"/>
+      <path id="Path_27" data-name="Path 27" d="M151.659,46.335a1.263,1.263,0,1,1,1.3,1.224h-.039a1.218,1.218,0,0,1-1.262-1.173c0-.018,0-.035,0-.051m2.258,12.306h-1.966V49.647h1.971Z" transform="translate(59.341 17.62)" fill="#ff4739"/>
+      <path id="Path_28" data-name="Path 28" d="M163.481,52.394V57.4H161.49V52.509A2.212,2.212,0,0,0,159.62,50a2.253,2.253,0,0,0-.465-.018,3.338,3.338,0,0,0-2.5,1.359v6.066H154.66V48.413h1.991v.8a4.35,4.35,0,0,1,2.908-1.034,3.82,3.82,0,0,1,3.943,3.694,3.759,3.759,0,0,1-.018.516" transform="translate(60.515 18.852)" fill="#ff4739"/>
+      <path id="Path_29" data-name="Path 29" d="M171.671,48.414v9.244a4.186,4.186,0,0,1-4.554,4.383,4.312,4.312,0,0,1-4.632-3.635h2.029a2.354,2.354,0,0,0,2.6,1.836,2.411,2.411,0,0,0,2.582-2.227,2.532,2.532,0,0,0,0-.356V56.24a4.729,4.729,0,0,1-2.929.938,4.483,4.483,0,0,1-4.516-4.44,4.416,4.416,0,0,1,4.275-4.555c.079,0,.16,0,.241,0a4.747,4.747,0,0,1,2.929.938v-.708Zm-1.97,5.664V51.284a3.076,3.076,0,0,0-2.643-1.391,2.713,2.713,0,0,0-2.815,2.607c0,.082,0,.163,0,.245a2.773,2.773,0,0,0,2.813,2.716,3.051,3.051,0,0,0,2.643-1.377" transform="translate(63.486 18.852)" fill="#ff4739"/>
+      <path id="Path_30" data-name="Path 30" d="M109.4,65.925v7.061h-1.626l-.152-2.239a5.164,5.164,0,0,1-4.689,2.47A6.587,6.587,0,0,1,96.2,66.782c0-.056,0-.113,0-.168a6.69,6.69,0,0,1,6.507-6.869c.109,0,.216,0,.324,0a6.158,6.158,0,0,1,6.261,4.651h-2.2a4.065,4.065,0,0,0-4.019-2.737,4.69,4.69,0,0,0-4.792,4.587c0,.122,0,.246.007.369a4.577,4.577,0,0,0,4.48,4.671q.086,0,.171,0a4.173,4.173,0,0,0,4.229-3.445h-4.383V65.925Z" transform="translate(37.639 23.374)" fill="#ff4739"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="1.991" height="13.587" transform="translate(149.169 82.773)" fill="#ff4739"/>
+      <path id="Path_31" data-name="Path 31" d="M119.5,67.361a4.785,4.785,0,1,1-4.839-4.73h.054A4.579,4.579,0,0,1,119.495,67c0,.121.006.243,0,.365m-1.991,0a2.8,2.8,0,1,0-2.8,2.922,2.761,2.761,0,0,0,2.8-2.723c0-.067,0-.134,0-.2" transform="translate(43.012 24.504)" fill="#ff4739"/>
+      <path id="Path_32" data-name="Path 32" d="M127.551,68.565A4.651,4.651,0,0,1,123,73.312h-.024a4.529,4.529,0,0,1-2.87-.938v.708h-1.991V59.495h1.991v5.287a4.664,4.664,0,0,1,7.445,3.788m-1.991,0a2.853,2.853,0,0,0-2.8-2.909h-.077a2.981,2.981,0,0,0-2.582,1.265v3.311a3,3,0,0,0,2.582,1.281,2.874,2.874,0,0,0,2.873-2.873v-.074" transform="translate(46.216 23.279)" fill="#ff4739"/>
+      <path id="Path_33" data-name="Path 33" d="M135.392,62.86v9h-1.971v-.708a4.73,4.73,0,1,1,0-7.578v-.71Zm-1.971,6.122v-3.25a3,3,0,0,0-2.6-1.3,2.93,2.93,0,0,0,0,5.857,3,3,0,0,0,2.6-1.3" transform="translate(49.246 24.505)" fill="#ff4739"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1.991" height="13.587" transform="translate(186.611 82.773)" fill="#ff4739"/>
+      <path id="Path_34" data-name="Path 34" d="M153.78,72.921h-2.048V64.443l-3.865,6.276h-1.281L142.68,64.39l.038,8.535h-2.066V59.907h1.493l5.071,8.267,5.071-8.267h1.493Z" transform="translate(55.034 23.44)" fill="#ff4739"/>
+      <path id="Path_35" data-name="Path 35" d="M160.534,67.951h-7.062a2.568,2.568,0,0,0,2.732,2.393h0a2.108,2.108,0,0,0,1.914-.843H160.3a4.114,4.114,0,0,1-4.114,2.584,4.73,4.73,0,0,1-.114-9.454,4.389,4.389,0,0,1,4.452,5.319M153.5,66.574h5.053a2.278,2.278,0,0,0-2.289-2.266c-.06,0-.121,0-.181.008a2.538,2.538,0,0,0-2.584,2.258" transform="translate(59.308 24.505)" fill="#ff4739"/>
+      <path id="Path_36" data-name="Path 36" d="M168.676,59.494V73.082h-1.97v-.728a4.531,4.531,0,0,1-2.89.957,4.731,4.731,0,1,1,2.89-8.517v-5.3Zm-1.97,10.7V66.959a3,3,0,0,0-2.6-1.3,2.93,2.93,0,0,0,0,5.857,2.977,2.977,0,0,0,2.6-1.32" transform="translate(62.268 23.278)" fill="#ff4739"/>
+      <path id="Path_37" data-name="Path 37" d="M167.235,60.782a1.263,1.263,0,1,1,1.3,1.224h-.04a1.215,1.215,0,0,1-1.26-1.171c0-.018,0-.035,0-.053m2.258,12.3H167.52V64.092h1.973Z" transform="translate(65.435 23.273)" fill="#ff4739"/>
+      <path id="Path_38" data-name="Path 38" d="M179.6,62.86v9h-1.97v-.708a4.73,4.73,0,1,1,0-7.578v-.71Zm-1.97,6.122v-3.25a3,3,0,0,0-2.6-1.3,2.93,2.93,0,0,0,0,5.857,3,3,0,0,0,2.6-1.3" transform="translate(66.544 24.505)" fill="#ff4739"/>
+    </g>
+  </g>
+</svg>
+                        </span>
+                </div>
+                <div class="col-50 text-sm-center"> 
+                    <nav class="footer__nav">
+                        <ul id="menu-footer-menu" class="footer__nav-items"><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://www.fipp.com/privacy/">Privacy</a></li>
+<li id="menu-item-12036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12036"><a href="https://www.fipp.com/contact/">Contact Us</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="#">Copyright FIPP</a></li>
+</ul>                    </nav>
+
+                     <ul class="header__social">
+                                                <li class="header__social-item"><a href="https://www.youtube.com/user/FIPPmagazines"><i class="icon-youtube-play"></i></a></li>
+                                                <!--                         <li class="header__social-item"><a href="https://www.facebook.com/FIPPWorld"><i class="icon-facebook-1"></i></a></li>
+                                                                        <li class="header__social-item"><a href="https://twitter.com/FIPPWorld"><i class="icon-twitter-1"></i></a></li>
+                         -->
+                                                <li class="header__social-item"><a href="https://www.linkedin.com/company/fipp"><i class="icon-linkedin"></i></a></li>
+                                                                        <li class="header__social-item"><a href="http://www.instagram.com/FIPPworld"><i class="icon-instagram"></i></a></li>
+                                                <li class="header__social-item"><a href="/contact"><i class="icon-envelope"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-25 text-right text-sm-center"> 
+                    <img src="https://www.fipp.com/wp-content/themes/fipp/assets/images/Love-Paper-Log-Reversed@2x.png" alt="love paper logo" class="lp-logo">
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    
+
+    <div class="promo-container-fixed">
+        
+                
+                        
+            <div data-promo-id="promo12062" class="promo promo--fixed promo--yellow centre">
+                                <h2 class="h4">Your first step to joining FIPP's global community of media leaders</h2>
+                                                <a href="/newsletter-sign-up/" class="button button--primary">
+                    Sign up to FIPP World                </a>
+                                
+                <a class="promo__close" href="#">x</a>
+            </div>
+        
+                
+    </div>
+
+
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/fipp\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"11.3.21"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js-eu1.hs-scripts.com/26249742.js?integration=WordPress&amp;ver=11.3.21" id="leadin-script-loader-js-js"></script>
+<script type="text/javascript" src="https://www.fipp.com/wp-content/themes/fipp/assets/js/dist/app.min.js?ver=1764864280" id="app.min-js"></script>
+<script type="text/javascript" src="https://www.fipp.com/wp-content/themes/fipp/assets/js/dist/appnew.min.js?ver=1764864280" id="appnew.min-js"></script>
+<script type="text/javascript" src="https://www.fipp.com/wp-content/themes/fipp/assets/js/dist/appnewest.min.js?ver=1764864280" id="appnewest.min-js"></script>
+
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-604b4cae291d1ebd"></script>
+
+
+	</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.6.2 on 2025-12-04 16:04:40 --> title 78 UK’s first ever race correspondent shortlisted for Black Talent Award - FIPP contentType 9 text/html url 94 https://www.fipp.com:443/news/uks-first-ever-race-reporter-shortlisted-for-black-talent-award/ responseCode 3 200 

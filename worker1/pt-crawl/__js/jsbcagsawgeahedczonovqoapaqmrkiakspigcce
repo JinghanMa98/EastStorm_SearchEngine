@@ -1,0 +1,2369 @@
+jsbcagsawgeahedczonovqoapaqmrkiakspigcce page 139159  <!DOCTYPE html> <html lang="en"> <head> <!-- head to scrape:on --> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	World Health Organization South-East Asia (WHO) - Home
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link rel="manifest" href="/manifest.json"> <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"> <meta name="theme-color" content="#007eb4" /> <link rel="preconnect" href="https://fonts.googleapis.com" /> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> <link rel="preconnect" href="https://use.fontawesome.com" crossorigin /> <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" /> <link rel="dns-prefetch" href="https://kendo.cdn.telerik.com" /> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js"> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js"> <link rel="preconnect" href="https://cdn.who.int" /> <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> <link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/grid.min.css?v=14.0.7729.26487' > <!-- head to scrape:off --> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=14.0.7729.26487' ><link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=14.0.7729.26487' > <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/print.min.css?v=14.0.7729.26487' media='print'> <!-- Fundraise Up: the new standard for online giving --> <script>
+        (function (w, d, s, n, a) {
+            if (!w[n]) {
+                var l = 'call,catch,on,once,set,then,track,openCheckout'
+                    .split(','), i, o = function (n) {
+                        return 'function' == typeof n ? o.l.push([arguments]) && o
+                            : function () { return o.l.push([n, arguments]) && o }
+                    }, t = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s); j.async = !0; j.src = 'https://cdn.fundraiseup.com/widget/' + a + '';
+                t.parentNode.insertBefore(j, t); o.s = Date.now(); o.v = 5; o.h = w.location.href; o.l = [];
+                for (i = 0; i < 8; i++)o[l[i]] = o(l[i]); w[n] = o
+            }
+        })(window, document, 'script', 'FundraiseUp', 'AMEEWKFZ');</script> <!-- End Fundraise Up --> 
+            <script>
+                var lang = document.documentElement.lang; 
+                window.dataLayer = window.dataLayer || []; 
+                window.dataLayer.push({'language': lang });
+                window.dataLayer.push({
+  "pagetype": "webpage",
+  "targetaudience": "general-audience",
+  "targetcountry": "south-east-asia-region-(searo)",
+  "publishingoffice": "who-south-east-asia",
+  "healthtopic": "None"
+});</script> <script>
+                    (function() {
+                    function deleteCookie(cookieName,domain) {
+                        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/; domain=' + domain;
+                    }
+                    function loadAndTrack(canTrack) {
+                        if (!canTrack) {
+                            var domain = location.hostname.replace(/^www\./i, '.');
+                            //GA
+                            deleteCookie('_ga', domain);
+                            deleteCookie('_gat', domain);
+                            deleteCookie('_gid', domain);
+                            //Clarity
+                            deleteCookie('_clck', domain);
+                            deleteCookie('_clsk', domain);
+                            //Google Adsense
+                            deleteCookie('_gcl_au', domain);
+                        }
+                        else{
+                            //Fire GTM
+                            //Google Tag Manager
+                                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                })(window,document,'script','dataLayer','GTM-5QFSQRT');
+                            //End Google Tag Manager
+                        }
+                        return;
+                    }
+
+                    if (window.TrackingConsentManager) {
+                        TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+                        loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+                    }
+                    else {
+                        loadAndTrack(true);
+                    }
+                    })();
+                </script><meta property="og:locale" content="en_US" /><meta property="og:title" content="World Health Organization South-East Asia | World Health Organization" /><meta property="og:description" content="World Health Organization in South-East Asia provides leadership on health matters, articulates evidence-based policy options, provides technical support to countries and monitors health trends. World Health Organization South-East Asia is working with Bangladesh, Bhutan, Democratic People’s Republic of Korea, India, Maldives, Myanmar, Nepal, Sri Lanka, Thailand, Timor-Leste to address persisting and emerging epidemiological and demographic challenges." /><meta property="og:image" content="https://cdn.who.int/media/images/default-source/infographics/logo-who.tmb-1200v.jpg?sfvrsn=2fcc68a0_35" /><style type="text/css" media="all">#navigationToScrape *, 
+.top-header * {
+  box-sizing: border-box;
+}
+</style><style type="text/css" media="all">@media (min-width:1020px){#sf-top-header{background-color:#000}.sfPageEditor #sf-top-header{background-color:inherit}#sf-top-header ul li a{color:#fff!important}#sf-top-header ul.rdCommands li a{color:#000!important}.sfPageEditor #sf-top-header ul li a{color:inherit}#sf-top-header div.navigation-search>span>i{color:#fff!important}#sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children>a:after{filter:brightness(0) invert(1)}#sf-top-header #search-form .search-button .fa{font-size:22px;color:#008dc9}#sf-top-header #search-form .search-button{min-height:48px;background-color:#efefef;color:#fff;text-align:center}#sf-top-header select{font:400 12px/1.3 sans-serif;-webkit-appearance:none;appearance:none;line-height:1;outline:0;background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;background-size:1px 100%,20px 22px,20px 22px,20px 100%;background-position:right 20px center,right bottom,right bottom,right bottom;color:#fff!important;font-size:15px;font-weight:700;line-height:28px;min-width:110px;height:44px;padding:.65em 24px .55em 8px;cursor:pointer;background-color:#000;border:0 #000}#sf-top-header select:hover{background-image:linear-gradient(var(--accentFg),var(--accentFg)),linear-gradient(-135deg,transparent 50%,var(--accentFg) 50%),linear-gradient(-225deg,transparent 50%,var(--accentFg) 50%),linear-gradient(var(--accentFg) 42%,var(--accentBg) 42%)}#sf-top-header select:active{background-image:linear-gradient(var(--accentFg),var(--accentFg)),linear-gradient(-135deg,transparent 50%,var(--accentFg) 50%),linear-gradient(-225deg,transparent 50%,var(--accentFg) 50%),linear-gradient(var(--accentFg) 42%,var(--accentBg) 42%);color:var(--accentBg);border-color:var(--accentFg);background-color:var(--accentFg)}#sf-top-header .select-selected.select-arrow-active:after{border-color:transparent transparent #fff transparent;top:7px}#sf-top-header .select-items div,.select-selected{color:#fff;padding:8px 16px;border:1px solid transparent;border-color:transparent transparent rgba(0,0,0,.1) transparent;cursor:pointer}#sf-top-header .select-items{position:absolute;background-color:#1e90ff;top:100%;left:0;right:0;z-index:99}#sf-top-header .select-hide{display:none}#sf-top-header .select-items div:hover,.same-as-selected{background-color:rgba(0,0,0,.1)}#sf-top-header select option,#sf-top-header select option:active,#sf-top-header select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}#sf-top-header select .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}#sf-top-header #search2 .closebtn{display:none}#sf-top-header div#search2{max-width:450px;max-height:48px}#sf-top-header .col-md-8{display:flex;flex-direction:row;max-height:48px;justify-content:flex-end}.sfPageEditor #sf-top-header .col-md-8{display:block;flex-direction:inherit;max-height:inherit;justify-content:inherit}#sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation>li>a{min-height:48px;max-height:48px}#sf-top-header #search-form input[type=text]{min-height:48px;padding:0 0;font-size:16px}#sf-top-header #search-form input[type=text]{border-radius:0!important;border:0!important;background-color:transparent;color:#000}#sf-top-header #search-form .search-button{border-radius:0!important;background-color:transparent}#sf-top-header #search-form .search-button:hover{background-color:inherit}#sf-top-header #search-form input[type=text]:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .language-selector>i.fa-language{color:#fff;margin-left:0!important;font-size:16px;padding-left:0}#sf-top-header .language-selector>i.fa-language{content:url(/ResourcePackages/WHO/assets/dist/images/Translation.svg);vertical-align:middle;filter:brightness(0) invert(1);height:24px;margin-top:-4px}#sf-top-header .navigation-search i.fa-search{vertical-align:middle;filter:brightness(0) invert(1);position:initial;top:auto;left:auto;transform:inherit;height:48px;width:24px;margin-right:8px;display:flex;justify-content:center;align-items:center;font-size:24px}#sf-top-header div.language-selector i.fa-angle-down{color:#fff;margin-left:-22px;content:url(/ResourcePackages/WHO/assets/dist/images/arrow-down-blue.svg);vertical-align:middle;height:22px;filter:brightness(0) invert(1);margin-top:-4px;pointer-events:none}.right-to-left #sf-top-header div.language-selector i.fa-angle-down{margin-left:22px;margin-top:4px}#sf-top-header #search-form .search-button:hover{background-color:transparent}#sf-top-header #search-form .search-button i:hover{color:#008dc9}#sf-top-header #search2 .wrapper{height:48px;background-color:#efefef}#sf-top-header #search2 .wrapper:hover{border-bottom:5px solid #008dc9}#sf-top-header #search2 .wrapper:focus-within{border-bottom:5px solid #008dc9}#sf-top-header{font-size:15px!important;line-height:18px}#sf-top-header div.language-selector i{color:#fff}#sf-top-header .language-selector{min-width:220px}.search-open{overflow:inherit!important}.search-open #sf-top-header{display:block}.search-open #sf-top-header .search-overlay{position:inherit;top:inherit;left:inherit;z-index:inherit;width:inherit;height:inherit;overflow-x:inherit;opacity:0;visibility:inherit;background-color:inherit;background-color:inherit}.search-open #sf-top-header{display:block}#sf-top-header .language-selector{padding-left:48px!important}#sf-top-header .sf-secondary-geo-navigation-container{top:48px}.search-open{overflow:hidden}.search-open #sf-top-header{display:block}.search-open #sf-top-header .search-overlay{position:fixed;top:0;left:0;z-index:2000;width:100%;height:100%;overflow-x:hidden;opacity:1;visibility:visible;background-color:#20313b;background-color:rgba(32,49,59,.9);transition:.5s}.search-open #sf-top-header #search-form{display:block}.search-open #sf-top-header .search-overlay{position:relative;top:inherit;left:inherit;z-index:inherit;width:inherit;height:inherit;overflow-x:inherit;opacity:inherit;visibility:inherit;background-color:inherit;background-color:inherit;transition:.5s}#sf-top-header .search-overlay .wrapper{position:relative;top:inherit;width:inherit;max-width:inherit;padding:inherit;margin:inherit;right:inherit;left:inherit;-ms-transform:inherit;transform:inherit}#sf-top-header .navigation-search span{height:48px;vertical-align:middle;align-items:center;justify-content:center}#sf-top-header .navigation-search{display:flex;height:48px;margin-left:4px}.search-open #sf-top-header .navigation-search{display:none}#search-form label{float:right}.right-to-left #sf-top-header div#search2{padding-left:48px}.right-to-left #search-form label{padding-right:24px!important}.k-ie .language-selector i{margin-top:6px!important}.k-ie #sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children>a::after{content:"\f107"!important;font-family:"Font Awesome 5 Free";margin-top:2px!important;padding-left:8px!important}.k-ie #sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children.open>a::after{margin-top:-1px!important}.language-selector.language-selector-header{display:none}}@media (max-width:1019.5px){.search-open #sf-top-header .language-selector{display:none!important}.search-open #sf-top-header #sf-geo-navigation-container{display:none!important}#sf-top-header .navigation-search span{display:none!important}.slicknav_addition select{font:400 12px/1.3 sans-serif;-webkit-appearance:none;appearance:none;color:var(--baseFg);border:1px solid var(--baseFg);line-height:1;outline:0;border-radius:var(--radius);background-color:var(--baseBg);background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;background-size:1px 100%,20px 22px,20px 22px,20px 100%;background-position:right 20px center,right bottom,right bottom,right bottom;color:#fff!important;font-size:18px;font-weight:700;line-height:18px;min-width:110px;height:44px;padding:.65em 24px .55em 8px;cursor:pointer;padding-left:20px}.slicknav_addition .select-selected.select-arrow-active:after{border-color:transparent transparent #fff transparent;top:7px}.select-selected,.slicknav_addition .select-items div{color:#fff;padding:8px 16px;border:1px solid transparent;border-color:transparent transparent rgba(0,0,0,.1) transparent;cursor:pointer}.slicknav_addition .select-items{position:absolute;background-color:#1e90ff;top:100%;left:0;right:0;z-index:99}.slicknav_addition .select-hide{display:none}.same-as-selected,.slicknav_addition .select-items div:hover{background-color:rgba(0,0,0,.1)}.slicknav_addition select option,.slicknav_addition select option:active,.slicknav_addition select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}.slicknav_addition select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}.slicknav_addition i.fas.fa-language{display:none}li.slicknav_addition.sf-lang-selector label{width:100%;position:relative}li.slicknav_addition.sf-lang-selector label select{min-width:100%}li.slicknav_addition .fa-angle-down{font-size:24px;position:absolute;top:10px;right:25px}.right-to-left .fa-angle-down{font-size:24px;position:absolute;top:10px!important;left:24px!important;right:inherit!important}}.right-to-left .fa-angle-down{font-size:24px;position:absolute;top:10px!important;left:24px!important;right:inherit!important}.sf-lang-selector.list-inline select{font-size:16px;font-weight:700;line-height:18px;min-width:110px;height:35px;padding:0 24px 0 8px;cursor:pointer;padding-left:20px}.sf-lang-selector.list-inline select:hover{background-image:linear-gradient(var(--accentFg),var(--accentFg)),}.sf-lang-selector.list-inline select:active{background-image:linear-gradient(var(--accentFg),var(--accentFg)),color: var(--accentBg);border-color:var(--accentFg);background-color:var(--accentFg)}.sf-lang-selector.list-inline select option,.sf-lang-selector.list-inline select option:active,.sf-lang-selector.list-inline select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}.sf-lang-selector.list-inline select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}.sf-lang-selector.list-inline select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}#sf-top-header #search-form .search-button:focus{outline:0;box-shadow:none}@media (min-width:1020px){#sf-top-header span.srchaction i,#sf-top-header span.srchtoggle i{width:24px;font-size:24px;color:#fff!important;cursor:pointer}#sf-top-header .sf-search-input-wrapper input{height:48px;border:0;border-radius:0;padding:0 24px 0 24px;color:#000;font-size:15px;line-height:normal;letter-spacing:normal;font-weight:400;font-style:normal;font-stretch:normal;background-color:transparent}#sf-top-header .sf-search-input-wrapper input:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header span.srchaction:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .srchaction-wrapper:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .form-group.sf-search-input-wrapper{display:flex;flex-direction:row;align-items:center;height:48px}#sf-top-header span.srchaction{padding-left:24px;padding-right:0;border:none;float:left;transition:all .3s ease;box-shadow:none;min-height:48px;text-align:center;display:flex;flex-direction:row;align-items:center}#sf-top-header span.srchaction i{color:#008dc9!important}#sf-top-header .srchaction-wrapper{display:none}.search-open #sf-top-header .srchaction-wrapper{display:flex;height:48px;padding-bottom:5px;background-color:#efefef}.search-open #sf-top-header span.srchtoggle{display:none}#sf-top-header .navigation-search{display:none!important}.search-open #sf-top-header .srchaction-wrapper:focus{border-bottom:solid 5px #008dc9!important}.search-open #sf-top-header .srchaction-wrapper:focus-within{border-bottom:solid 5px #008dc9!important}.search-open #sf-top-header .srchaction-wrapper:hover{border-bottom:solid 5px #008dc9!important}}@media (max-width:1019.5px){#sf-top-header .sf-search-input-wrapper{display:none!important}.search-open{overflow:inherit!important}}.right-to-left .sf-search-input-wrapper{padding-left:24px}.right-to-left .srchaction{padding-right:24px;padding-left:0}.ui-autocomplete.ui-front.sf-autocomplete{z-index:999}.right-to-left #sf-top-header span.srchaction{padding-left:0;padding-right:24px}span.srchtoggle{z-index:3}#sf-top-header .srchaction-wrapper{display:flex;opacity:0;transition:.3s all ease;width:0;height:48px}.search-open #sf-top-header .srchaction-wrapper{width:280px;opacity:1}#sf-top-header span.srchtoggle{display:block!important;opacity:1;transition:1s opacity ease}.search-open #sf-top-header span.srchtoggle{transition:.3s opacity ease;opacity:0}.language-selector{z-index:4}
+  #sf-top-header .srchaction-wrapper {
+    overflow: hidden;
+}</style><style type="text/css" media="all">/*ipad portraits*/
+@media all and (min-device-width: 768px) and (max-device-width: 1015px) and (orientation:portrait) {
+  #donate-div-mob {
+        display: block !important;
+        padding-left: 45% !important;
+	margin: 3px 0px;
+    }
+}
+
+/*ipad Pro portrait*/
+@media all and (min-device-width: 1024px) and (max-device-width: 1100px) and (orientation:portrait) {
+  #donate-div {
+        padding-left: 82% !important;
+    }
+}
+/*New set 1*/
+@media only screen and (min-width: 1200px) {
+    #donate-div {
+        display: inline-block !important;
+        right: 50px !important;
+        padding: 0 !important;
+    }
+}
+
+@media (min-width: 1715px) and (max-width: 2560px) {
+    #donate-div {
+        display: inline-block !important;
+        right: 198px !important;
+        padding: 0 !important;
+    }
+}
+
+/*iPad Pro*/
+@media (min-device-width: 1024px) and (max-device-width: 1100px) and (orientation: portrait) {
+    #donate-div {
+        display: inline-block !important;
+        right: 60px !important;
+        padding: 0 !important;
+    }
+}
+
+/*Mobile landscape*/
+@media only screen and (min-device-width: 480px) 
+                   and (max-device-width: 640px) 
+                   and (orientation: landscape) {
+#donate-div-mob {
+        display: block !important;
+        padding-left: 45% !important;
+	margin: 3px 0px;
+    }
+
+}</style><meta name="twitter:card" content="summary_large_image" /><link rel="canonical" href="https://www.who.int/southeastasia" /><meta name="description" content="World Health Organization in South-East Asia provides leadership on health matters, articulates evidence-based policy options, provides technical support to countries and monitors health trends. World Health Organization South-East Asia is working with Bangladesh, Bhutan, Democratic People’s Republic of Korea, India, Maldives, Myanmar, Nepal, Sri Lanka, Thailand, Timor-Leste to address persisting and emerging epidemiological and demographic challenges." /></head> <body class="sf-body "> <a class="visually-hidden-focusable" href="#content">Skip to main content</a> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttChzH_bH_8oN_s_nT_Gi4bPGf8e5n2fEMKPjzLdvKHVty-4ZMcWf8z4wR7Uoe9uwfRcpGME2zu76GUYKLUjE5oVOWl9suUmdsLOBTG0SyiZPAlK9FJAXJhhse1qDM4EhvGTqNsxl81NUrAtHLeXR4O4h0ZoaW0&amp;t=ffffffff90b6fa90" type="text/javascript"></script><script src="/ScriptResource.axd?d=74FHISOx3fOPKwLxL0RMYsy5CZ1ciqpScg89mHaoCwqm0f3BwT2yIdaPnYAdmSwbYEK1ZSsInvrc-K4nfMcj996OJpQwEQ_jiE7tNvBDDNTsWHMs1V-SmrapMyE1jEszh3aIe8dDrVFevv5g4Az8_4JW2NKXOBG4ECPm9aUN8Tqvcq1P0&amp;t=ffffffff90b6fa90" type="text/javascript"></script><script src="/ScriptResource.axd?d=BipRCKUteAIr0PTUVR7xo6LCrTtac4Cof8FsWeF6Rs8EdDSOktcsIs7LNHQe0q9fjlWLg7K_ACXChvDiB89LssRRoiAaWPfFtKZ5o-YMiaG0eBABoldv--hS66lgbT7E3_ovT6krZJ6OXhPP-uxrsovsKl2AJ6Y1yCcYG8mHshUopGyI0&amp;t=ffffffff90b6fa90" type="text/javascript"></script> <div class="sf-main-site main-site main"> <!-- header:on --> <!--noindex--><!--stopindex--> <header> <div id="sf-top-header" class="sf-top-header top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-container">
+        <nav class="sf-geo-navigation" aria-label="Regions">
+            
+            <ul class="sf-primary-geo-navigation">
+                
+
+                <li class=" sf-no-logo">
+                    <a href="https://www.who.int/" class="mobile nav-logo">
+                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+                    </a>
+                    <a href="https://www.who.int/" class="desktop">Global</a>
+                </li>
+
+                
+                <li class="active has-children">
+                    <a href="#">Regions</a>
+
+                    <div class="sf-secondary-geo-navigation-container">
+                        <div class="sf-secondary-geo-navigation-wrapper">
+                            <div class="sf-geo-navigation-title">
+                                <div class="nav-header">
+                                    <span class="nav-logo">
+                                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+                                    </span>
+
+
+                                    <span class="nav-title">WHO Regional websites</span>
+
+                                    <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                </div>
+
+
+                            </div>
+
+                            <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-region row">
+                                        <li class=" col-md-4">
+                                            <a href="https://www.afro.who.int/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/africa8bd96ad167204ac7ac4811b8ae1dfe2c.png?sfvrsn=3204f957_20" alt="Africa" />
+
+                                                <span>Africa</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.paho.org/hq/index.php?lang=en">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/americasdf9b2f184d3145259fb3a5336cd775c7.png?sfvrsn=9efd6df3_19" alt="Americas" />
+
+                                                <span>Americas</span>
+                                            </a>
+                                        </li>
+                                        <li class="active col-md-4">
+                                            <a href="https://www.who.int/southeastasia">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/south-east-asia1c6bd1d9eb5b4cf0b5ad5da36ff3912d.png?sfvrsn=68e76dc2_17" alt="South-East Asia" />
+
+                                                <span>South-East Asia</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/europe/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/europeae57428b4f114210ae7067e1f5119e1a.png?sfvrsn=c7d5c5a5_19" alt="Europe" />
+
+                                                <span>Europe</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="http://www.emro.who.int/index.html">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/eastern-mediterraneanadf4e81056b84e75b83a1faed30a1e0a.png?sfvrsn=71211e18_17" alt="Eastern Mediterranean" />
+
+                                                <span>Eastern Mediterranean</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/westernpacific/">
+                                                    <img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/western-pacifice1e576200c9b4fe59078eb28958428a9.png?sfvrsn=88cbdcd5_19" alt="Western Pacific" />
+
+                                                <span>Western Pacific</span>
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                    <li class=" has-children">
+                        <a href="#">Countries</a>
+
+                        <div class="sf-secondary-geo-navigation-container">
+                            <div class="sf-secondary-geo-navigation-wrapper">
+                                <div class="sf-geo-navigation-title">
+                                    <div class="nav-header">
+                                        <span class="nav-logo">
+                                                <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+                                        </span>
+
+                                        <span class="nav-title">Countries in the WHO South-East Asia  Region:</span>
+                                        <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                    </div>
+                                </div>
+
+                                <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-country">
+
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/bangladesh-flag.gif?sfvrsn=f25032b6_2" alt="Bangladesh" />
+
+                                                <a href="https://www.who.int/bangladesh/">Bangladesh</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/bhutan-flag.gif?sfvrsn=7061b6d4_2" alt="Bhutan" />
+
+                                                <a href="https://www.who.int/bhutan/">Bhutan</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/dprkorea-flag.gif?sfvrsn=85aa630c_2" alt="Democratic People’s Republic of Korea " />
+
+                                                <a href="https://www.who.int/dprkorea/">Democratic People’s Republic of Korea </a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/india-flag.gif?sfvrsn=82b17c40_2" alt="India" />
+
+                                                <a href="https://www.who.int/india/">India</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/maldives-flag.gif?sfvrsn=ba573ad9_4" alt="Maldives" />
+
+                                                <a href="https://www.who.int/maldives/">Maldives</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/myanmar-flag-for-un.png?sfvrsn=6a6868ab_2" alt="Myanmar" />
+
+                                                <a href="https://www.who.int/myanmar/">Myanmar</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/nepal-flag3d5561d1f0714bac8ca6034f602180ff.png?sfvrsn=5bfa7cdc_2" alt="Nepal" />
+
+                                                <a href="https://www.who.int/nepal/">Nepal</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/srilanka-flag813f643c71874db1a728a775d70e1e71.gif?sfvrsn=57b829fc_2" alt="Sri Lanka" />
+
+                                                <a href="/srilanka">Sri Lanka</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/thailand-flag.gif?sfvrsn=6d25666d_2" alt="Thailand" />
+
+                                                <a href="https://www.who.int/thailand/">Thailand</a>
+                                        </li>
+                                        <li class="">
+                                                <img class="lazy-navigation-icons icon-flag" data-src="/images/default-source/searo---images/site-images/flags/timorleste-flag.gif?sfvrsn=25b71f2e_2" alt="Timor-Leste" />
+
+                                                <a href="https://www.who.int/timorleste/">Timor-Leste</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+ </div> <div class="sf_colsIn col-md-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <!--Navigation search:off--> 
+
+<div class="form-inline">
+<div class="form-group sf-search-input-wrapper" role="search">
+    <div class="srchaction-wrapper">
+        <span class="srchaction">
+            <i id="097e338f-ff60-4969-916f-60a167db0af0" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+        </span>
+        <input type="search" title="Search input" placeholder="Search" id="cd8b5217-6a37-4bc5-97a3-390806470a1e" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+    </div>
+    
+    <!--Toggle search:start-->
+    <span class="srchtoggle">
+        <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+    </span>
+    <!--Toggle search:end-->    
+    <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+</div>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/southeastasia/home/search-results" />
+<input type="hidden" data-sf-role="indexCatalogue" value="searo-content-index" />
+<input type="hidden" data-sf-role="wordsMode" value="AnyWord" />
+<input type="hidden" data-sf-role="disableSuggestions" value='true' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="siteId" value="fbe30696-a1c9-4be0-87d1-fc262d0b0dee" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#cd8b5217-6a37-4bc5-97a3-390806470a1e' />
+<input type="hidden" data-sf-role="searchButtonId" value='#097e338f-ff60-4969-916f-60a167db0af0' />
+</div>
+
+
+
+
+ 
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-sites-container">
+        <nav class="sf-geo-navigation-sites" aria-label="South-East Asia">
+            
+            <div id="ysf-primary-geo-navigation-sites" class="sf-primary-geo-navigation-sites">
+                
+                <div class="global-site">
+                    <a href="https://www.who.int/">
+                            <img src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" class="svg" alt="World Health Organization" />
+                    </a>
+                </div>
+
+                    <div class="region-and-country-site">
+                        <div class="region-site">
+                                <a href="https://www.who.int/southeastasia">
+                                    South-East Asia
+                                </a>
+                        </div>
+                    </div>
+
+
+            </div>
+        </nav>
+    </div>
+ <div class="header-logo logos-container"> <a href="/southeastasia" title="Home" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Home" class="logo svg" /> </a> </div> </div> <!--Donate button starts--> <div id="donate-div" style="position: absolute;"> <a href="#XEDMGWNL" style="display: none"></a> </div> <!--Donate button ends--> </div> </div> 
+ </div> <!-- logo:off --> <!--Mobile donate button starts--> <div id="donate-div-mob" class="sf_colsIn col-md-6"> <a href="#XKPNWVLP" style="display: none"></a> </div> <!--Mobile donate button ends--> <div id="navigationToScrape" class="navigation"> 
+<div class="row navWrapper" data-sf-element="Row">
+    <div class="nav-container">
+        <!--Main desktop navigation:on-->
+        <ul class="nav"></ul>
+        <!--Main desktop navigation:off-->
+    </div>
+
+    <ul class="nav-mobile"></ul>
+
+    <div id="Navigation_TD9F2A204024_Col00" class="sf_colsIn col-md-12" data-sf-element="Menu Wrapper" data-placeholder-label="Menu Wrapper"><div class="navItemLayout navHomeItemLayout">
+    <div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="0bb4609cab514ddfbce97c611bda405d" role="navigation">
+    <ul class="main-navigation">
+    <li class="active"><a href="/southeastasia" target="_self">Home</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204025_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"></div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="846175ac3d0e493ba9b4b0e65ef76467" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/southeastasia/health-topics" target="_self">Health topics</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204029_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T3B64EF77289_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204114_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+
+
+<div class="sf-content-block content-block" >
+    <div ><ul class="a-z--list"><li><a href="/southeastasia/health-topics" data-sf-ec-immutable="">All health topics</a></li><li><a href="/southeastasia/health-topics/#A" data-sf-ec-immutable="">A</a></li><li><a href="/southeastasia/health-topics/#B" data-sf-ec-immutable="">B</a></li><li><a href="/southeastasia/health-topics/#C" data-sf-ec-immutable="">C</a></li><li><a href="/southeastasia/health-topics/#D" data-sf-ec-immutable="">D</a></li><li><a href="/southeastasia/health-topics/#E" data-sf-ec-immutable="">E</a></li><li><a href="/southeastasia/health-topics/#F" data-sf-ec-immutable="">F</a></li><li><a href="/southeastasia/health-topics/#G" data-sf-ec-immutable="">G</a></li><li><a href="/southeastasia/health-topics/#H" data-sf-ec-immutable="">H</a></li><li><a href="/southeastasia/health-topics/#I" data-sf-ec-immutable="">I</a></li><li><a href="/southeastasia/health-topics/#J" data-sf-ec-immutable="">J</a></li><li><a href="/southeastasia/health-topics/#K" data-sf-ec-immutable="">K</a></li><li><a href="/southeastasia/health-topics/#L" data-sf-ec-immutable="">L</a></li><li><a href="/southeastasia/health-topics/#M" data-sf-ec-immutable="">M</a></li><li><a href="/southeastasia/health-topics/#N" data-sf-ec-immutable="">N</a></li><li><a href="/southeastasia/health-topics/#O" data-sf-ec-immutable="">O</a></li><li><a href="/southeastasia/health-topics/#P" data-sf-ec-immutable="">P</a></li><li><a href="/southeastasia/health-topics/#Q" data-sf-ec-immutable="">Q</a></li><li><a href="/southeastasia/health-topics/#R" data-sf-ec-immutable="">R</a></li><li><a href="/southeastasia/health-topics/#S" data-sf-ec-immutable="">S</a></li><li><a href="/southeastasia/health-topics/#T" data-sf-ec-immutable="">T</a></li><li><a href="/southeastasia/health-topics/#U" data-sf-ec-immutable="">U</a></li><li><a href="/southeastasia/health-topics/#V" data-sf-ec-immutable="">V</a></li><li><a href="/southeastasia/health-topics/#W" data-sf-ec-immutable="">W</a></li><li><a href="/southeastasia/health-topics/#X" data-sf-ec-immutable="">X</a></li><li><a href="/southeastasia/health-topics/#Y" data-sf-ec-immutable="">Y</a></li><li><a href="/southeastasia/health-topics/#Z" data-sf-ec-immutable="">Z</a></li></ul></div>
+</div>
+
+</div>
+
+    </div>
+    <div id="Navigation_T3B64EF77289_Col01" class="sf_colsIn col-md-9" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-content-block content-block" >
+    <div ><h3>Popular topics</h3></div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Navigation_T3B64EF77290_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div><a href="/southeastasia/health-topics/adolescent-health">Adolescent health</a></div><div><a href="/southeastasia/health-topics/dengue-and-severe-dengue">Dengue</a><div><a href="/southeastasia/health-topics/essential-medicines">Essential Medicines</a></div><div><a href="/southeastasia/health-topics/vaccines-and-immunization">Vaccines and Immunization</a>&nbsp;</div><div><a href="/southeastasia/health-topics/infant-nutrition">Infant and young child feeding</a></div></div></div>
+</div>
+
+    </div>
+    <div id="Navigation_T3B64EF77290_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div><a href="/southeastasia/health-topics/mental-health">Mental Health</a></div><div><a href="/southeastasia/health-topics/neglected-tropical-diseases">Neglected tropical diseases</a></div><div><a href="/southeastasia/health-topics/noncommunicable-diseases">Noncommunicable diseases</a></div><div><a href="/southeastasia/health-topics/physical-activity">Physical activity</a></div><div><a href="/southeastasia/health-topics/reproductive-health">Reproductive health</a></div></div>
+</div>
+
+    </div>
+    <div id="Navigation_T3B64EF77290_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="sf-content-block content-block" >
+    <div ><div><a href="/southeastasia/our-work/research-and-innovation">Research and Innovation</a></div><div><a href="/southeastasia/health-topics/traditional-complementary-and-integrative-medicine">Traditional medicine</a></div><div><a href="/southeastasia/health-topics/tuberculosis">Tuberculosis</a></div><div><a href="/southeastasia/health-topics/universal-health-coverage">Universal health coverage</a></div><div class="navigation-title"></div></div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Navigation_TB8B73268262_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="Navigation_TB8B73268262_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+    <div id="Navigation_TB8B73268262_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="eb6ffef1b4b8476fb867b5f201685194" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/southeastasia/navigation/mega-menu/our-work" target="_self">Our work</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204028_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T3B64EF77293_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="48b91e58089343078c80655946caf65a" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/our-work/communicable-diseases-department" target="_self">Communicable Diseases Department</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/our-work/communicable-diseases-department/vpd" target="_self">Vaccine preventable disease</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/our-work/communicable-diseases-department/noncommunicable-disease-and-mental-health" target="_self">Department of Healthier Populations and Noncommunicable Diseases (HPN)</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_T3B64EF77293_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="659930aabafc43669d794d62e5a4cd11" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/our-work/universal-health-coverage" target="_self">Universal health coverage</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/our-work/universal-health-coverage/research-and-innovation" target="_self">Research and Innovation</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/our-work/universal-health-coverage/planning-monitoring-and-evaluation" target="_self">Planning, Monitoring and Evaluation</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_T3B64EF77293_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="ff1cb396c5bd4ede82fc02408e2d55f4" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/resources" target="_self">Resources</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/resources/publications" target="_self">Publications</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/resources/data" target="_self">Data</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Navigation_TB8B73268211_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+     <div id="Navigation_TB8B73268211_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+     <div id="Navigation_TB8B73268211_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="Navigation_TB8B73268211_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="f0675fd27c7e4872bc8b4de440b212d8" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/southeastasia/news" target="_self">Newsroom</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204027_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T3B64EF77294_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="1a80815683aa4476a4341e7efd2e47c5" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/news/newsroom" target="_self">Newsroom</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/news/newsroom/news-releases" target="_self">News releases</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/news/newsroom/media-statements" target="_self">Media Statements</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/news/newsroom/feature-stories" target="_self">Feature stories</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_T3B64EF77294_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="8cae48e9c945437a8f6db33e7f5a79d5" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/news/newsroom/news-releases" target="_self">News releases</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+<div id="listView" class="vertical-list"></div>
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="vertical-list-item">
+        <div class="info">
+            <a href="https://www.who.int/southeastasia/news/detail#:ItemDefaultUrl #" aria-label="#: Title #">
+                <p class="heading">#: Title #</p>
+            </a>
+            <div class="date">
+                <span class="timestamp">#: FormatedDate #</span>
+                <div class="sf-tags-list">
+                    <div class="sf-tags-list-item">#: NewsType #</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script>
+    window.onload = function () {
+        var remoteDataSource = new kendo.data.DataSource({
+            type: "odata-v4",
+            transport: {
+                read: "/api/news/newsitems?sf_provider=newsProvider16&sf_culture=en&$top=3&$orderby=PublicationDateAndTime%20desc&$select=Title,ItemDefaultUrl,FormatedDate,NewsType"
+            }
+        });
+        $("#listView").kendoListView({
+            dataSource: remoteDataSource,
+            pageable: true,
+            template: kendo.template($("#template").html()),
+            dataBound: function () {
+                this.wrapper.removeClass("k-widget");
+                this.wrapper.removeClass("k-listview");
+            }
+        });
+    };
+</script>
+
+    </div>
+    <div id="Navigation_T3B64EF77294_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="6a1248a3db8a432cbf5a801b5dddaab6" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/news/world-health-day-2025" target="_self">World Health Day 2025</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TB8B73268233_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="3f70c79d7bdd4a13b7e85ca5997ee94c" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/southeastasia/navigation/mega-menu/emergencies" target="_self">Emergencies</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TB8B73268233_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TB8B73268235_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="d75887f40c0b4b3ebcf22cdfb5ce7948" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies" target="_self">Outbreaks and emergencies</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies/covid-19" target="_self">COVID-19</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies/emergency-operations" target="_self">Emergency Operations</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies/country-health-emergency-preparedness-ihr" target="_self">Country Health Emergency Preparedness &amp; IHR</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies/infectious-hazard-management" target="_self">Infectious Hazard Management</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies/health-emergency-information-risk-assessment" target="_self">Health Emergency Information &amp; Risk Assessment</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/outbreaks-and-emergencies/phl" target="_self">Public health Laboratory services
+</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TB8B73268235_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="c4d301abd5944c75a3bbb8daeea6405a" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/regional-strategic-roadmap-for-health-security-(2023-2027)-endorsed-by-the-regional-committee" target="_blank">Regional Strategic Roadmap for Health Security (2023-2027) endorsed by the Regional Committee</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TB8B73268235_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="59cc60e7c0384e0aacfb8b219af29eda" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/latest" target="_self">Latest</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/latest/bangladesh---rohingya-crisis" target="_blank">Bangladesh - Rohingya Crisis</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/latest/myanmar-earthquake-response-2025" target="_self">Myanmar earthquake response 2025</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/latest/nepal-earthquake" target="_blank">Nepal Earthquake</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/latest/covid-19" target="_self">COVID-19</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TB8B73268235_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="main-navigation--wrapper" id="6c4d9e447ab24995ad69033aac06aa1c" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/emergencies/thailand-becomes-first-in-sear-with-who-classified-emergency-medical-team" target="_self">Thailand becomes first in SEAR with WHO classified emergency medical team</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+
+
+<nav id="dc0eb78d3e514ad0aa977be305e18efb" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/southeastasia/about" target="_self">About</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204026_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="cf127a2f812144afb76809106a1896b9" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/overview" target="_self">Overview</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/overview/our-focus" target="_self">Our focus</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/overview/where-we-work" target="_self">Where we work</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/country-strategy-and-support" target="_self">Country Strategy and Support
+
+</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="72308e2805c048f3b25c6911df987651" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/governance" target="_self">Governance</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/governance/regional-director" target="_self">Regional Director</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/governance/election-of-regional-director-2023" target="_self">Election of Regional Director 2023</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/governance/regional-committee" target="_self">Regional Committee</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/governance/seventy-eighth-session-of-the-regional-committee" target="_self">Seventy-eighth Session of the WHO Regional Committee</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="ea451c2a8e1a482eb0eb88b9bcda7d41" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/partnerships" target="_self">Partnerships</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/partnerships/collaborating-centers" target="_self">Collaborating Centers</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="main-navigation--wrapper" id="7f93e5a641e8422b8bebd251943a116e" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/mega-menu/about-us/careers" target="_self">Careers</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+<nav id="f83ec959785147bab2d28d53af5c954b" role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/southeastasia/navigation/mega-menu/about-us/contact-us" target="_self">Contact Us</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+ </div>
+</div>
+ </div> </header> <!--/noindex--><!--startindex--> <!-- header:off --> <section class="sf-content content" id="content" role="main" tabindex="-1"> 
+
+
+
+
+
+<div class="hero-image--wrapper hero-image--high-wrapper high has-caption" data-url="">
+
+        <div class="inner responsive-background-image high-1768069630 bg-center-position">
+            
+            <img sizes="(max-width: 768px) 200px,
+                        (max-width: 1024px) 700px,
+                        (max-width: 1366px) 1000px,
+                        1920px"
+                 srcset="https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-aids-day/2025/world-aids-day-2025-banner.tmb-768v.png?sfvrsn=2ba41428_1 768w,
+                        https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-aids-day/2025/world-aids-day-2025-banner.tmb-1024v.png?sfvrsn=2ba41428_1 1024w,
+                        https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-aids-day/2025/world-aids-day-2025-banner.tmb-1366v.png?sfvrsn=2ba41428_1 1366w,
+                        https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-aids-day/2025/world-aids-day-2025-banner.tmb-1920v.png?sfvrsn=2ba41428_1 1920w"
+                 alt="World AIDS Day" />
+
+            <div class="sf_colsIn container">
+                <div class="hero-image--content bg-text-light text-left">
+                                
+                                    <h1 class="title"><span>World AIDS Day</span></h1>
+                                
+                                                                                                        <div class="button button-blue-background">
+                            <a href="https://www.who.int/southeastasia/news/detail/01-12-2025-world-aids-day" >Read more</a>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+    <div class="sf-image-credit">
+        
+        <div class="sf-image-credit__content">
+            <div class="sf-image-credit__inner">
+WHO
+                    <br />World AIDS Day 2025: Overcoming disruption, transforming the AIDS response            </div>
+        </div>
+        
+        <div class="sf-image-credit__label">
+            <span class="sf-image-credit__copyright">&copy;</span>
+            <span class="sf-image-credit__text">Credits </span>
+
+            <i class="icon plus-icon"></i>
+        </div>
+    </div>
+    <script>
+        var imageCreditClass = document.getElementsByClassName("sf-image-credit");
+
+        var preventFunction = function () {
+            event.preventDefault()
+        };
+
+        for (var i = 0; i < imageCreditClass.length; i++) {
+            imageCreditClass[i].addEventListener('click', preventFunction);;
+        }
+    </script>
+
+</div>
+<div id="PageContent_C590_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C643_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Latest news</h2>
+
+        <a href="https://www.who.int/southeastasia/news">All →</a>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C664_Col00" class="sf_colsIn col-sm-3 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1 - For list templates">
+<div>
+        <img src="https://cdn.who.int/media/images/default-source/topics/nutrition-and-food/healthy-diet/traditional-maldivian-cooking.jpg?sfvrsn=a4f5e850_15"  title="Traditional Maldivian cooking" alt="Two children are watching as a woman prepare food under the shadow of a tree."/>
+            </div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><div id="PageContent_C664_Col00" data-sf-element="Column 1" data-placeholder-label="Column 1 - For list templates"><h3><a href="https://www.who.int/news/item/13-10-2025-maldives-becomes-the-first-country-to-achieve-triple-elimination-of-mother-to-child-transmission-of-hiv-syphilis-and-hepatitis-b" aria-label="WHO South-East Asia Regional Committee Session begins" role="link" data-sf-ec-immutable=""><strong>Maldives becomes the first country to achieve &lsquo;triple elimination&rsquo; of mother-to-child transmission of HIV, syphilis and hepatitis B</strong><div id="PageContent_C664_Col01" data-sf-element="Column 2" data-placeholder-label="Column 2 - For list templates"><div><div><div></div></div></div></div><p>&nbsp;</p></a><p>&nbsp;</p></h3></div></div>
+</div>
+
+    </div>
+    <div id="PageContent_C664_Col01" class="sf_colsIn col-md-9" data-sf-element="Column 2" data-placeholder-label="Column 2 - For list templates">
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/southeastasia/news/detail/02-12-2025-who-provides-emergency-funds-to-scale-up--health-response-in-cyclone-hit-sri-lanka" class="link-container" aria-label="WHO provides emergency funds to scale up  health response in cyclone-hit Sri Lanka" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/countries/sri-lanka/photo-credit---dmc-sri-lanka.tmb-768v.jpg?sfvrsn=dc298bcc_1" style="background-image: url('https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/countries/sri-lanka/photo-credit---dmc-sri-lanka.tmb-549v.jpg?sfvrsn=dc298bcc_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">2 December 2025</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">News release</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">WHO provides emergency funds to scale up  health response in cyclone-hit Sri Lanka</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/southeastasia/news/detail/01-12-2025-world-aids-day" class="link-container" aria-label="World AIDS Day" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-aids-day/2025/wad-2025-overcoming-disruption--transforming-the-aids-response.tmb-768v.png?sfvrsn=51cd4e7d_1" style="background-image: url('https://cdn.who.int/media/images/default-source/headquarters/campaigns/world-aids-day/2025/wad-2025-overcoming-disruption--transforming-the-aids-response.tmb-549v.png?sfvrsn=51cd4e7d_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">1 December 2025</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Statement</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">World AIDS Day</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="/southeastasia/news/detail/25-11-2025-16-days-of-activism-against-gender-based-violence" class="link-container" aria-label="16 Days of Activism Against Gender-Based Violence" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/departments/reproductive-health/violence-against-women/stop-vaw.tmb-768v.jpg?Culture=en&amp;sfvrsn=a7dacfba_5" style="background-image: url('/images/default-source/departments/reproductive-health/violence-against-women/stop-vaw.tmb-549v.jpg?Culture=en&amp;sfvrsn=a7dacfba_5')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">25 November 2025</span>
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Statement</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">16 Days of Activism Against Gender-Based Violence</p>
+                    </div>
+                </a>
+        </div>
+</div>
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C660_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C660_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C276_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C303_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C303_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+</div>
+
+<div class="section-heading">
+            <h2>Health emergencies</h2>
+
+        <a href="https://www.who.int/southeastasia/outbreaks-and-emergencies">All →</a>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C638_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="mdc-card ratio-4x3" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="/southeastasia/outbreaks-and-emergencies/myanmar-earthquake-response-2025" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="https://cdn.who.int/media/images/default-source/topics/emergencies-disasters-and-deliberate-events/earthquake/earthquake-relief-supplies-for-myanmar.jpg?sfvrsn=eaf75c65_2" title="Earthquake relief supplies for Myanmar (WHO). Photo - WHO Myanmar-Seng Aung" alt="Earthquake relief supplies reaching Myanmar from WHO Logistics Hub in Dubai">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="05c376189b2e4a12b077e69550f645be" class="item--title">Myanmar Earthquake 2025</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+     <div id="PageContent_C638_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="mdc-card ratio-5x4" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="/southeastasia/outbreaks-and-emergencies/health-emergency-information-risk-assessment/sear-epi-bulletins" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="/images/default-source/searo---images/emergencies/seareb-cover4.jpg?sfvrsn=77bee7cb_1" title="seareb-cover4" alt="Bulletin cover">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="d9c7bb5bab944795b85cf850957ba40b" class="item--title">SEAR Epidemiological bulletin</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+     <div id="PageContent_C638_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="mdc-card ratio-5x4" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="/southeastasia/outbreaks-and-emergencies/searhef/whats-searhef" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="https://cdn.who.int/media/images/default-source/topics/emergencies-disasters-and-deliberate-events/earthquake/earthquake-aftermath-nepal-2015.jpg?sfvrsn=779139c9_3" title="earthquake aftermath nepal 2015" alt="A small crowd of people looking at the ruins of buildings">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="7bd630a65ab1494e954472d17eb04ad0" class="item--title">SEAR Health Emergency Fund</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+     <div id="PageContent_C638_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+
+
+<div class="mdc-card ratio-5x4" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="https://www.who.int/bangladesh/emergencies/Rohingyacrisis" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="/images/default-source/departments/ncds/cancer/responding-coxs-bazar.jpg?sfvrsn=3269eac7_8" title="responding-coxs-bazar" alt="a group of people including some children walking with their backs to the camera">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="fa584c28d7e44a6993a8f4bbf8ac38cf" class="item--title">Bangladesh - Rohingya Crisis</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C591_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C591_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C595_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C595_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C655_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C656_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C656_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+<div id="PageContent_C424_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C425_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>About WHO South-East Asia</h2>
+
+</div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><p>One of the six WHO Regions, WHO South-East Asia is home
+    to  a quarter of the world&rsquo;s population. &nbsp;</p><p>Committed to building a better, healthier future for the nearly
+    two billion people in the Region, WHO is working with the 10 Member States to
+    address persisting and emerging epidemiological and demographic challenges.</p><div class="button bg-primary"><a href="https://www.who.int/southeastasia/publications/i/item/9789290211495" data-sf-ec-immutable="" data-sf-marked="">Learn more&nbsp;&rarr;</a></div></div>
+</div>
+
+    </div>
+    <div id="PageContent_C425_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="section-heading">
+            <h2>Officer-in-Charge</h2>
+
+</div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><div style="background-color:#DDEFF9;padding:22px;"><p>WHO South-East Asia Regional Director Saima Wazed is currently on leave. </p><p>During this period, Dr Catharina Boehme is serving as Officer-in-Charge.</p><div class="button bg-primary"><a href="/southeastasia/about/governance/officer-in-charge">Click here for information about Dr&nbsp;Boehme</a></div></div></div>
+</div>
+
+    </div>
+    <div id="PageContent_C425_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="section-heading">
+            <h2>Regional Director</h2>
+
+</div>
+
+
+
+
+
+<div class="hero-image--wrapper hero-image--low-wrapper low has-caption" data-url="">
+
+        <div class="inner responsive-background-image low-1461310268 bg-top-position">
+
+            <img sizes="(max-width: 768px) 200px,
+                        (max-width: 1024px) 700px,
+                        (max-width: 1366px) 1000px,
+                        1920px"
+                 srcset="/images/default-source/searo---images/regional-director/rd-sear-ms-saima-wazed.tmb-768v.jpg?Culture=en&amp;sfvrsn=9b0b3e44_2 768w,
+                        /images/default-source/searo---images/regional-director/rd-sear-ms-saima-wazed.tmb-1024v.jpg?Culture=en&amp;sfvrsn=9b0b3e44_2 1024w,
+                        /images/default-source/searo---images/regional-director/rd-sear-ms-saima-wazed.tmb-1366v.jpg?Culture=en&amp;sfvrsn=9b0b3e44_2 1366w,
+                        /images/default-source/searo---images/regional-director/rd-sear-ms-saima-wazed.tmb-1920v.jpg?Culture=en&amp;sfvrsn=9b0b3e44_2 1920w"
+                 alt="" />
+
+            <div class="sf_colsIn container">
+                <div class="hero-image--content bg-text-light text-left">
+                                                                <p class="intro"><span>Saima Wazed</span></p>
+                                                                <div class="button button-blue-background">
+                            <a href="/southeastasia/about/governance/regional-director" >Read more</a>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+    <div class="sf-image-credit">
+        
+        <div class="sf-image-credit__content">
+            <div class="sf-image-credit__inner">
+WHO
+            </div>
+        </div>
+        
+        <div class="sf-image-credit__label">
+            <span class="sf-image-credit__copyright">&copy;</span>
+            <span class="sf-image-credit__text">Credits </span>
+
+            <i class="icon plus-icon"></i>
+        </div>
+    </div>
+    <script>
+        var imageCreditClass = document.getElementsByClassName("sf-image-credit");
+
+        var preventFunction = function () {
+            event.preventDefault()
+        };
+
+        for (var i = 0; i < imageCreditClass.length; i++) {
+            imageCreditClass[i].addEventListener('click', preventFunction);;
+        }
+    </script>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C651_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C667_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Prioritization update</h2>
+
+</div>
+
+
+
+<div class="mdc-card ratio-5x4" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="https://cdn.who.int/media/docs/default-source/searo/reprioritization-update-november-2025-v2.pdf" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/featured/thumbnail-priortization---november-2025.png?sfvrsn=d0473607_2" title="Thumbnail prioritization - November 2025" alt="Prioritization and realignment in WHO South-East Asia - November 2025 update">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+     <div id="PageContent_C667_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="section-heading">
+            <h2>Roadmap to results</h2>
+
+</div>
+
+
+
+<div class="mdc-card ratio-5x4" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="https://www.who.int/southeastasia/news/feature-stories/detail/roadmap-to-results--transforming-health-across-the-who-south-east-asia-region" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/featured/saima-wazed--regional-director--who-south-east-asia-region--with-delegates-from-member-states-of-the-who-south-east-asia-region-in-geneva---may-2024.jpg?sfvrsn=59867737_2" title="Saima Wazed, Regional Director, WHO South-East Asia Region, with delegates from Member States of the WHO South-East Asia Region in Geneva - May 2024" alt="Saima Wazed, Regional Director, WHO South-East Asia Region, with delegates from Member States of the WHO South-East Asia Region in Geneva - May 2024">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="2973400296b34d48983222fd13ec627d" class="item--title">Roadmap to results: Transforming health across the WHO South-East Asia Region</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+     <div id="PageContent_C667_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="section-heading">
+            <h2>Evaluation reports</h2>
+
+</div>
+
+
+
+<article class="card ratio-4x3">
+    <!-- ... -->
+        <div class="card__media">
+            <img alt="Monitoring and Evaluation icon" class="responsive" data-srcset="/images/default-source/searo---images/home-page-banner/evaluation.tmb-xs.png?sfvrsn=56e04e4e_1 300w, /images/default-source/searo---images/home-page-banner/evaluation.tmb-sm.png?sfvrsn=56e04e4e_1 540w, /images/default-source/searo---images/home-page-banner/evaluation.tmb-md.png?sfvrsn=56e04e4e_1 720w, /images/default-source/searo---images/home-page-banner/evaluation.tmb-lg.png?sfvrsn=56e04e4e_1 960w, /images/default-source/searo---images/home-page-banner/evaluation.tmb-xl.png?sfvrsn=56e04e4e_1 1140w, /images/default-source/searo---images/home-page-banner/evaluation.tmb-xxl.png?sfvrsn=56e04e4e_1 1320w, /images/default-source/searo---images/home-page-banner/evaluation.tmb-hd.png?sfvrsn=56e04e4e_1 2480w" src="/images/default-source/searo---images/home-page-banner/evaluation.png?sfvrsn=56e04e4e_1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="evaluation"></img>
+        </div>
+    <div class="card__content-group">
+            <div class="card__header">
+                    <a href="/southeastasia/se-evaluation-reports" class="card__link" aria-label="Click here to view Evaluation reports , " target="_self">
+                        <h3 id="120847c7cc574fe2b80ab2fd88c6b943" class="card__title">Click here to view Evaluation reports</h3>
+                    </a>
+            </div>
+                    </div>
+    <!-- ... -->
+</article>
+
+    </div>
+     <div id="PageContent_C667_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="section-heading">
+            <h2>Reassignment of Indonesia</h2>
+
+</div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><h3>Indonesia reassigned to WHO Western Pacific Region</h3><p>On 23 May 2025, at the Seventy-eighth session of the World Health Assembly Member States approved the request from the Government of Indonesia for the country&rsquo;s reassignment from the South-East Asia Region to the&nbsp;<span style="background-color:transparent;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;">Western Pacific Region.</span><span style="background-color:transparent;text-align:inherit;text-transform:inherit;word-spacing:normal;caret-color:auto;white-space:inherit;"></span></p><div class="button bg-primary"><a href="https://www.who.int/news/item/24-05-2025-seventy-eighth-world-health-assembly---daily-update--24-may-2025" data-sf-ec-immutable="" data-sf-marked="">Read more about the decision here&nbsp;&rarr;</a></div></div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C652_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C652_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+    <div id="PageContent_C652_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+<div id="PageContent_C220_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C190_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C190_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C270_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C265_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C265_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ></br></br></div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C468_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="PageContent_C451_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C653_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C626_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Global Leprosy Programme</h2>
+
+</div>
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><div><p>The <strong>Global Leprosy Programme (GLP)</strong> of the World Health Organization is housed in the WHO Regional Office for South-East Asia (and not in the Organization&rsquo;s headquarters in Geneva). It is the Organization&rsquo;s designated programme for addressing
+        leprosy worldwide. Being classified as one of the 20 neglected tropical diseases (NTDs), the unit works in close collaboration with the Department of Control of NTDs in HQ, designated focal points in all regions, national leprosy programmes and
+        partners.</p><div class="button bg-primary"><a href="/southeastasia/global-leprosy-programme">Global Leprosy Programme Website</a></div></div></div>
+</div>
+
+    </div>
+    <div id="PageContent_C626_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="section-heading">
+            <h2>World Health Day 2025</h2>
+
+</div>
+
+
+
+<article class="card ratio-16x9">
+    <!-- ... -->
+        <div class="card__media">
+            <img alt="World Health Day image showcasing women in many roles" class="responsive" data-srcset="https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-xs.jpg?sfvrsn=fe6d8f1c_3 300w, https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-sm.jpg?sfvrsn=fe6d8f1c_3 540w, https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-md.jpg?sfvrsn=fe6d8f1c_3 720w, https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-lg.jpg?sfvrsn=fe6d8f1c_3 960w, https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-xl.jpg?sfvrsn=fe6d8f1c_3 1140w, https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-xxl.jpg?sfvrsn=fe6d8f1c_3 1320w, https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.tmb-hd.jpg?sfvrsn=fe6d8f1c_3 2480w" src="https://cdn.who.int/media/images/default-source/campaigns/world-health-day/hero-image_new-style-sizes_2800px-width-01.jpg?sfvrsn=fe6d8f1c_3" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" title="World Health Day Hero Image 2025"></img>
+        </div>
+    <div class="card__content-group">
+            <div class="card__header">
+                    <a href="https://www.who.int/southeastasia/news/events/world-health-day/world-health-day-2025" class="card__link" aria-label="Healthy beginnings, hopeful futures , " target="_self">
+                        <h3 id="a74fafafaf154e288bb052a0b31d9f43" class="card__title">Healthy beginnings, hopeful futures</h3>
+                    </a>
+            </div>
+                    </div>
+    <!-- ... -->
+</article>
+
+    </div>
+    <div id="PageContent_C626_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="section-heading">
+            <h2>Regional Committee</h2>
+
+</div>
+
+
+
+<div class="mdc-card mdc-card--outlined" role="article">
+    <div class="mdc-card__primary-action " tabindex="-1">
+            <a href="/southeastasia/about/governance/regional-committee/seventy-eighth-session" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--16-9" src="https://cdn.who.int/media/images/default-source/who-governance/regional-committee-sear/sea-rc78---2025-(---)/rc78-cover-image.png?sfvrsn=3b3f267b_11" title="Seventy-eighth Session of the WHO Regional Committee for South-East Asia cover image" alt="Seventy-eighth Session of the WHO Regional Committee for South-East Asia cover image">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="527126a7233946729f42d026b82dbfe4" class="item--title">Seventy-eighth Session of the WHO Regional Committee for South-East Asia</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+                            <div class="item--abstract">
+                                13–15 October 2025, Colombo, Sri Lanka
+                            </div>
+
+                    </div>
+                </div>
+            </a>
+    </div>
+</div>
+
+    </div>
+</div>
+
+<div class="section-heading">
+            <h2>Featured activities</h2>
+
+        <a href="https://www.who.int/southeastasia/activities">All →</a>
+</div>
+
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/activities/immunization-and-vaccine-research-area-priorities-for-strengthening-the-immunization-programmes-in-the-who-south-east-asia-region-(2025-2030)" class="link-container" aria-label="Immunization and vaccine research area priorities for strengthening the immunization programmes in the WHO South-East Asia Region (2025–2030)" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/vaccines-and-immunization/supported-by-who--the-laboratory-is-being-instrumental-to-provide-testing-and-timely-diagnosis-for-covid-19-for-cox-s-bazar.tmb-768v.png?sfvrsn=b4e6d6e5_1" style="background-image: url('https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/vaccines-and-immunization/supported-by-who--the-laboratory-is-being-instrumental-to-provide-testing-and-timely-diagnosis-for-covid-19-for-cox-s-bazar.tmb-549v.png?sfvrsn=b4e6d6e5_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Immunization and vaccine research area priorities for strengthening the immunization programmes in the WHO South-East Asia Region (2025–2030)</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/activities/management-of-cancer" class="link-container" aria-label="Management of cancer" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/searo---images/cancer/cancer-bir-hospital.tmb-768v.jpg?Culture=en&amp;sfvrsn=33da4b4c_5" style="background-image: url('/images/default-source/searo---images/cancer/cancer-bir-hospital.tmb-549v.jpg?Culture=en&amp;sfvrsn=33da4b4c_5')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Management of cancer</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/activities/management-of-ncd" class="link-container" aria-label="Management of NCD" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/diabetes/management-of-ncd.tmb-768v.jpg?sfvrsn=ab0750a3_1" style="background-image: url('https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/diabetes/management-of-ncd.tmb-549v.jpg?sfvrsn=ab0750a3_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Management of NCD</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/activities/elimination-of-mother-to-child-transmission-of-hiv-syphilis-and-hepatitis-b-virus" class="link-container" aria-label="Elimination of mother-to-child transmission of HIV, syphilis and hepatitis B" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/teams/family-health/maternal-reproductive-health/a-mother-and-her-newborn-in-maternity-ward.tmb-768v.png?sfvrsn=2bf6b000_2" style="background-image: url('https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/teams/family-health/maternal-reproductive-health/a-mother-and-her-newborn-in-maternity-ward.tmb-549v.png?sfvrsn=2bf6b000_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                        </div>
+
+                        <p class="heading text-underline">Elimination of mother-to-child transmission of HIV, syphilis and hepatitis B</p>
+                    </div>
+                </a>
+        </div>
+</div>
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C600_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C600_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+</div>
+<div id="PageContent_C464_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C629_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C630_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C630_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+    <div id="PageContent_C629_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C479_Col00" class="sf_colsIn col-md-6" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C479_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+<div class="section-heading">
+            <h2>Featured publications</h2>
+
+        <a href="https://www.who.int/southeastasia/publications/i?publishingoffices=678adf7e-24d8-4ef4-9da9-8c6ada4cf56b">All →</a>
+</div>
+
+
+<div class="sf-publications">
+    <div class="sf-publications-list sf-publications-list__horizontal row">
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/54518e11-07a2-47a1-836d-2ef6f914de64/content" alt="Eighteenth Meeting of the WHO South-East Asia Regional Certification Commission for Poliomyelitis Eradication" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>26 November 2025</span>
+     </div>
+
+    <a href="/southeastasia/publications/i/item/sea-immun-178">
+     <h3 class="sf-publications-item__title">Eighteenth Meeting of the WHO South-East Asia Regional Certification Commission for Poliomyelitis Eradication</h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>The WHO South-East Asia Regional Certification Commission for Poliomyelitis Eradication (SEA-RCCPE) provides independent oversight to the polio eradication... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/b4d9e006-45b9-45c7-a70d-6170a4bc68e5/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/southeastasia/publications/i/item/sea-immun-178" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/330c7cf8-ccda-46a1-87c6-2efc196b4470/content" alt="23rd edition, Epidemiological Bulletin WHO Health Emergencies Programme WHO Regional Office for South-East Asia‎, 19 November 2025. Reporting period: 03 Oct to 16 Nov 2025" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>19 November 2025</span>
+     </div>
+
+    <a href="/southeastasia/publications/i/item/9789290221852">
+     <h3 class="sf-publications-item__title">23rd edition, Epidemiological Bulletin WHO Health Emergencies Programme WHO Regional Office for South-East... </h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>This epidemiological bulletin aims to provide the situation of key infectious diseases in the WHO South-East Asia region to inform risk assessments and... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/0068112e-4ac4-4351-9efb-0ccc21f0482b/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/southeastasia/publications/i/item/9789290221852" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/cb092c18-9de0-4340-afaf-6018c9a0671c/content" alt="Sixteenth Meeting of the WHO South-East Asia Regional Immunization Technical Advisory Group" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>14 November 2025</span>
+     </div>
+
+    <a href="/southeastasia/publications/i/item/sea-immun-177">
+     <h3 class="sf-publications-item__title">Sixteenth Meeting of the WHO South-East Asia Regional Immunization Technical Advisory Group</h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>The WHO South-East Asia Regional Immunization Technical Advisory Group (SEAR-ITAG) serves as the regional forum for providing independent, evidence-based... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/33c38354-424b-4139-8e7c-adaad2e1c2ba/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/southeastasia/publications/i/item/sea-immun-177" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+
+
+
+<div class="sf-publications-item list-item col-sm-3">
+ <div class="sf-publications-item__container">
+
+   <figure class="sf-publications-item__figure">
+    <img src="https://iris.who.int/server/api/core/bitstreams/ab261824-e06a-426a-86b4-a3d37549baab/content" alt="Regional workshop Capacity Building in Technology Transfer on Public-Health Oriented Intellectual Property Management and Licensing Models/Practices to Increase Access to Health Technologies" />
+   </figure>
+
+
+  <div class="sf-publications-item__body">
+   <div class="sf-publications-item__header">
+     <div class="sf-publications-item__date">
+       <span>7 November 2025</span>
+     </div>
+
+    <a href="/southeastasia/publications/i/item/sea-hsd-410">
+     <h3 class="sf-publications-item__title">Regional workshop Capacity Building in Technology Transfer on Public-Health Oriented Intellectual Property... </h3>
+    </a>
+   </div>
+
+   <div class="sf-publications-item__description">
+    <p>The objectives of 19-21 November 2024 Regional workshop in Kerala, was to encourage South&ndash;South technological collaboration that has significant... </p>
+   </div>
+
+   <div class="sf-publications-item__actions">
+
+     <div class="sf-publications-item__file">
+      <a class="download-url " href="https://iris.who.int/server/api/core/bitstreams/e0afd011-b56c-4d7b-a191-1ec19b2276ff/content" aria-label="Download"  target="_blank">Download</a>
+     </div>
+
+   <div class="sf-publications-item__url">
+        <a href="/southeastasia/publications/i/item/sea-hsd-410" class="page-url" aria-label="Read More">Read More</a>
+   </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C476_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_C476_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+<div id="PageContent_C315_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C316_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Polio-free certification</h2>
+
+</div>
+
+
+
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/multimedia-modal.min.js?v=14.0.7729.26487'></script>    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    <div class="sf-multimedia">
+        <div class="sf-multimedia-list sf-multimedia-list__small row">
+                        <div class="sf-multimedia-item sf-multimedia-item__video col-xs-6">
+                            <a class="sf-multimedia-item__container" href="https://www.who.int/southeastasia/multimedia/item/polio---the-journey-to-eradication-in-south-east-asia">
+                                <span class="sf-multimedia-item__link page-url play-button"></span>
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('/images/default-source/searo---images/health-topics/immunization/polio---the-journey-to-eradication-in-south-east-asia.tmb-549v.png?Culture=en&amp;sfvrsn=4efad89e_1');"
+                                        role="img"
+                                        aria-label="Polio - the journey to eradication in South-East Asia"
+                                        title="Polio - the journey to eradication in South-East Asia">
+                                    <img src="/images/default-source/searo---images/health-topics/immunization/polio---the-journey-to-eradication-in-south-east-asia.tmb-549v.png?Culture=en&amp;sfvrsn=4efad89e_1" alt="Polio - the journey to eradication in South-East Asia" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__date">28 August 2012</div>
+                                    <h3 class="sf-multimedia-item__heading">Polio - the journey to eradication in South-East Asia</h3>
+                                    <div class="sf-multimedia-item__actions">
+                                        <div class="sf-multimedia-item__url">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+        </div>
+    </div>
+
+    </div>
+    <div id="PageContent_C316_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="section-heading">
+            <h2>SEARO Care</h2>
+
+</div>
+
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/news/feature-stories/detail/searo-care--an-initiative-tailored-to-promote-and-protect-staff-mental-health-and-wellbeing" class="link-container" aria-label="SEARO Care: an initiative tailored to promote and protect staff mental health and wellbeing" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/searo---images/feature-story/searo-care---improving-mental-health.tmb-768v.jpg?Culture=en&amp;sfvrsn=51915b4b_1" style="background-image: url('/images/default-source/searo---images/feature-story/searo-care---improving-mental-health.tmb-549v.jpg?Culture=en&amp;sfvrsn=51915b4b_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+                                <span class="timestamp">9 October 2024</span>
+
+                        </div>
+
+                        <p class="heading text-underline">SEARO Care: an initiative tailored to promote and protect staff mental health and wellbeing</p>
+                    </div>
+                </a>
+        </div>
+</div>
+    </div>
+    <div id="PageContent_C316_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="section-heading">
+            <h2>Multimedia</h2>
+
+        <a href="https://www.who.int/southeastasia/multimedia?publishingoffices=678adf7e-24d8-4ef4-9da9-8c6ada4cf56b,01228b0b-a27d-4214-a259-d8459a877c0a&amp;regionscountries=6b64b787-ab26-49a4-a29e-08d24d367a05">All →</a>
+</div>
+
+
+
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/multimedia-modal.min.js?v=14.0.7729.26487'></script>    <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+    <div class="sf-multimedia">
+        <div class="sf-multimedia-list sf-multimedia-list__small row">
+                        <div class="sf-multimedia-item sf-multimedia-item__video col-xs-6">
+                            <a class="sf-multimedia-item__container" href="https://www.who.int/southeastasia/multimedia/item/healthy-beginnings--hopeful-futures---maternal-and-newborn-health-in-the-who-south-east-asia-region">
+                                <span class="sf-multimedia-item__link page-url play-button"></span>
+                                <figure class="sf-multimedia-item__figure"
+                                        style="background-image: url('https://cdn.who.int/media/images/default-source/cover-images/multimedia/sear-regional-video-for-whd-2025.tmb-549v.png?sfvrsn=389c8452_1');"
+                                        role="img"
+                                        aria-label="SEAR Regional video for World Health Day 2025"
+                                        title="SEAR Regional video for World Health Day 2025">
+                                    <img src="https://cdn.who.int/media/images/default-source/cover-images/multimedia/sear-regional-video-for-whd-2025.tmb-549v.png?sfvrsn=389c8452_1" alt="SEAR Regional video for World Health Day 2025" style="display: none;" />
+                                </figure>
+                                <div class="sf-multimedia-item__body">
+                                    <div class="sf-multimedia-item__date">7 April 2025</div>
+                                    <h3 class="sf-multimedia-item__heading">Healthy beginnings, Hopeful futures - Maternal and Newborn Health in the WHO South-East Asia Region</h3>
+                                    <div class="sf-multimedia-item__actions">
+                                        <div class="sf-multimedia-item__url">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+        </div>
+    </div>
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_C640_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Featured health topics</h2>
+
+        <a href="https://www.who.int/southeastasia/health-topics">All →</a>
+</div>
+
+
+
+<div class="list-view horizontal-list matching-height">
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/health-topics/mental-health" class="link-container" aria-label="Mental Health" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/searo---images/health-topics/mhs/tribal-girl.tmb-768v.jpg?Culture=en&amp;sfvrsn=2350981d_1" style="background-image: url('/images/default-source/searo---images/health-topics/mhs/tribal-girl.tmb-549v.jpg?Culture=en&amp;sfvrsn=2350981d_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Health and wellbeing</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">Mental Health</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/health-topics/neglected-tropical-diseases" class="link-container" aria-label="Neglected tropical diseases" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/searo---images/health-topics/neglected-tropical-diseases/neglected-tropical-diseases---indonesia.tmb-768v.jpg?Culture=en&amp;sfvrsn=82a3e1ae_1" style="background-image: url('/images/default-source/searo---images/health-topics/neglected-tropical-diseases/neglected-tropical-diseases---indonesia.tmb-549v.jpg?Culture=en&amp;sfvrsn=82a3e1ae_1')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Other</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">Neglected tropical diseases</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/health-topics/noncommunicable-diseases" class="link-container" aria-label="Noncommunicable diseases" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/other-noncommunicable-diseases/two-female-healthcare-workers-with-blood-pressure-monitor.tmb-768v.jpg?sfvrsn=b8573fd7_3" style="background-image: url('https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/other-noncommunicable-diseases/two-female-healthcare-workers-with-blood-pressure-monitor.tmb-549v.jpg?sfvrsn=b8573fd7_3')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Diseases and conditions</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">Noncommunicable diseases</p>
+                    </div>
+                </a>
+        </div>
+        <div class="list-view--item horizontal-list-item matching-height--item">
+                <a href="https://www.who.int/southeastasia/health-topics/vaccines-and-immunization" class="link-container" aria-label="Vaccines and immunization" role="link">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/searo---images/health-topics/immunization/immunization-searo.tmb-768v.jpg?Culture=en&amp;sfvrsn=45fe6d8d_2" style="background-image: url('/images/default-source/searo---images/health-topics/immunization/immunization-searo.tmb-549v.jpg?Culture=en&amp;sfvrsn=45fe6d8d_2')"></div>
+                    </div>
+
+                    <div class="info">
+                        <div class="date">
+
+                                <div class="sf-tags-list">
+                                    <div class="sf-tags-list-item">Health interventions</div>
+                                </div>
+                        </div>
+
+                        <p class="heading text-underline">Vaccines and immunization</p>
+                    </div>
+                </a>
+        </div>
+</div>
+
+
+    </div>
+</div>
+
+</div>
+<div id="PageContent_C313_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_C193_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="section-heading">
+            <h2>Facebook</h2>
+
+</div>
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwhosearo&tabs=timeline&width=450&height=420&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="410" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+    </div>
+    <div id="PageContent_C193_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="section-heading">
+            <h2>Multimedia</h2>
+
+</div>
+
+
+
+<div class="mdc-card" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="https://www.youtube.com/user/whosoutheastasia" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="/images/default-source/searo---images/home-page-banner/multimedia-icon.png?sfvrsn=b55d6564_6" title="multimedia-icon" alt="Multimedia icon">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="b48d80ebde59432bb47257be649408d4" class="item--title">Watch the videos</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+    <div id="PageContent_C193_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="section-heading">
+            <h2>X</h2>
+
+</div>
+
+
+
+<div class="mdc-card" role="article">
+    <div class="mdc-card__primary-action ">
+            <a href="https://x.com/WHOSEARO" class="link" rel="noopener" target="_self">
+                    <div class="mdc-card__media ">
+                        <img class="mdc-card__media--4-3" src="https://cdn.who.int/media/images/default-source/south-east-asia-(searo)/featured/searo-x.png?sfvrsn=fa1d228c_4" title="searo-x" alt="X cover image">
+                    </div>
+
+                <div class="card-media--item">
+                    <div class="card-media-primary">
+
+                            <div id="5a272ba357b147fcbaab638c998dbda5" class="item--title">X (formerly Twitter)</div>
+
+                        <div class="item--subtitle"></div>
+                    </div>
+                    <div class="card-media-secondary">
+
+                    </div>
+                </div>
+            </a>
+
+    </div>
+</div>
+
+
+
+    </div>
+</div>
+
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_T6A5AD155002_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Add content here">
+    </div>
+</div>
+ </section> <!-- footer:on --> <!--noindex--><!--stopindex--> <footer id="sf-footer"> <div class="main-footer"> 
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="Footer_TB8B73268194_Col00" class="sf_colsIn col-md-4" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="e2324a13285e4659b758ab2967871ca3" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/footer/quick-links" target="_self">Quick links</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/footer/quick-links/newsroom" target="_self">Newsroom </a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/quick-links/data" target="_blank">Data</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/quick-links/publications" target="_self">Publications</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/quick-links/bookshop" target="_self">Bookshop</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_TB8B73268194_Col01" class="sf_colsIn col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div class="main-navigation--wrapper" id="efcb2d92d2d641e79763aab0eb2fba73" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/footer/about-us" target="_self">About us</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/footer/about-us/overview" target="_self">Overview</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/about-us/governance" target="_self">Governance</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/about-us/partnerships" target="_self">Partnerships</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_TB8B73268194_Col02" class="sf_colsIn col-md-4" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div class="main-navigation--wrapper" id="a118c8d1950c4a21a0f70470cc4da2a9" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/southeastasia/navigation/footer/help" target="_self">Help</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/southeastasia/navigation/footer/help/contact-us" target="_self">Contact us</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/help/press" target="_self">Press</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/help/careers" target="_self">Careers</a>
+
+    </li>
+    <li class="">
+        <a href="/southeastasia/navigation/footer/help/emails-scams" target="_blank">Email scams</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA153_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="Footer_T75121FDA153_Col01" class="sf_colsIn col-sm-3 col-md-3 centered-on-mobile" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+</div>
+ 
+
+
+<div id="sf-footer-logo-container">
+    <div class="sf-footer-logo">
+            <div class="">
+                <a href="https://www.who.int/southeastasia">
+                    <img src="/images/default-source/searo---images/site-images/logos/who-searo-en-w.png?sfvrsn=7f83e02c_4" class="svg" alt="South-East Asia" />
+                </a>
+            </div>
+
+    </div>
+</div>
+ <div class="footer-logo"> <a href="/southeastasia" title="Home"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Home" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a target="_blank" href="https://www.who.int/about/policies/privacy">Privacy Legal Notice</a></div>
+</div>
+ </div> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block socialmedia-icons" >
+    <div ><a href="https://www.youtube.com/user/whosoutheastasia?sub_confirmation=1" title="Follow WHO on Youtube" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" fill="white"></path></svg></a>
+<a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=WHOSEARO" title="Follow WHO on Twitter" target="_blank" data-sf-ec-immutable=""><svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"></path></svg></a>
+<a href="https://www.facebook.com/WHOSEARO" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" fill="white"></path></svg></a>
+<a href="https://instagram.com/who.searo" title="Follow WHO on Instagram" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" fill="white"></path></svg></a>
+<a href="https://www.linkedin.com/company/world-health-organization" title="Follow WHO on LinkedIn" target="_blank" data-sf-ec-immutable=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+ <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" fill="white"></path></svg></a></div>
+</div>
+ </div> <div class="col-md-4 copyright"> <span>
+                                ©
+                            </span>
+
+                            2025
+
+                            
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="https://www.who.int/about/policies/terms-of-use" data-sf-ec-immutable="">WHO</a></div>
+</div>
+ </div> </div> </div> </div> </footer> <!--/noindex--><!--startindex--> <!-- footer:off --> </div> <script>
+        window.__define = window.define;
+        window.__require = window.require;
+        window.define = undefined;
+        window.require = undefined;
+    </script> <script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js" type="text/javascript"></script><script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/responsivelylazy.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollToPlugin.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/parallax.min.js?package=WHO" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?package=WHO&amp;v=LTE0MDUxNjI1MjI%3d" type="text/javascript"></script><script src="/Mvc/Scripts/ContentBlock/content-block.min.js?package=WHO" type="text/javascript"></script><script src="/Mvc/Scripts/HeroImage/responsive-background-image.min.js?package=WHO" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"ac3b4179-3f96-49c5-a6cf-2b5b29bac1db"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPuVWylniiuH85dElS4-sTWByH4RE8E5E1AceaaoCFAJqZaJ0XO7-0paGWvgZTYHK6HfSMq7_7jIhS9QthTeHBDUU0pberHuOZvwLatBEXp3F8dWshLi8dFLqd-R5ePILXLxt9fP0bczWzQjlYINayIOpB5YnfTHc2ZyRpWOgtz7dNZw0Q5MPTr0UAPNLDUP5XStYynM1&amp;t=638874968480000000">
+
+</script> <!-- js to scrape:on --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/accordion-footer-list.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=14.0.7729.26487'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=14.0.7729.26487'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=14.0.7729.26487'></script> <!-- js to scrape:off --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=14.0.7729.26487'></script> <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "Home",
+            "description": "World Health Organization in South-East Asia provides leadership on health matters, articulates evidence-based policy options, provides technical support to countries and monitors health trends. World Health Organization South-East Asia is working with Bangladesh, Bhutan, Democratic People’s Republic of Korea, India, Maldives, Myanmar, Nepal, Sri Lanka, Thailand, Timor-Leste to address persisting and emerging epidemiological and demographic challenges."
+            }
+        </script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=14.0.7729.26487'></script> <script>
+        window.define = window.__define;
+        window.require = window.__require;
+        window.__define = undefined;
+        window.__require = undefined;
+    </script> </body> </html>
+ title 54 World Health Organization South-East Asia (WHO) - Home contentType 9 text/html url 37 https://www.who.int:443/southeastasia responseCode 3 200 

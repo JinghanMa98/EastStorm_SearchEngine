@@ -1,0 +1,1803 @@
+qkxingxmhaqodgjkuqhififmoeacqgoeecpizope page 110524 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=1510370","20121009130758","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1349788078");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+		<title>Greenwood Publishing Group, Inc.: Private Company Information - Businessweek</title>
+		<meta name="description" content="Greenwood Publishing Group, Inc. company research &amp; investing information. Find executives and the latest company news."/>
+		<meta name="keywords" content="Greenwood Publishing Group, Inc. company information, Key Executives, overview, Greenwood Publishing Group, Inc. research"/>
+		<meta name="verify-v1" content="UK0varBm0XF8eoY68Vgioxaj+G90NxIzKTHtx0nqK2E="/>		 
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <!--<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />-->
+		
+		
+		<meta name="y_key" content="77e5b4acb12a4e47"/>
+		<meta name="industry" content="Media"/>			
+		
+		<!--<link href="http://www.businessweek.com/testing/bw2/BWRedesign/iB84/legacy/pages/res/css/screen/global.css" type="text/css" rel="stylesheet" media="all" />-->
+		<link href="/web/20121009130758cs_/http://investing.businessweek.com/research/common/styles/commonprint.css" type="text/css" rel="stylesheet" media="print"/>	
+		<link href="https://web.archive.org/web/20121009130758cs_/http://res.businessweek.com/css/screen/global.css" type="text/css" rel="stylesheet" media="all"/>
+		<link href="/web/20121009130758cs_/http://investing.businessweek.com/research/common/styles/common.css" type="text/css" rel="stylesheet" media="all"/>				
+		<link href="/web/20121009130758cs_/http://investing.businessweek.com/research/common/styles/sh.css" type="text/css" rel="stylesheet" media="screen"/>			
+			
+		<script type="text/javascript" src="/web/20121009130758js_/http://investing.businessweek.com/research/common/scripts/lib.js"></script>
+		<script type="text/javascript" src="/web/20121009130758js_/http://investing.businessweek.com/research/common/scripts/common.js"></script>		
+		
+	<script>
+	 
+
+	    /**
+	    * SWFObject v1.5: Flash Player detection and embed - http://blog.deconcept.com/swfobject/
+	    *
+	    * SWFObject is (c) 2007 Geoff Stearns and is released under the MIT License:
+	    * http://www.opensource.org/licenses/mit-license.php
+	    *
+	    */
+
+	    //if (typeof deconcept == "undefined") { var deconcept = new Object(); } if (typeof deconcept.util == "undefined") { deconcept.util = new Object(); } if (typeof deconcept.SWFObjectUtil == "undefined") { deconcept.SWFObjectUtil = new Object(); } deconcept.SWFObject = function(_1, id, w, h, _5, c, _7, _8, _9, _a) { if (!document.getElementById) { return; } this.DETECT_KEY = _a ? _a : "detectflash"; this.skipDetect = deconcept.util.getRequestParameter(this.DETECT_KEY); this.params = new Object(); this.variables = new Object(); this.attributes = new Array(); if (_1) { this.setAttribute("swf", _1); } if (id) { this.setAttribute("id", id); } if (w) { this.setAttribute("width", w); } if (h) { this.setAttribute("height", h); } if (_5) { this.setAttribute("version", new deconcept.PlayerVersion(_5.toString().split("."))); } this.installedVer = deconcept.SWFObjectUtil.getPlayerVersion(); if (!window.opera && document.all && this.installedVer.major > 7) { deconcept.SWFObject.doPrepUnload = true; } if (c) { this.addParam("bgcolor", c); } var q = _7 ? _7 : "high"; this.addParam("quality", q); this.setAttribute("useExpressInstall", false); this.setAttribute("doExpressInstall", false); var _c = (_8) ? _8 : window.location; this.setAttribute("xiRedirectUrl", _c); this.setAttribute("redirectUrl", ""); if (_9) { this.setAttribute("redirectUrl", _9); } }; deconcept.SWFObject.prototype = { useExpressInstall: function(_d) { this.xiSWFPath = !_d ? "expressinstall.swf" : _d; this.setAttribute("useExpressInstall", true); }, setAttribute: function(_e, _f) { this.attributes[_e] = _f; }, getAttribute: function(_10) { return this.attributes[_10]; }, addParam: function(_11, _12) { this.params[_11] = _12; }, getParams: function() { return this.params; }, addVariable: function(_13, _14) { this.variables[_13] = _14; }, getVariable: function(_15) { return this.variables[_15]; }, getVariables: function() { return this.variables; }, getVariablePairs: function() { var _16 = new Array(); var key; var _18 = this.getVariables(); for (key in _18) { _16[_16.length] = key + "=" + _18[key]; } return _16; }, getSWFHTML: function() { var _19 = ""; if (navigator.plugins && navigator.mimeTypes && navigator.mimeTypes.length) { if (this.getAttribute("doExpressInstall")) { this.addVariable("MMplayerType", "PlugIn"); this.setAttribute("swf", this.xiSWFPath); } _19 = "<embed type=\"application/x-shockwave-flash\" src=\"" + this.getAttribute("swf") + "\" width=\"" + this.getAttribute("width") + "\" height=\"" + this.getAttribute("height") + "\" style=\"" + this.getAttribute("style") + "\""; _19 += " id=\"" + this.getAttribute("id") + "\" name=\"" + this.getAttribute("id") + "\" "; var _1a = this.getParams(); for (var key in _1a) { _19 += [key] + "=\"" + _1a[key] + "\" "; } var _1c = this.getVariablePairs().join("&"); if (_1c.length > 0) { _19 += "flashvars=\"" + _1c + "\""; } _19 += "/>"; } else { if (this.getAttribute("doExpressInstall")) { this.addVariable("MMplayerType", "ActiveX"); this.setAttribute("swf", this.xiSWFPath); } _19 = "<object id=\"" + this.getAttribute("id") + "\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" width=\"" + this.getAttribute("width") + "\" height=\"" + this.getAttribute("height") + "\" style=\"" + this.getAttribute("style") + "\">"; _19 += "<param name=\"movie\" value=\"" + this.getAttribute("swf") + "\" />"; var _1d = this.getParams(); for (var key in _1d) { _19 += "<param name=\"" + key + "\" value=\"" + _1d[key] + "\" />"; } var _1f = this.getVariablePairs().join("&"); if (_1f.length > 0) { _19 += "<param name=\"flashvars\" value=\"" + _1f + "\" />"; } _19 += "</object>"; } return _19; }, write: function(_20) { if (this.getAttribute("useExpressInstall")) { var _21 = new deconcept.PlayerVersion([6, 0, 65]); if (this.installedVer.versionIsValid(_21) && !this.installedVer.versionIsValid(this.getAttribute("version"))) { this.setAttribute("doExpressInstall", true); this.addVariable("MMredirectURL", escape(this.getAttribute("xiRedirectUrl"))); document.title = document.title.slice(0, 47) + " - Flash Player Installation"; this.addVariable("MMdoctitle", document.title); } } if (this.skipDetect || this.getAttribute("doExpressInstall") || this.installedVer.versionIsValid(this.getAttribute("version"))) { var n = (typeof _20 == "string") ? document.getElementById(_20) : _20; n.innerHTML = this.getSWFHTML(); return true; } else { if (this.getAttribute("redirectUrl") != "") { document.location.replace(this.getAttribute("redirectUrl")); } } return false; } }; deconcept.SWFObjectUtil.getPlayerVersion = function() { var _23 = new deconcept.PlayerVersion([0, 0, 0]); if (navigator.plugins && navigator.mimeTypes.length) { var x = navigator.plugins["Shockwave Flash"]; if (x && x.description) { _23 = new deconcept.PlayerVersion(x.description.replace(/([a-zA-Z]|\s)+/, "").replace(/(\s+r|\s+b[0-9]+)/, ".").split(".")); } } else { if (navigator.userAgent && navigator.userAgent.indexOf("Windows CE") >= 0) { var axo = 1; var _26 = 3; while (axo) { try { _26++; axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash." + _26); _23 = new deconcept.PlayerVersion([_26, 0, 0]); } catch (e) { axo = null; } } } else { try { var axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7"); } catch (e) { try { var axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6"); _23 = new deconcept.PlayerVersion([6, 0, 21]); axo.AllowScriptAccess = "always"; } catch (e) { if (_23.major == 6) { return _23; } } try { axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash"); } catch (e) { } } if (axo != null) { _23 = new deconcept.PlayerVersion(axo.GetVariable("$version").split(" ")[1].split(",")); } } } return _23; }; deconcept.PlayerVersion = function(_29) { this.major = _29[0] != null ? parseInt(_29[0]) : 0; this.minor = _29[1] != null ? parseInt(_29[1]) : 0; this.rev = _29[2] != null ? parseInt(_29[2]) : 0; }; deconcept.PlayerVersion.prototype.versionIsValid = function(fv) { if (this.major < fv.major) { return false; } if (this.major > fv.major) { return true; } if (this.minor < fv.minor) { return false; } if (this.minor > fv.minor) { return true; } if (this.rev < fv.rev) { return false; } return true; }; deconcept.util = { getRequestParameter: function(_2b) { var q = document.location.search || document.location.hash; if (_2b == null) { return q; } if (q) { var _2d = q.substring(1).split("&"); for (var i = 0; i < _2d.length; i++) { if (_2d[i].substring(0, _2d[i].indexOf("=")) == _2b) { return _2d[i].substring((_2d[i].indexOf("=") + 1)); } } } return ""; } }; deconcept.SWFObjectUtil.cleanupSWFs = function() { var _2f = document.getElementsByTagName("OBJECT"); for (var i = _2f.length - 1; i >= 0; i--) { _2f[i].style.display = "none"; for (var x in _2f[i]) { if (typeof _2f[i][x] == "function") { _2f[i][x] = function() { }; } } } }; if (deconcept.SWFObject.doPrepUnload) { if (!deconcept.unloadSet) { deconcept.SWFObjectUtil.prepUnload = function() { __flash_unloadHandler = function() { }; __flash_savedUnloadHandler = function() { }; window.attachEvent("onunload", deconcept.SWFObjectUtil.cleanupSWFs); }; window.attachEvent("onbeforeunload", deconcept.SWFObjectUtil.prepUnload); deconcept.unloadSet = true; } } if (!document.getElementById && document.all) { document.getElementById = function(id) { return document.all[id]; }; } var getQueryParamValue = deconcept.util.getRequestParameter; var FlashObject = deconcept.SWFObject; var SWFObject = deconcept.SWFObject;
+
+
+	    /*- Run On Load --------------------------------------------------------------*/
+
+	    runOnLoad.functionsQueue = new Array();
+	    runOnLoad.isLoaded = false;
+
+	    function runOnLoad(functionCall) {	        
+	        if (runOnLoad.isLoaded) { functionCall(); }
+	        else { runOnLoad.functionsQueue.push(functionCall); }
+	    }
+
+	    runOnLoad.run = function () {
+	        if (runOnLoad.isLoaded) return;
+	        for (var i = 0; i < runOnLoad.functionsQueue.length; i++) {
+	            //
+	            // runOnLoad.functionsQueue[i]();
+	            //
+	            try { runOnLoad.functionsQueue[i](); }
+	            catch (functionError) {
+	                if (functionError instanceof Error) {
+	                    alert(functionError.name + ": " + functionError.message);
+	                }
+	            }
+	        }
+	        runOnLoad.isLoaded = true;
+	        delete runOnLoad.functionsQueue;
+	        delete runOnLoad.run;
+	    };
+
+	    if (window.addEventListener) {
+	        window.addEventListener("load", runOnLoad.run, false);
+	    } else if (window.attachEvent) {
+	        window.attachEvent("onload", runOnLoad.run)
+	    } else {
+	        window.onload = runOnLoad.run;
+	    }
+
+	    //
+	    //
+	    // REGISTER FUNCTIONS WITH runOnLoad HERE   
+	    document.close();
+</script>
+		<script src="https://web.archive.org/web/20121009130758js_/http://content.dl-rms.com/rms/13968/nodetag.js"></script>
+		
+		<script type="text/javascript" src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/common_scripts/Tacoda_AMS_DDC_Header.js"></script>		
+		
+		
+	<style>
+		.ssQuoteTable{
+			float:left;
+			margin:10px 10px 0 0;
+			width:360px;
+		}
+		.ssQuoteTable td{
+			padding:10px 0;
+			border-bottom:1px solid #E5E5E5;
+		}
+		.ssQuoteTable td.topTD{ border-top:1px solid #E5E5E5; }
+		.ssQuoteTable td.key{ border:none; }
+		.ssQuoteTable td.tableSpacer{ width:15px; border:none; }
+		
+		#ssChartControls{
+			font-size:10px;
+			padding:5px 0;
+			text-align:center;
+		}
+		
+		#ssChartControls a{
+			padding:0 4px 0 3px;
+			font-weight:bold;
+			margin:0;
+		}
+		
+		#ssChartControls a.selected{
+			padding:0 0 0 5px;
+			color:#333333;
+			text-decoration:none;
+			background:url(/web/20121009130758im_/http://investing.businessweek.com/research/images/pointer_right_drkblue.gif) no-repeat left center;
+		}
+		
+		#detailsContainer{
+			margin:20px 0 15px 0;
+			border-top:1px solid #D6D6D6;
+			border-bottom:1px solid #D6D6D6;
+		}
+		
+		.detailsDataContainerLt, .detailsDataContainerRt{ float:left; }
+		.detailsDataContainerLt{ margin-right:15px; }
+		/*.detailsDataContainerLt div, .detailsDataContainerRt div{ border-bottom:1px solid #D6D6D6; }*/
+		.detailsDataContainerLt div{
+			width:150px;
+			padding:9px 0;
+		}
+		.detailsDataContainerRt div{
+			padding:8px 0;
+			width:125px;
+		}
+		
+	  .officerOutter{
+	  	position:relative;
+	  	width:266px;
+	  	padding:2px; margin:0 0 10px 0;
+	  	background-color:#FFFFFF;
+	  	border:1px solid #CCC;
+	  	z-index:999;
+	  }
+	  .officerInner{
+	  	padding:3px;
+	  	background-color:#FAFAFA;
+	  	zoom:1;
+	  }
+	  .officerBranch{
+	  	z-index:-1;
+	  	position:relative;
+	  	width:266px;
+	  	border-left:1px solid #CCC;
+	  	border-bottom:1px solid #CCC;
+	  }
+	  
+	  .treeBranch{
+	  	position:absolute;
+	  	width:25px; height:65px;
+	  	left:8px;
+	  	border-left:1px solid #CCC;
+	  	border-bottom:1px solid #CCC;
+	  	z-index:0;
+	  }
+	  
+	  #submitOuter{
+	  	padding:2px; margin:0 0 10px 0;
+	  	background-color:#FFFFFF;
+	  	border:1px solid #CCC;
+	  }
+	  #submitInner{
+	  	padding:10px;
+	  	background-color:#FAFAFA;
+	  }
+	  #submitInner p{ margin-bottom:10px; }
+	</style>
+	<script type="text/javascript">
+	  businessDesc = function(){
+	  	this.descFull = Element.get("bDesc");
+	  	this.descShort = Element.get("bDescTeaser");
+	  	this.swapLink = Element.get("bDescSwap");
+	  }
+	  
+	  businessDesc.prototype.AttachEvents = function(){
+	  	if(this.swapLink){
+	  		Events.add({
+	  			element: this.swapLink,
+	  			type:    "click",
+	  			handler: this.Swap,
+	  			context: this
+	  		});
+	  	}
+	  }
+	  
+	  businessDesc.prototype.Swap = function(){
+	  	if(this.descFull.style.display == "none"){
+	  		this.descShort.style.display = "none";
+	  		this.descFull.style.display = "block";
+	  		this.swapLink.innerHTML = "Hide Detailed Description";
+	  	}
+	  	else if(this.descShort.style.display == "none"){
+	  		this.descFull.style.display = "none";
+	  		this.descShort.style.display = "block";
+	  		this.swapLink.innerHTML = "Detailed Description";
+	  	}
+	  }
+	  
+	  function InitBusinessDesc(){
+	  	var bDesc = new businessDesc();
+	  	bDesc.AttachEvents();
+	  }
+	  
+	  Events.add({
+	  	element: window,
+	  	type:    "load",
+	  	handler: InitBusinessDesc
+	  });
+	</script>
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	//var OAS_listpos = "Top,x01,x02,x03,x04,Right2,Right3";
+	var OAS_listpos = "Top,z02,x01,x02,x03,x04,Right2,Right3,TopRight";
+
+    if (!window.BW_adsys) {
+        //[- This is the live url -]
+		document.write('<scr' + 'ipt src="https://web.archive.org/web/20121009130758/http://www.businessweek.com/common_scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>');
+		// [- This is the test url -]
+		//document.write('<scr' + 'ipt src="https://web.archive.org/web/20121009130758/http://www.businessweek.com/testing/adtests/cic/scripts/BW_adsys.js" language="JavaScript" type="text/javascript"><\/scr' + 'ipt>');
+    }
+// ]]>
+</script>
+<script type="text/javascript">
+	// <![CDATA[
+    if (!window.BW_sitezone) {
+        // [- This is the live zone -]
+        BW_sitezone = 'companies/domestic/private/snapshot';
+        // [- This is the test zone -]
+        //BW_sitezone = 'test/testzone';		
+    }
+
+
+
+	// ]]>
+</script>
+
+
+	</head>
+	<body class="companies">
+    <script type="text/javascript">
+	//<![CDATA[
+        var ga_host = window.location.hostname;
+        if ((ga_host == "www.businessweek.com") || (ga_host == "businessweek.com") || (ga_host == "bx.businessweek.com") || (ga_host == "investing.businessweek.com")) {
+            var ga_account = "UA-11413116-6";
+        } else {
+            var ga_account = "UA-11413116-5";
+        }
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', ga_account]);
+        _gaq.push(['_setDomainName', ".businessweek.com"]);
+        _gaq.push(['_setAllowHash', false]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20121009130758/https://ssl' : 'https://web.archive.org/web/20121009130758/http://www') + '.google-analytics.com/ga.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+        })();
+	//]]>
+</script>
+	
+		<script type="text/javascript">
+		    //	_uacct = "UA-2144741-1";
+		    //	urchinTracker();
+		    var s_sectorCode = "";
+		    var s_industryCode = "";
+		</script>
+		
+	    <div id="headerContainer">
+		<!-- PROB0070541:  Change to BW global header / banner adcode... moving this.drawRemoteHeaderContent() to above Ad -->	        
+			<div id="gatewaySWFWrapper"></div>
+<script type="text/javascript">//<![CDATA[ 
+var cacheKiller = new Date();
+if ('SWFObject' in window) { //Initialize SWFObject
+	var so = new SWFObject("http://" + window.location.host + "/gateway.swf?cacheKiller=" + cacheKiller.getTime(), "gatewaySWF", "1", "1", "8");
+	so.addParam("allowScriptAccess", "always");
+	so.write("gatewaySWFWrapper");
+	window.gatewaySWF = document.getElementById("gatewaySWF");
+}
+if (!('bw' in window && bw.cfg && bw.cfg.loadJquery === false) && !('jQuery' in window)) { //Check for loadJquery flag and Check if jQuery exists
+	document.write('<scr'+'ipt src="https://web.archive.org/web/20121009130758/http://res.businessweek.com/scripts/jquery.js" type="text/javascript"></scr'+'ipt>');
+}
+//]]></script>
+<script type="text/javascript" src="https://web.archive.org/web/20121009130758js_/http://static.btrd.net/js/bw_comscore.js"></script>
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<title>Businessweek - Business News, Stock Market &amp; Financial Advice</title>
+<link href="https://web.archive.org/web/20121009130758im_/http://www.businessweek.com/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+
+
+
+<meta content="Businessweek.com" property="og:site_name"></meta>
+
+
+<meta content="width=1000px" name="viewport">
+
+</head>
+</html>
+<script>
+  //<![CDATA[
+    var ROOT_URL = "https://web.archive.org/web/20121009130758/http://www.businessweek.com/";
+  //]]>
+</script>
+
+<script src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/assets/navigation-1c78cf4cf0befb12cb8f1d2f392f653e.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/assets/ads_load-7467e5ec43ed9d73e117d8094073b7d3.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/assets/jquery.bloomberg_hat-c633413dff6f6917852f6cb84a0e5252.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/assets/sticky_news-c8bd061f049c26a5bc97e5cc431bff3a.js" type="text/javascript"></script>
+<link href="https://web.archive.org/web/20121009130758cs_/http://www.businessweek.com/assets/header_footer-2f95ea2c5dad80a2a1db66c84f281e84.css" media="screen" rel="stylesheet" type="text/css"/>
+<div class="header_footer_814">
+<div class="clearfix" id="container">
+<div class="branding_hat"></div>
+
+<div class="clearfix" id="header">
+<div class="inner_wrapper">
+<div id="logo">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/" class="ir" id="home_link">Bloomberg Businessweek</a>
+<h1 id="channel_name">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/businessweek">Businessweek</a>
+</h1>
+</div>
+<div id="promo">
+<span class="house_ad">
+<iframe allowtransparency="true" class="ad_frame" data-position="circ_header" data-pt="t6" data-size="200x92,1x1" data-tile="2" data-tz="circ_header" data-uri="/dynamic_frames/ads.html" frameborder="0" scrolling="no"></iframe>
+
+</span>
+</div>
+<div id="search">
+<form action="https://web.archive.org/web/20121009130758/http://www.businessweek.com/search" method="get">
+<input class="toggle_text" id="search_input" name="q" title="Search" type="text" value="Search">
+<input name="resultsPerPage" type="hidden" value="20">
+</form>
+</div>
+</div>
+</div>
+<div id="global_nav">
+<div class="inner_wrapper">
+<ul class="navigation clearfix">
+<li class="global_economics has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics">Global Economics</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/u-dot-s-dot-companies-remain-wary-of-hiring#r=nav-fst"><img alt="U.S. Companies Remain Wary of Hiring" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-04/econ_cutbacks41__01__360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/u-dot-s-dot-companies-remain-wary-of-hiring#r=nav-fs">U.S. Companies Remain Wary of Hiring</a></h5>
+<p>Despite positive indicators, companies are cautious with headcount</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics">Global Economics</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/china-phone-companies-pose-u-dot-s-dot-security-threat#r=nav-f-video">China Phone Companies Pose U.S. Security Threat</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/ch-vezs-most-helpful-campaign-aide-china#r=nav-f-story">ChÃ¡vez's Most Helpful Campaign Aide: China</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-05/moodys-zandi-just-an-ok-retail-season#r=nav-f-video">Is the Average Consumer Concerned About the Cliff?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/america-s-export-surge-is-just-beginning#r=nav-f-blog">America's Export Surge Is Just Beginning</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-09/start-with-factor-screens-like-belski#r=nav-r-blog">Start With Factor Screens, Like Belski</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-09/ben-bernankes-mortgage-refi-nation#r=nav-r-story">Ben Bernanke's Mortgage-Refi Nation</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/investment-boom-teeters-on-africa-s-spheres-of-unrest#r=nav-r-story">Investment Boom Teeters on Africa's Spheres of Unrest</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/how-the-u-dot-s-dot-is-hurting-innocent-people-in-iran#r=nav-r-story">How the U.S. Is Hurting Innocent People in Iran</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/bae-and-eads-a-deal-looks-doubtful#r=nav-r-story">BAE and EADS: A Deal Looks Doubtful</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/china">China</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/events/current-events-calendar">Current Events Calendar</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/economy">U.S. Economy</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/india">India</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/energy">Energy</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/housing">Housing</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/europe">Europe</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/global-economics">Global Economics</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/global-economics/jobs">Jobs</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/blogs/econochat">Blog: Econochat</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="companies_and_industries has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries">Companies &amp; Industries</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/is-quebecs-stolen-maple-syrup-stashed-in-stomachs#r=nav-fst"><img alt="Is Quebec's Stolen Maple Syrup Stashed in Stomachs?" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-05/1005_syrup_360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/is-quebecs-stolen-maple-syrup-stashed-in-stomachs#r=nav-fs">Is Quebec's Stolen Maple Syrup Stashed in Stomachs?</a></h5>
+<p>The fact that some recovered syrup was bound for export may explain the motivation behind the larger theft</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries">Companies &amp; Industries</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/heres-the-analyst-who-downgraded-facebook#r=nav-f-video">Here's the Analyst Who Downgraded Facebook</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/how-to-play-chevron-ahead-of-interim-report#r=nav-f-video">How to Play Chevron Ahead of Interim Report</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/america-s-export-surge-is-just-beginning#r=nav-f-blog">America's Export Surge Is Just Beginning</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-05/auto-sales-inflation-and-the-markets-in-washington#r=nav-f-video">Auto Sales, Inflation &amp; The Markets in Washington</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/bae-and-eads-a-deal-looks-doubtful#r=nav-r-story">BAE and EADS: A Deal Looks Doubtful</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/anne-marie-slaughter-hits-the-lecture-circuit#r=nav-r-story">Anne-Marie Slaughter Hits the Lecture Circuit</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/the-employee-engagement-racket#r=nav-r-blog">The Employee Engagement Racket</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/wheres-the-shareholder-outrage-at-hewlett-packard#r=nav-r-story">Where's the Shareholder Outrage at Hewlett-Packard?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/the-corporate-case-for-affirmative-action#r=nav-r-story">The Corporate Case for Affirmative Action</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/autos">Autos</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/sports">Sports</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://investing.businessweek.com/research/company/overview/overview.asp">Company Research</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/energy">Energy</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://investing.businessweek.com/research/people/overview/overview.asp">Executive Research</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/health-care">Health Care</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://jobs.businessweek.com/a/all-jobs/list">Job Search</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/blogs/the-management-blog">Blog: The Management Blog</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/management">Management</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/manufacturing">Manufacturing</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/telecommunications">Telecommunications</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/companies-and-industries/transportation">Transportation</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="politics_and_policy has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy">Politics &amp; Policy</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-07/on-foreign-aid-the-candidates-rhetoric-doesn-t-match-reality#r=nav-fst"><img alt="On Foreign Aid, the Candidates' Rhetoric Doesn't Match Reality" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-05/1005_foreignaid_360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-07/on-foreign-aid-the-candidates-rhetoric-doesn-t-match-reality#r=nav-fs">On Foreign Aid, the Candidates' Rhetoric Doesn't Match Reality</a></h5>
+<p>Obama and Romney use election-inspired hyperbole when discussing the U.S.'s aid budget</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy">Politics &amp; Policy</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/venezuelas-chavez-overcomes-cancer-challenger#r=nav-f-video">Venezuela's Hugo ChÃ¡vez Overcomes Cancer, Challenger to Win Election</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/mitt-romney-finds-his-etch-a-sketch#r=nav-f-blog">Mitt Romney Finds His Etch A Sketch</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/jobless-rate-falls-to-lowest-since-obamas-inauguration#r=nav-f-story">Jobless Rate Falls to Lowest Since Obama's Inauguration</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/where-are-the-most-expensive-u-dot-s-dot-electoral-votes#r=nav-f-video">Where Are the Most Expensive U.S. Electoral Votes?</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/how-the-u-dot-s-dot-is-hurting-innocent-people-in-iran#r=nav-r-story">How the U.S. Is Hurting Innocent People in Iran</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/bae-and-eads-a-deal-looks-doubtful#r=nav-r-story">BAE and EADS: A Deal Looks Doubtful</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/why-makers-vs-dot-takers-is-the-wrong-conversation#r=nav-r-story">Why 'Makers' vs. 'Takers' Is the Wrong Conversation</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/huawei-zte-and-chinese-investment-in-the-u-dot-s-dot#r=nav-r-story">Huawei, ZTE, and Chinese Investment in the U.S.</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/from-gsa-to-gay-lit-martha-johnsons-next-act#r=nav-r-story">From GSA to Gay Lit: Martha Johnson's Next Act</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy/2012-campaign">2012 Campaign</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy/congress">Congress</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy/courts">Courts</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy/legislation">Legislation</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/politics-and-policy/white-house">White House</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/blogs/joshua-green-on-politics">Blog: Joshua Green on Politics</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="technology has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology">Technology</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/the-only-earthling-with-a-facebook-dislike-button#r=nav-fst"><img alt="Chuck Rossi, Facebook's release engineer" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-05/1005_rossi_360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/the-only-earthling-with-a-facebook-dislike-button#r=nav-fs">The Only Earthling With a Facebook 'Dislike' Button</a></h5>
+<p>Chuck Rossi is Facebook's release engineer, the man who oversees how the site gets built every day</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology">Technology</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/facebook-the-making-of-1-billion-users#r=nav-f-story">Facebook: The Making of 1 Billion Users</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/musks-spacex-begins-space-station-supply-delivery#r=nav-f-video">Elon Musk's SpaceX Begins Space Station Supply Delivery</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-07/foxconn-labor-disputes-disrupt-iphone-production#r=nav-f-video">IPhone 5 Production Stumbles With Foxconn Disputes</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/reports/technology/ceo-guide-to-protecting-intellectual-property#r=nav-f-">CEO Guide to Protecting Intellectual Property</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/robotic-luggage-doesnt-deliver#r=nav-r-story">Robotic Luggage Doesn't Deliver</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/bae-and-eads-a-deal-looks-doubtful#r=nav-r-story">BAE and EADS: A Deal Looks Doubtful</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/a-google-book-deal-is-good-for-everyone-except-maybe-amazon#r=nav-r-story">A Google Book Deal Is Good for Everyone&mdash;Except Maybe Amazon</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/twitter-spin-what-happens-when-politics-goes-real-time#r=nav-r-story">Twitter Spin: What Happens When Politics Goes Real-Time</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/the-210-000-cow-milking-robot#r=nav-r-story">The $210,000 Cow-Milking Robot</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/apple">Apple</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/apps-and-software">Apps &amp; Software</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/reports/technology/ceo-tech-guide">CEO Tech Guide</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/consumer-electronics">Consumer Electronics</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/facebook">Facebook</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/google">Google</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/mobile-and-telecom">Mobile &amp; Telecom</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/personal-technology">Personal Technology</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/science-and-research">Science &amp; Research</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/technology/social-media">Social Media</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="markets_and_finance has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance">Markets &amp; Finance</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/getting-banks-off-the-roller-coaster#r=nav-fst"><img alt="Getting Banks off the Roller Coaster" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-03/risk_banks41__01__360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/getting-banks-off-the-roller-coaster#r=nav-fs">Getting Banks off the Roller Coaster</a></h5>
+<p>A back-to-basics approach to regulating risk is gaining adherents in the U.S. and the U.K.</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance">Markets &amp; Finance</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/facebooks-ipo-chill#r=nav-f-story">Facebook's IPO Chill</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/whats-the-better-bet-luxury-property-or-gold#r=nav-f-video">What's the Better Bet: Luxury Property or Gold?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/bloomberg-view-has-the-fed-declared-war-on-brazil#r=nav-f-story">Bloomberg View: Has the Fed Declared War on Brazil?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/the-battle-to-define-a-qualified-mortgage#r=nav-f-video">The Battle to Define a `Qualified Mortgage'</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-09/start-with-factor-screens-like-belski#r=nav-r-blog">Start With Factor Screens, Like Belski</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-09/ben-bernankes-mortgage-refi-nation#r=nav-r-story">Ben Bernanke's Mortgage-Refi Nation</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/investment-boom-teeters-on-africa-s-spheres-of-unrest#r=nav-r-story">Investment Boom Teeters on Africa's Spheres of Unrest</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/wheres-the-shareholder-outrage-at-hewlett-packard#r=nav-r-story">Where's the Shareholder Outrage at Hewlett-Packard?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/charlie-rose-talks-to-joseph-stiglitz#r=nav-r-story">Charlie Rose Talks to Joseph Stiglitz</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/banks">Banks</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/commodities">Commodities</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/currencies">Currencies</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/hedge-funds">Hedge Funds</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/investing">Investing</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/mutual-funds-and-etfs">Mutual Funds &amp; ETFs</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/private-equity">Private Equity</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/real-estate">Real Estate</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/regulation">Regulation</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/stocks-and-bonds">Stocks &amp; Bonds</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/markets-and-finance/wall-street">Wall Street</a></li>
+<li class="sponsor_placeholder"></li>
+</ul>
+</li>
+<div class="nav_sponsored">
+<div class="sponsored_by">Sponsored by</div>
+<div class="ad_container">
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/clk;253341371;77213081;x" class="nav_ad" target="_blank"><img alt="Markets" height="31" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/ads/header/flyout/redesign/markets.png" width="88"/></a>
+
+</div>
+</div>
+
+</ul>
+</li>
+<li class="innovation has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation">Innovation</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/australias-gross-out-cigarette-warnings#r=nav-fst"><img alt="Australia's Gross-Out Cigarette Warnings" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-04/comp_cigarettes41__01__360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/australias-gross-out-cigarette-warnings#r=nav-fs">Australia's Gross-Out Cigarette Warnings</a></h5>
+<p>Banning brand logos, Australia mandates disease images on packs</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation">Innovation</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/jeff-brennans-anatomy-based-industrial-design-software#r=nav-f-story">Jeff Brennan's Anatomy-Based Industrial Design Software</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/using-warhols-to-save-a-failed-company#r=nav-f-story">Using Warhols to Save a Failed Company</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/twitter-spin-what-happens-when-politics-goes-real-time#r=nav-f-story">Twitter Spin: What Happens When Politics Goes Real-Time</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/women-help-startups-succeed-dot-when-will-vcs-notice#r=nav-f-story">Women Help Startups Succeed. When Will VCs Notice?</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-09/take-2-asprn-plus-txt-me-in-am#r=nav-r-story">Take 2 Asprn+Txt Me in AM</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/the-210-000-cow-milking-robot#r=nav-r-story">The $210,000 Cow-Milking Robot</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/what-do-pro-designers-think-of-arbys-new-logo#r=nav-r-story">What Do Pro Designers Think of Arby's New Logo?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-02/before-you-file-suit#r=nav-r-story">Before You File Suit</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-09-27/pantelis-alexopouloss-push-for-slimmer-disk-drives#r=nav-r-story">Pantelis Alexopoulos's Push for Slimmer Disk Drives</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation/copyright">Copyright</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/reports/innovation/fix-this-cyber-security">Fix This/Cyber Security</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation/innovator">Innovators</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation/patents">Patents</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation/privacy">Privacy</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation/reinventing-business">Reinventing Business</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/innovation/trademarks">Trademarks</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="lifestyle has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle">Lifestyle</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/three-ring-ad-circus#r=nav-fst"><img alt="Carousel horses trot throughout the office. One conceals an overhead projector in its head" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-04/etc_officeenvy41__01__360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/three-ring-ad-circus#r=nav-fs">Three-Ring Ad Circus</a></h5>
+<p>Ogilvy &amp; Mather's surreal Canton fun house</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle">Lifestyle</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows/2012-10-04/ogilvy-and-mathers-surreal-guangzhou-office#r=nav-f-slideshow">Ogilvy &amp; Mather's Surreal Guangzhou Office</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/fahrenheit-2012-political-films-profit-potential#r=nav-f-story">Fahrenheit 2012: Political Films' Profit Potential</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/who-got-the-most-bang-for-their-baseball-buck#r=nav-f-video">What Baseball Teams Spend to Get in the Playoffs</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-05-07/ask-claire-suddath-no-office-related-question-is-too-strange#r=nav-f-story">Ask Claire: No Office-Related Question Is Too Strange</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/the-marketing-executive-who-became-a-voice-actor#r=nav-r-story">The Marketing Executive Who Became a Voice Actor</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/robotic-luggage-doesnt-deliver#r=nav-r-story">Robotic Luggage Doesn't Deliver</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/martha-stewarts-office-bag-lunch#r=nav-r-story">Martha Stewart's Office Bag Lunch</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/is-quebecs-stolen-maple-syrup-stashed-in-stomachs#r=nav-r-story">Is Quebec's Stolen Maple Syrup Stashed in Stomachs?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/box-office-battlefield#r=nav-r-story">Box Office Battlefield</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/books">Books</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/entertainment">Entertainment</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/fashion">Fashion</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/food-and-drink">Food &amp; Drink</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/gadgets-and-accessories">Gadgets &amp; Accessories</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/hard-choices">Hard Choices</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/next-life">Next Life</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/sports">Sports</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/travel">Travel</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/lifestyle/workplace">Workplace</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="business_schools has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools">Business Schools</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/mba-journal-from-retail-to-b-school#r=nav-fst"><img alt="MBA Journal: From Retail to B-School" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-08/1008_journal_360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/mba-journal-from-retail-to-b-school#r=nav-fs">MBA Journal: From Retail to B-School</a></h5>
+<p>"Retail has been a fantastic pre-MBA industry, because I know I am entering business school with a strong knack for understanding and pleasing the customer"</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools">Business Schools</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/mba-admissions-smile-youre-on-candid-camera#r=nav-f-blog">MBA Admissions: Smile, You're on Candid Camera</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-01/beyond-grey-pinstripes-ranking-r-dot-i-dot-p-dot#r=nav-f-blog">Beyond Grey Pinstripes Ranking: R.I.P.</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-09-28/for-sale-mba-admissions-essays-that-work#r=nav-f-blog">For Sale: MBA Admissions Essays That Worked Once</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows/2012-08-29/top-b-schools-with-the-best-financial-aid#r=nav-f-slideshow">Top B-Schools With the Best Financial Aid</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/the-next-big-thing-specialized-business-degrees#r=nav-r-blog">The Next Big Thing: Specialized Business Degrees</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/mba-journal-from-retail-to-b-school#r=nav-r-blog">MBA Journal: From Retail to B-School</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/mba-journal-crossing-the-pond#r=nav-r-blog">MBA Journal: Crossing the Pond</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/b-school-highlights-oct-dot-5#r=nav-r-blog">B-School Highlights: Oct. 5</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/mba-alumni-in-the-news-oct-dot-4#r=nav-r-blog">MBA Alumni in the News: Oct. 4</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://tools.businessweek.com/business_school_events_calendar/">B-School Calendar</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://tools.businessweek.com/BSchool_Comparator/">Compare B-Schools</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools/financial-aid">Financial Aid</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools/finding-a-job">Finding a Job</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://forums.businessweek.com/bw-bschools/start/">Forums</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools/mba-admissions">MBA Admissions</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/bschools/rankings/">Rankings &amp; Profiles</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/business-schools/undergrad-programs">Undergrad Programs</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/blogs/getting-in">Blog: Getting In</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/bschools/blogs/business-school-explained/">Blog: Business School Explained</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="small_business has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business">Small Business</a>
+<ul class="sub_menu new">
+<li class="col featured_story">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/women-help-startups-succeed-dot-when-will-vcs-notice#r=nav-fst"><img alt="SlideShare, led by Rashmi Sinha, is being acquired by LinkedIn for $119 million. New research suggests that successful startups have more women in top management" height="240" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-05/1004_women_360x240.jpg" width="360"/></a><h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-05/women-help-startups-succeed-dot-when-will-vcs-notice#r=nav-fs">Women Help Startups Succeed. When Will VCs Notice?</a></h5>
+<p>Venture-backed startups lag the rest of the business world in terms of women holding top jobs, even as new research suggests they're linked to company success</p>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business">Small Business</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-03/if-small-businesses-are-bummed-why-are-they-hiring#r=nav-f-story">If Small Businesses Are Bummed, Why Are They Hiring?</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-02/strategy-for-business-owners-as-tax-cuts-near-expiration#r=nav-f-story">Strategy for Business Owners as Tax Cuts Near Expiration</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-02/why-immigrant-entrepreneurship-is-stalling#r=nav-f-blog">Why Immigrant Entrepreneurship Is Stalling</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-01/because-the-customer-is-not-always-right#r=nav-f-story">Because the Customer Is NOT Always Right!</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business">Recent</a>
+</h4>
+<ul>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-09/take-2-asprn-plus-txt-me-in-am#r=nav-r-story">Take 2 Asprn+Txt Me in AM</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/why-makers-vs-dot-takers-is-the-wrong-conversation#r=nav-r-story">Why 'Makers' vs. 'Takers' Is the Wrong Conversation</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/running-a-startup-incubator-for-fun-not-profit#r=nav-r-story">Running a Startup Incubator for Fun, Not Profit</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/what-obamacare-means-for-small-employers-in-2013#r=nav-r-story">What Obamacare Means for Small Employers in 2013</a></h5>
+</li>
+<li>
+<h5><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/olga-vidisheva-business-model#r=nav-r-story">Olga Vidisheva, Business Model</a></h5>
+</li>
+</ul>
+</li>
+<li class="col list departments last">
+<h4>
+<a>Sections</a>
+</h4>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/advice">Advice</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/benefits">Benefits</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/blogs/the-new-entrepreneur">Blog: The New Entrepreneur</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/commentary">Commentary</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/expanding-overseas">Expanding Overseas</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/financing">Financing</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/legal-forms.html">Legal Documents</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/logistics">Logistics</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/marketing">Marketing</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/policy">Policy</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/profiles">Profiles</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/taxes">Taxes</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/small-business/technology">Technology</a></li>
+</ul>
+</li>
+
+</ul>
+</li>
+<li class="media has_sub_menu tracked">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/media">Video &amp; Multimedia</a>
+<ul class="sub_menu new">
+<li class="media_type slideshows">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows">Slideshows</a>
+</h4>
+<ul>
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows/2012-10-04/ogilvy-and-mathers-surreal-guangzhou-office#r=nav-img"><img alt="“Carnival of Ideasâ€" height="96" src="https://web.archive.org/web/20121009130758im_/http://dlimages.businessweek.com/imageserve/0aFI0B364dgkJ/145x96.jpg" width="145"/>
+<h6>Ogilvy &amp; Mather's Surreal Guangzhou Office</h6>
+</a></li>
+
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows/2012-06-07/great-moments-in-twitter-blunders#r=nav-img"><img alt="#WishIDidntSayThat" height="96" src="https://web.archive.org/web/20121009130758im_/http://dlimages.businessweek.com/imageserve/05PH1Xt2B55CZ/145x96.jpg" width="145"/>
+<h6>KitchenAid's Debate Debacle Joins Epic Twitter Goofs</h6>
+</a></li>
+
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows/2012-10-01/great-moments-in-executive-goofiness#r=nav-img"><img alt="Google Chair Eric Schmidt Dances 'Gangnam Style'" height="96" src="https://web.archive.org/web/20121009130758im_/http://dlimages.businessweek.com/imageserve/09midGWaa34FD/145x96.jpg" width="145"/>
+<h6>Great Moments in Executive Goofiness</h6>
+</a></li>
+
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/slideshows/2012-09-26/americas-50-best-cities#r=nav-img"><img alt="The Best Places to Live" height="96" src="https://web.archive.org/web/20121009130758im_/http://dlimages.businessweek.com/imageserve/0cIad4A33wbXP/145x96.jpg" width="145"/>
+<h6>America's 50 Best Cities</h6>
+</a></li>
+
+</ul>
+</li>
+<li class="media_type photo_essay">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/photos">Photo Essays</a>
+</h4>
+<ul>
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/photos/2012-09-27/in-the-shadows-of-shanghais-skyscrapers#r=nav-img"><img alt="shanghai-rich-poor-gap-15.jpg" height="96" src="https://web.archive.org/web/20121009130758im_/http://dlimages.businessweek.com/imageserve/01sL4cE5HK04Y/145x96.jpg" width="145"/>
+<h6>In the Shadows of Shanghai's Skyscrapers</h6>
+</a></li>
+
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/photos/2012-08-22/tin-mining-on-bangka-island#r=nav-img"><img alt="3512P_FEATURE_TIN_04.jpg" height="96" src="https://web.archive.org/web/20121009130758im_/http://dlimages.businessweek.com/imageserve/0dHsgRg0GE2HN/145x96.jpg" width="145"/>
+<h6>Tin Mining on Bangka Island</h6>
+</a></li>
+
+</ul>
+</li>
+<li class="media_type charts">
+<h4>
+<span class="a_mock">Charts</span>
+</h4>
+<ul>
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/facebooks-ipo-chill#r=nav-img"><img alt="Facebook's IPO Chill" height="82" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-04/mf_ipochart41_01__145x82.jpg" width="145"/>
+<h6>Facebook's IPO Chill</h6>
+</a></li>
+
+<li class="clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/vijay-mallyas-playthings-are-in-peril#r=nav-img"><img alt="Vijay Mallya's Playthings Are in Peril" height="82" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-04/etc_billionairs41__01__145x82.jpg" width="145"/>
+<h6>Vijay Mallya's Playthings Are in Peril</h6>
+</a></li>
+
+</ul>
+</li>
+<li class="media_type videos">
+<h4>
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos">Videos</a>
+</h4>
+<ul>
+<li class="video clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/priebus-says-romney-had-great-night-at-debate#r=nav-vt" class="clearfix"><img alt="Priebus Says Romney Had â€˜Great Night' at Debate" height="113" src="https://web.archive.org/web/20121009130758im_/http://www.bloomberg.com/apps/data?pid=avimage&amp;iid=igoTIvBcyM9Y" width="200"/>
+<h6>Priebus Says Romney Had â€˜Great Night' at Debate</h6>
+</a></li>
+
+<li class="video clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/whos-on-wall-streets-ballot-blacklist#r=nav-vt" class="clearfix"><img alt="Which Candidates Are on Wall Street's Blacklist?" height="113" src="https://web.archive.org/web/20121009130758im_/http://www.bloomberg.com/apps/data?pid=avimage&amp;iid=i5cUg30iD8L0" width="200"/>
+<h6>Which Candidates Are on Wall Street's Blacklist?</h6>
+</a></li>
+
+<li class="video clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/polar-bear-joins-arctic-research-camp#r=nav-vt" class="clearfix"><img alt="Polar Bear Joins Arctic Research Camp" height="80" src="https://web.archive.org/web/20121009130758im_/http://cdn.videos.bloomberg.com/I2bWM0NjqM1oaxi3kDfeeLCKr_tBo6sl/kOyXE1s_aOQIyy8X4yMDoxOmg0O4CvZE" width="145"/>
+<h6>Polar Bear Joins Arctic Research Camp</h6>
+</a></li>
+
+<li class="video clearfix">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/videos/2012-10-08/orange-juice-price-sours-on-florida-crop-outlook#r=nav-vt" class="clearfix"><img alt="Orange Juice Price Sours on Florida Crop Outlook" height="80" src="https://web.archive.org/web/20121009130758im_/http://cdn.videos.bloomberg.com/1pcTg0Njqs3i6JZ4Z-tGMiL0qFHOzJmC/kOyXE1s_aOQIyy8X4yMDoxOmg0O4CvZE" width="145"/>
+<h6>Orange Juice Price Sours on Florida Crop Outlook</h6>
+</a></li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+</div>
+<script>
+  //<![CDATA[
+    $('.branding_hat').bloomberg_hat({
+        'active_link':'businessweek'
+    });
+  //]]>
+</script>
+
+<!-- Chart beat header code starts here-->
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<!-- Chart beat header code ends here-->
+
+<!-- Chart beat footer part starts here -->
+<script type="text/javascript">
+var _sf_async_config={uid:15087,domain:"businessweek.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://web.archive.org/web/20121009130758/https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<!-- Chart beat footer part ends here -->
+
+			<br/>
+			
+			<div class="newTopAdContainer">		
+	            <div class="newTopAd">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('Top'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=top;sz=728x90,468x60;tile=1;ord=1234567890;dcopt=ist" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=top;sz=728x90,468x60;tile=1;ord=1234567890;dcopt=ist" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+</div>
+	        </div> 								
+	    </div>
+		 	    
+		<div id="mainContainer">		
+			
+			<div id="topAdContainer">
+               
+			</div>
+			
+			
+		
+			<div id="mainContentContainer">
+			
+
+<!-- Left (main) Rail -->
+<div id="columnLeft">	
+  
+    <div id="BrokerBox-AdContainer">
+        
+        <div id="BrokerBox-AdGroup-A" class="BrokerBox-AdGroup">
+            <div class="ad"><div class="" style=" margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('z02'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=z02;sz=468x60,1x1;tile=2;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=z02;sz=468x60,1x1;tile=2;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+          
+			<div class="clear"></div>
+		</div>
+        <div id="BrokerBox-AdGroup-B" class="BrokerBox-AdGroup">          
+            <div class="ad"><div class="first" style=" margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('x01'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x01;sz=120x60,1x1;tile=3;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x01;sz=120x60,1x1;tile=3;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+<div class="ad"><div class="" style=" margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('x02'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x02;sz=120x60,1x1;tile=4;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x02;sz=120x60,1x1;tile=4;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+<div class="ad"><div class="" style=" margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('x03'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x03;sz=120x60,1x1;tile=5;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x03;sz=120x60,1x1;tile=5;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+<div class="ad"><div class="" style=" margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('x04'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x04;sz=120x60,1x1;tile=6;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=x04;sz=120x60,1x1;tile=6;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+            
+			<div class="clear"></div>
+		</div>
+	
+    </div>    
+    
+	<div style="margin-bottom: 10px">
+		<div class="timestamp_Md floatR">October 09, 2012 9:07 AM ET</div>
+		
+		
+		<h3 class="txtC6 floatL">Media</h3>
+		
+		<div class="clear"></div>
+		
+		<h1>Company Overview of Greenwood Publishing Group, Inc.</h1>
+		
+		<div class="clear"></div>
+	</div>
+	<div id="privatePeopleTabs">
+	<div class="mainTabs"><div class="fLeft tabSnapshot" style="text-align: center;"><a class="selected" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=1510370">Snapshot</a><div class="greyTriangle">&nbsp;</div></div><div class="fLeft tabPeople" style="text-align: center;"><a class="notSelected" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/private/people.asp?privcapId=1510370">People</a></div>
+    <div class="tabBorder"></div>
+  </div>
+</div>	
+	<div class="floatL subColumn" style="margin-right:10px;">
+		<h2 class="sectionTitle">Company Overview</h2>
+		
+		<p id="bDesc">Greenwood Publishing Group, Inc. publishes reference titles, academic and general interest books, texts, books for librarians and other professionals, and electronic resources. It also provides reference books in various subject areas taught in middle schools, high schools, and colleges, as well as on topics of general interest. The company was founded in 1967 and is based in Westport, Connecticut. Greenwood Publishing Group, Inc. operates as a subsidiary of Houghton Mifflin Harcourt Publishing Company.</p>
+		
+		<div id="detailsContainer">
+			<div class="detailsDataContainerLt">
+			<div><p>88 Post Road West</p><p>Westport, CT&nbsp;06881</p><p style="margin:5px 0;">United States</p><p>Founded in <strong>1967</strong></p></div>
+			</div>
+			
+			<div class="detailsDataContainerRt">
+				<div>
+				
+					<p class="floatL bold smGreyTxt">Phone: </p><p style="text-align: right;">203-226-3571</p>
+					<p class="clear"></p>
+				
+					<p class="floatL bold smGreyTxt">Fax: </p><p style="text-align: right;">203-222-1502</p>
+					<p class="clear"></p>
+				
+					<p><a class="link_sb" href="https://web.archive.org/web/20121009130758/http://www.greenwood.com/" target="_blank">www.greenwood.com</a></p>
+				
+				</div>
+			</div>
+		<div class="clear"></div>
+		</div>
+	<div class="clear"></div>
+	</div>
+
+	<div class="floatL subColumn">
+	  <h2 class="sectionTitle">Key Executives for Greenwood Publishing Group, Inc.</h2>
+
+	  <div id="submitOuter">
+	    <div id="submitInner">
+	      <p>Greenwood Publishing Group, Inc. does not have any Key Executives recorded. </p>	      
+	    </div>
+	  </div>
+	 
+	</div>
+<div class="clear"></div>	
+	<div id="taboola-div"></div>
+
+	<script type="text/javascript">
+
+	function rboxReady(evnt) {
+
+		TRC.loadRBox({mode:'grid-2x2-horizontal',container:'taboola-div'});
+
+	}
+
+	var taboolaLoader = document.createElement('script');
+
+	document.getElementsByTagName('head')[0].appendChild(taboolaLoader);
+
+	if (taboolaLoader.attachEvent) {// support Internet Explorer
+			taboolaLoader.attachEvent("onactivate", rboxReady);
+	}else{
+			taboolaLoader.addEventListener("activate", rboxReady, false);
+	}
+
+	taboolaLoader.type="text/javascript";
+
+	taboolaLoader.src="https://web.archive.org/web/20121009130758/http://cdn.taboolasyndication.com/libtrc/businessweek/rbox.js?article";
+
+	</script>
+		<h2 class="sectionTitle">Greenwood Publishing Group, Inc. Key Developments</h2>
+	<div class="newsItem">
+	  
+  	<div class="storyHeadline">Greenwood Publishing Group, Inc. Wins $1.92 Million Federal Contract</div>
+  	
+  	<div class="storyTimestamp">Mar 2 11</div>
+  	<p style="color:#666; margin:5px 0;margin-bottom:12px; padding-bottom: 5px; border-bottom: 1px solid #ccc">Greenwood Publishing Group, Inc. won a $1,921,060 federal contract from the U.S. Department of Defense's Education Activity, Arlington, Va., for reading assessment.</p>
+  </div>
+	
+	<div class="floatL subColumn" style="margin-right:10px;">
+		<h4 class="sectionTitle">Similar Private Companies By Industry</h4>
+		<table class="table" width="100%" cellspacing="0" cellpadding="0">
+		  <thead>
+		    <tr>
+		      <td>Company Name</td>
+		      <td>Region</td>
+		    </tr>
+		  </thead>
+		  <tbody>
+		<tr>  <td><a href="snapshot.asp?privcapId=12487334">New Millennium Research &amp; Consulting</td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=6720478">Bailey Lauerman &amp; Associates Inc.</td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=48847997">Skinny Little Things, LLC</td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=421076">Winkler Advertising</td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=41019729">MedErgy Marketing</td>  <td>United States</td></tr>
+		  </tbody>
+		</table>
+	</div>
+
+	<div class="floatL subColumn">
+	  <h4 class="sectionTitle">Recent Private Companies Transactions</h4>
+	  <table class="table" width="100%" cellpadding="0" cellspacing="0">
+	    <thead>
+	      <tr>
+	        <td width="110">Type<br/>Date</td>
+	        <td>Target</td>
+	      </tr>
+	    </thead>
+	    <tbody>
+<tr><td colspan="3" align="center">No transactions available in the past 12 months.</td></tr>
+	    </tbody>
+    </table>
+  </div>
+<div class="clear"></div>
+	<div class="reportErrorLinkContainer"><a id="reportErrorLink" href="javascript:void(0);"><img class="floatL" src="/web/20121009130758im_/http://investing.businessweek.com/research/images/exclamation.png" alt="Report Data Issue" border="0" align="absmiddle" height="20"/><span>Report Data Issue</span></a></div>
+	<div class="clear"></div>
+			
+	<div class="googleAdsModule" style="margin-top:20px">
+		<script type="text/javascript" src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/common_ssi/modules/directory_m/companiespage_left.js"></script>	
+	</div>
+	
+</div>
+
+<!-- Right Rail -->
+<div id="columnRight">
+	<div><img class="capIQLogo" height="100" width="200" src="/web/20121009130758im_/http://investing.businessweek.com/businessweek/research/images/SP_Cap_IQ_rgb_pos.PNG" alt="Capiq Partnership"/></div><div id="mostPopularNews" style="width:100%" class=" floatL newsModule"><h2 class="sectionTitle">Most Popular on Businessweek</h2><div class="newsItem"><div><a class="link_mb" href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-03/mitt-romneys-hostile-takeover-of-the-debate">Mitt Romney's Hostile Takeover of the Debate</a></div><div class="storyTimestamp">10/03/2012 7:29 PM ET</div></div><div class="newsItem"><div><a class="link_mb" href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/the-only-earthling-with-a-facebook-dislike-button">The Only Earthling With a Facebook 'Dislike' Button</a></div><div class="storyTimestamp">10/08/2012 1:58 AM ET</div></div><div class="newsItem"><div><a class="link_mb" href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/how-the-u-dot-s-dot-is-hurting-innocent-people-in-iran">How the U.S. Is Hurting Innocent People in Iran</a></div><div class="storyTimestamp">10/08/2012 12:02 PM ET</div></div><div class="newsItem"><div><a class="link_mb" href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-08/huawei-zte-and-chinese-investment-in-the-u-dot-s-dot">Huawei, ZTE, and Chinese Investment in the U.S.</a></div><div class="storyTimestamp">10/08/2012 7:04 AM ET</div></div><div class="newsItem"><div><a class="link_mb" href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/articles/2012-10-04/if-only-t-dot-boone-pickens-had-died">If Only T. Boone Pickens Had Died</a></div><div class="storyTimestamp">10/04/2012 11:27 AM ET</div></div><a style="color: #0099FF" href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/">More News</a></div><div style="clear:both; height: 1px;">&nbsp;</div><div class="ad"><div class="" style="width:300px; margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('Right2'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=right2;sz=300x250,300x600;tile=7;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=right2;sz=300x250,300x600;tile=7;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+
+    
+  <div class="rightRailModule" id="rrQuoteBox">
+	<div style="border-bottom: 1px solid #ccc; overflow:hidden;">
+		<div class="fLeft" style="width: 25%">
+			<h3 class="sectionTitle" style="border-bottom: 0;">Stock Quotes</h3>
+		</div>
+		<div class="fRight" style="width: 74%">
+			<p class="note" style="padding: 4px 0; text-align:right; font-weight: normal">Market data is delayed at least 15 minutes.</p>
+		</div>
+	</div>
+	<div class="clear"></div>
+    
+	  <form id="symbolLookupFrm" name="frmLookup" action="/web/20121009130758/http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp" method="get" onsubmit="symbol.value = escape(symbol.value);this.submit(); return false;">
+	    <fieldset>
+	      <input type="text" id="lookupSymbol" class="symbol" autocomplete="off" name="symbol" value="Stock, Fund, or ETF" onfocus="if(this.value == 'Stock, Fund, or ETF') this.value = '';" onblur="if(this.value == '' || this.value == ' ') this.value = 'Stock, Fund, or ETF';"/>
+	      <input type="image" name="submit" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/gen/buttons/stock_go_btn.gif" align="absmiddle"/>
+	      <a style="font-size:11px;" target="_top" href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp">Company Lookup</a>
+	    </fieldset>
+	  </form>
+	  
+	  
+	  
+	  <table class="miniTable" summary="Recently viewed">
+	    <thead>
+	      <tr><td colspan="4">Recently Viewed</td></tr>
+	    </thead>
+	    <tbody>
+	  	
+        <tr>
+	        <td scope="row">
+	      	  <a class="link_xsb" style="text-align:left" target="_top" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=HPQ">
+	      		HPQ:US
+	      		</a>
+	      	</td>
+	      	
+	      	<td align="right">$14.46 <span class="xSmGreyTxt">USD</span></td>
+	      	<td align="right" width="45"><span class="negData">-0.27</span></td>
+	      	<td width="75" align="right"><img src="/web/20121009130758im_/http://investing.businessweek.com/cgi-bin/upload.dll/file.png?z019f0f0azbaae1875e5c341c4bb22d80cb2105e8f" width="60" height="15" galleryimg="no" symbol="US;HPQ"/></td>
+	      	
+        </tr>
+	    
+        <tr>
+	        <td scope="row">
+	      	  <a class="link_xsb" style="text-align:left" target="_top" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=AMD">
+	      		AMD:US
+	      		</a>
+	      	</td>
+	      	
+	      	<td align="right">$3.19 <span class="xSmGreyTxt">USD</span></td>
+	      	<td align="right" width="45"><span class="negData">-0.03</span></td>
+	      	<td width="75" align="right"><img src="/web/20121009130758im_/http://investing.businessweek.com/cgi-bin/upload.dll/file.png?z029f0f0az4fe7169b79374a35bfbada11eb31cbaa" width="60" height="15" galleryimg="no" symbol="US;AMD"/></td>
+	      	
+        </tr>
+	    
+        <tr>
+	        <td scope="row">
+	      	  <a class="link_xsb" style="text-align:left" target="_top" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=RCO:FP">
+	      		RCO:FP
+	      		</a>
+	      	</td>
+	      	
+	      	<td align="right">&euro;89.16 <span class="xSmGreyTxt">EUR</span></td>
+	      	<td align="right" width="45"><span class="negData">-0.45</span></td>
+	      	<td width="75" align="right"><img src="/web/20121009130758im_/http://investing.businessweek.com/cgi-bin/upload.dll/file.png?z029f0f0az389964c310f049dc86797561e4a3da45" width="60" height="15" galleryimg="no" symbol="FR;RCO"/></td>
+	      	
+        </tr>
+	    
+        <tr>
+	        <td scope="row">
+	      	  <a class="link_xsb" style="text-align:left" target="_top" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=RI:FP">
+	      		RI:FP
+	      		</a>
+	      	</td>
+	      	
+	      	<td align="right">&euro;87.93 <span class="xSmGreyTxt">EUR</span></td>
+	      	<td align="right" width="45"><span class="negData">-0.07</span></td>
+	      	<td width="75" align="right"><img src="/web/20121009130758im_/http://investing.businessweek.com/cgi-bin/upload.dll/file.png?z029f0f0az87dc22197d2d4c619bb9aa0ec1434713" width="60" height="15" galleryimg="no" symbol="FR;RI"/></td>
+	      	
+        </tr>
+	    
+        <tr class="lastRow">
+	        <td scope="row">
+	      	  <a class="link_xsb" style="text-align:left" target="_top" href="/web/20121009130758/http://investing.businessweek.com/research/stocks/snapshot/snapshot.asp?ticker=ORCL">
+	      		ORCL:US
+	      		</a>
+	      	</td>
+	      	
+	      	<td align="right" class="noBorder">$31.18 <span class="xSmGreyTxt">USD</span></td>
+	      	<td align="right" width="45" class="noBorder"><span class="negData">-0.21</span></td>
+	      	<td width="75" align="right" class="noBorder"><img src="/web/20121009130758im_/http://investing.businessweek.com/cgi-bin/upload.dll/file.png?z019f0f0azd1bf5d91f3c24c4dbbe34912f80c0d5c" width="60" height="15" galleryimg="no" symbol="US;ORCL"/></td>
+	      	
+        </tr>
+	    
+	    </tbody>
+	  </table>
+	  
+	  
+	</div>
+
+	<h2 class="sectionTitle">Most Searched Private Companies</h2>
+	<table width="100%" cellspacing="0" cellpadding="0">
+	  <thead>
+	    <tr>
+	      <td>Company Name</td>
+	      <td>Geographic Region</td>
+	    </tr>
+	  </thead>
+	  <tbody>
+	  <tr>  <td><a href="snapshot.asp?privcapId=5343883">NYC2012, Inc.</a></td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=519888">Bertelsmann AG</a></td>  <td>Europe</td></tr><tr>  <td><a href="snapshot.asp?privcapId=5325215">Lawyers Committee for Civil Rights Under Law</a></td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=4003279">Rush University</a></td>  <td>United States</td></tr><tr>  <td><a href="snapshot.asp?privcapId=24020990">Greater Houston Partnership</a></td>  <td>United States</td></tr>
+	  </tbody>
+	</table>
+<div class="ad"><div class="" style="width:300px; margin: auto; ">
+<script type="text/javascript">
+	// <![CDATA[
+    if (window.BW_adsys) {
+        document.write(BW_adsys('Right3'));
+    }
+	// ]]>
+</script>
+<noscript>
+<p>
+<a href="https://web.archive.org/web/20121009130758/http://ad.doubleclick.net/jump/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=right3;sz=300x250,1x1;tile=8;ord=1234567890" rel="external">
+<img src="https://web.archive.org/web/20121009130758im_/http://ad.doubleclick.net/ad/mgh.bw.companies/domestic/private/snapshot;page=t1;t1=right3;sz=300x250,1x1;tile=8;ord=1234567890" alt="" style="height:auto; width:auto;"/>
+</a>
+</p>
+</noscript>
+
+</div>
+</div>
+
+		<div class="rightRailModule" style="margin-top: 10px;">			
+			<div id="sh_job_widget" class="module" style="width:330px;">
+				<h2 class="sectionHeader"><a title="Post a Job" rel="external" class="post_job" href="https://web.archive.org/web/20121009130758/http://jobs.businessweek.com/a/jbb/post-job">Post a Job</a>Jobs</h2>				
+				<div id="simplyhired_job_widget" style="width:330px;">
+					<div id="">
+						<ul class="sh_jobs">    				
+						<li class="sh_job_alt"><div class="sh_job_line_1"><a rel="nofollow" class="sh_title" href="https://web.archive.org/web/20121009130758/http://www.jobamatic.com/a/jbb/redirect/753076" target="_blank" title="Digital Traffic Coordinator">Digital Traffic Coordinator</a></div><div class="sh_job_line_2"><span class="sh_location">New York, NY</span><span class="sh_dash"> | </span><span class="sh_company">Ted Conferences</span></div><div class="sh_job_line_2"><span class="smGreyTxt">Posted: Sep 27</span></div></li><li class="sh_job_alt"><div class="sh_job_line_1"><a rel="nofollow" class="sh_title" href="https://web.archive.org/web/20121009130758/http://www.jobamatic.com/a/jbb/redirect/753005" target="_blank" title="Program Officer for Direct to Consumer Initiatives">Program Officer for Direct to Consumer Initiatives</a></div><div class="sh_job_line_2"><span class="sh_location">Washington, DC</span><span class="sh_dash"> | </span><span class="sh_company">Institute For Reproductive Health</span></div><div class="sh_job_line_2"><span class="smGreyTxt">Posted: Sep 27</span></div></li><li class="sh_job_alt"><div class="sh_job_line_1"><a rel="nofollow" class="sh_title" href="https://web.archive.org/web/20121009130758/http://www.jobamatic.com/a/jbb/redirect/750658" target="_blank" title="Associate Director of Digital Media">Associate Director of Digital Media</a></div><div class="sh_job_line_2"><span class="sh_location">Amherst, MA</span><span class="sh_dash"> | </span><span class="sh_company">University of Massachusetts Amherst</span></div><div class="sh_job_line_2"><span class="smGreyTxt">Posted: Sep 21</span></div></li><li class="sh_job_alt"><div class="sh_job_line_1"><a rel="nofollow" class="sh_title" href="https://web.archive.org/web/20121009130758/http://www.jobamatic.com/a/jbb/redirect/747052" target="_blank" title="Business &amp; Finance Writer">Business &amp; Finance Writer</a></div><div class="sh_job_line_2"><span class="sh_location">Santa Monica, CA</span><span class="sh_dash"> | </span><span class="sh_company">Demand Media Studios</span></div><div class="sh_job_line_2"><span class="smGreyTxt">Posted: Sep 11</span></div></li>
+						</ul>
+						<a class="ir simply_hired_logo" href="https://web.archive.org/web/20121009130758/http://www.simplyhired.com/">Simply Hired</a>
+						<a class="all_jobs" rel="external" href="https://web.archive.org/web/20121009130758/http://jobs.businessweek.com/">View all jobs</a>
+					</div>
+				</div>				
+			</div>	    
+		</div>
+
+	<div id="bw_mall" class="module">
+		<h3>Sponsored Links</h3>
+		<script type="text/javascript" src="https://web.archive.org/web/20121009130758js_/http://jlinks.industrybrains.com/jsct?sid=46&amp;ct=BUSINESSWEEK_HOMEPAGE_AND_ROS&amp;tr=COMPANYPAGES&amp;num=5&amp;layt=1&amp;fmt=simp"></script>
+	</div>
+	<div class="googleAdsModule"><script type="text/javascript" src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/common_ssi/modules/directory_m/companiespage.js"></script></div>
+</div>
+   
+			</div>
+				<div id="footerContainer">
+				    
+<ul>
+<li class="smGreyTxt">Browse Companies</li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=A">A</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=B">B</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=C">C</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=D">D</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=E">E</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=F">F</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=G">G</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=H">H</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=I">I</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=J">J</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=K">K</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=L">L</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=M">M</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=N">N</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=O">O</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=P">P</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=Q">Q</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=R">R</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=S">S</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=T">T</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=U">U</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=V">V</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=W">W</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=X">X</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=Y">Y</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=Z">Z</a></li>
+<li>&nbsp;|&nbsp;</li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=0">0</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=1">1</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=2">2</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=3">3</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=4">4</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=5">5</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=6">6</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=7">7</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=8">8</a></li>
+<li><a href="/web/20121009130758/http://investing.businessweek.com/research/common/symbollookup/symbollookup.asp?letterIn=9">9</a></li>
+</ul>					
+				<div class="clear"></div>					
+			</div>
+			
+		
+			<div id="reportErrorPanel">
+				<div id="reportErrorInner">							  
+				  <div id="formDiv">
+					<div class="sectionTitle">Report Data Issue</div>
+					  <p class="heading">To contact Greenwood Publishing Group, Inc., please visit <a href="https://web.archive.org/web/20121009130758/http://www.greenwood.com/">www.greenwood.com</a>.  Company data is provided by Capital IQ.  Please use this form to report any data issues.</p>					  
+					  <div id="reportErrorErrorContainer">
+						<div id="errorAnnouncePanel">
+						  <div><span style="font-size:12px; font-weight:bold;"><label id="describeErrorLabelRequired">Information Missing -</span> Please enter your information in the following field(s):</label> </div>
+						  <div id="errorList"></div>
+						</div>
+					  </div>
+					  <div class="floatL leftCol">						
+						<div class="smGreyTxt bold"><label id="sectionHeaderLabel">Company Name</div>
+						<div class="formField"><input id="companyName" value="Greenwood Publishing Group, Inc." size="25"/></div>				    
+						<div class="smGreyTxt bold"><label id="yourNameLabel">Your Name<span class="formAsterick">*</span></div>
+						<div class="formField"><input id="yourName" value="" size="25"/></div>
+						<div class="smGreyTxt bold"><label id="yourEmailLabel">Your E-Mail Address<span class="formAsterick">*</span></label></div>
+						<div class="formField"><input id="yourEmail" value="" size="25"/></div>
+						<div class="smGreyTxt bold"><label id="yourPhoneLabel">Your Phone Number<span class="formAsterick">*</span></label></div>
+						<div class="formField"><input id="yourPhone" value="" size="25"/></div>
+
+						<div class="smGreyTxt bold"><label id="Label1">Type of Data<span class="formAsterick">*</span></label></div>
+						<div class="formField">
+							<select id="typeOfData">
+								<option selected="selected">Overview</option>
+								<option>Executives</option>
+								<option>Key developments</option>
+								<option>Similar companies</option>
+								<option>Transactions</option>
+							</select>
+						</div>
+
+						<div class="titleTop" style="margin-bottom:0;">Update Needed<span class="formAsterick">*</span></div>				    
+						<div class="formField"><textarea id="DataCorrectionNeeded" cols="34" rows="12"></textarea></div>
+
+						<div style="margin: 10px 0"><p>All data changes require verification from public sources.  Please include the correct value or values and a source where we can verify.</p></div>
+						<div class="">
+							<div class="mod_cancelButton">
+								<a id="reportErrorCancelBtn" href="javascript:void(0);">Cancel</a>
+							</div>
+							<div class="mod_submitButton">
+								<a id="reportErrorSubmitBtn" href="javascript:void(0);">Submit</a>
+							</div>
+						  <div class="clear"></div>
+						</div>
+
+					  </div>				  
+					</div>
+					<div id="sentErrorDiv">
+							<div class="sectionTitle">Your requested update has been submitted</div>
+							<p class="heading">Our data partners will research the update request and update the information on this page if necessary. Research and follow-up could take several weeks. If you have questions, you can contact them at <a target="_blank" href="https://web.archive.org/web/20121009130758/mailto:bwwebmaster@businessweek.com">bwwebmaster@businessweek.com.</a></p>
+							<div class="">
+								<div class="mod_cancelButton">
+									<a id="reportErrorCloseBtn" href="javascript:void(0);">Close</a>
+								</div>
+							</div>
+						<div style="clear:both;">						
+					  </div>
+					</div>
+				</div>
+			</div>
+		
+
+		</div>		
+		<div id="newFooterContainer">
+		    <div class="header_footer_814">
+<div class="clearfix" id="footer">
+<div class="social module">
+<h3>Social</h3>
+<ul>
+<li class="twitter">
+<a href="https://web.archive.org/web/20121009130758/http://twitter.com/BW">Follow us on Twitter</a>
+</li>
+<li class="fb">
+<a href="https://web.archive.org/web/20121009130758/http://facebook.com/Bloombergbusinessweek/">Join us on Facebook</a>
+</li>
+<li class="linked_in">
+<a href="https://web.archive.org/web/20121009130758/http://www.linkedin.com/company/businessweek">Connect with us on LinkedIn</a>
+</li>
+<li class="subscribe last">
+<a href="https://web.archive.org/web/20121009130758/https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&amp;cds_page_id=123469&amp;cds_response_key=I1209HI10">Subscribe to Bloomberg Businessweek</a>
+</li>
+<li class="bloomberg_logo last ir">
+<a href="https://web.archive.org/web/20121009130758/http://www.bloomberg.com/" target="_blank">Bloomberg</a>
+</li>
+</ul>
+</div>
+<div class="links module clearfix">
+<h3>Links</h3>
+<ul>
+<li><a href="https://web.archive.org/web/20121009130758/http://bloomberg.com/company">Our Company</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://bloombergmedia.com/">Advertising</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://bloomberg.com/careers">Careers</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/contact">Feedback</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/adsections/">Custom Publishing</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/manage-subscription">Manage Subscription</a></li>
+</ul>
+<ul class="last">
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/mobile">Mobile</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://newsletters.businessweek.com/bwn/ns.asp">Newsletters</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/privacy">Privacy Policy</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://reprints.ygsgroup.com/m/bloombergbusinessweek">Reprints &amp; Permissions</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/sitemap.htm">Sitemap</a></li>
+<li><a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/terms">Terms of Use</a></li>
+<li><a href="javascript:void(0)" class="opinion-lab">[+] Rate This Page</a></li>
+</ul>
+</div>
+<div class="current_issue module clearfix">
+<h3>Get Businessweek Delivered</h3>
+<a href="https://web.archive.org/web/20121009130758/https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&amp;cds_page_id=123469&amp;cds_response_key=I1209HI08" id="cover_image_thumbnail">
+<img alt="Breaking the Billion-User Barrier" height="155" src="https://web.archive.org/web/20121009130758im_/http://images.businessweek.com/cms/2012-10-04/1241cov_110x155.jpg" width="110"/>
+</a>
+<h6>
+<a href="https://web.archive.org/web/20121009130758/https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&amp;cds_page_id=123469&amp;cds_response_key=I1209HI08">Breaking the Billion-User Barrier</a>
+</h6>
+<a class="subscribe_button" href="https://web.archive.org/web/20121009130758/https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&amp;cds_page_id=123469&amp;cds_response_key=I1209HI08">Subscribe</a>
+</div>
+<div class="copyright">
+<p>
+<span>@2012 Bloomberg L.P. All Rights Reserved. Made in NYC</span>
+<span class="ad_choice">
+<a href="https://web.archive.org/web/20121009130758/http://www.businessweek.com/privacy#advertisements">Ad Choices
+<span class="icons-ad_choice"></span>
+</a></span>
+</p>
+</div>
+</div>
+<script src="https://web.archive.org/web/20121009130758js_/http://js.revsci.net/gateway/gw.js?csid=K05539&amp;auto=t" type="text/javascript"></script>
+<link href="https://web.archive.org/web/20121009130758cs_/http://www.businessweek.com/onlineopinionV5/oo_style.css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/onlineopinionV5/oo_engine.min.js" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/onlineopinionV5/oo_conf_invite.js" type="text/javascript"></script>
+
+<script src="https://web.archive.org/web/20121009130758js_/http://content.dl-rms.com/rms/mother/516/nodetag.js" type="text/javascript"></script>
+
+
+</div>
+<script type="text/javascript">document.close()</script>			
+		</div>
+
+		
+		<!--<script src="http://static.btrd.net/js/bw_comscore.js" type="text/javascript"></script>-->		
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+  //<![CDATA[
+	$(document).ready(function () {		
+		BBBW_comScore.params = {
+			// 'name' variable is derived from advertising site/zone combination
+			// currently, this is set using the 'BW_sitezone' variable on the page, which appears to be set by WSOD
+			// take site/zone. replace '/' with '.', prepend with 'bw.'
+			// see spreadsheet for reference
+			name: "bw.companies.domestic.private.snapshot",
+			bb_c_type: "company profile", // should be current 's_prop1' variable
+			bb_industry: "", // should be current 's_industryCode' variable, when available
+			bb_cg_1: "companies",       // should be current 'cg1' variable         **ADDITION**
+			bb_cg_2: "private companies",       // should be current 'cg2' variable         **ADDITION**
+			bb_cg_3: "CIC : snapshot"        // should be current 'cg3' variable         **ADDITION**
+		};		
+		
+		BBBW_comScore.track();		
+	});
+  //]]>
+</script>
+
+<noscript>
+<p>
+<!--<img alt="*" height="1" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005059&amp;c3=&amp;c4=&amp;c5=&amp;c6;c15=&amp;cj=1" width="1" />-->
+</p>
+</noscript>
+<!-- End comScore Tag -->	
+		<script language="JavaScript" type="text/javascript" src="https://web.archive.org/web/20121009130758js_/http://www.businessweek.com/common_scripts/Tacoda_footer.js"></script>
+		
+	</body>
+</html><!--
+     FILE ARCHIVED ON 13:07:58 Oct 09, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:04:52 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.954
+  exclusion.robots: 0.105
+  exclusion.robots.policy: 0.088
+  esindex: 0.015
+  cdx.remote: 7.087
+  LoadShardBlock: 208.068 (3)
+  PetaboxLoader3.datanode: 89.859 (4)
+  PetaboxLoader3.resolve: 281.111 (2)
+  load_resource: 314.663
+--> title 76 Greenwood Publishing Group, Inc.: Private Company Information - Businessweek contentType 9 text/html url 135 https://web.archive.org:443/web/20121009130758/http://investing.businessweek.com/research/stocks/private/snapshot.asp?privcapId=1510370 responseCode 3 200 

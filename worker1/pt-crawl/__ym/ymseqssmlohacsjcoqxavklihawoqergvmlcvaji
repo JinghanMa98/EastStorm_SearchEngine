@@ -1,0 +1,2815 @@
+ymseqssmlohacsjcoqxavklihawoqergvmlcvaji page 149692 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+  
+    <!-- Google Consent Mode -->
+    <script data-cookieconsent="ignore">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        // GDPR-specific settings
+        gtag('consent', 'default', {
+            'ad_personalization': 'denied',
+            'ad_storage': 'denied',
+            'ad_user_data': 'denied',
+            'analytics_storage': 'denied',
+            'functionality_storage': 'denied',
+            'personalization_storage': 'denied',
+            'region': [
+                'GB','AT','BE','BG','HR','CH','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO'
+            ],
+            'wait_for_update': 500,
+        });
+        // California settings
+        gtag('consent', 'default', {
+            'ad_personalization': 'granted',
+            'ad_storage': 'denied',
+            'ad_user_data': 'granted',
+            'analytics_storage': 'granted',
+            'functionality_storage': 'granted',
+            'personalization_storage': 'granted',
+            'security_storage': 'granted',
+            'region': [
+                'US-CA'
+            ],
+            'wait_for_update': 500,
+        });
+        // Default settings
+        gtag('consent', 'default', {
+            'ad_personalization': 'granted',
+            'ad_storage': 'granted',
+            'ad_user_data': 'granted',
+            'analytics_storage': 'granted',
+            'functionality_storage': 'granted',
+            'personalization_storage': 'granted',
+            'security_storage': 'granted',
+            'wait_for_update': 500,
+        });
+        gtag('set', 'ads_data_redaction', true);
+        gtag('set', 'url_passthrough', true);
+    </script>
+    <!-- End Google Consent Mode-->
+
+  <script data-cookieconsent="ignore">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T8PP8RKN');</script>
+
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="0dd98a29-c6b7-479b-9254-9102a5cbd85f" data-blockingmode="auto" type="text/javascript"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          // Define the homepage URL (adjust this to your actual homepage URL)
+          var homepageUrl = "https://www.paralympic.org/";
+
+          // Get the current page URL
+          var currentPageUrl = window.location.href;
+
+          // Check if the current page is the homepage or homepage with query string
+          if (currentPageUrl === homepageUrl || currentPageUrl.startsWith(homepageUrl + "?")) {
+          } else {
+              // On other pages, hide the <section> with the specific ID
+              var specificSection = document.getElementById("block-mainipcworldwidepartners");
+              var specificSectionIns = document.getElementById("block-institutionalpartners");
+              if (specificSection) {
+                  specificSection.style.display = "none";
+              }
+
+              if (specificSectionIns) {
+                  specificSectionIns.style.display = "none";
+              }
+          }
+      });
+    </script>
+    <meta charset="utf-8" />
+<script type="text/plain" async src="https://www.googletagmanager.com/gtag/js?id=G-6TNCMVEHQ6" data-cookieconsent="statistics"></script>
+<script type="text/plain" data-cookieconsent="statistics">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());// Set to the same value as the web property used on the site
+var gaProperty = 'G-6TNCMVEHQ6';gtag("config", "G-6TNCMVEHQ6", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="https://www.paralympic.org/" />
+<link rel="shortlink" href="https://www.paralympic.org/" />
+<meta name="description" content="Official website for the latest Paralympic news, videos, events and results. Follow the Paralympic Games and competitions for all Paralympic and IPC sports" />
+<meta property="og:type" content="Apes Page" />
+<meta property="og:url" content="https://www.paralympic.org/home" />
+<meta property="og:title" content="IPC - Paralympics News, Sports and Results" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="en" href="https://www.paralympic.org" />
+<link rel="alternate" hreflang="es" href="https://www.paralympic.org/es" />
+<script></script>
+<meta property="fb:pages" content="39903891280" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "SportsOrganization",
+            "@id": "https://www.paralympic.org/home",
+            "name": "International Paralympic Committee",
+            "sameAs": [
+                "https://www.facebook.com/paralympics",
+                "https://www.instagram.com/Paralympics/",
+                "https://twitter.com/Paralympics",
+                "https://www.youtube.com/user/ParalympicSportTV?sub_confirmation=1",
+                "https://en.wikipedia.org/wiki/International_Paralympic_Committee"
+            ],
+            "url": "https://www.paralympic.org/home",
+            "telephone": "+49 228 2097200",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.paralympic.org/sites/default/files/styles/header_logo/public/2019-10/IPC%20new%20logo%201.jpg?itok=EJB4CZ2R",
+                "width": "80",
+                "height": "80"
+            },
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.paralympic.org/sites/default/files/styles/header_logo/public/2019-10/IPC%20new%20logo%201.jpg?itok=EJB4CZ2R",
+                "width": "80",
+                "height": "80"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Adenauerallee 212-214, 53113",
+                "addressLocality": [
+                    "Bonn",
+                    "Germany"
+                ]
+            }
+        }
+    ]
+}</script>
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.paralympic.org/home" />
+
+    <title>IPC - Paralympics News, Sports and Results</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_4qgX4i0UukqxF9fEtBcDMy6KjcaMwpkYI2mJNRYZ19g.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_YnHr0aPLyVs0Kjadxg-GdXyp078ciu1h8aOwmLDeMtI.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_UvtE_yUHI9R6agSFw7RSlOkc0hjwMobleuxRKYIfqA4.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v3.2" defer async crossorigin="anonymous"></script>
+
+    <meta name="facebook-domain-verification" content="nh6862aqfd0oqv27ifscuv5etx1ctm" />
+    <meta name="google-adsense-account" content="ca-pub-9310705866692537">
+    
+   
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+         
+	var raw = document.getElementById("raw-emotions");
+      if( raw ){
+      var imported = document.createElement('script');
+      imported.src = 'https://doh2xi7kxy1sk.cloudfront.net/scripts/iframe_parent.js';
+      document.body.append(imported);
+
+      document.getElementById("raw-emotions").innerHTML = '<link rel="stylesheet" type="text/css" href="https://doh2xi7kxy1sk.cloudfront.net/styles/iframe_parent.css"><iframe id="phoria-iframe" src="https://raw-emotions.phoria.com.au" frameborder="0" allow="xr-spatial-tracking fullscreen vr clipboard-write" allowvr="yes" allowfullscreen="yes" ></iframe>';
+      }
+
+    });
+     
+  </script>
+
+  <!-- Facebook SDK -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0"></script>
+
+  <!-- Twitter SDK -->
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <!-- Instagram SDK -->
+  <script async src="https://www.instagram.com/embed.js"></script>
+
+  <!-- TikTok SDK -->
+  <script async src="https://www.tiktok.com/embed.js"></script>
+
+  </head>
+  <body class="layout-no-sidebars path-frontpage page-node-type-apes-page new-site-body" id="page">
+  
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8PP8RKN"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <script type="text/javascript">
+  window.onload = function() {
+
+
+      var body = document.body;
+      if (document.cookie.indexOf('contrast=high') != -1){
+        console.log( document.cookie.indexOf('contrast=high') );
+        body.classList.add("highcontrast");
+        document.getElementById('contrast-input').checked = true;
+        document.getElementById('contrast-input-mobile').checked = true;
+        console.log( document.getElementById('contrast-input').checked );
+
+      }else{
+        body.classList.remove("highcontrast");
+      }
+  };
+</script>
+  <script type="text/javascript">
+    var body = document.body;
+    if (document.cookie.indexOf('fontsize-zoom=1') != -1){
+      body.classList.add('zoom1');
+    }else if (document.cookie.indexOf('fontsize-zoom=2') != -1){
+      body.classList.add('zoom2'); 
+    }else if (document.cookie.indexOf('fontsize-zoom=3') != -1){
+      body.classList.add('zoom3');      
+    }else{
+      body.classList.remove('zoom1', 'zoom2', 'zoom3');
+    }
+
+    //if(homepage.classList.contains('path-frontpage')){
+      //body.classList.add("beijing-front-page");
+    //}
+
+    const homepage = document.querySelector('.layout-no-sidebars');
+    if(homepage.classList.contains('new-site-body')){
+
+      var lastScrollTopBeijing = 0;
+
+      // element should be replaced with the actual target element on which you have applied scroll, use window in case of no target element.
+      window.addEventListener("scroll", function(){ 
+         var st = window.pageYOffset || document.documentElement.scrollTop; 
+         if (st > lastScrollTopBeijing){
+            // downscroll code
+            body.classList.add("header-fixed");
+         } 
+         if(st == 0){
+            // upscroll code
+            body.classList.remove("header-fixed");
+         }
+         lastScrollTopBeijing = st <= 0 ? 0 : st; // For Mobile or negative scrolling
+      }, false);
+    }
+    
+    const firstPath = window.location.pathname.split('/')[1];
+    
+    const firstPathLive = window.location.pathname.split('/')[1];
+
+    const liveListingPath = window.location.pathname.split('/')[2];
+
+    if(firstPath == 'tokyo-2020'){
+      body.classList.add("default-tokyo-2020");
+    }
+	
+    if(firstPath == 'raw-emotions'){
+      body.classList.add("raw-emotions");
+    }
+    
+    if(firstPath == 'beijing-2022' || liveListingPath == 'beijing-2022'){
+      body.classList.add("default-beijing-2022");
+      
+      var lastScrollTopBeijing = 0;
+
+      // element should be replaced with the actual target element on which you have applied scroll, use window in case of no target element.
+      window.addEventListener("scroll", function(){ 
+         var st = window.pageYOffset || document.documentElement.scrollTop; 
+         if (st > lastScrollTopBeijing){
+            // downscroll code
+            body.classList.add("beijing-2022-scroll");
+         } 
+         if(st == 0){
+            // upscroll code
+            body.classList.remove("beijing-2022-scroll");
+         }
+	lastScrollTopBeijing = st <= 0 ? 0 : st;
+      }, false);
+    }
+    
+    const parasports = window.location.pathname.split('/')[1];
+    const parasport = window.location.pathname.split('/')[1];
+    const parasport_es_page = window.location.pathname.split('/')[2];
+    if(parasports == 'para-sports' || parasport == 'para-sport' || parasport_es_page == 'para-sport'){
+      body.classList.add("para-sports-page");
+    }
+    
+    if(firstPath == 'features'){
+      body.classList.add("features-page");
+    }    
+</script>
+
+<script>
+// Function to set up a countdown timer for an event
+function setupCountdownTimer(eventId, targetDate) {
+  // Update the countdown every second
+  setInterval(function() {
+    // Get the current date and time
+    var now = new Date().getTime();
+
+    // Calculate the time remaining
+    var distance = targetDate - now;
+
+    // Calculate days remaining
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+
+    // Get the countdown element
+    var countdownElement = document.querySelector(`#${eventId} .value`);
+
+    if (countdownElement) {
+      // Update the countdown element
+      countdownElement.textContent = days;
+
+      // If the countdown reaches zero, set the value to zero
+      if (distance < 0) {
+        countdownElement.textContent = '0';
+      }
+    } 
+  }, 1000);
+}
+
+// Set up countdown timers for each event
+setupCountdownTimer('countdown-alps', new Date('2030-03-01T18:00:00').getTime());
+setupCountdownTimer('countdown-milano', new Date('2026-03-06T18:00:00').getTime());
+setupCountdownTimer('countdown-la', new Date('2028-08-15T18:00:00').getTime());
+
+</script>
+
+<!-- JavaScript -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const featureBtns = document.querySelectorAll('.feature-btn');
+  const modal = document.querySelector('.waf-modal');
+
+  if (modal) {
+    const modalTitle = modal.querySelector('.modal-title');
+    const modalText = modal.querySelector('.modal-text');
+    const modalCloseBtn = modal.querySelector('.modal-close-btn');
+
+    // Add click event listener to each feature button
+    featureBtns.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        // Show the modal by setting its display style to "block"
+        modal.style.display = 'flex';
+        
+        // Set modal content based on data attributes
+        if (modalTitle) modalTitle.textContent = btn.getAttribute('data-title');
+        if (modalText) modalText.textContent = btn.getAttribute('data-text');
+      });
+    });
+
+    // Add click event listener to the modal close button
+    if (modalCloseBtn) {
+      modalCloseBtn.addEventListener('click', function() {
+        // Hide the modal by setting its display style to "none"
+        modal.style.display = 'none';
+      });
+    }
+
+    // Add keydown event listener to close the modal on "Escape" key press
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape') {
+        // Hide the modal by setting its display style to "none"
+        modal.style.display = 'none';
+      }
+    });
+  }
+});
+</script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var modal = document.getElementById('annual-modal');
+  var openModalBtn = document.getElementById('open-modal');
+  var closeModalBtn = document.getElementById('close-modal');
+
+  if (openModalBtn) {
+    openModalBtn.addEventListener('click', function() {
+      if (modal) {
+        modal.style.display = 'flex';
+      }
+    });
+  }
+
+  if (closeModalBtn) {
+    closeModalBtn.addEventListener('click', function() {
+      if (modal) {
+        modal.style.display = 'none';
+      }
+    });
+  }
+
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape' && modal) {
+      modal.style.display = 'none';
+    }
+  });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Handle selection for sports
+  const selectSportsElement = document.getElementById('select_sports_1');
+  if (selectSportsElement) {
+    selectSportsElement.addEventListener('click', function(e) {
+      if (e.target.classList.contains('select-btn')) {
+        document.getElementById('selected_sports_1').textContent = e.target.textContent;
+        document.getElementById('selected_sports_1').dataset.value = e.target.getAttribute('data-value');
+        e.target.closest('.waf-select-box').classList.remove('active');
+        e.target.closest('.waf-select-box').querySelector('.select-open-btn').setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
+
+  // Handle selection for country
+  const selectCountryElement = document.getElementById('select_country_1');
+  if (selectCountryElement) {
+    selectCountryElement.addEventListener('click', function(e) {
+      if (e.target.classList.contains('select-btn')) {
+        document.getElementById('selected_country_1').textContent = e.target.textContent;
+        document.getElementById('selected_country_1').dataset.value = e.target.getAttribute('data-value');
+        e.target.closest('.waf-select-box').classList.remove('active');
+        e.target.closest('.waf-select-box').querySelector('.select-open-btn').setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
+
+  // Handle search button click
+  const searchSubmitElement = document.getElementById('search_submit_1');
+   if (searchSubmitElement) {
+    searchSubmitElement.addEventListener('click', function() {
+      const selectedSport = document.getElementById('selected_sports_1').dataset.value;
+      const selectedCountry = document.getElementById('selected_country_1').dataset.value;
+      const searchTerm = document.getElementById('input_search_1').value.trim();
+
+      if (!selectedSport || !selectedCountry || !searchTerm) {
+        alert('Please make sure all fields are filled in.');
+        return;
+      }
+    
+      const url = `https://www.globaldro.com/query2?userType=1&countryCode=${selectedCountry}&preferredLanguage=en&sport=${selectedSport}&searchTerm=${encodeURIComponent(searchTerm)}`;
+      window.open(url, '_blank');
+    });
+   }
+});
+</script>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+
+  // Handle selection for sports filter 2
+  const selectSports2Element = document.getElementById('select_sports_2');
+  if (selectSports2Element) {
+    selectSports2Element.addEventListener('click', function(e) {
+      if (e.target.classList.contains('select-btn')) {
+        document.getElementById('selected_sports_2').textContent = e.target.textContent;
+        document.getElementById('selected_sports_2').dataset.value = e.target.getAttribute('data-value');
+        e.target.closest('.waf-select-box').classList.remove('active');
+        e.target.closest('.waf-select-box').querySelector('.select-open-btn').setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
+
+  // Handle selection for country filter 2
+    const selectCountry2Element = document.getElementById('select_country_2');
+  if (selectCountry2Element) {
+    selectCountry2Element.addEventListener('click', function(e) {
+      if (e.target.classList.contains('select-btn')) {
+        document.getElementById('selected_country_2').textContent = e.target.textContent;
+        document.getElementById('selected_country_2').dataset.value = e.target.getAttribute('data-value');
+        e.target.closest('.waf-select-box').classList.remove('active');
+        e.target.closest('.waf-select-box').querySelector('.select-open-btn').setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
+
+    // Handle search button click for filter 2
+  const searchSubmit2Element = document.getElementById('search_submit_2');
+  if (searchSubmit2Element) {
+    searchSubmit2Element.addEventListener('click', function() {
+      const selectedSport = document.getElementById('selected_sports_2').dataset.value;
+      let selectedCountry = document.getElementById('selected_country_2').dataset.value;
+      const searchTerm = document.getElementById('input_search_2').value.trim();
+
+
+      if (!selectedSport || !searchTerm || !selectedCountry) {
+        alert('Please make sure all fields are filled in.');
+        return;
+      }
+
+      selectedCountry = 'US';
+
+
+      const url = `https://www.globaldro.com/query2?userType=1&countryCode=${selectedCountry}&preferredLanguage=en&sport=${selectedSport}&searchTerm=${encodeURIComponent(searchTerm)}`;
+      window.open(url, '_blank');
+    });
+  }
+    
+  });
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Get all tab elements
+    const tabs = document.querySelectorAll('.tabs .tab-name');
+    const tabContainers = document.querySelectorAll('.tab-container-wrap');
+
+    // Function to handle tab switching
+    function switchTab() {
+        // Remove the 'tab-active' class from all tabs
+        tabs.forEach(tab => tab.classList.remove('tab-active'));
+
+        // Add the 'tab-active' class to the clicked tab
+        this.classList.add('tab-active');
+
+        // Get the data attribute to identify the corresponding container
+        const tabType = this.classList.contains('tab-paralympic') ? 'paralympic' : 'recognized';
+
+        // Show the corresponding container and hide others
+        tabContainers.forEach(container => {
+            if (container.classList.contains(tabType)) {
+                container.classList.add('tab-container-wrap-active');
+            } else {
+                container.classList.remove('tab-container-wrap-active');
+            }
+        });
+    }
+
+    // Add click event listeners to all tabs
+    tabs.forEach(tab => {
+        tab.addEventListener('click', switchTab);
+    });
+});
+
+</script>
+  <script type="text/plain" data-cookieconsent="statistics">
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o4sr5');
+    twq('track','PageView');
+  </script>
+
+  <script type="text/plain" data-cookieconsent="statistics">
+		!function (w, d, t) {
+		  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+		
+		  ttq.load('CDH5F2RC77U1SIT04O4G');
+		  ttq.page();
+		}(window, document, 'ttq');
+	</script>
+        <div role="navigation" aria-label="skip-link">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+          Skip to main content
+        </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header class="header content-header clearfix">
+	<div class="layout-container">
+				<div class="header-wrapper">
+	<div class="header-main">
+		<div class="site-logo">
+			<a href="/" title="The International Paralympic Committee logo" class="site-logo-link">
+				<img src="/static-assets/images/logo.png?v=" alt="IPC logo" class="site-logo-img">
+			</a>
+		</div>
+		<!-- Menu Header nav -->
+		<nav class="nav">
+			<ul class="nav-list">
+				<li class="nav-item">
+															<a href="/paralympic-games" class="nav-link" title="PARALYMPIC GAMES">
+						<span class="nav-text">PARALYMPIC GAMES</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					                    					<a href="/sports" class="nav-link" title="SPORTS">
+						<span class="nav-text">SPORTS</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					                    					<a href="/news" class="nav-link" title="News">
+						<span class="nav-text">NEWS</span>
+					</a>
+				</li>
+								<li class="nav-item">
+				    				    				    <a href="/impact" class="nav-link" title="IMPACT">
+				        <span class="nav-text">IMPACT</span>
+				    </a>
+				</li>
+								<li class="nav-item">
+					                    					<a href="/ipc" class="nav-link" title="IPC">
+						<span class="nav-text">IPC</span>
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<div class="site-utils">
+			<div class="site-search">
+				<button type="button" value class="btn-search-toggle" aria-haspopup="true" aria-label="Open search field">
+					<span class="btn-text">Search</span>
+				</button>
+				<!--Add Search popup markup here later-->
+				<!-- Search block -->
+				<div class="search-overlay">
+					<div class="search-wrapper">
+						<div class="search-input-wrap">
+							<input type="search" class="search-input" placeholder="Search and press Enter">
+							<button aria-label="Search Now" id="search-btn" aria-expanded="false" class="search-btn" title="Search Now">Search Now</button>
+						</div>
+						<!-- Search tabs recent/most frequent searches -->
+					</div>
+				</div>
+			</div>
+			<div class="language-wrap">
+				<a href="/es/home">
+					<button class="btn-lang btn-menu" aria-label="open language" aria-expanded="false" aria-haspopup="false">
+						<span class="icon"></span>
+						<span class="btn-text">es</span>
+					</button>
+				</a>
+			</div>
+		</div>
+	</div>
+	<button class="btn-hamburger" aria-expanded="false" aria-label="Hamburger">
+		<span class="line line-1">1</span>
+		<span class="line line-2">2</span>
+		<span class="line line-3">3</span>
+	</button>
+	<div class="header-overlay">
+		<div class="header-overlay-wrap">
+			<div class="search-input-wrap">
+				<input class="search-input search-mobile" type="search" placeholder="Search and press Enter">
+			</div>
+
+			<nav class="nav">
+				<ul class="nav-list" role="navigation">
+																<li class="nav-item primary">
+							<a href="/paralympic-games" class="nav-link" title="PARALYMPIC GAMES">
+								<span class="nav-text">PARALYMPIC GAMES</span>
+							</a>
+															<button class="nav-btn" aria-label="PARALYMPIC GAMES" aria-expanded="false"></button>
+								<ul class="sub-nav" role="navigation">
+									<li class="sub-nav-item secondary outer">
+										<a href="/paralympic-games" class="sub-nav-link" title="PARALYMPIC GAMES">
+											<span class="sub-nav-text">PARALYMPIC GAMES</span>
+										</a>
+									</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/paralympic-games-results" class="sub-nav-link" title="RESULTS">
+												<span class="sub-nav-text">RESULTS</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/videos/paralympic-games" class="sub-nav-link" title="VIDEOS">
+												<span class="sub-nav-text">VIDEOS</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/medals" class="sub-nav-link" title="MEDALS">
+												<span class="sub-nav-text">MEDALS</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/mascots" class="sub-nav-link" title="MASCOTS">
+												<span class="sub-nav-text">MASCOTS</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/opening-ceremony" class="sub-nav-link" title="OPENING CEREMONIES">
+												<span class="sub-nav-text">OPENING CEREMONIES</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/closing-ceremony" class="sub-nav-link" title="CLOSING CEREMONIES">
+												<span class="sub-nav-text">CLOSING CEREMONIES</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/paralympic-games/summer-overview" class="sub-nav-link" title="SUMMER OVERVIEW">
+												<span class="sub-nav-text">SUMMER OVERVIEW</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/paralympic-games/winter-overview" class="sub-nav-link" title="WINTER OVERVIEW">
+												<span class="sub-nav-text">WINTER OVERVIEW</span>
+											</a>
+																					</li>
+																	</ul>
+													</li>
+									</ul>
+				<ul class="nav-list" role="navigation">
+																<li class="nav-item primary">
+							<a href="/sports" class="nav-link" title="SPORTS">
+								<span class="nav-text">SPORTS</span>
+							</a>
+						</li>
+																					<li class="nav-item primary">
+							<a href="/classification" class="nav-link" title="CLASSIFICATION">
+								<span class="nav-text">CLASSIFICATION</span>
+							</a>
+															<button class="nav-btn" aria-label="CLASSIFICATION" aria-expanded="false"></button>
+								<ul class="sub-nav" role="navigation">
+									<li class="sub-nav-item secondary outer">
+										<a href="/classification" class="sub-nav-link" title="CLASSIFICATION">
+											<span class="sub-nav-text">CLASSIFICATION</span>
+										</a>
+									</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-board-of-appeal-of-classification" class="sub-nav-link" title="BOARD OF APPEAL OF CLASSIFICATION">
+												<span class="sub-nav-text">BOARD OF APPEAL OF CLASSIFICATION</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-code" class="sub-nav-link" title="CLASSIFICATION CODE">
+												<span class="sub-nav-text">CLASSIFICATION CODE</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-education" class="sub-nav-link" title="CLASSIFICATION EDUCATION">
+												<span class="sub-nav-text">CLASSIFICATION EDUCATION</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-research" class="sub-nav-link" title="CLASSIFICATION RESEARCH">
+												<span class="sub-nav-text">CLASSIFICATION RESEARCH</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-by-sport" class="sub-nav-link" title="CLASSIFICATION BY SPORT">
+												<span class="sub-nav-text">CLASSIFICATION BY SPORT</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-code-compliance" class="sub-nav-link" title="CODE COMPLIANCE">
+												<span class="sub-nav-text">CODE COMPLIANCE</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification-code-review" class="sub-nav-link" title="CODE REVIEW">
+												<span class="sub-nav-text">CODE REVIEW</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/classification/faq" class="sub-nav-link" title="FAQS">
+												<span class="sub-nav-text">FAQS</span>
+											</a>
+																					</li>
+																	</ul>
+													</li>
+									</ul>
+				<ul class="nav-list" role="navigation">
+																<li class="nav-item primary">
+							<a href="/news" class="nav-link" title="NEWS">
+								<span class="nav-text">NEWS</span>
+							</a>
+						</li>
+																					<li class="nav-item primary">
+							<a href="/athletes" class="nav-link" title="ATHLETES">
+								<span class="nav-text">ATHLETES</span>
+							</a>
+															<button class="nav-btn" aria-label="ATHLETES" aria-expanded="false"></button>
+								<ul class="sub-nav" role="navigation">
+									<li class="sub-nav-item secondary outer">
+										<a href="/athletes" class="sub-nav-link" title="ATHLETES">
+											<span class="sub-nav-text">ATHLETES</span>
+										</a>
+									</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/athletes-council" class="sub-nav-link" title="ATHLETES&#039; COUNCIL">
+												<span class="sub-nav-text">ATHLETES&#039; COUNCIL</span>
+											</a>
+																							<button class="nav-btn" aria-label="ATHLETES&#039; COUNCIL" aria-expanded="false"></button>
+												<ul class="sub-nav" role="navigation">
+																											<li class="sub-nav-item ternary">
+															<a href="/athletes-council" target="" title="WHO WE ARE" class="sub-nav-link">
+																<span class="sub-nav-text">WHO WE ARE</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/athletes-council/athlete-council-election" target="" title="ATHLETES COUNCIL ELECTION CANDIDATES" class="sub-nav-link">
+																<span class="sub-nav-text">ATHLETES COUNCIL ELECTION CANDIDATES</span>
+															</a>
+														</li>
+																									</ul>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/athletes-forum" class="sub-nav-link" title="ATHLETES FORUM">
+												<span class="sub-nav-text">ATHLETES FORUM</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/athlete-reps" class="sub-nav-link" title="ATHLETE REPRESENTATIVES">
+												<span class="sub-nav-text">ATHLETE REPRESENTATIVES</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/athlete-resources" class="sub-nav-link" title="ATHLETE RESOURCES">
+												<span class="sub-nav-text">ATHLETE RESOURCES</span>
+											</a>
+																					</li>
+																	</ul>
+													</li>
+																					<li class="nav-item primary">
+							<a href="/npcs" class="nav-link" title="NATIONAL PARALYMPIC COMMITTEES">
+								<span class="nav-text">NATIONAL PARALYMPIC COMMITTEES</span>
+							</a>
+															<button class="nav-btn" aria-label="NATIONAL PARALYMPIC COMMITTEES" aria-expanded="false"></button>
+								<ul class="sub-nav" role="navigation">
+									<li class="sub-nav-item secondary outer">
+										<a href="/npcs" class="sub-nav-link" title="NATIONAL PARALYMPIC COMMITTEES">
+											<span class="sub-nav-text">NATIONAL PARALYMPIC COMMITTEES</span>
+										</a>
+									</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/refugee-paralympic-team" class="sub-nav-link" title="REFUGEE PARALYMPIC TEAM ">
+												<span class="sub-nav-text">REFUGEE PARALYMPIC TEAM </span>
+											</a>
+																					</li>
+																	</ul>
+													</li>
+									</ul>
+				<ul class="nav-list" role="navigation">
+																<li class="nav-item primary">
+							<a href="/impact" class="nav-link" title="IMPACT">
+								<span class="nav-text">IMPACT</span>
+							</a>
+						</li>
+																					<li class="nav-item primary">
+							<a href="/antidoping" class="nav-link" title="ANTI-DOPING">
+								<span class="nav-text">ANTI-DOPING</span>
+							</a>
+													</li>
+																					<li class="nav-item primary">
+							<a href="/medical-science" class="nav-link" title="Medicine &amp; Science">
+								<span class="nav-text">Medicine &amp; Science</span>
+							</a>
+						</li>
+																					<li class="nav-item primary">
+							<a href="/ipc" class="nav-link" title="IPC">
+								<span class="nav-text">IPC</span>
+							</a>
+															<button class="nav-btn" aria-label="IPC" aria-expanded="false"></button>
+								<ul class="sub-nav" role="navigation">
+									<li class="sub-nav-item secondary outer">
+										<a href="/ipc" class="sub-nav-link" title="IPC">
+											<span class="sub-nav-text">IPC</span>
+										</a>
+									</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/ipc/history" class="sub-nav-link" title="History">
+												<span class="sub-nav-text">History</span>
+											</a>
+																							<button class="nav-btn" aria-label="History" aria-expanded="false"></button>
+												<ul class="sub-nav" role="navigation">
+																											<li class="sub-nav-item ternary">
+															<a href="/paralympic-archive" target="" title="Paralympic archive" class="sub-nav-link">
+																<span class="sub-nav-text">Paralympic archive</span>
+															</a>
+														</li>
+																									</ul>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/ipc/who-we-are" class="sub-nav-link" title="Who we are">
+												<span class="sub-nav-text">Who we are</span>
+											</a>
+																							<button class="nav-btn" aria-label="Who we are" aria-expanded="false"></button>
+												<ul class="sub-nav" role="navigation">
+																											<li class="sub-nav-item ternary">
+															<a href="/ipc-structure" target="" title="Structure" class="sub-nav-link">
+																<span class="sub-nav-text">Structure</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/ipc-governing-board" target="" title="Governing Board" class="sub-nav-link">
+																<span class="sub-nav-text">Governing Board</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/ipc-bodies" target="" title="IPC Bodies" class="sub-nav-link">
+																<span class="sub-nav-text">IPC Bodies</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/ipc/federations" target="" title="Federations" class="sub-nav-link">
+																<span class="sub-nav-text">Federations</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/the-ipc/management-team" target="" title="TEAM IPC " class="sub-nav-link">
+																<span class="sub-nav-text">TEAM IPC </span>
+															</a>
+														</li>
+																									</ul>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/sponsors" class="sub-nav-link" title="PARTNERS">
+												<span class="sub-nav-text">PARTNERS</span>
+											</a>
+																							<button class="nav-btn" aria-label="PARTNERS" aria-expanded="false"></button>
+												<ul class="sub-nav" role="navigation">
+																											<li class="sub-nav-item ternary">
+															<a href="/sponsors/governmental-partners" target="" title="GOVERNMENTAL PARTNERS" class="sub-nav-link">
+																<span class="sub-nav-text">GOVERNMENTAL PARTNERS</span>
+															</a>
+														</li>
+																									</ul>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/media-office" class="sub-nav-link" title="MEDIA OFFICE">
+												<span class="sub-nav-text">MEDIA OFFICE</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/ipc/awards" class="sub-nav-link" title="AWARDS">
+												<span class="sub-nav-text">AWARDS</span>
+											</a>
+																							<button class="nav-btn" aria-label="AWARDS" aria-expanded="false"></button>
+												<ul class="sub-nav" role="navigation">
+																											<li class="sub-nav-item ternary">
+															<a href="/paralympic-order" target="" title="Paralympic Order" class="sub-nav-link">
+																<span class="sub-nav-text">Paralympic Order</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/paralympic-games-appreciation-award" target="" title="Paralympic Games Appreciation Award" class="sub-nav-link">
+																<span class="sub-nav-text">Paralympic Games Appreciation Award</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/hall-of-fame" target="" title="Hall of Fame" class="sub-nav-link">
+																<span class="sub-nav-text">Hall of Fame</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/para-sports-awards" target="" title="Para Sports Awards" class="sub-nav-link">
+																<span class="sub-nav-text">Para Sports Awards</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/IPC-scientific-award" target="" title="IPC Scientific Award" class="sub-nav-link">
+																<span class="sub-nav-text">IPC Scientific Award</span>
+															</a>
+														</li>
+																											<li class="sub-nav-item ternary">
+															<a href="/paralympic-external-awards" target="" title="External awards" class="sub-nav-link">
+																<span class="sub-nav-text">External awards</span>
+															</a>
+														</li>
+																									</ul>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/ipc-handbook" class="sub-nav-link" title="HANDBOOK">
+												<span class="sub-nav-text">HANDBOOK</span>
+											</a>
+																					</li>
+																	</ul>
+								<ul class="sub-nav" role="navigation">
+																			<li class="sub-nav-item secondary">
+											<a href="/logo" class="sub-nav-link" title="Paralympic symbol">
+												<span class="sub-nav-text">Paralympic symbol</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/careers" class="sub-nav-link" title="Join Team IPC">
+												<span class="sub-nav-text">Join Team IPC</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/publications" class="sub-nav-link" title="Publications">
+												<span class="sub-nav-text">Publications</span>
+											</a>
+																					</li>
+																			<li class="sub-nav-item secondary">
+											<a href="/volunteer-roles" class="sub-nav-link" title="VOLUNTEER ROLES">
+												<span class="sub-nav-text">VOLUNTEER ROLES</span>
+											</a>
+																					</li>
+																	</ul>
+													</li>
+									</ul>
+			</nav>
+
+			<div class="social-wrap">
+				<h3 class="title">follow us</h3>
+				<ul class="social-list" role="navigation">
+					<li class="social-item social-item-facebook-f">
+						<a href="https://www.facebook.com/paralympics" class="social-link" title="Facebook" target="_blank">
+							<span class="social-text">Facebook</span>
+						</a>
+					</li>
+					<li class="social-item social-item-instagram">
+						<a href="https://www.instagram.com/Paralympics/" class="social-link" title="Instagram" target="_blank">
+							<span class="social-text">Instagram</span>
+						</a>
+					</li>
+					<li class="social-item social-item-twitter">
+						<a href="https://twitter.com/Paralympics" class="social-link" title="Twitter" target="_blank">
+							<span class="social-text">Twitter</span>
+						</a>
+					</li>
+					<li class="social-item social-item-youtube">
+						<a href="https://www.youtube.com/user/ParalympicSportTV" class="social-link" title="Youtube" target="_blank">
+							<span class="social-text">Youtube</span>
+						</a>
+					</li>
+					<li class="social-item social-item-tiktok">
+						<a href="https://www.tiktok.com/@paralympics?lang=en" target="_blank" class="social-link" title="Tiktok">
+							<span class="social-text">Tiktok</span>
+						</a>
+					</li>
+					<li class="social-item social-item-mail-long">
+						<a href="https://www.paralympic.org/newsletter-subscribe" class="social-link" title="Newsletter" target="_blank">
+							<span class="social-text">Email</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="para-games-wrap">
+				<div class="card-list">
+					<div class="card-item milano">
+						<div class="card-logo">
+							<img src="/static-assets/images/games/milano-cortina-26.webp?v=" alt="Milano Cortina 26" class="card-logo-img" loading="lazy">
+						</div>
+						<div class="card-title">
+							<span class="card-timer" id="countdown-milano">
+																
+								<span class="value">0</span>
+																days to go
+							</span>
+														<h4 class="card-name">Milano Cortina 2026 Paralympic Winter Games</h4>
+						</div>
+						<div class="card-calendar">
+							<span class="card-dates">06 - 15 Mar</span>
+							<span class="card-year">2026</span>
+						</div>
+						<!-- Please remove if card does not have a click -->
+						<a href="https://www.paralympic.org/milano-cortina-2026" title class="card-link">Link</a>
+					</div>
+					<div class="card-item la">
+						<div class="card-logo">
+							<img src="/static-assets/images/games/la-28.webp?v=" alt="LA 28" class="card-logo-img" loading="lazy">
+						</div>
+						<div class="card-title">
+							<span class="card-timer" id="countdown-la">
+																
+								<span class="value">0</span>
+																days to go
+							</span>
+																					<h4 class="card-name">LA28 Paralympic Games</h4>
+						</div>
+						<div class="card-calendar">
+							<span class="card-dates">15 - 27 AUG</span>
+							<span class="card-year">2028</span>
+						</div>
+						<!-- Please remove if card does not have a click -->
+						<a href="https://www.paralympic.org/la-2028" title class="card-link">Link</a>
+					</div>
+					<div class="card-item paris">
+						<div class="card-logo">
+							<img src="/static-assets/images/games/french_alps.png" alt="French Alps 2030" class="card-logo-img" loading="lazy">
+						</div>
+						<div class="card-title">
+							<span class="card-timer" id="countdown-alps">
+																
+								<span class="value">0</span>
+																days to go
+							</span>
+														<h4 class="card-name">French Alps 2030 Paralympic Winter Games</h4>
+						</div>
+						<div class="card-calendar">
+							<span class="card-dates">01 - 10 mar</span>
+							<span class="card-year">2030</span>
+						</div>
+						<!-- Please remove if card does not have a click -->
+						<a href="https://www.paralympic.org/french-alps-2030" title class="card-link">Link</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+</header>
+
+
+
+
+
+
+
+<section class="main-content ipc-main-content-spacing new-site-common">
+	<main class="page-content clearfix" role="main">
+		  <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+		<div id="block-main-ipc-master-content" class="block block-system block-system-main-block" aria-label="system-main-block">
+	  
+	  	  
+	  		<div class="content">
+		  
+<article about="/home" aria-label="apes_page IPC - Paralympics News, Sports and Results" class="node node--type-apes-page node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="node__content clearfix" id="main-content">
+  	  		          <div class="layout layout--fullcol">
+
+          <div  class="layout__region layout__region--first">
+        <section class="block block-layout-builder block-inline-blockshowcase clearfix showcase- template1">
+	<div class="title">
+		
+				
+	</div>
+				<div class="social-section">
+			<div class="social-wrapper">
+								<h2 class="title">Follow us</h2>
+				<ul class="social-list" role="navigation">
+					<li class="social-item social-item-facebook-f">
+						<a href="https://www.facebook.com/paralympics" target="_blank" class="social-link" title="Facebook">
+							<span class="social-text">Facebook</span>
+						</a>
+					</li>
+					<li class="social-item social-item-instagram">
+						<a href="https://www.instagram.com/Paralympics/" target="_blank" class="social-link" title="Instagram">
+							<span class="social-text">Instagram</span>
+						</a>
+					</li>
+					<li class="social-item social-item-twitter">
+						<a href="https://twitter.com/Paralympics" target="_blank" class="social-link" title="Twitter">
+							<span class="social-text">Twitter</span>
+						</a>
+					</li>
+					<li class="social-item social-item-youtube">
+						<a href="https://www.youtube.com/user/ParalympicSportTV" target="_blank" class="social-link" title="Youtube">
+							<span class="social-text">Youtube</span>
+						</a>
+					</li>
+					<li class="social-item social-item-tiktok">
+						<a href="https://www.tiktok.com/@paralympics?lang=en" target="_blank" class="social-link" title="Tiktok">
+							<span class="social-text">Tiktok</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="waf-component waf-showcase">
+			<div class="layout-wrapper">
+				<div class="preview-swiper swiper">
+					<div class="article-list swiper-wrapper">
+																																	<article class="article-item swiper-slide">
+								<div class="article-wrap">
+									<div class="article-thumbnail">
+										<figure class="img-box" role="none">
+											<a href="https://www.paralympic.org/news/candidates-milano-cortina-2026-ipc-athletes-council-elections" title="Candidates announced for Milano Cortina 2026 IPC Athletes&#039; Council elections">
+																																																												<picture>
+													<source
+														type="image/webp"
+														srcset="/sites/default/files/styles/large_original/public/2025-09/Blue-Agitos%20for%20showcase.webp?itok=sOrGUean">
+													<img src="/sites/default/files/styles/large_original/public/2025-09/Blue-Agitos%20for%20showcase.jpg?itok=sOrGUean" alt="Candidates announced for Milano Cortina 2026 IPC Athletes&#039; Council elections" importance="low" loading="lazy">
+												</picture>
+											</a>
+											</figure>
+										</div>
+										<div class="article-content">
+												<h2 class="article-title">Candidates announced for Milano Cortina 2026 IPC Athletes&#039; Council elections</h2>
+											<!-- this is for action buttons-->
+											<div class="article-readmore">
+                                        											<a href="https://www.paralympic.org/news/candidates-milano-cortina-2026-ipc-athletes-council-elections" class="btn-site btn-fill" title="Read more">Read more</a>
+											</div>
+										</div>
+									</div>
+								</article>
+																												<article class="article-item swiper-slide">
+								<div class="article-wrap">
+									<div class="article-thumbnail">
+										<figure class="img-box" role="none">
+											<a href="https://www.paralympic.org/feature/para-fencer-nino-tibilashvili-targeting-la28" title="Para fencer Nino Tibilashvili targeting gold for Georgia at LA28">
+																																																												<picture>
+													<source
+														type="image/webp"
+														srcset="/sites/default/files/styles/large_original/public/2025-12/Top%20page%20-%20Nino%20Tibilashvili%2C%20Georgia%2C%20fencing.webp?itok=XJkx65WR">
+													<img src="/sites/default/files/styles/large_original/public/2025-12/Top%20page%20-%20Nino%20Tibilashvili%2C%20Georgia%2C%20fencing.jpg?itok=XJkx65WR" alt="Para fencer Nino Tibilashvili targeting gold for Georgia at LA28" importance="low" loading="lazy">
+												</picture>
+											</a>
+											</figure>
+										</div>
+										<div class="article-content">
+												<h2 class="article-title">Para fencer Nino Tibilashvili targeting gold for Georgia at LA28</h2>
+											<!-- this is for action buttons-->
+											<div class="article-readmore">
+                                        											<a href="https://www.paralympic.org/feature/para-fencer-nino-tibilashvili-targeting-la28" class="btn-site btn-fill" title="Read more">Read more</a>
+											</div>
+										</div>
+									</div>
+								</article>
+																												<article class="article-item swiper-slide">
+								<div class="article-wrap">
+									<div class="article-thumbnail">
+										<figure class="img-box" role="none">
+											<a href="https://www.paralympic.org/feature/how-paralympians-driving-change-beyond-sport" title="How Paralympians are driving change beyond sport">
+																																																												<picture>
+													<source
+														type="image/webp"
+														srcset="/sites/default/files/styles/large_original/public/2025-12/Max%20Tan.webp?itok=oEmp24bB">
+													<img src="/sites/default/files/styles/large_original/public/2025-12/Max%20Tan.jpg?itok=oEmp24bB" alt="How Paralympians are driving change beyond sport" importance="low" loading="lazy">
+												</picture>
+											</a>
+											</figure>
+										</div>
+										<div class="article-content">
+												<h2 class="article-title">How Paralympians are driving change beyond sport</h2>
+											<!-- this is for action buttons-->
+											<div class="article-readmore">
+                                        											<a href="https://www.paralympic.org/feature/how-paralympians-driving-change-beyond-sport" class="btn-site btn-fill" title="Read more">Read more</a>
+											</div>
+										</div>
+									</div>
+								</article>
+																												<article class="article-item swiper-slide">
+								<div class="article-wrap">
+									<div class="article-thumbnail">
+										<figure class="img-box" role="none">
+											<a href="https://www.paralympic.org/news/brisbane-2032-games-vision-announced" title="&quot;Believe. Belong. Become. Brisbane 2032.&quot; announced as Brisbane 2032 Games Vision">
+																																																												<picture>
+													<source
+														type="image/webp"
+														srcset="/sites/default/files/styles/large_original/public/2025-12/1-Australia%2C%20Paris%202024%2C%20Opening%20Ceremony%20top%20image.webp?itok=6J3x9F1v">
+													<img src="/sites/default/files/styles/large_original/public/2025-12/1-Australia%2C%20Paris%202024%2C%20Opening%20Ceremony%20top%20image.jpg?itok=6J3x9F1v" alt="&quot;Believe. Belong. Become. Brisbane 2032.&quot; announced as Brisbane 2032 Games Vision" importance="low" loading="lazy">
+												</picture>
+											</a>
+											</figure>
+										</div>
+										<div class="article-content">
+												<h2 class="article-title">&quot;Believe. Belong. Become. Brisbane 2032.&quot; announced as Brisbane 2032 Games Vision</h2>
+											<!-- this is for action buttons-->
+											<div class="article-readmore">
+                                        											<a href="https://www.paralympic.org/news/brisbane-2032-games-vision-announced" class="btn-site btn-fill" title="Read more">Read more</a>
+											</div>
+										</div>
+									</div>
+								</article>
+																												<article class="article-item swiper-slide">
+								<div class="article-wrap">
+									<div class="article-thumbnail">
+										<figure class="img-box" role="none">
+											<a href="https://www.paralympic.org/feature/wheelchair-curler-egidio-marchese-paralympic-fairytale" title="Wheelchair curler Egidio Marchese hopes for a double Paralympic fairytale">
+																																																												<picture>
+													<source
+														type="image/webp"
+														srcset="/sites/default/files/styles/large_original/public/2025-11/1Egidio%20Marchese%2C%20top%20image.webp?itok=LRl1zl2f">
+													<img src="/sites/default/files/styles/large_original/public/2025-11/1Egidio%20Marchese%2C%20top%20image.JPG?itok=LRl1zl2f" alt="Wheelchair curler Egidio Marchese hopes for a double Paralympic fairytale" importance="low" loading="lazy">
+												</picture>
+											</a>
+											</figure>
+										</div>
+										<div class="article-content">
+												<h2 class="article-title">Wheelchair curler Egidio Marchese hopes for a double Paralympic fairytale</h2>
+											<!-- this is for action buttons-->
+											<div class="article-readmore">
+                                        											<a href="https://www.paralympic.org/feature/wheelchair-curler-egidio-marchese-paralympic-fairytale" class="btn-site btn-fill" title="Read more">Read more</a>
+											</div>
+										</div>
+									</div>
+								</article>
+													</div>
+						<!-- If we need navigation buttons -->
+						<div class="swiper-button swiper-button-next"></div>
+						<div class="swiper-button swiper-button-prev"></div>
+					</div>
+				</div>
+			</div>
+			</section>
+
+      </div>
+        
+  </div>
+  <div class="layout layout--fullcol">
+
+          <div  class="layout__region layout__region--first">
+        						<section class="block block-layout-builder block-inline-blockapes-free-html clearfix apes-free-html template1">
+    
+        
+            <div class="content">
+            <div class="freeHTML">
+										                            <div class="waf-component waf-buy">
+  <div class="layout-wrapper">
+    <a href="https://tickets.milanocortina2026.org/en/?affiliate=26P&utm_source=ipc_webiste_en&utm_medium=organic_ipc&utm_campaign=ticketing_ply" target="_blank" class="banner-link" title="Milano Cortina 2026 Tickets">
+      <picture>
+        <source media="(min-width: 768px)" srcset="/sites/default/files/styles/large_original/public/2025-03/01_1224x263_3.jpg?itok=mRvCSnfm">
+        <img src="/sites/default/files/styles/large_original/public/2025-03/01_1224x263_3.jpg?itok=mRvCSnfm" alt="Milano Cortina 2026 Tickets" class="banner-img" loading="lazy">
+      </picture>
+    </a>
+  </div>
+</div>
+<h1 style="display: none;">IPC - Paralympics News, Sports and Results</h1>
+            </div>
+        </div>
+    </section>
+	
+
+
+      </div>
+        
+  </div>
+  <div class="layout layout--fullcol">
+
+          <div  class="layout__region layout__region--first">
+        <section class="block block-layout-builder block-inline-blockhome-top-stories clearfix home-top-stories template1">
+	<div class="title">
+		
+					<span  class="title-txt"></span>
+				
+	</div>
+				<div class="waf-component waf-top-stories waf-listing waf-theme-red">
+			<div class="layout-wrapper">
+				<div class="waf-head">
+																<h2 class="title">TOP STORIES</h2>
+									</div>
+				<div class="waf-body">
+					<div class="article-list">
+																																																																																																																																																																																																																																																																																																																																																																																			
+										
+																																																																																																															<article class="article-item item-type-video"> <div class="article-wrap">
+												<div class="article-thumbnail">
+													<figure class="img-box" role="none">
+														<picture>
+															<source
+																type="image/webp"
+																srcset="/sites/default/files/styles/video_crop_16_9/public/oembed_thumbnails/Daa1uFxkB5VcNGwUA7mfLc47mZD4SJjFG3glMR27ajU.webp?itok=ehLR-2BM">
+															<img loading="lazy" src="/sites/default/files/styles/video_crop_16_9/public/oembed_thumbnails/Daa1uFxkB5VcNGwUA7mfLc47mZD4SJjFG3glMR27ajU.jpg?itok=ehLR-2BM" alt="🌍 Happy International Day Of Persons With Disabilities 🌟" importance="low">
+														</picture>
+													</figure>
+												</div>
+												<div class="article-content">
+													<div class="icon-time-wrapper">
+														<span class="item-type-icon"></span>
+													</div>
+													<div class="article-meta">
+														<span class="meta meta-category">🌍 Happy International Day Of Persons With Disabilities 🌟</span>
+													</div>
+													<h3 class="article-title">
+														🌍 Happy International Day Of Persons With Disabilities 🌟</h3>
+													<div class="article-description">
+														<p>3 December marks the International Day of Persons with Disabilities, a day to celebrate inclusion and advocate for equality worldwide. At the International Paralympic Committee (IPC), this isn’t just one day. It’s our everyday mission.
+
+ 
+
+Through the Paralympic Games, we showcase the excellence, talent, and strength of Para athletes on a global stage. Beyond the Games, we empower a Movement that develops Para sport at every level, advocates for inclusion, and uses sport as a force for transformation. When a child sees someone like them on the podium, dreams are born. When societies witness the power of disability, change begins.
+
+ 
+
+This is more than sport. This is a Movement. A mission. And it all starts here.
+</p>
+													</div>
+													<a href="/video/happy-international-day-persons-disabilities-0" class="btn-black" title="Read More">
+																												<span class="btn-text">Read more</span>
+													</a>
+												</div>
+											</div>
+										</article>
+																																																																																																																																																															<article class="article-item">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																			<picture>
+															<source
+																type="image/webp"
+																srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-12/UNESCO%20-%20Kristina%20Molloy.webp?h=11f3306f&amp;itok=904hQhJK">
+															<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-12/UNESCO%20-%20Kristina%20Molloy.jpg?h=11f3306f&amp;itok=904hQhJK" alt="Six people pose for a group photo in front of a screen that says &quot;Future in Play&quot;" importance="low">
+														</picture>
+
+																																					</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">IPC</span>
+												</div>
+												<h3 class="article-title">
+													IPC urges governments to increase investment into Para sport</h3>
+												<div class="article-description">
+													<p>International Paralympic Committee Deputy Chief Executive Officer (CEO) Kristina Molloy urged governments to increase their investment into Para sport as a tool to drive social inclusion</p>
+												</div>
+												<a href="/news/governments-increase-investment-para-sport" class="btn-black" title="Read More">
+																										<span class="btn-text">Read more</span>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																<article class="article-item">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																			<picture>
+															<source
+																type="image/webp"
+																srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/USA-%20Getty%20Images...webp?itok=hxCAZlpX">
+															<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/USA-%20Getty%20Images...jpg?itok=hxCAZlpX" alt="Athletes celebrate in joy" importance="low">
+														</picture>
+
+																																					</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Milano Cortina 2026</span>
+												</div>
+												<h3 class="article-title">
+													 Milano Cortina 2026: Para ice hockey schedule revealed </h3>
+												<div class="article-description">
+													<p>Eight teams will be placed into two groups for the preliminary round, then move into the playoffs, where they will battle it out for Paralympic medal glory at Milano Santagiulia Ice Hockey Arena on 15 March </p>
+												</div>
+												<a href="/news/milano-cortina-2026-para-ice-hockey-schedule-revealed" class="btn-black" title="Read More">
+																										<span class="btn-text">Read more</span>
+												</a>
+											</div>
+										</div>
+									</article>
+																								</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<section class="block block-layout-builder block-inline-blockgames-news clearfix games-news template1">
+	<div class="title">
+		
+					<span  class="title-txt"></span>
+				
+	</div>
+				<div class="waf-component waf-games-news waf-theme-green waf-listing">
+			<div class="layout-wrapper">
+				<div class="waf-head">
+																<h2 class="title">Games News</h2>
+										<a href="/news" class="head-anchor" title="More">
+												<span class='btn-text'>View more</span>
+					</a>
+				</div>
+				<div class="waf-body">
+					<div class="preview-swiper swiper" id="gamesNews">
+						<div
+							class="article-list swiper-wrapper">
+																																																																																																															<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/USA-%20Getty%20Images...webp?itok=hxCAZlpX">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/USA-%20Getty%20Images...jpg?itok=hxCAZlpX" alt="Athletes celebrate in joy" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Milano Cortina 2026</span>
+												</div>
+												<a href="/news/milano-cortina-2026-para-ice-hockey-schedule-revealed" title=" Milano Cortina 2026: Para ice hockey schedule revealed ">
+													<h3 class="article-title"> Milano Cortina 2026: Para ice hockey schedule revealed 
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2024-07/Salt%20Lake%20City%20host.webp?itok=03WrGTBW">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2024-07/Salt%20Lake%20City%20host.jpg?itok=03WrGTBW" alt="Four people sit side by side, with two of them holding each other&#039;s hands to celebrate" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Utah 2034</span>
+												</div>
+												<a href="/news/utah-2034-unveiled-unifying-name-winter-games" title="Utah 2034 unveiled as unifying name for 2034 Winter Games">
+													<h3 class="article-title">Utah 2034 unveiled as unifying name for 2034 Winter Games
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Sherif%20Osman...webp?itok=wAcDL2kP">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Sherif%20Osman...jpg?itok=wAcDL2kP" alt="An athlete before going for his lift" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Powerlifting</span>
+												</div>
+												<a href="/news/egyptian-legend-sherif-osman-continues-inspire" title="Egyptian legend Sherif Osman continues to inspire ">
+													<h3 class="article-title">Egyptian legend Sherif Osman continues to inspire 
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Arthur%20Bauchet%2C%20France%2C%20Beijing%202022.webp?h=773256cb&amp;itok=m0fTh-tY">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Arthur%20Bauchet%2C%20France%2C%20Beijing%202022.jpg?h=773256cb&amp;itok=m0fTh-tY" alt="A male Para alpine skiing athlete is competing in the Para sport at the Beijing 2022 Paralympics" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Alpine Skiing</span>
+												</div>
+												<a href="/feature/para-alpine-skiing-new-world-cup-season" title="Para alpine stars look forward to new World Cup season">
+													<h3 class="article-title">Para alpine stars look forward to new World Cup season
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Milano%20Cortina%202026%20uniforms.webp?h=0b5b3032&amp;itok=fHN8oZfp">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Milano%20Cortina%202026%20uniforms.jpg?h=0b5b3032&amp;itok=fHN8oZfp" alt="A collage of three people wearing the official Milano Cortina 2026 Paralympic Winter Games uniforms" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Milano Cortina 2026</span>
+												</div>
+												<a href="/news/milano-cortina-2026-unveils-uniforms" title="Milano Cortina 2026 unveils official uniforms">
+													<h3 class="article-title">Milano Cortina 2026 unveils official uniforms
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Osijek%202025.webp?itok=DDKSY2ej">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Osijek%202025.jpg?itok=DDKSY2ej" alt="Athletes in action" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Shooting</span>
+												</div>
+												<a href="/news/osijek-host-2027-world-shooting-para-sport-championships" title="Osijek to host 2027 World Shooting Para Sport Championships">
+													<h3 class="article-title">Osijek to host 2027 World Shooting Para Sport Championships
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Mengqiu%20Zhang%2C%20China%2C%20Beijing%202022.webp?h=07b49ae6&amp;itok=P71glcuy">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Mengqiu%20Zhang%2C%20China%2C%20Beijing%202022.jpg?h=07b49ae6&amp;itok=P71glcuy" alt="A female athlete with red ribbons on her head smiles on the podium while holding a flower bouquet and a gold medal" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Milano Cortina 2026</span>
+												</div>
+												<a href="/feature/top-paralympic-winter-games-moments-china" title="Top Paralympic Winter Games moments: China">
+													<h3 class="article-title">Top Paralympic Winter Games moments: China
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																												</div>
+						<div class="swiper-button swiper-button-prev"></div>
+						<div class="swiper-button swiper-button-next"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<section class="block block-layout-builder block-inline-blockgeneral-news clearfix general-news template1" id="programme-news">
+<div class="title">
+	
+			<span  class="title-txt"></span>
+		
+</div>
+	<div class="waf-component waf-games-news waf-theme-blue waf-listing">
+		<div class="layout-wrapper">
+			<div class="waf-head">
+															<h2 class="title">General News</h2>
+									<a href="/news" class="head-anchor" title="more">
+										<span class='btn-text'>View more</span>
+				</a>
+			</div>
+			<div class="waf-body">
+				<div class="preview-swiper swiper" id="gamesNews">
+					<div class="article-list swiper-wrapper">
+																																																																																																															<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/India%20Commonwealth%20Sport%20General%20Assembly%202025.webp?h=af35362e&amp;itok=tGcvrSZ9">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/India%20Commonwealth%20Sport%20General%20Assembly%202025.jpg?h=af35362e&amp;itok=tGcvrSZ9" alt="A photo of a screen that says Congratulations to India Amdavad 2030" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">Commonwealth Games</span>
+												</div>
+												<a href="/news/amdavad-india-2030-commonwealth-games" title="Amdavad, India, to host 2030 Commonwealth Games">
+													<h3 class="article-title">Amdavad, India, to host 2030 Commonwealth Games
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/1-2025Para%20Athletes%20Professionals%20.webp?h=3cb6c4f6&amp;itok=YjFfg_dX">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/1-2025Para%20Athletes%20Professionals%20.jpg?h=3cb6c4f6&amp;itok=YjFfg_dX" alt="Twenty retired Para athletes take a photo in front of the Agitos symbol at the IPC Campus" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">IPC</span>
+												</div>
+												<a href="/news/ipc-leadership-training-paralympians" title="IPC leadership training prepares Paralympians for life beyond elite sport">
+													<h3 class="article-title">IPC leadership training prepares Paralympians for life beyond elite sport
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-10/Para%20Sport%20logo.webp?itok=jiRlyorg">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-10/Para%20Sport%20logo.jpg?itok=jiRlyorg" alt="Para Sport logo on a white background" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">IPC</span>
+												</div>
+												<a href="/news/winners-para-sport-awards-2025-announced" title="Para Sport Awards 2025 winners announced">
+													<h3 class="article-title">Para Sport Awards 2025 winners announced
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/1-Ng%20Cheuk%20Yan%2C%20Hong%20Kong%2C%20Para%20swimming.webp?h=73d1dd56&amp;itok=-WKxxSXe">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/1-Ng%20Cheuk%20Yan%2C%20Hong%20Kong%2C%20Para%20swimming.jpg?h=73d1dd56&amp;itok=-WKxxSXe" alt="A female Para swimming athlete is competing in a freestyle event" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">IPC</span>
+												</div>
+												<a href="/news/para-sport-awards-2025-ng-cheuk-yan" title="Para Sport Awards 2025: Yan receives Rising Star Award">
+													<h3 class="article-title">Para Sport Awards 2025: Yan receives Rising Star Award
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/1-Tyler%20Turner%2C%20Beijing%202022%2C%20Para%20snowboard.webp?h=6fa1250d&amp;itok=Is50vsp4">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/1-Tyler%20Turner%2C%20Beijing%202022%2C%20Para%20snowboard.jpg?h=6fa1250d&amp;itok=Is50vsp4" alt="A male Para snowboarding athlete holds a snowboard and celebrates" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">IPC</span>
+												</div>
+												<a href="/news/para-sport-awards-2025-tyler-turner" title="Para Sport Awards 2025: Tyler Turner wins award for Best Male Winter Athlete">
+													<h3 class="article-title">Para Sport Awards 2025: Tyler Turner wins award for Best Male Winter Athlete
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																																																																																									<article class="article-item swiper-slide">
+										<div class="article-wrap">
+											<div class="article-thumbnail">
+												<figure class="img-box" role="none">
+																																									
+																																																																																									<picture>
+																<source
+																	type="image/webp"
+																	srcset="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Anna-Lena%20Forster%2C%20Beijing%202022.webp?h=83e67ab4&amp;itok=EwNkNAZ3">
+																<img loading="lazy" src="/sites/default/files/styles/image_crop_3_4_800_1067/public/2025-11/Anna-Lena%20Forster%2C%20Beijing%202022.jpg?h=83e67ab4&amp;itok=EwNkNAZ3" alt="A female sit-skiing athlete is in action" importance="low">
+															</picture>
+
+																																							</figure>
+											</div>
+											<div class="article-content">
+												<div class="article-meta">
+													<span class="meta meta-category">IPC</span>
+												</div>
+												<a href="/news/para-sport-awards-2025-anna-lena-forster" title="Para Sport Awards 2025: Anna-Lena Forster named best female winter athlete">
+													<h3 class="article-title">Para Sport Awards 2025: Anna-Lena Forster named best female winter athlete
+													</h3>
+												</a>
+											</div>
+										</div>
+									</article>
+																											</div>
+					<div class="swiper-button swiper-button-prev"></div>
+					<div class="swiper-button swiper-button-next"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="block block-layout-builder block-inline-blockupcoming-events-home-page clearfix upcoming-countdown-homepage template1">
+	<div class="title">
+		
+				
+	</div>
+				<div class="waf-component waf-home-countdown">
+			<div class="layout-wrapper">
+				<div class="swiper">
+					<div class="swiper-wrapper card-list">
+													<div class="swiper-slide card-item">
+								<div class="card-logo">
+									<img class="card-img" src="/static-assets/images/milano_cortina_omega_2025.png" alt="Milano Cortina 2026 header logo" loading="lazy">
+								</div>
+								<div
+									class="card-countdown meta-list" id="countdown-1"><!-- Countdown timer will be inserted here by JavaScript -->
+								</div>
+								<div class="card-content">
+									<h3 class="card-title">TO THE OPENING CEREMONY OF THE
+										Milano Cortina 2026
+										PARALYMPIC GAMES</h3>
+																																				
+																																													<span class="card-date">
+										06
+																														-
+										15
+										Mar
+																					2026
+																			</span>
+								</div>
+								<div class="card-redirect">
+									<a href="/milano-cortina-2026" title="Milano Cortina 2026" class="card-link">More</a>
+								</div>
+							</div>
+													<div class="swiper-slide card-item">
+								<div class="card-logo">
+									<img class="card-img" src="/static-assets/images/la.webp" alt="LA28 Emblem" loading="lazy">
+								</div>
+								<div
+									class="card-countdown meta-list" id="countdown-2"><!-- Countdown timer will be inserted here by JavaScript -->
+								</div>
+								<div class="card-content">
+									<h3 class="card-title">TO THE OPENING CEREMONY OF THE
+										LA28 
+										PARALYMPIC GAMES</h3>
+																																				
+																																													<span class="card-date">
+										15
+																														-
+										27
+										Aug
+																					2028
+																			</span>
+								</div>
+								<div class="card-redirect">
+									<a href="/la-2028" title="LA28 " class="card-link">More</a>
+								</div>
+							</div>
+											</div>
+					<!-- If we need navigation buttons -->
+					<div class="swiper-button swiper-button-next"></div>
+					<div class="swiper-button swiper-button-prev"></div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	 <script>
+		  // JavaScript countdown timer
+		  		    		      // Set the target date to the start date of the event in UTC
+		      var targetDate1 = Date.UTC('2026', '2', '06', 18, 0, 0);
+		    		    // Update the countdown every second
+		    var x1 = setInterval(function() {
+		      // Get the current date and time in UTC
+		      var now = new Date().getTime();
+		
+		      // Calculate the time remaining
+		      var distance = targetDate1 - now;
+		
+		      // Calculate days, hours, minutes, and seconds remaining
+		      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+		      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+		      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+		      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+		
+		      // Display the countdown
+		      document.getElementById("countdown-1").innerHTML = `
+		        <div class="meta">
+		          <span class="meta-value">${days}</span>
+		          <span class="meta-label">Days</span>
+		        </div>
+		        <div class="meta">
+		          <span class="meta-value">${hours}</span>
+		          <span class="meta-label">Hours</span>
+		        </div>
+		        <div class="meta">
+		          <span class="meta-value">${minutes}</span>
+		          <span class="meta-label">Minutes</span>
+		        </div>
+		        <div class="meta">
+		          <span class="meta-value">${seconds}</span>
+		          <span class="meta-label">Seconds</span>
+		        </div>
+		      `;
+		
+		      // If the countdown is over, display '0' and clear the interval
+		      if (distance < 0) {
+		        clearInterval(x1);
+		        document.getElementById("countdown-1").innerHTML = `
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Days</span>
+		          </div>
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Hours</span>
+		          </div>
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Minutes</span>
+		          </div>
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Seconds</span>
+		          </div>
+		        `;
+		      }
+		    }, 1000);
+		  		    		      // Set the target date to the start date of the event in UTC
+		      var targetDate2 = Date.UTC('2028', '7', '15', 18, 0, 0);
+		    		    // Update the countdown every second
+		    var x2 = setInterval(function() {
+		      // Get the current date and time in UTC
+		      var now = new Date().getTime();
+		
+		      // Calculate the time remaining
+		      var distance = targetDate2 - now;
+		
+		      // Calculate days, hours, minutes, and seconds remaining
+		      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+		      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+		      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+		      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+		
+		      // Display the countdown
+		      document.getElementById("countdown-2").innerHTML = `
+		        <div class="meta">
+		          <span class="meta-value">${days}</span>
+		          <span class="meta-label">Days</span>
+		        </div>
+		        <div class="meta">
+		          <span class="meta-value">${hours}</span>
+		          <span class="meta-label">Hours</span>
+		        </div>
+		        <div class="meta">
+		          <span class="meta-value">${minutes}</span>
+		          <span class="meta-label">Minutes</span>
+		        </div>
+		        <div class="meta">
+		          <span class="meta-value">${seconds}</span>
+		          <span class="meta-label">Seconds</span>
+		        </div>
+		      `;
+		
+		      // If the countdown is over, display '0' and clear the interval
+		      if (distance < 0) {
+		        clearInterval(x2);
+		        document.getElementById("countdown-2").innerHTML = `
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Days</span>
+		          </div>
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Hours</span>
+		          </div>
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Minutes</span>
+		          </div>
+		          <div class="meta">
+		            <span class="meta-value">0</span>
+		            <span class="meta-label">Seconds</span>
+		          </div>
+		        `;
+		      }
+		    }, 1000);
+		  		</script>
+<section class="block block-layout-builder block-inline-blockhomepage-three-banners clearfix three-banners template1">
+	<div class="title">
+		
+				
+	</div>
+					<div class="waf-component waf-home-banner">
+			<div class="layout-wrapper">
+				<div class="card-list">
+																																																														<div class="card-item border">
+							<a title="PLY" href="https://www.ipc-services.org/hira/ply-programme" class="card-link">
+								<picture>
+									<source
+										type="image/webp"
+										srcset="/sites/default/files/styles/large_original/public/2024-07/2024_06%20NewWebsite_PLY.webp?itok=IcxWc8zD">
+									<img src="/sites/default/files/styles/large_original/public/2024-07/2024_06%20NewWebsite_PLY.jpg?itok=IcxWc8zD" alt="PLY" class="card-img" loading="lazy">
+								</picture>
+							</a>
+						</div>
+																																																																			<div class="card-item border">
+							<a title="IPC Press Release" href="https://www.paralympic.org/media-release-subscribe" class="card-link">
+								<picture>
+									<source
+										type="image/webp"
+										srcset="/sites/default/files/styles/large_original/public/2025-06/2025_06_Press%20Releases_0.webp?itok=zb3zjlRb">
+									<img src="/sites/default/files/styles/large_original/public/2025-06/2025_06_Press%20Releases_0.jpg?itok=zb3zjlRb" alt="IPC Press Release" class="card-img" loading="lazy">
+								</picture>
+							</a>
+						</div>
+														</div>
+			</div>
+		</div>
+	</section>
+
+						<section class="block block-layout-builder block-inline-blockapes-free-html clearfix apes-free-html template1">
+    
+        
+            <div class="content">
+            <div class="freeHTML">
+										                            <div class="waf-component waf-theme-green waf-listing  waf-about-us ">
+    <div class="layout-wrapper">
+        <div class="waf-body">
+            <div class="preview-swiper swiper" id="aboutus">
+                <div class="article-list swiper-wrapper">
+                    <article class="article-item swiper-slide">
+                        <div class="article-wrap">
+                            <div class="article-thumbnail">
+                                <a href="https://www.paralympic.org/paralympic-games">
+                                    <figure class="img-box" role="none">
+                                        <img class="lazy" loading="lazy" src="/sites/default/files/styles/large_original/public/2025-04/2529422.JPG?itok=27u0ssUj" alt="About the Paralympic Games" importance="low">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="article-content">
+                                <a href="https://www.paralympic.org/paralympic-games">
+                                    <h2 class="article-title"> About the Paralympic Games </h2>
+                                </a>
+                                <div class="article-description">
+                                    <p>The Paralympic Games are the largest global sporting event for athletes with disabilities and have taken place every four years since the inaugural edition in Rome, Italy, in 1960. In 1976, the first Winter Games were held in Ornskoldsvik, Sweden and featured 198 athletes from 16 countries.</p>
+                                    <p>
+                                    Following the 1988 Games in Seoul, Republic of Korea, and the Winter Games in Albertville, France in 1992, the Paralympic and Olympic Games have been held in the same city. The next Paralympic Games will be held in LA in 2028 followed by Brisbane in 2032. The next winter edition is Milano Cortina 2026 with the French Alps to follow in 2030 and Salt Lake City in 2034.
+                                    </p>
+                                </div>
+                                <a href="https://www.paralympic.org/paralympic-games" class="btn-black">
+                                    <span class="btn-text">Read More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="article-item swiper-slide">
+                        <div class="article-wrap">
+                            <div class="article-thumbnail">
+                                <a href="https://www.paralympic.org/ipc/who-we-are">
+                                    <figure class="img-box" role="none">
+                                        <img class="lazy" loading="lazy" src="/sites/default/files/styles/large_original/public/2024-06/2024%20IPC%20logo.jpg" alt="About the IPC" importance="low">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="article-content">
+                                <a href="https://www.paralympic.org/ipc/who-we-are">
+                                    <h2 class="article-title"> About the IPC </h2>
+                                </a>
+                                <div class="article-description">
+                                    <p>The International Paralympic Committee (IPC) is the global governing body of the Paralympic Movement. Founded on 22 September 1989 as a non-profit organisation, we aim to be athlete-centred and membership-focussed in all our endeavours.</p>
+                                    <p>Through partnerships with more than 200 member organisations, we leverage Para sport to advance the lives of the 1.2 billion individuals with disabilities across the globe.</p>
+                                </div>
+                                <a href="https://www.paralympic.org/ipc/who-we-are" class="btn-black">
+                                    <span class="btn-text">Read More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="article-item swiper-slide">
+                        <div class="article-wrap">
+                            <div class="article-thumbnail">
+                                <a href="https://www.paralympic.org/ipc/history">
+                                    <figure class="img-box" role="none">
+                                        <img class="lazy" loading="lazy" src="/sites/default/files/styles/large_original/public/images/150303125309785_Payne_0007.jpg" alt="Paralympics history" importance="low">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="article-content">
+                                <a href="https://www.paralympic.org/ipc/history">
+                                    <h2 class="article-title"> Paralympics history </h2>
+                                </a>
+                                <div class="article-description">
+                                    <p>Sport for athletes with an impairment has existed for more than 100 years. It was not until after World War II, however, that it was widely introduced. The purpose of it at that time was to assist the large number of war veterans and civilians who had been injured during wartime.</p>
+                                    <p>On 29 July 1948, the day of the Opening Ceremony of the London 1948 Olympic Games, Dr. Ludwig Guttmann organised a competition for wheelchair athletes at the Stoke Mandeville Hospital in Great Britain. Sixteen injured servicemen and women took part in archery at the inaugural Stoke Mandeville Games, which later became the Paralympic Games.</p>
+                                </div>
+                                <a href="https://www.paralympic.org/ipc/history" class="btn-black">
+                                    <span class="btn-text">Read More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="article-item swiper-slide">
+                        <div class="article-wrap">
+                            <div class="article-thumbnail">
+                                <a href="https://www.paralympic.org/classification">
+                                    <figure class="img-box" role="none">
+                                        <img class="lazy" loading="lazy" src="/sites/default/files/styles/large_original/public/2024-07/resized%20-%20Tokyo%202020%20athletics%20-%20overhead.jpg?itok=yp44jp8b" alt="What is classification?" importance="low">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="article-content">
+                                <a href="https://www.paralympic.org/classification">
+                                    <h2 class="article-title"> What is classification? </h2>
+                                </a>
+                                <div class="article-description">
+                                    <p>Classification is the cornerstone of the Paralympic Movement; it determines which athletes are eligible to compete in a sport and how athletes are grouped together for competition. In Para sports, athletes are grouped by the degree of activity limitation resulting from the impairment. This, to a certain extent, is similar to grouping athletes by age, gender or weight.</p>
+                                    <p>Classification aims to minimise the impact of the impairment on athletes' performance so that the sporting excellence determines which athlete or team is ultimately victorious. Ensuring that athletes are classified prior to competing is crucial to safeguarding the integrity and credibility of the competition. 
+                                    </p>
+                                </div>
+                                <a href="https://www.paralympic.org/classification" class="btn-black">
+                                    <span class="btn-text">Read More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="article-item swiper-slide">
+                        <div class="article-wrap">
+                            <div class="article-thumbnail">
+                                <a href="https://www.paralympic.org/sports">
+                                    <figure class="img-box" role="none">
+                                        <img class="lazy" loading="lazy" src="/sites/default/files/styles/large_original/public/2024-07/1806637.jpeg?itok=Z6MwI81_" alt="What are the Paralympic sports?" importance="low">
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="article-content">
+                                <a href="https://www.paralympic.org/sports">
+                                    <h2 class="article-title"> What are the Paralympic sports? </h2>
+                                </a>
+                                <div class="article-description">
+                                    <p>The International Paralympic Committee (IPC) recognises a total of 28 Paralympic sports.
+                                        The 22 summer sports are Para archery, Para athletics, Para badminton, blind football, boccia, Para canoe, Para cycling, Para equestrian, goalball, Para judo, Para powerlifting, Para rowing, shooting Para sport, sitting volleyball, Para swimming, Para table tennis, Para taekwondo, Para triathlon, wheelchair basketball, wheelchair fencing, wheelchair rugby, and wheelchair tennis. 
+                                        </p>
+                                    <p>Winter sports include Para alpine skiing, Para biathlon, Para cross-country skiing, Para ice hockey, Para snowboard, and wheelchair curling.
+                                    </p>
+                                </div>
+                                <a href="https://www.paralympic.org/sports" class="btn-black">
+                                    <span class="btn-text">Read More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div class="swiper-button swiper-button-prev"></div>
+                <div class="swiper-button swiper-button-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </section>
+	
+
+
+      </div>
+        
+  </div>
+  <div class="layout layout--onecol">
+
+    
+  </div>
+  <div class="layout layout--onecol">
+
+    
+  </div>
+
+      </div>
+</article>
+
+		</div>
+	  	</div>
+
+  </div>
+
+	</main>
+			<div class="client-wrap">
+			<div class="client-wrapper">
+				<div class="client-top">
+					<h3 class="client-title">Worldwide Paralympic Partners</h3>
+					<ul class="client-list">
+						<li class="client-item">
+							<img src="/static-assets/images/client/abinbev.webp?v=1.1" alt="ABInBev" class="client-img" loading="lazy">
+						</li>
+						<li
+							class="client-item">
+							<!-- Remove a tag if link not needed. Directly put img inside li tag -->
+							<a href="https://www.paralympic.org/sponsors/airbnb" title="Airbnb" target="_blank" class="client-link">
+								<img src="/static-assets/images/client/airbnb.webp?v=1.1" alt="Airbnb" class="client-img" loading="lazy">
+							</a>
+						</li>
+						<li class="client-item">
+							<img src="/static-assets/images/client/alibaba.webp?v=1.1" alt="Alibaba group" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+							<img src="/static-assets/images/client/allianz.webp?v=1.1" alt="Allianz" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+							<img src="/static-assets/images/client/deloitte.webp?v=1.1" alt="Deloitte" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+							<a href="https://www.paralympic.org/sponsors/Coca-Cola-Mengniu" title="Cocacola" target="_blank" class="client-link">
+								<img src="/static-assets/images/client/cocacola.webp?v=1.1" alt="Cocacola" class="client-img" loading="lazy">
+							</a>
+						</li>
+						<li class="client-item">
+							<img src="/static-assets/images/client/omega.webp?v=1.1" alt="Omega" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+							<a href="https://www.paralympic.org/sponsors/ottobock" title="Ottobock" target="_blank" class="client-link">
+								<img src="/static-assets/images/client/ottobock.webp?v=1.1" alt="ottobock" class="client-img" loading="lazy">
+							</a>
+						</li>
+						<li class="client-item">
+							<img src="/static-assets/images/client/pg.webp?v=1.1" alt="p&g" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+							<a href="https://www.paralympic.org/sponsors/samsung" title="Samsung" target="_blank" class="client-link">
+								<img src="/static-assets/images/client/samsung.webp?v=1.1" alt="samsung" class="client-img" loading="lazy">
+							</a>
+						</li>
+						<li class="client-item">
+								<img src="/sites/default/files/2025-02/tcl.jpg?v=1.1" alt="TCL" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+							<a href="https://www.paralympic.org/sponsors/visa" title="Visa" target="_blank" class="client-link">
+								<img src="/static-assets/images/client/visa.webp?v=1.1" alt="visa" class="client-img" loading="lazy">
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="client-bottom">
+					<h3 class="client-title">INSTITUTIONAL PARTNERS</h3>
+					<ul class="client-list">
+						<li class="client-item">
+								<img src="/static-assets/images/client/federal.webp?v=1.1" alt="Federal Ministry of the Interior and Community" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+								<img src="/static-assets/images/client/staatskanzlei.webp?v=1.1" alt="Staatskanzlei Des Landes Nordrhein-Westfalen" class="client-img" loading="lazy">
+						</li>
+						<li class="client-item">
+								<img src="/static-assets/images/client/freude.webp?v=1.1" alt="Freude, Joy, Joie, Bonn" class="client-img" loading="lazy">
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<footer class="footer">
+	<div class="footer-top-wrap">
+		<div class="footer-section-wrap">
+			<ul class="nav-list" role="navigation">
+									<li class="nav-item">
+						<a href="/paralympic-games">
+							<h3 class="nav-item-title">PARALYMPIC GAMES</h3>
+						</a>
+													<ul class="sub-nav" role="navigation">
+																	<li class="sub-nav-item">
+										<a href="/paralympic-games-results" class="sub-nav-link" title="Results">
+											<span class="sub-nav-text">Results</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/videos/paralympic-games" class="sub-nav-link" title="Videos">
+											<span class="sub-nav-text">Videos</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/medals" class="sub-nav-link" title="Medals">
+											<span class="sub-nav-text">Medals</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/mascots" class="sub-nav-link" title="Mascots">
+											<span class="sub-nav-text">Mascots</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/opening-ceremony" class="sub-nav-link" title="Opening Ceremonies">
+											<span class="sub-nav-text">Opening Ceremonies</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/closing-ceremony" class="sub-nav-link" title="Closing Ceremonies">
+											<span class="sub-nav-text">Closing Ceremonies</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/paralympic-games/summer-overview" class="sub-nav-link" title="Summer Overview">
+											<span class="sub-nav-text">Summer Overview</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/paralympic-games/winter-overview" class="sub-nav-link" title="Winter Overview">
+											<span class="sub-nav-text">Winter Overview</span>
+										</a>
+									</li>
+															</ul>
+											</li>
+									<li class="nav-item">
+						<a href="/classification">
+							<h3 class="nav-item-title">CLASSIFICATION</h3>
+						</a>
+													<ul class="sub-nav" role="navigation">
+																	<li class="sub-nav-item">
+										<a href="/classification-board-of-appeal-of-classification" class="sub-nav-link" title="Board Of Appeal Of Classification">
+											<span class="sub-nav-text">Board Of Appeal Of Classification</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification-code" class="sub-nav-link" title="Classification Code">
+											<span class="sub-nav-text">Classification Code</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification-education" class="sub-nav-link" title="Classification Education">
+											<span class="sub-nav-text">Classification Education</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification-research" class="sub-nav-link" title="Classification Research">
+											<span class="sub-nav-text">Classification Research</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification-by-sport" class="sub-nav-link" title="Classification by Sport">
+											<span class="sub-nav-text">Classification by Sport</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification-code-compliance" class="sub-nav-link" title="Code Compliance">
+											<span class="sub-nav-text">Code Compliance</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification-code-review" class="sub-nav-link" title="Code Review">
+											<span class="sub-nav-text">Code Review</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/classification/faq" class="sub-nav-link" title="FAQs">
+											<span class="sub-nav-text">FAQs</span>
+										</a>
+									</li>
+															</ul>
+											</li>
+									<li class="nav-item">
+						<a href="/news">
+							<h3 class="nav-item-title">NEWS</h3>
+						</a>
+											</li>
+									<li class="nav-item">
+						<a href="/impact">
+							<h3 class="nav-item-title">IMPACT</h3>
+						</a>
+											</li>
+									<li class="nav-item">
+						<a href="/sports">
+							<h3 class="nav-item-title">SPORTS</h3>
+						</a>
+											</li>
+									<li class="nav-item">
+						<a href="/athletes">
+							<h3 class="nav-item-title">ATHLETES</h3>
+						</a>
+													<ul class="sub-nav" role="navigation">
+																	<li class="sub-nav-item">
+										<a href="/athlete-reps" class="sub-nav-link" title="Athlete Representatives">
+											<span class="sub-nav-text">Athlete Representatives</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/athlete-resources" class="sub-nav-link" title="Athlete Resources">
+											<span class="sub-nav-text">Athlete Resources</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/athletes-council" class="sub-nav-link" title="Athletes Council">
+											<span class="sub-nav-text">Athletes Council</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/athletes-forum" class="sub-nav-link" title="Athletes Forum">
+											<span class="sub-nav-text">Athletes Forum</span>
+										</a>
+									</li>
+															</ul>
+											</li>
+									<li class="nav-item">
+						<a href="/npcs">
+							<h3 class="nav-item-title">NATIONAL PARALYMPIC COMMITTEES</h3>
+						</a>
+											</li>
+									<li class="nav-item">
+						<a href="/ipc">
+							<h3 class="nav-item-title">IPC</h3>
+						</a>
+													<ul class="sub-nav" role="navigation">
+																	<li class="sub-nav-item">
+										<a href="/ipc/history" class="sub-nav-link" title="History">
+											<span class="sub-nav-text">History</span>
+										</a>
+									</li>
+																	<li class="sub-nav-item">
+										<a href="/ipc/who-we-are" class="sub-nav-link" title="Who we are">
+											<span class="sub-nav-text">Who we are</span>
+										</a>
+									</li>
+															</ul>
+											</li>
+									<li class="nav-item">
+						<a href="/antidoping">
+							<h3 class="nav-item-title">ANTI DOPING</h3>
+						</a>
+											</li>
+							</ul>
+		</div>
+	</div>
+	  <div class="region region-footer-fifth">
+    	
+						<section id="block-mainipcfooter" class="block block-block-content block-block-contentba1240d2-d10b-4571-9265-3f46d73aa8d5 clearfix apes-footer template1">
+	
+		
+																																						
+		<div class="footer-middle-wrap">
+			<div class="footer-section-wrap">
+				<div class="footer-logo">
+					<a href="/" title="International Paralympic Committee Logo" class="footer-logo-link">
+						<img src="/sites/default/files/2024-08/international-white-logo.png" alt="International Paralympic Committee Logo" class="image" loading='lazy'/>
+					</a>
+					<!-- Add below if link not needed on logo -->
+					<!-- <img src="/static-assets/images/client/ipc-logo-white.svg?v=" alt="IPC logo" class="image"/> -->
+				</div>
+				<div class="footer-middle-content">
+					<h3 class="title">Official Website of the Paralympic Movement</h3>
+					<address class="address">
+						<a href="https://www.google.com/maps/place/50%C2%B043&#039;13.4%22N+7%C2%B007&#039;15.7%22E/@50.7203883,7.118446,17z/data=!3m1!4b1!4m4!3m3!8m2!3d50.7203883!4d7.1210209?entry=ttu" class="address-link" target="_blank" title="Our Address">
+							Dahlmannstraße 2, 53113 Bonn, Germany
+						</a>
+					</address>
+					<ul class="contact-list">
+						<li class="contact-item">
+							<a href="mailto:info@paralympic.org" class="contact-text" title="Telephone">info@paralympic.org</a>
+						</li>
+						<li class="contact-item">
+							<a href="tel:+49-228-2097-200" class="contact-text" title="Telephone">+49-228-2097-200</a>
+						</li>
+						<li class="contact-item">
+							<a href="tel:+49-228-2097-209" class="contact-text" title="Fax number">+49-228-2097-209</a>
+						</li>
+					</ul>
+				</div>
+				<div class="footer-social-wrap">
+					<ul class="social-list" role="navigation">
+						<li class="social-item social-item-facebook">
+							<a href="https://www.facebook.com/paralympics" class="social-link" title="Facebook" target="_blank">
+								<span class="social-text">Facebook</span>
+							</a>
+						</li>
+						<li class="social-item social-item-instagram">
+							<a href="https://www.instagram.com/Paralympics/" class="social-link" title="Instagram" target="_blank">
+								<span class="social-text">Instagram</span>
+							</a>
+						</li>
+						<li class="social-item social-item-twitter">
+							<a href="https://twitter.com/Paralympics" class="social-link" title="Twitter" target="_blank">
+								<span class="social-text">Twitter</span>
+							</a>
+						</li>
+						<li class="social-item social-item-youtube">
+							<a href="https://www.youtube.com/user/ParalympicSportTV" class="social-link" title="Youtube" target="_blank">
+								<span class="social-text">Youtube</span>
+							</a>
+						</li>
+						<li class="social-item social-item-tiktok">
+							<a href="https://www.tiktok.com/@paralympics?lang=en" target="_blank" class="social-link" title="Tiktok">
+								<span class="social-text">Tiktok</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom-wrap">
+			<div class="footer-section-wrap">
+									<ul class="nav-list" role="navigation">
+																											<li class="nav-item">
+								<a href="/ipc" class="nav-item-link" title="About the IPC" target="_blank">
+									<span class="nav-item-text">About the IPC</span>
+								</a>
+							</li>
+																											<li class="nav-item">
+								<a href="/media-office" class="nav-item-link" title="Media" target="_blank">
+									<span class="nav-item-text">Media</span>
+								</a>
+							</li>
+																											<li class="nav-item">
+								<a href="/imprint" class="nav-item-link" title="Imprint" target="_blank">
+									<span class="nav-item-text">Imprint</span>
+								</a>
+							</li>
+																											<li class="nav-item">
+								<a href="/privacy-policy" class="nav-item-link" title="Privacy Policy &amp; Terms and Conditions" target="_blank">
+									<span class="nav-item-text">Privacy Policy &amp; Terms and Conditions</span>
+								</a>
+							</li>
+																											<li class="nav-item">
+								<a href="/cookie-declaration" class="nav-item-link" title="Cookie Declaration" target="_blank">
+									<span class="nav-item-text">Cookie Declaration</span>
+								</a>
+							</li>
+																											<li class="nav-item">
+								<a href="/careers" class="nav-item-link" title="Careers" target="_blank">
+									<span class="nav-item-text">Careers</span>
+								</a>
+							</li>
+											</ul>
+							</div>
+		</div>
+		<div class="footer-common-wrap">
+			<div class="scroll-top">
+				<a href="#" class="scroll-top-btn" title="Go to top of page" role="button" aria-label="Go to top of page"></a>
+			</div>
+			<div class="accessibility-wrap">
+				<a href="#" class="accessibility-link" title="Go to header" aria-label="Go to header" role="button">Go to header</a>
+				<a href="#" class="accessibility-link" title="Go to page content" aria-label="Go to page content" role="button">Go to page content</a>
+				<a href="#si-footer" class="accessibility-link" title="Go to footer" aria-label="Go to footer" role="button">Go to footer</a>
+			</div>
+		</div>
+
+	</section>
+
+	
+
+
+  </div>
+
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/85724","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"apes_google_analytics":{"code":null},"google_analytics":{"account":"G-6TNCMVEHQ6","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"statistics":{"data":{"nid":"85724"},"url":"\/core\/modules\/statistics\/statistics.php"},"languageswitcher":{"active_language":"en"},"user":{"uid":0,"permissionsHash":"0359d056b106f412e9986a2101afe3b11a35338df08a3a7b4dfebac637e9d251"}}</script>
+<script src="/sites/default/files/js/js_BZNsmom6hD5MdsQPs604zvJimS4dDNOmmLX5mEsDljc.js"></script>
+<script src="/modules/custom/apes_google_analytics/js/tracking_code.js?v=1.x" type="text/plain" data-cookieconsent="statistics"></script>
+<script src="/sites/default/files/js/js_EDUwll970grQvBly33V6q4RvITxO1jHnzRoSlQK9gxI.js"></script>
+
+    <script type="text/plain" data-cookieconsent="statistics marketing">(function(){var s = document.createElement("script");s.setAttribute("data-account","auFeha0CUz");s.setAttribute("src","https://cdn.userway.org/widget.js");document.body.appendChild(s);})();</script><noscript>Enable JavaScript to ensure <a href="https://userway.org">website accessibility</a></noscript>
+
+      
+        
+	<script>
+	const homeclass = document.querySelector('.layout-no-sidebars');
+  
+  let isFrontPage = document.querySelector('body').matches('.layout-no-sidebars.path-frontpage');
+
+  let stickyBlockExist = document.getElementById("sticky_tokyo_block");
+
+    if(homeclass.classList.contains('path-frontpage')){
+
+    }else{
+      
+      if(stickyBlockExist){
+        document.getElementById("sticky_tokyo_block").style.display = "none";
+      }
+
+    }
+    
+    let isParaSportsPage = document.querySelector('body').matches('.layout-no-sidebars.para-sports-page');
+    if(isParaSportsPage){  
+      const buttonRight = document.getElementById('right_arrow');
+      const buttonLeft = document.getElementById('left_arrow');
+      
+      var listWrapCount = document.querySelectorAll('#list_wrap .list-item').length;
+      var leftArrow = document.getElementById('left_arrow');
+      var rightArrow = document.getElementById('right_arrow');
+
+      if(listWrapCount <= 3){
+        leftArrow.classList.add("arrow-disabled");
+        rightArrow.classList.add("arrow-disabled");
+      }else{
+        leftArrow.classList.add("arrow-disabled");
+        rightArrow.classList.remove("arrow-disabled");
+        buttonRight.onclick = function () {
+          document.getElementById('list_wrap').style.left = "-1085px";
+          leftArrow.classList.remove("arrow-disabled");
+          rightArrow.classList.add("arrow-disabled");
+        };
+        buttonLeft.onclick = function () {
+          document.getElementById('list_wrap').style.left = "0px";
+          leftArrow.classList.add("arrow-disabled");
+          rightArrow.classList.remove("arrow-disabled");
+        };
+      }
+    }    
+    </script>
+
+    <script>
+
+      let isBeijingPage = document.querySelector('body').matches('.layout-no-sidebars.default-beijing-2022');
+      let snowflakesExist = document.getElementById("snowflakes_id");
+
+      if(!isBeijingPage){
+        if(snowflakesExist){
+          document.getElementById("snowflakes_id").style.display = "none";
+        }
+      }
+
+      let beijingPageIdExist = document.getElementById("beijing_2022_pageid");
+
+      if(beijingPageIdExist){
+        body.classList.add("default-beijing-2022");
+
+        // element should be replaced with the actual target element on which you have applied scroll, use window in case of no target element.
+        window.addEventListener("scroll", function(){ 
+           var st_ = window.pageYOffset || document.documentElement.scrollTop; 
+           if (st_ > lastScrollTopBeijing){
+              // downscroll code
+              body.classList.add("beijing-2022-scroll");
+           } 
+           if(st_ == 0){
+              // upscroll code
+              body.classList.remove("beijing-2022-scroll");
+           }
+           lastScrollTopBeijing = st_ <= 0 ? 0 : st_; // For Mobile or negative scrolling
+        }, false);
+      }
+
+	let isLivePage = document.querySelector('body').matches('.layout-no-sidebars.path-beijing-live-updates');
+      if(isLivePage){
+        [].forEach.call(document.querySelectorAll('.node__meta'), function (el) {
+          el.style.display = 'none';
+        });
+      }
+      
+    const searchInput = document.getElementById("edit-keys");
+    if (searchInput) {
+        searchInput.placeholder = "Search..";
+    } 
+    
+    </script>
+    <script>
+if (window.location.href === "https://www.paralympic.org/para-sport/citi-volunteer-award-poll") 
+{
+    // Find the element with id "block-mainipcheader"
+    const mainipcheader = document.getElementById("block-mainipcheader");
+    const mainipcfooter = document.getElementById("block-mainipcworldwidepartners");
+    const mainipcsecondfooter = document.getElementById("block-institutionalpartners");
+    const mainipcfifthfooter = document.getElementById("block-mainipcfooter");
+    // Check if the element exists before proceeding
+    if (mainipcheader) {
+        // Define the new HTML markup
+        const newMarkup = `
+        <section id="block-parasportsheader" class="block block-block-content block-block-content612c13ab-32f4-4b38-bdc2-6d2ccb8b90aa clearfix apes-header-block template1 world-para-sport"> <div class="layout-Container"> <div class="header-back-url-container"> <div class="header-back-url"> </div> </div> <div class="header-site" style="background-image:url(/)"> <div class="header-elements"> <div class="logo-site test"> <div class="content-logo-site"> <a tabindex="0" href="/para-sport"> <article aria-label="Para Sports Logo" class="media media--type-image media--view-mode-logo-header"> <div class="field field--name-field-media-image field--type-image field--label-visually_hidden"> <div class="field__label visually-hidden">Imagen</div> <div class="field__item"> <img src="/sites/default/files/styles/header_logo/public/2022-01/ParaSports-Logo-01.png?itok=Aivgf-sr" width="603" height="100" alt="Para Sports Logo" typeof="foaf:Image" class="image-style-header-logo lazyload" data-uw-rm-ima-original="para sports logo"></div> </div> </article> </a> </div> </div> <div class="menu-header"> <div class="header-menu-container"> <div class="field field--name-field-header-menu field--type-apes-menu-field field--label-hidden field__item"><nav class="megamenu" aria-label="navigation megamenu" role="navigation"> <button class="accessible-megamenu-toggle" aria-expanded="false" aria-pressed="false" aria-controls="accessible-megamenu-1693571189596-1"> <span class="sr-only">Toggle Navigation</span> <span></span><span></span><span></span> </button> <div class="header-block-items"> <div class="actions-mobile"> <div class="language"> <div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface"> <div class="content"> <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-system-path="system/403" class="en is-active"><span><a href="/system/403" class="language-link" hreflang="en" data-drupal-link-system-path="system/403">English</a></span></li><li hreflang="es" data-drupal-link-system-path="system/403" class="es"><span><a href="/es/system/403" class="language-link" hreflang="es" data-drupal-link-system-path="system/403">Español</a></span></li></ul></div> </div> </div> </div> </div> <ol class="clearfix menu accessible-megamenu js-accessible-megamenu nav-menu js-nav-menu" id="accessible-megamenu-1693571189596-1"> <li class="accessible-megamenu-top-nav-item nav-item"> <div class="search sub-nav" role="region" aria-label="mobile search form" aria-expanded="false" aria-hidden="true" id="accessible-megamenu-1693571189597-3"> <form action="/search/node"> <div class="content-search-header"> <!-- input type="text" value="Search" --><input placeholder="Search" title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" maxlength="128" aria-label="search" data-uw-rm-form="fx"><input type="submit" class="visually-hidden" aria-label="submit" data-uw-rm-empty-ctrl=""> <i class="fas fa-search"></i> </div> </form> </div> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189598-4" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-1"><a href="/para-sport" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-1" aria-controls="accessible-megamenu-1693571189598-4">HOME <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189599-5" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-2"><a href="/para-sport/about" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-2" aria-controls="accessible-megamenu-1693571189599-5">About <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189599-6" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-3"><a href="/para-sport/news" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-3" aria-controls="accessible-megamenu-1693571189599-6">News <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189599-7" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-4"><a href="/para-sport/partners/citi" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-4" aria-controls="accessible-megamenu-1693571189599-7">Partners <i class="" aria-hidden="true"></i></a></h2> </li> </ol> </nav></div> </div> </div> <div class="top-menu"> <div class="actions-top-menu"> <div class="top-menu-first"> <div class="language"> <div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface"> <div class="content"> <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-system-path="system/403" class="en is-active"><span><a href="/system/403" class="language-link" hreflang="en" data-drupal-link-system-path="system/403">English</a></span></li><li hreflang="es" data-drupal-link-system-path="system/403" class="es"><span><a href="/es/system/403" class="language-link" hreflang="es" data-drupal-link-system-path="system/403">Español</a></span></li></ul></div> </div> </div> </div> <div class="top-menu-second"> <div class="search"> <div role="search" class="block block-search container-inline"> <div class="content container-inline"> <form class="search-block-form search-form" data-drupal-selector="search-block-form" action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8"> <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label"> <label for="edit-keys" class="visually-hidden">Search</label> <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" aria-label="input edit-keys" placeholder="Search.." data-uw-rm-form="nfx"> </div><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" aria-label="input edit-submit" data-uw-rm-form="submit"></div></form> </div> </div> </div> <div class="social"> <div class="field field--name-field-header-social-menu field--type-apes-menu-field field--label-hidden field__item"> <ul class="clearfix menu social"> <li class="social-item"> <a href="https://www.facebook.com/parasport" title="Facebook" target="_blank" aria-label="Facebook icon Facebook - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.facebook.com/parasport$facebookiconfacebook"> <img alt="Facebook icon" src="/sites/default/files/public%3A//menu_image/2022-01/FB_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="facebook icon"> Facebook </a> </li> <li class="social-item"> <a href="https://www.instagram.com/parasport_" title="Instagram" target="_blank" aria-label="Instagram icon Instagram - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.instagram.com/parasport_$instagramiconinstagram"> <img alt="Instagram icon" src="/sites/default/files/public%3A//menu_image/2022-01/Insta_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="instagram icon"> Instagram </a> </li> <li class="social-item"> <a href="https://twitter.com/parasport" title="Twitter" target="_blank" aria-label="Twitter icon Twitter - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://twitter.com/parasport$twittericontwitter"> <img alt="Twitter icon" src="/sites/default/files/public%3A//menu_image/2022-01/Twitter_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="twitter icon"> Twitter </a> </li> <li class="social-item"> <a href="https://www.youtube.com/channel/UC_5qfkzkx5m_DyDuvYPiRSQ" title="Youtube" target="_blank" aria-label="Youtube icon Youtube - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.youtube.com/channel/uc_5qfkzkx5m_dyduvypirsq$youtubeiconyoutube"> <img alt="Youtube icon" src="/sites/default/files/public%3A//menu_image/2022-05/Youtube_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="youtube icon"> Youtube </a> </li> </ul> </div> </div> </div> </div> </div> </div> </div> <div class="menu-header"> <div class="header-menu-container"> <div class="field field--name-field-header-menu field--type-apes-menu-field field--label-hidden field__item"><nav class="megamenu" aria-label="navigation megamenu" role="navigation"> <button class="accessible-megamenu-toggle" aria-expanded="false" aria-pressed="false" aria-controls="accessible-megamenu-1693571189600-8"> <span class="sr-only">Toggle Navigation</span> <span></span><span></span><span></span> </button> <div class="header-block-items"> <div class="actions-mobile"> <div class="language"> <div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface"> <div class="content"> <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-system-path="system/403" class="en is-active"><span><a href="/system/403" class="language-link" hreflang="en" data-drupal-link-system-path="system/403">English</a></span></li><li hreflang="es" data-drupal-link-system-path="system/403" class="es"><span><a href="/es/system/403" class="language-link" hreflang="es" data-drupal-link-system-path="system/403">Español</a></span></li></ul></div> </div> </div> </div> </div> <ol class="clearfix menu accessible-megamenu js-accessible-megamenu nav-menu js-nav-menu" id="accessible-megamenu-1693571189600-8"> <li class="accessible-megamenu-top-nav-item nav-item"> <div class="search sub-nav" role="region" aria-label="mobile search form" aria-expanded="false" aria-hidden="true" id="accessible-megamenu-1693571189600-10"> <form action="/search/node"> <div class="content-search-header"> <!-- input type="text" value="Search" --><input placeholder="Search" title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" maxlength="128" aria-label="search" data-uw-rm-form="fx"><input type="submit" class="visually-hidden" aria-label="submit" data-uw-rm-empty-ctrl=""> <i class="fas fa-search"></i> </div> </form> </div> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-12" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-1">HOME <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-14" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport/about" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-2">About <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-16" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport/news" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-3">News <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-18" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport/partners/citi" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-4">Partners <i class="" aria-hidden="true"></i></a></h2> </li> </ol> </nav></div> </div> </div> <div class="claim_web"> <a tabindex="0" href="/para-sport" style="font-size: 1.7rem;color: black;" aria-label="www.paralympic.org" data-uw-rm-empty-ctrl=""> </a> </div> </div> </section>
+        `;
+
+        // Replace the existing markup with the new markup
+        mainipcheader.innerHTML = newMarkup;
+    } else {
+        console.error("Element with id 'block-mainipcheader' not found.");
+    }
+
+    if(mainipcfooter){
+        const footerNewMarkup = `
+        <section id="block-foundingpartner" class="block block-block-content block-block-contentc162db93-74ff-474f-8dd2-2abf1202c6f8 clearfix apes-partners-block template1"> <h2 class="block-title">Founding Partner</h2> <div class="partner-container"> <article about="/node/325315" aria-label="apes_partner Para Sport Parner Citi " class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix"> <header> </header> <div class="node__content clearfix"> <a title="Para Sport Citi Partner" href="https://www.paralympic.org/para-sport/partners/citi"> <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2023-09/City%20Logo_600x412.png" width="600" height="412" alt="the official logo of the Citi Group" title="Citi logo" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="the official logo of the citi group"></div> </a> </div></article> </div> </section>
+        `;
+    mainipcfooter.innerHTML = footerNewMarkup;
+    mainipcsecondfooter.style.display = 'none';
+    } else {
+        console.error("Element with id 'block-mainipcworldwidepartners' not found.");
+    }
+
+    if(mainipcfifthfooter){
+        const ipcfifthnewMarkup = `<section id="block-parasportsfooter-1" class="block block-block-content block-block-content79771eac-56e1-45ca-875b-9abe3c751970 clearfix apes-footer template1"> <a href="#" id="return-to-top" style="display: inline;" aria-label="angle-double-up" data-uw-rm-empty-ctrl=""> <i class="fas fa-angle-double-up"></i> </a> <div class="content"> <div class="top"> <div class="ipc-detail"> <div class="logo-footer"> <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden field__item"><article aria-label="Para Sports Footer Logo" class="media media--type-image media--view-mode-logo-header"> <div class="field field--name-field-media-image field--type-image field--label-visually_hidden"> <div class="field__label visually-hidden">Imagen</div> <div class="field__item"> <img src="/sites/default/files/styles/header_logo/public/2022-01/footer_para_sports.png?itok=IQypTpGt" width="148" height="100" alt="Para Sports Footer Logo" typeof="foaf:Image" class="image-style-header-logo lazyload" data-uw-rm-ima-original="para sports footer logo"> </div> </div> </article> </div> <div class="contact-wrap"> <div class="contact-line"> <div class="title"> <h2 role="presentation" aria-hidden="true" data-uw-rm-heading="hide"> <span style="color: #ffffff!important;background: #000000!important;clip: rect(1px, 1px, 1px, 1px)!important;clip-path: inset(50%)!important;height: 1px!important;width: 1px!important;margin: -1px!important;overflow: hidden!important;padding: 0!important;position: absolute!important;" class="data-uw-rm-autofix-hide" data-uw-rm-ignore="">Empty heading</span></h2> </div> </div> <div class="contact-line secondary-slogan"> <div class="title"> <h2> <div class="field field--name-field-secondary-slogan field--type-string field--label-above"> <div class="field__label">Secondary Slogan</div> <div class="field__item">International Paralympic Committee</div> </div> </h2> </div> </div> <div class="contact-line"> <span> <div class="field field--name-field-footer-address field--type-link field--label-hidden field__item"><a href="https://www.google.com/maps/place/Adenauerallee+212-214,+53113+Bonn,+Germany/@50.7196979,7.1139362,17z/data=!3m1!4b1!4m5!3m4!1s0x47bee164536aa059:0x862903df69164c55!8m2!3d50.7196979!4d7.1161249" target="_blank" aria-label="Adenauerallee 212-214, 53113 Bonn, Germany - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.google.com/maps/place/adenauerallee+212-214,+53113+bonn,+germany/@50.7196979,7.1139362,17z/data=!3m1!4b1!4m5!3m4!1s0x47bee164536aa059:0x862903df69164c55!8m2!3d50.7196979!4d7.1161249$adenauerallee212-214,53113bonn,germany">Adenauerallee 212-214, 53113 Bonn, Germany</a></div> </span> </div> </div> </div> <div class="ipc-contact"> <div class="contact-line"> <div class="contact-line-item"> <i class="fas fa-mobile-alt"></i> <span> <div class="field field--name-field-footer-phone field--type-string field--label-hidden field__item">+49-228-2097-200</div> </span> </div> <div class="contact-line-item"> <i class="fas fa-fax"></i> <span> <div class="field field--name-field-footer-fax field--type-string field--label-hidden field__item">+49-228-2097-209</div> </span> </div> <div class="contact-line-item"> <a href="mailto:info@paralympic.org" title="#" tabindex="0" aria-label="send an email to info@paralympic.org" uw-rm-vague-link-id="mailto:info@paralympic.org$send an email to info@paralympic.org" data-uw-rm-vglnk=""> <i class="fas fa-envelope"></i> <span> <div class="field field--name-field-footer-email field--type-email field--label-hidden field__item">info@paralympic.org</div> </span></a> </div> </div> </div> </div> </div> <div class="bottom"> <div class="links-us"> <div class="us-claim"> </div> <div class="us-list"> <div class="field field--name-field-footer-menu field--type-apes-menu-field field--label-hidden field__item"> <ul class="clearfix menu"> <li class="menu-item"> <a href="/ipc" title="About the IPC" data-drupal-link-system-path="node/83294">About the IPC</a> </li> <li class="menu-item"> <a href="/media-office" title="Media Link" data-drupal-link-system-path="node/79483">Media</a> </li> <li class="menu-item"> <a href="/frequently-asked-questions" title="FAQ Link" data-drupal-link-system-path="node/80683">FAQ</a> </li> <li class="menu-item"> <a href="/imprint" title="Imprint Link" data-drupal-link-system-path="node/80686">Imprint</a> </li> <li class="menu-item"> <a href="/privacy" title="Privacy Policy & Terms and Condicitions" data-drupal-link-system-path="node/82735">Privacy Policy & Terms and Conditions</a> </li> <li class="menu-item"> <a href="/cookie-declaration" title="Cookie Declaration page" data-drupal-link-system-path="node/314119">Cookie Declaration</a> </li> <li class="menu-item"> <a href="/careers" title="Careers Link" data-drupal-link-system-path="node/79579">Careers</a> </li> </ul> </div> </div> </div> </div> </div> </section>`;
+        mainipcfifthfooter.innerHTML = ipcfifthnewMarkup;
+
+    }
+    else{
+        console.error("Element with id 'block-mainipcfooter' not found.");
+    }
+}
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+      
+      var lazyImages = document.querySelectorAll('img[loading="lazy"]');
+
+      
+      function isInViewport(element) {
+        var rect = element.getBoundingClientRect();
+        return (
+          rect.top >= 0 &&
+          rect.left >= 0 &&
+          rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+        );
+      }
+
+      
+      function isInHeader(element) {
+        return element.closest('.region-header') !== null;
+      }
+
+      lazyImages.forEach(function(img) {
+        if (isInViewport(img) || isInHeader(img)) {
+          img.removeAttribute('loading');
+        }
+      });
+    });
+    </script>
+  <script>
+    (function ($) {
+    Drupal.behaviors.updateCanonicalUrl = {
+        attach: function (context, settings) {
+        $('.js-pager__items', context).once('update-canonical-url').each(function () {
+            var $pager = $(this);
+            
+            $pager.find('a').on('click', function (event) {
+            
+            var href = $(this).attr('href');
+            var currentPage = href.match(/page=(\d+)/); // Extract page number from the href.
+            if (currentPage) {
+                currentPage = currentPage[1]; // Extracted page number.
+                console.log("current", currentPage);
+                
+                var canonicalUrl = window.location.pathname + '?page=' + encodeURIComponent(currentPage);
+                
+                history.pushState({}, '', canonicalUrl);
+            }
+  
+            });
+        });
+        }
+    };
+    })(jQuery);
+  </script>
+<script>
+    // Get the current URL path
+    var currentPath = window.location.pathname;
+
+    // Get all anchor tags within the menu
+    var menuItems = document.querySelectorAll('#menu-paris a');
+
+    // Function to check and add 'active' class
+    function activateLink(item) {
+        var href = item.getAttribute('href');
+
+        // Check if the current URL path matches the href attribute value
+        if (currentPath === href) {
+
+            // Add the 'active' class to the parent <li> tag
+            item.parentNode.classList.add('active');
+
+            // Also add 'active' class to the grandparent <li> tag if it exists
+            if (item.closest('.sub-nav')) {
+                item.closest('.nav-item').classList.add('active');
+            }
+        }
+    }
+
+    // Loop through each anchor tag
+    menuItems.forEach(function (item) {
+        activateLink(item);
+    });
+</script>
+  </body>
+</html>
+ title 42 IPC - Paralympics News, Sports and Results contentType 9 text/html url 31 https://www.paralympic.org:443/ responseCode 3 200 

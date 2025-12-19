@@ -1,0 +1,114 @@
+CIS 5550 Project - EastStorm
+
+Overview
+This project implements a distributed web crawler and search engine using:
+- KVS (Key-Value Store): Persistent distributed storage (HW5 implementation)
+- Crawler: Web crawler with robots.txt support and politeness (HW8 implementation)
+- Indexer: Indexes crawled pages for search
+- SearchServer: Web interface for searching indexed content
+
+Prerequisites
+- Java 17 or higher
+- Initial JAR files in lib/ (will be rebuilt from source during compilation):
+  - webserver.jar
+  - flame.jar
+
+Compilation
+
+Step 1: Compile all Java source files
+javac -cp "lib/webserver.jar:lib/kvs.jar:lib/flame.jar" \
+      -d out \
+      $(find src -name "*.java")
+
+Step 2: Build webserver.jar (from your source code)
+jar cf lib/webserver.jar -C out cis5550/webserver
+
+Step 3: Build flame.jar (from your source code)
+jar cf lib/flame.jar -C out cis5550/flame
+
+Step 4: Build kvs.jar (from your source code)
+jar cf lib/kvs.jar -C out cis5550/kvs -C out cis5550/generic -C out cis5550/tools
+
+Step 5: Build jobs.jar (for Flame jobs)
+
+jar cf jobs.jar -C out cis5550/jobs
+
+
+Running the System this will create 6 kvs worker and 6 flamer worker
+
+  ./run_old.sh
+
+
+echo "==========  DISTRIBUTED CLUSTER IS READY =========="
+echo "KVS Coordinator      : 8000"
+echo "KVS Workers          : 8001–8006"
+echo "Flame Coordinator    : 9000"
+echo "Flame Workers        : 9001–9006"
+echo "======================================================="
+
+
+Crawler
+Crawls web pages starting from a seed URL:
+java -cp "lib/*:bin" cis5550.flame.FlameSubmit localhost:9000 jobs.jar cis5550.jobs.Crawler <seed_url>
+
+Example:
+java -cp "lib/*:bin" cis5550.flame.FlameSubmit localhost:9000 jobs.jar cis5550.jobs.Crawler \
+  https://en.wikipedia.org/wiki/Computer_science \
+  https://en.wikipedia.org/wiki/Film \
+  https://en.wikipedia.org/wiki/Sport \
+  https://en.wikipedia.org/wiki/Technology \
+  https://en.wikipedia.org/wiki/Science
+
+Indexer
+Indexes crawled pages for search:
+java -cp "lib/*:bin" cis5550.flame.FlameSubmit localhost:9000 jobs.jar cis5550.jobs.TitleIndexer
+java -cp "lib/*:bin" cis5550.flame.FlameSubmit localhost:9000 jobs.jar cis5550.jobs.URLIndexer
+java -cp "lib/*:jobs.jar" cis5550.flame.FlameSubmit localhost:9000 jobs.jar cis5550.jobs.PageRank
+
+SearchServer
+Starts a web server for searching:
+java -cp "lib/*:bin" cis5550.jobs.SearchServer
+Https needs
+sudo java -cp "lib/*:out" cis5550.jobs.SearchServer
+
+
+Then open http://localhost:8080 in your browser.
+or  https://eaststorm.cis5550.net/ 
+
+Verification
+
+Check KVS status
+- KVS Coordinator: http://localhost:8000
+- KVS Worker: http://localhost:8001
+
+Check crawled pages
+java -cp "lib/*:bin" cis5550.kvs.KVSClient localhost:8000 count pt-crawl
+
+Check indexed words
+java -cp "lib/*:bin" cis5550.kvs.KVSClient localhost:8000 getRow pt-index <word>
+
+Project Structure
+
+src/
+  cis5550/
+    generic/          # Generic coordinator/worker base classes
+    jobs/             # Flame jobs (Crawler, Indexer, SearchServer)
+    kvs/              # KVS implementation (Coordinator, Worker, Client, Row)
+    tools/            # Utility classes (Hasher, HTTP, KeyEncoder, etc.)
+    webserver/        # Web server implementation
+    flame/            # Flame distributed computing framework
+
+Notes
+
+- All JARs (webserver.jar, flame.jar, kvs.jar) are rebuilt from source code in src/ during compilation
+- KVS: Uses persistent storage (HW5 implementation) with on-disk format for pt-* tables
+- Crawler: Implements robots.txt compliance, politeness delays, and content deduplication
+- Storage: Worker data is stored in worker1/ directory (excluded from git via .gitignore)
+
+Troubleshooting
+
+1. Connection refused: Ensure all 4 services (KVS Coordinator, KVS Worker, Flame Coordinator, Flame Worker) are running
+2. Port already in use: Kill existing processes: pkill -f cis5550
+3. Compilation errors: Make sure all dependencies in lib/ are present
+4. Seed URL not crawled: Check robots.txt rules and ensure the URL is accessible
+

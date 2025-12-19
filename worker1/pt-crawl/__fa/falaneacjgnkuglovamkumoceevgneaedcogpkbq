@@ -1,0 +1,1045 @@
+falaneacjgnkuglovamkumoceevgneaedcogpkbq length 5 33345 page 33345 <!doctype html><html lang="en"><head>
+
+<title>MeSH Browser</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+<link rel="stylesheet" href="/public/css/font-awesome.css">
+<link rel="stylesheet" href="/public/css/bootstrap.css">
+<link rel="stylesheet" href="/public/css/mongoMesh.css">
+<link rel="icon" type="image/jpeg" href="/public/img/meshLogo.jpg">
+
+<base href="/">
+
+<script>
+    if (document.domain != "localhost")
+        document.domain = "nlm.nih.gov";
+    var dcmsLinks = false,
+        dcmsParam = dcmsLinks
+                    ? function (sep) { return sep + "dcmsLinks=true"; }
+                    : function (   ) { return ""                    ; };
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){
+        var _fullPath = window.location.href;
+        var urlParams = _fullPath.slice(_fullPath.indexOf('?') + 1).split('&');
+        var IsOpen = "false";
+        if (urlParams != undefined && urlParams != null && urlParams != "") {
+            IsOpen = urlParams[0].split("=")[1];
+        }
+
+        if (IsOpen == "false" || IsOpen == undefined || IsOpen != "true") {
+            w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        }
+    })(window,document,'script','dataLayer','GTM-5QZ7KJZ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe sandbox src="https://www.googletagmanager.com/ns.html?id=GTM-5QZ7KJZ"
+                  height="0" width="0" style="display:none;visibility:hidden" title="googletagmanager"></iframe></noscript> 
+<!-- End Google Tag Manager (noscript) -->
+
+<script src="/public/js/elemUtil.js"></script>
+
+<script src="/public/js/record.js"  ></script>
+<script src="/public/js/treeDom.js" ></script>
+</head><body>
+
+<div>
+
+
+
+    <header class="NLMheader">
+        <a href="https://www.nlm.nih.gov/">
+          <img height="80" alt="NLM Logo"
+               src="https://www.nlm.nih.gov/images/NLM_White.png">
+        </a>
+        <!--<img class="starLogo"src="/public/img/NLM_Star.png" alt="NLM Star">-->
+    </header>
+<nav class="navbar navbar-default">
+
+  <div class="container-fluid">
+
+        <div class="navbar-header">
+
+          <button class="navbar-toggle collapsed" type="button"
+                  aria-expanded="false"
+                  onclick="toggleCollapse('bs-example-navbar-collapse-1')">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://www.nlm.nih.gov/mesh/">
+                <img id="meshNavbarLogo" src="/public/img/meshLogo.jpg" alt="MeSH Logo">
+            </a>
+        </div>
+
+        <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"
+             aria-expanded="false">
+            <ul class="nav navbar-nav">
+                
+                <li><a href="/" id="mainSearchButton">Search</a></li>
+                <li><a href="/treeView">Tree View</a></li>
+                <li><a href="/MeSHonDemand">MeSH on Demand</a> </li> <!--Delete the Span Tags after  a few months, once MeSH on Demand is no longer new-->
+                <li><a href="https://meshb-prev.nlm.nih.gov/" target="_blank">MeSH 2026</a></li>
+                <li><a href="https://www.nlm.nih.gov/mesh/mbinfo.html" target="_blank">About</a></li>
+                <li><a href="https://www.nlm.nih.gov/mesh/meshsugg.html" target="_blank">Suggestions</a> </li>
+                <li><a href="https://support.nlm.nih.gov/support/create-case/" target="_blank">Contact Us</a></li>
+            </ul>
+
+        </div>
+
+  </div>
+
+</nav>
+
+</div>
+
+<div class="container">
+
+
+
+
+<h1>Sports <small>MeSH Descriptor            Data 2025</small></h1>
+
+<ul class="nav nav-tabs">
+    <li id="details" class="active"
+        onclick="switchTab([ 'details', 'detailsTabContent' ])">
+        <a class="fakeLink">Details</a></li>
+    
+        <li id="qualifiers"
+            onclick="switchTab([ 'qualifiers', 'qualifiersTabContent' ])">
+            <a class="fakeLink">Qualifiers</a></li>
+        <li id="trees" onclick="switchTab([ 'trees', 'treesTabContent' ])">
+            <a class="fakeLink">MeSH Tree Structures</a></li>
+    
+    <li id="concepts" onclick="switchTab([ 'concepts', 'conceptsTabContent' ])">
+        <a class="fakeLink">Concepts</a></li>
+</ul>
+
+
+
+<div class="tab-content"><br>
+<div id="detailsTabContent" class="tab-pane active">
+
+    <dl id="descriptorDetails_Sports"
+        class="dl-horizontal">
+
+        <dt>MeSH Heading      </dt>
+
+        <dd>Sports</dd>
+
+        
+                    <dt>Tree Number(s)</dt>
+                    
+                        <dd><a id="treeNumber_0" onclick=
+                               "switchTab([ 'trees', 'treesTabContent' ])"
+                            >I03.450.642.845</a></dd>
+                    
+
+        <dt>Unique ID</dt><dd>D013177</dd>
+
+        <dt>RDF Unique Identifier</dt>
+        <dd><a href="https://id.nlm.nih.gov/mesh/D013177.html">
+            http://id.nlm.nih.gov/mesh/D013177
+        </a></dd>
+
+        <span id="annotation">
+            <dt>Annotation</dt><dd><a href="/record/ui?ui=D013177" class="textLink_SPORTS">SPORTS</a> is the activity, <a href="/record/ui?ui=D013178" class="textLink_SPORTSMEDICINE">SPORTS MEDICINE</a> is the specialty</dd>
+        </span>
+                <span id="scopeNote">
+                    <dt>Scope Note</dt><dd>Activities or games, usually involving physical effort or skill. Reasons for engagement in sports include pleasure, competition, and/or financial reward.</dd>
+                </span>
+            
+                <dt>Entry Term(s)</dt>
+                <dd>
+                    Athletics
+                    
+                </dd>
+                <dt>See Also</dt>
+                
+                    <dd><a id="seeAlso_AthleticInjuries"
+                           href="/record/ui?ui=D001265"
+                        >Athletic Injuries</a></dd>
+                
+                    <dd><a id="seeAlso_DopinginSports"
+                           href="/record/ui?ui=D004300"
+                        >Doping in Sports</a></dd>
+                
+                    <dd><a id="seeAlso_Exercise"
+                           href="/record/ui?ui=D015444"
+                        >Exercise</a></dd>
+                
+                    <dd><a id="seeAlso_ExerciseMovementTechniques"
+                           href="/record/ui?ui=D026241"
+                        >Exercise Movement Techniques</a></dd>
+                
+                    <dd><a id="seeAlso_ExerciseTherapy"
+                           href="/record/ui?ui=D005081"
+                        >Exercise Therapy</a></dd>
+                
+            <dt>Online Note</dt><dd>use SPORTS to search ATHLETICS 1966-75</dd>
+        
+            <dt>History Note</dt><dd>ATHLETICS was see under SPORTS 1963-75</dd>
+        
+        
+        <dt>Entry Combination</dt>
+        
+            <dd><a id="injuries_Athletic Injuries"
+                   href="/record/ui?ui=D001265"
+                >injuries:Athletic Injuries</a>
+            
+            </dd>
+        
+
+
+        
+                <dt>Date Established</dt>
+                <dd>1960/01/01</dd>
+            
+                <dt>Date of Entry</dt>
+                <dd>1999/01/01</dd>
+            
+                <dt>Revision Date</dt>
+                <dd>2013/07/08</dd>
+            
+
+    </dl>
+
+</div>
+
+<div id="qualifiersTabContent" class="tab-pane">
+
+    <dl class="dl-horizontal">
+
+        
+        <dt>Entry Combination</dt>
+        
+            <dd><a id="injuries_Athletic Injuries"
+                   href="/record/ui?ui=D001265"
+                >injuries:Athletic Injuries</a>
+            
+            </dd>
+        
+<br>
+
+        
+                <span id="allowableQualifiers"><dt>Allowable Qualifiers</dt><dd>
+                <ul class="list-unstyled">
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000145">
+                            classification
+                            (CL)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000191">
+                            economics
+                            (EC)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000193">
+                            education
+                            (ED)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000941">
+                            ethics
+                            (ES)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000266">
+                            history
+                            (HI)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000331">
+                            legislation &amp; jurisprudence
+                            (LJ)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000502">
+                            physiology
+                            (PH)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000523">
+                            psychology
+                            (PX)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000592">
+                            standards
+                            (ST)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000706">
+                            statistics &amp; numerical data
+                            (SN)
+                        </a></li>
+                    
+                        <li class="q">
+                        <a href="/record/ui?ui=Q000639">
+                            trends
+                            (TD)
+                        </a></li>
+                    
+                </ul></dd></span>
+            
+
+    </dl>
+
+</div><div id="treesTabContent" class="tab-pane">
+
+    <ul class="treeItem">
+
+        <li >
+        <a id="tree_0_node_I03"
+           
+               href="/record/ui?ui=D006802"
+           
+        ><span>Human Activities [I03]</span>
+        </a>
+        <ul class="treeItem">
+
+        <li >
+        <a id="tree_0_node_I03_450"
+           
+               href="/record/ui?ui=D007899"
+           
+        ><span>Leisure Activities [I03.450]</span>
+        </a>
+        <ul class="treeItem">
+
+        <li >
+        <a id="tree_0_node_I03_450_642"
+           
+               href="/record/ui?ui=D011998"
+           
+        ><span>Recreation [I03.450.642]</span>
+        </a>
+        <ul class="treeItem">
+
+        <li >
+        <a id="tree_0_node_I03_450_642_159"
+           
+               href="/record/ui?ui=D002165"
+           
+        ><span>Camping [I03.450.642.159]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_287"
+           
+               href="/record/ui?ui=D003615"
+           
+        ><span>Dancing [I03.450.642.287]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_469"
+           
+               href="/record/ui?ui=D006686"
+           
+        ><span>Hobbies [I03.450.642.469]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_581"
+           
+               href="/record/ui?ui=D000080802"
+           
+        ><span>Horticulture [I03.450.642.581]</span>
+        </a>
+        
+            <i id="plus_Horticulture" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Horticulture" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_637"
+           
+               href="/record/ui?ui=D000090262"
+           
+        ><span>Hunting [I03.450.642.637]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_693"
+           
+               href="/record/ui?ui=D010988"
+           
+        ><span>Play and Playthings [I03.450.642.693]</span>
+        </a>
+        
+            <i id="plus_Play_and_Playthings" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Play_and_Playthings" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845"
+           
+               href="/record/ui?ui=D013177"
+           
+        ><strong>Sports [I03.450.642.845]</strong>
+        </a>
+        
+            <i id="plus_Sports" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+            <i id="minus_Sports" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+        <ul class="treeItem">
+
+        <li >
+        <a id="tree_0_node_I03_450_642_845_054"
+           
+               href="/record/ui?ui=D054874"
+           
+        ><span>Athletic Performance [I03.450.642.845.054]</span>
+        </a>
+        
+            <i id="plus_Athletic_Performance" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Athletic_Performance" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_110"
+           
+               href="/record/ui?ui=D001484"
+           
+        ><span>Baseball [I03.450.642.845.110]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_117"
+           
+               href="/record/ui?ui=D001490"
+           
+        ><span>Basketball [I03.450.642.845.117]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_140"
+           
+               href="/record/ui?ui=D001642"
+           
+        ><span>Bicycling [I03.450.642.845.140]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_210"
+           
+               href="/record/ui?ui=D001914"
+           
+        ><span>Boxing [I03.450.642.845.210]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_255"
+           
+               href="/record/ui?ui=D000080304"
+           
+        ><span>Cricket Sport [I03.450.642.845.255]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_300"
+           
+               href="/record/ui?ui=D005538"
+           
+        ><span>Football [I03.450.642.845.300]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_350"
+           
+               href="/record/ui?ui=D000098946"
+           
+        ><span>Gaelic Football [I03.450.642.845.350]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_400"
+           
+               href="/record/ui?ui=D006055"
+           
+        ><span>Golf [I03.450.642.845.400]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_417"
+           
+               href="/record/ui?ui=D006173"
+           
+        ><span>Gymnastics [I03.450.642.845.417]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_475"
+           
+               href="/record/ui?ui=D006688"
+           
+        ><span>Hockey [I03.450.642.845.475]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_560"
+           
+               href="/record/ui?ui=D016139"
+           
+        ><span>Martial Arts [I03.450.642.845.560]</span>
+        </a>
+        
+            <i id="plus_Martial_Arts" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Martial_Arts" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_582"
+           
+               href="/record/ui?ui=D009051"
+           
+        ><span>Mountaineering [I03.450.642.845.582]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_600"
+           
+               href="/record/ui?ui=D015865"
+           
+        ><span>Racquet Sports [I03.450.642.845.600]</span>
+        </a>
+        
+            <i id="plus_Racquet_Sports" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Racquet_Sports" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_605"
+           
+               href="/record/ui?ui=D000068958"
+           
+        ><span>Return to Sport [I03.450.642.845.605]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_608"
+           
+               href="/record/ui?ui=D000087402"
+           
+        ><span>Rugby [I03.450.642.845.608]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_610"
+           
+               href="/record/ui?ui=D012420"
+           
+        ><span>Running [I03.450.642.845.610]</span>
+        </a>
+        
+            <i id="plus_Running" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Running" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_700"
+           
+               href="/record/ui?ui=D012861"
+           
+        ><span>Skating [I03.450.642.845.700]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_787"
+           
+               href="/record/ui?ui=D038161"
+           
+        ><span>Snow Sports [I03.450.642.845.787]</span>
+        </a>
+        
+            <i id="plus_Snow_Sports" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Snow_Sports" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_800"
+           
+               href="/record/ui?ui=D012916"
+           
+        ><span>Soccer [I03.450.642.845.800]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_834"
+           
+               href="/record/ui?ui=D064846"
+           
+        ><span>Sports for Persons with Disabilities [I03.450.642.845.834]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_880"
+           
+               href="/record/ui?ui=D000085944"
+           
+        ><span>Team Sports [I03.450.642.845.880]</span>
+        </a>
+        
+            <i id="plus_Team_Sports" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Team_Sports" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_925"
+           
+               href="/record/ui?ui=D014142"
+           
+        ><span>Track and Field [I03.450.642.845.925]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_932"
+           
+               href="/record/ui?ui=D054798"
+           
+        ><span>Volleyball [I03.450.642.845.932]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_940"
+           
+               href="/record/ui?ui=D016138"
+           
+        ><span>Walking [I03.450.642.845.940]</span>
+        </a>
+        
+            <i id="plus_Walking" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Walking" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_945"
+           
+               href="/record/ui?ui=D000073678"
+           
+        ><span>Water Sports [I03.450.642.845.945]</span>
+        </a>
+        
+            <i id="plus_Water_Sports" onclick="openTree(this)"
+               class="fa fa-plus-circle treeCollapseExpand fakeLink"
+               >
+            </i>
+            <i id="minus_Water_Sports" onclick="closeTree(this)"
+               class="fa fa-minus-circle treeCollapseExpand fakeLink"
+               style="display: none">
+            </i>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_950"
+           
+               href="/record/ui?ui=D014891"
+           
+        ><span>Weight Lifting [I03.450.642.845.950]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_975"
+           
+               href="/record/ui?ui=D014952"
+           
+        ><span>Wrestling [I03.450.642.845.975]</span>
+        </a>
+        
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_845_987"
+           
+               href="/record/ui?ui=D000067009"
+           
+        ><span>Youth Sports [I03.450.642.845.987]</span>
+        </a>
+        
+        </li>
+    
+</ul>
+
+        </li>
+    
+        <li >
+        <a id="tree_0_node_I03_450_642_922"
+           
+               href="/record/ui?ui=D055108"
+           
+        ><span>Sunbathing [I03.450.642.922]</span>
+        </a>
+        
+        </li>
+    
+</ul>
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+</ul>
+
+
+</div>
+
+<div id="conceptsTabContent" class="tab-pane">
+
+    <button id="ExpandAll" class="btn btn-default btn-sm pull-right"
+            onclick="toggleConcepts()">
+        <span id="expandConcepts"                        >  Expand All</span>
+        <span id="collapseConcepts" style="display: none">Collapse All</span>
+    </button>
+
+    
+
+        <div>
+        <span id="Nightwatch_cp_0_0"
+              onclick="toggleCollapse('cp_0_0', 'Nightwatch_cp_0_0')">
+        <a class="fakeLink"><b>
+            Sports
+            <i>Preferred</i>
+        </b></a></span>
+
+        <div id="cp_0_0" class="collapse" style="display: none"
+             aria-expanded="false">
+        <dl class="dl-horizontal">
+
+            <dt>Concept UI</dt><dd>M0020387</dd>
+
+            
+                <dt>Scope Note</dt><dd>Activities or games, usually involving physical effort or skill. Reasons for engagement in sports include pleasure, competition, and/or financial reward.</dd>
+            
+
+            <dt>Terms</dt>
+
+            
+
+                <dd>
+                <span id="Nightwatch_termName_0_0"
+                      onclick="toggleCollapse('termName_0_0',
+                                              'Nightwatch_termName_0_0')">
+                    <a class="fakeLink"><b>Sports</b></a></span>
+
+                
+                    <i>Preferred Term</i>
+                
+
+                <div id="termName_0_0" class="collapse"
+                     style="display: none" aria-expanded="false">
+
+                    <b class="conceptsTabTermHeading">Term UI</b>
+                    T038710<br>
+
+                    
+                        <b class="conceptsTabTermHeading">Date</b>01/01/1999<br>
+                    
+
+                    <b class="conceptsTabTermHeading">LexicalTag</b>
+                    NON<br>
+
+                    
+                        <b class="conceptsTabTermHeading">ThesaurusID</b>
+                        NLM (1966)<br>
+                    
+
+                    <br>
+
+                </div>
+
+            </dd>
+
+        </dl></div>
+
+    </div>
+
+        <div>
+        <span id="Nightwatch_cp_1_1"
+              onclick="toggleCollapse('cp_1_1', 'Nightwatch_cp_1_1')">
+        <a class="fakeLink"><b>
+            Athletics
+            <i>Narrower</i>
+        </b></a></span>
+
+        <div id="cp_1_1" class="collapse" style="display: none"
+             aria-expanded="false">
+        <dl class="dl-horizontal">
+
+            <dt>Concept UI</dt><dd>M0020388</dd>
+
+            
+
+            <dt>Terms</dt>
+
+            
+
+                <dd>
+                <span id="Nightwatch_termName_1_0"
+                      onclick="toggleCollapse('termName_1_0',
+                                              'Nightwatch_termName_1_0')">
+                    <a class="fakeLink"><b>Athletics</b></a></span>
+
+                
+                    <i>Preferred Term</i>
+                
+
+                <div id="termName_1_0" class="collapse"
+                     style="display: none" aria-expanded="false">
+
+                    <b class="conceptsTabTermHeading">Term UI</b>
+                    T038711<br>
+
+                    
+                        <b class="conceptsTabTermHeading">Date</b>07/16/1975<br>
+                    
+
+                    <b class="conceptsTabTermHeading">LexicalTag</b>
+                    NON<br>
+
+                    
+                        <b class="conceptsTabTermHeading">ThesaurusID</b>
+                        UNK (19XX)<br>
+                    
+
+                    <br>
+
+                </div>
+
+            </dd>
+
+        </dl></div>
+
+    </div>
+
+</div></div>
+
+<small class="pull-right">
+    page delivered in 0.149s
+</small>
+
+</div>
+
+<footer class="footer">
+    <div class="container-fluid"><div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6">
+                <p><a href="https://www.nlm.nih.gov/socialmedia/index.html">
+                    Connect with NLM
+                </a></p>
+                <ul class="list-inline">
+                    <li>
+                    <a title="External link: please review our privacy policy."
+                       href="https://twitter.com/NLM_NIH">
+                        <img src="https://www.nlm.nih.gov/images/Twitter_W.svg"
+                             alt="Twitter">
+                    </a></li>
+                    <li>
+                    <a title="External link: please review our privacy policy."
+                       href="https://www.facebook.com/nationallibraryofmedicine"
+                    ><img src="https://www.nlm.nih.gov/images/Facebook_W.svg"
+                          alt="Facebook">
+                    </a></li>
+                    <li>
+                    <a title="External link: please review our privacy policy."
+                       href="https://www.youtube.com/user/NLMNIH">
+                        <img src="https://www.nlm.nih.gov/images/YouTube_W.svg"
+                             alt="You Tube">
+                    </a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <p>National Library of Medicine<br>
+                    <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323">
+                        8600 Rockville Pike<br>
+                        Bethesda, MD 20894
+                    </a>
+                </p>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <p><a href="https://www.nlm.nih.gov/web_policies.html">
+                    Web Policies
+                </a><br>
+                <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">
+                    FOIA
+                </a><br>
+                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html">
+                    HHS Vulnerability Disclosure
+                </a></p>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <p><a href=
+                      "https://support.nlm.nih.gov?from=https://www.nlm.nih.gov/">
+                    NLM Support Center
+                </a><br>
+                <a href="https://www.nlm.nih.gov/accessibility.html">
+                    Accessibility
+                </a><br>
+                <a href="https://www.nlm.nih.gov/careers/careers.html">
+                    Careers
+                </a></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+              <p class="text-center"> <a href="https://www.nlm.nih.gov/">NLM</a> | <a href="https://www.nih.gov/">NIH</a> | <a href="https://www.hhs.gov/">HHS</a> | <a href="https://www.usa.gov/">USA.gov</a></p>
+            </div>
+        </div>
+    </div></div>
+<!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+try{(new g(100,"r","QSI_S_ZN_cwOHfLkxRr4n4W2","https://zncwohflkxrr4n4w2-nlmenterprise.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_cwOHfLkxRr4n4W2")).start()}catch(i){}})();
+</script><div id='ZN_cwOHfLkxRr4n4W2'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET-->
+</footer>
+
+</body></html>
+
+ title 12 MeSH Browser contentType 9 text/html url 50 https://meshb.nlm.nih.gov:443/record/ui?ui=D013177 responseCode 3 200 

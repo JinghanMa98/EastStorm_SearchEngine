@@ -1,0 +1,171 @@
+sepsqohsciekyciccejmpelcpmkkgqgkpkgkiemm page 6473 <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Sports discipline | md:term</title>
+<meta name="robots" content="all" />
+<meta name="distribution" content="global" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="shortcut icon" sizes="16x16 32x32" href="/files/logo/mdterm-32px.png" />
+<link rel="shortcut icon" sizes="64x64" href="/files/logo/mdterm-64px.png" />
+<link rel="apple-touch-icon" sizes="256x256" href="/files/logo/mdterm-256px.png" />
+<meta name="theme-color" content="#048" />
+<link rel="stylesheet" type="text/css" href="/css/term.min.css?v00040" />
+<meta name="description" content="Subtype of a sport, an event within a sport" />
+
+<script src="/tracking.js?v00040" type="text/javascript" async></script>
+<link rel="canonical" href="https://term.museum-digital.de/md-de/tag/19816?lang=en" hreflang="en" />
+<link rel="alternate" href="https://term.museum-digital.de/md-de/tag/19816?lang=de" hreflang="de" />
+</head>
+
+<body class="threeCol">
+    <main>
+
+        <h1>Sports discipline</h1>
+
+        <header>
+            <h3>Query URLs</h3>
+            <code>
+            https://term.museum-digital.de/md-de/tag/19816
+            </code>
+        </header>
+        <hr />
+
+        <div id="formats">
+            <a href="https://term.museum-digital.de/md-de/tag/19816/json">JSON</a>
+            <a href="https://term.museum-digital.de/md-de/tag/19816/skos">SKOS</a>
+            <a href="https://term.museum-digital.de/md-de/tag/19816/navigator" class="alternative_view">Navigator</a>
+            <a href="/md-de/tag/tree#19816">Tree</a>
+        </div>
+
+        <div class="basic_data">
+        <section id="base">
+            <dl>
+            
+                <dt>Note</dt>
+                <dd>Subtype of a sport, an event within a sport</dd>
+        
+            </dl>
+        </section>
+
+    </div>
+
+    <div class="lists">
+        <section id="equivalents">
+            <h3>References</h3>
+            <ul>
+                <li>
+                    <a href="http://www.iconclass.org/rkd/43C%28%2B0%29/">iconclass</a>
+                </li>
+                <li>
+                    <a href="https://www.wikidata.org/entity/Q2312410">wikidata<span>Q2312410</span></a>
+                </li>
+            </ul>
+        </section>
+    </div>
+
+    <p class="lastUpdTime">[Status: Questionable; <time datetime="2025-09-14 22:45:25">Last update: 2025/09/14</time>]</p>
+
+    </main>
+
+    <section id="hierarchies">
+            <section>
+                <h3>Broader (Generic)</h3>
+                <ul class="broader"><li><a href="/md-de/tag/19978">Type of sport</a></li>
+                </ul>
+                <h3>Narrower (Generic)</h3>
+                <ul class="narrower"><li><a href="/md-de/tag/13984">Pair skating</a></li>
+                </ul></section>
+    </section>
+
+
+<aside id="mainAside">
+
+<section id="about" aria-label="About">
+<h2>
+<img src="/files/logo/mdterm-256px.png" id="logo" alt="Logo" />
+<span>md:term<br />Vocabulary Browser</span>
+</h2>
+<p>
+<a href="/">md:term</a> is the access point to controlled vocabularies at <a href="/">museum-digital</a>.
+</p>
+</section>
+
+<div>
+
+<h3>Search by Phrase</h3>
+<form method="GET" action="/redir.php">
+
+<input type="text" name="search" placeholder="Search phrase" aria-label="Search phrase" required />
+
+<select name="kind" aria-label="Select controlled vocabulary">         <option value="tag|md-de" selected >Tags (md:de)</option>
+<option value="persinst|md-de">Persons &amp; Institutions (md:de)</option>
+<option value="place|md-de">Places (md:de)</option>
+<option value="time|md-de">Times (md:de)</option>
+<option disabled></option>         <option value="tag|ackerbau">Ackerbaugeräte-Systematik</option>
+<option disabled></option>         <option value="tag|grobsystematik">Grobsystematik</option>
+<option disabled></option>         <option value="tag|hesys">Hessische Systematik</option>
+<option disabled></option>         <option value="tag|moebel">Möbeltypologie</option>
+<option disabled></option>         <option value="tag|oberbegriffsdatei">Oberbegriffsdatei</option>
+<option disabled></option>         <option value="tag|hornbostel">Hornbostel-Sachs</option>
+<option disabled></option>         <option value="tag|technikthesaurus">Technikthesaurus</option>
+<option disabled></option>
+</select>
+
+<button type="submit">Search</button>
+
+</form>
+
+<h3>Search by ID</h3>
+<form method="GET" action="/redir.php">
+
+<!--<span>ID</span>-->
+<input type="text" name="id" placeholder="ID" value="19816" aria-label="ID" required />
+
+<!--<span>Norm Data Catalogue</span>-->
+<select name="kind" aria-label="Select controlled vocabulary">         <option value="tag|md-de" selected >Tags (md:de)</option>
+<option value="persinst|md-de">Persons &amp; Institutions (md:de)</option>
+<option value="place|md-de">Places (md:de)</option>
+<option value="time|md-de">Times (md:de)</option>
+<option disabled></option>         <option value="tag|ackerbau">Ackerbaugeräte-Systematik</option>
+<option disabled></option>         <option value="tag|grobsystematik">Grobsystematik</option>
+<option disabled></option>         <option value="tag|hesys">Hessische Systematik</option>
+<option disabled></option>         <option value="tag|moebel">Möbeltypologie</option>
+<option disabled></option>         <option value="tag|oberbegriffsdatei">Oberbegriffsdatei</option>
+<option disabled></option>         <option value="tag|hornbostel">Hornbostel-Sachs</option>
+<option disabled></option>         <option value="tag|technikthesaurus">Technikthesaurus</option>
+<option disabled></option>
+</select>
+
+<button type="submit">Search</button>
+
+</form>
+
+</div>
+
+<div>
+
+<ul>
+<li><a href="/downloads">Downloads</a></li>
+<li><a href="/swagger">API</a></li>
+<li><a href="https://en.about.museum-digital.org/impressum">Imprint</a></li>
+<li><a href="https://en.about.museum-digital.org/privacy">Privacy policy</a></li>
+</ul>
+
+<hr />
+
+<span>Language</span>
+<ul class="switch_languages"><li><a class="edit_session lang_switcher" data-lang="en">English</a></li><li><a class="edit_session lang_switcher" data-lang="de">Deutsch</a></li><li><a class="edit_session lang_switcher" data-lang="ru">Русский</a></li><li><a class="edit_session lang_switcher" data-lang="uk">Українська</a></li>
+</ul>
+
+</div>
+
+</aside>
+
+<script src="/files/js/term.js?v00040"></script>
+
+
+</body>
+</html> title 27 Sports discipline | md:term contentType 9 text/html url 50 https://term.museum-digital.de:443/md-de/tag/19816 responseCode 3 200 

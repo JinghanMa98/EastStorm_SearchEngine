@@ -1,0 +1,8031 @@
+jcogxghcvossmatkoidaegfeueeqmmnggofoikvo page 133776 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html lang="en" class="home-desktop ui-unknown0 ui-unknown">
+
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#">
+
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+
+    <link rel="dns-prefetch" href="https://cdn.britannica.com/mendel-resources/3-168">
+    <link rel="preconnect" href="https://cdn.britannica.com/mendel-resources/3-168">
+
+    
+
+    <link rel="preload" as="script" href="https://www.googletagservices.com/tag/js/gpt.js" />
+
+    
+
+    <link rel="icon" href="/favicon.png" />
+
+    
+
+    <meta name="description" content="Explore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of objective articles, biographies, videos, and images from experts." />
+    <meta name="keywords" content="britannica, reference, online, encyclopedia, encyclopaedia, store, dictionary, thesaurus" />
+    <link rel="canonical" href="https://www.britannica.com/" />
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <title>Encyclopedia Britannica | Britannica</title>
+
+    
+
+    
+
+
+
+
+
+
+
+<script   class="analytics-metadata" type="application/json">
+{"leg":"D","adLeg":"D","userType":"ANONYMOUS","pageType":"Home","pageSubtype":null,"articleTemplateType":null,"gisted":false,"topicId":null,"articleId":null,"hasAskButton":false,"hasAiTopQuestions":false,"hasSimplifyButton":false,"hasNews":false,"mvstEvents":null}
+</script>
+
+
+    <script type="text/javascript">
+    EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+    </script>
+
+
+
+    
+
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('consent', 'default', {
+        'ad_personalization': 'denied',
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'analytics_storage': 'denied',
+        'region': ["AT","BE","BG","GB","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","IS","LI","NO"],
+        'wait_for_update': 500,
+    });
+
+    gtag('consent', 'default', {
+        'ad_personalization': 'granted',
+        'ad_storage': 'granted',
+        'ad_user_data': 'granted',
+        'analytics_storage': 'granted',
+    });
+
+    window.geoCountry = 'US';
+    window.isGdprCountry = false;
+    window.isCcpaCountry = true;
+    window.geoRegion = 'NJ';
+
+</script>
+
+
+
+    
+
+    <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+    window._vwo_code || (function() {
+        var account_id=698824,
+            version=2.1,
+            settings_tolerance=2000,
+            hide_element='body',
+            hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+            f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;display: block !important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init();})();
+</script>
+<script type="text/javascript" id="vwoConsent">
+  // VWO.init expects a 1 for opt-in, 3 for opt-out, 2 for pending
+  const setVWOConsentState = (state) => {
+    const currentConsentState = window.VWO?.consentState;
+    if (currentConsentState === state) {
+      return;
+    }
+    window.VWO = window.VWO || [];
+    window.VWO.init =
+      window.VWO.init ||
+      function (state) {
+        window.VWO.consentState = state;
+      };
+    window.VWO.init(state);
+    // write vwoConsentState to cookie
+    document.cookie = 'vwoConsentState=' + state + '; path=/;';
+  };
+  if (window.isGdprCountry) {
+    // set initial consent
+    const vwoConsentStateCookie = document.cookie.match(new RegExp('(^| )' + 'vwoConsentState' + '=([^;]+)'));
+    const initialConsent = vwoConsentStateCookie ? Number(vwoConsentStateCookie[2]) : 2;
+    setVWOConsentState(initialConsent);
+    const addCmpEventListener = () => {
+      window.__cmp(
+        'addEventListener',
+        [
+          'consent',
+          () => {
+            const cmpConsentStatus = window.__cmp('consentStatus');
+            const consentExists = cmpConsentStatus?.consentExists;
+            const cmpData = window.__cmp('getCMPData');
+            const vwoVendorId = 's31';
+            if (consentExists) {
+              if (cmpData?.vendorConsents?.[vwoVendorId]) {
+                setVWOConsentState(1);
+              } else {
+                setVWOConsentState(3);
+              }
+            } else {
+              setVWOConsentState(2);
+            }
+          },
+          false,
+        ],
+        null
+      );
+    };
+    // Check if __cmp is available, if not, set up a timer to wait for it
+    if (typeof window.__cmp === 'function') {
+      addCmpEventListener();
+    } else {
+      const cmpCheckInterval = setInterval(() => {
+        if (typeof window.__cmp === 'function') {
+          clearInterval(cmpCheckInterval);
+          addCmpEventListener();
+        }
+      }, 250);
+      // Clear the interval after 20 seconds if __cmp never becomes available
+      setTimeout(() => {
+        clearInterval(cmpCheckInterval);
+      }, 20000);
+    }
+  } else {
+    // if not in a GDPR country, set to opt-in
+    setVWOConsentState(1);
+  }
+</script>
+
+
+    
+
+    
+        
+    
+
+    
+
+    <script type="text/javascript" data-type="Init Mendel">
+
+    window.$UI = {};
+
+    window.Constants = {"LICENSE_URL":"/bps/license","AJAX_PREFIX_URL":"/ajax","QUIZ_URL":"/quiz","MEDIA_OVERLAY_URL":"/media-overlay","CHATBOT_PAGE_URL":"/chatbot","PROCON_QUIZ_BROWSE_URL":"/procon-quiz/browse","TOPIC_FACTS_DATA_URL":"/facts","NEWSLETTER_PAGE_URL":"/newsletters","EXPLORE_URL":"/explore","QUIZ_BROWSE_IMAGE_QUIZZES":"images","MEDIA_URL":"/media","TOPIC_MEDIA_PATH":"/images-videos","TOPIC_TOP_QUESTION_URL":"/question","PORTAL_FINANCE_URL_PREFIX":"/money","PODCASTS_URL":"/podcasts","STAND_ALONE_VIDEO_URL":"/video","ONE_GOOD_FACT_URL":"/one-good-fact","MORE_ON_THIS_DAY_URL":"/more-on-this-day","ERROR_404_URL":"/error404","PROCON_CITED_IN_THE_NEWS_URL":"/procon/ProCon-in-the-News","TOPIC_QUOTES_URL":"/quotes","SEARCH_PAGE_URL":"/search","PROCON_URL":"/procon","TOPIC_CONTENT_AJAX_URL":"/topic-content/topic","ERROR_URL":"/error","TOPIC_PAGE_CONTENT_AJAX_URL":"/topic-content/page","TOPIC_COLLECTION_URL":"/summary","LOGINBOX_URL":"/auth/loginbox","MWU_LOGIN_URL":"https://cam.merriam-webster.com/login?redirect=https%3A%2F%2Funabridged.merriam-webster.com","PROCON_DEBATE_TOPICS_URL":"/procon/Debate-Topics","ONE_GOOD_FACT_BROWSE_URL":"/one-good-fact/all-good-facts","INFINITE_SCROLL_PREFIX_URL":"/scroll","TOPIC_TOP_QUESTION_BROWSE_URL":"/questions","QUIZ_BROWSE_URL":"/quiz/browse","domain":"britannica.com","BIO_BROWSE_URL":"/browse/biographies","CATEGORY_BROWSE_URL":"/browse","TIGHTROPE_QUIZ_URL":"/quiz/tightrope","ALPHA_BROWSE_URL":"/sitemap","DICTIONARY_URL":"/dictionary","COBRAND_IMAGE_URL":"/image/cobrand","PROCON_IN_THE_NEWS_URL":"/procon/pro-and-con-issues-in-the-news","PROCON_BROWSE_URL":"/procon","QUIZ_BROWSE_VOCAB_QUIZZES":"vocabulary-quizzes","SUBMISSION_URL":"/submission","EB_LOG_OUT":"/auth2/logout","NEWSLETTER_SUBSCRIPTION_URL":"/newsletter-subscription","MAINTENANCE_ERROR_URL":"https://maintenance.eb.com","PROFILE_EB_EDITOR_URL":"/editor","TOPIC_AJAX_URL":"/ajax/topic","AI_ABOUT_PAGE_URL":"/about-britannica-ai","TOPIC_SUMMARY_BROWSE_URL":"/summaries","TOPIC_ADDITIONAL_INFO_PATH":"/additional-info","VIDEO_CHANNEL_URL":"/videos","GALLERY_BROWSE_URL":"/gallery/browse","SUDOKU_GAME_URL":"/games/sudoku","PROCON_ABOUT_URL":"/procon/About-ProCon","ARTICLE_PRINT_URL":"/print/article","FIRST_EDITION_URL":"/subscriber/firstedition","WW1_PORTAL_URL":"/discover/World-War-I","MENDEL_COOKIE":"__mendel","PROCON_QUIZ_URL":"/procon-quiz","SHOW_ALL_CONTRIBUTORS":"/additional-info#contributors","PROFILE_EXPERT_URL":"/contributor","ASSEMBLY_IMAGE_URL":"/image/assembly","DAY_IN_HISTORY_URL":"/on-this-day","PORTAL_FINANCE_BROWSE_URL_PREFIX":"/money/browse","ERROR_400_URL":"/error400","CALCULATORS_BROWSE_URL":"/calculators","EB_LOGIN_URL":"/auth/eb-login","NEW_ARTICLES_URL":"/new-articles"};
+    window.CDN = "https://cdn.britannica.com";
+	window.CAM_SETTINGS_URL = "https://cam.britannica.com/settings";
+    window.CAM_LOGIN_URL = "https://cam.britannica.com/login";
+    window.CAM_SIGN_UP_URL = "https://cam.britannica.com/registration"
+
+    window.Mendel = {
+     	"config" : {
+            "videoPlayerId" : "UyMCoK2v",
+      		"domain": "britannica.com",
+			"page": "Home",
+			"sharedUrl": "https://www.britannica.com/",
+			"amuselabsUrl": "https://cdn3.amuselabs.com",
+	    	"resourcesPrefixUrl": "https://cdn.britannica.com/mendel-resources/3-168/[url]?v=3.168.15",
+			"date": 20251204,
+			"userInfo": { "type": "ANONYMOUS"
+										,"currency": "USD"
+										,"country": "US"
+										,"state": "NJ"
+										,"timezone": "America/New_York"
+										,"bcomId": "-8241019952136910298"
+										,"adProvider": "ay"
+										,"privacyInfo": {"inGdprCountry":false,"inCcpaState":true,"showConsent":true}
+										,"hasAds": true
+										,"testVersion": "D"
+										,"adsTestVersion": "D"
+										,"consumerId": ""
+										,"instId": ""
+										,"consumerUserName": ""
+										,"instUserName": ""
+										,"cognito": null
+										,"isMwuSubscriber": false
+			},
+			"tvs":{ "r":[25,25,25,25], "a": [3,3,3,91]},
+			"isLoggedInAsUser": false,
+			"isPhone": false,
+			"isDesktop": true,
+			"logoutUrl": "/auth2/logout",
+			"selfServiceUrl": "https://myaccount.britannica.com",
+			"cdnUrl": "https://cdn.britannica.com",
+			"chatbotApi": "https://www.britannica.com/chat-api",
+	        "fetchOffset": 800,
+			
+			"mendelCookieName": "__mendel",
+			"mendelCookie": {"surveyShown":false,"currentDate":20251204,"ts":0,"lti":0},
+			
+
+			"autocompleteToSearchPage": false
+		},
+        "GA": {"leg":"D","adLeg":"D","userType":"ANONYMOUS","pageType":"Home","gisted":false,"hasAskButton":false,"hasAiTopQuestions":false,"hasSimplifyButton":false,"hasNews":false}
+    };
+
+	</script>
+
+
+
+    
+
+    <meta property="fb:app_id" content="1887621861548296"/>
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@britannica" />
+<meta name="twitter:image" content="https://cdn.britannica.com/mendel-resources/3-168/images/EBLogo.jpg?v=3.168.15" />
+<meta name="twitter:description" content="Explore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of objective articles, biographies, videos, and images from experts."/>
+
+<meta property="og:type"  content="WEBSITE"/>
+<meta property="og:title" content="Encyclopedia Britannica | Britannica"/>
+<meta property="og:description" content="Explore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of objective articles, biographies, videos, and images from experts."/>
+<meta property="og:site_name" content="Encyclopedia Britannica" />
+<meta property="og:url" content="https://www.britannica.com/"/>
+<meta property="og:image" content="com.britannica.mendel.util.entities.Image@28df937b" />
+
+<script type="text/javascript" data-type="init opengraph">
+Mendel.openGraph = {
+    "type": "WEBSITE",
+    "title": "Encyclopedia Britannica",
+    "description": "Explore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of objective articles, biographies, videos, and images from experts.",
+    "imageUrl": "https://cdn.britannica.com/mendel-resources/3-168/images/EBLogo.jpg?v=3.168.15",
+    "pageUrl": "https://www.britannica.com/"
+}
+</script>
+
+
+    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/" >
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+
+    
+
+    <link href="https://cdn.britannica.com/mendel-resources/3-168/dist/_tailwind.css?v=3.168.15" rel="stylesheet" />
+    <link href="https://cdn.britannica.com/mendel-resources/3-168/dist/vendor-bundle.css?v=3.168.15" rel="stylesheet" />
+    <link href="https://cdn.britannica.com/mendel-resources/3-168/dist/mendel-css.css?v=3.168.15" rel="stylesheet" />
+    
+    <link href="https://cdn.britannica.com/mendel-resources/3-168/dist/home-page.css?v=3.168.15" rel="stylesheet" />
+
+    <script type="text/javascript">
+        if (self !== top) { top.location = self.location; }
+    </script>
+
+    
+
+    <script type="module">
+            window.dataLayer = window.dataLayer || [];
+
+            async function awaitPaint(fn) {
+                return new Promise((resolve) => {
+                    const fallbackTimeout = setTimeout(() => {
+                        if (typeof fn === 'function') { fn(); }
+                        resolve();
+                    }, 200);
+                    requestAnimationFrame(() => {
+                        setTimeout(() => {
+                            clearTimeout(fallbackTimeout);
+                            if (typeof fn === 'function') { fn(); }
+                            resolve();
+                        }, 50);
+                    });
+                });
+            }
+
+            if (window.dataLayer && typeof window.dataLayer.push === 'function') {
+                const originalDataLayerPush = window.dataLayer.push.bind(window.dataLayer);
+                window.dataLayer.push = function (...args) {
+                    (async () => {
+                        await awaitPaint(() => {
+                            originalDataLayerPush(...args);
+                        });
+                    })();
+                };
+            }
+        </script>
+
+    <script>
+	            window.dataLayer = window.dataLayer || [];
+				window.dataLayer.push( {
+				   'gtm.start': new Date().getTime(),
+				   event: 'gtm.js'
+			   	});
+            </script>
+			<script src="//www.googletagmanager.com/gtm.js?id=GTM-5W6NC8" async></script>
+			<script src="//www.googletagmanager.com/gtm.js?id=GTM-KRJ753NG" async></script>
+		
+
+    
+
+    
+
+</head>
+
+<body data-leg="D" class="homepage user-ANONYMOUS  user-ads   md-desktop    leg-d ">
+
+
+
+
+    <!-- **** assertive yield ****-->
+
+<script async defer src="https://launchpad-wrapper.privacymanager.io/0ccc6fe8-1870-4ad8-b47b-6d029ac116fc/launchpad-liveramp.js"></script>
+<script>
+    Mendel.config.adProvider = 'ay';
+</script>
+<script src="https://JRyhoywLYXNLYMAhs.ay.delivery/manager/JRyhoywLYXNLYMAhs" type="text/javascript" referrerpolicy="no-referrer-when-downgrade"></script>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+
+
+
+
+
+
+
+<script  id="json-navbar-info"  type="application/json">
+{"topSectionLinks":[{"title":"Ask the Chatbot","url":"/chatbot","navbarId":"CHATBOT"},{"title":"Games & Quizzes","url":"/quiz/browse","navbarId":"QUIZZES"},{"title":"History & Society","url":"/History-Society","navbarId":"HISTORY"},{"title":"Science & Tech","url":"/Science-Tech","navbarId":"SCIENCE"},{"title":"Biographies","url":"/Biographies","navbarId":"BIOS"},{"title":"Animals & Nature","url":"/Animals-Nature","navbarId":"ANIMALS"},{"title":"Geography & Travel","url":"/Geography-Travel","navbarId":"GEOGRAPHY"},{"title":"Arts & Culture","url":"/Arts-Culture","navbarId":"ART"},{"title":"ProCon","url":"/procon","navbarId":"PROCON"},{"title":"Money","url":"/money","navbarId":"MONEY"},{"title":"Videos","url":"/videos","navbarId":"VIDEOS"}]}
+</script>
+
+
+
+
+
+
+
+
+
+<script  id="json-hamburger-menu"  type="application/json">
+{"britannicaMenu1":[{"title":"History & Society","url":"/History-Society"},{"title":"Science & Tech","url":"/Science-Tech"},{"title":"Biographies","url":"/Biographies"},{"title":"Animals & Nature","url":"/Animals-Nature"},{"title":"Geography & Travel","url":"/Geography-Travel"},{"title":"Arts & Culture","url":"/Arts-Culture"},{"title":"ProCon","url":"/procon"},{"title":"Money","url":"/money"}],"britannicaMenu2":[{"title":"Games & Quizzes","url":"/quiz/browse"},{"title":"Videos","url":"/videos"},{"title":"On This Day","url":"/on-this-day"},{"title":"One Good Fact","url":"/one-good-fact"},{"title":"Dictionary","url":"/dictionary"},{"title":"New Articles","url":"/new-articles"}],"browseByCategory":[{"title":{"id":5,"title":"History & Society","url":"/History-Society"},"links":[{"title":"Lifestyles & Social Issues","url":"/browse/Lifestyles-Social-Issues"},{"title":"Philosophy & Religion","url":"/browse/Philosophy-Religion"},{"title":"Politics, Law & Government","url":"/browse/Politics-Law-Government"},{"title":"World History","url":"/browse/World-History"}]},{"title":{"id":6,"title":"Science & Tech","url":"/Science-Tech"},"links":[{"title":"Health & Medicine","url":"/browse/Health-Medicine"},{"title":"Science","url":"/browse/Science"},{"title":"Technology","url":"/browse/Technology"}]},{"title":{"id":3,"title":"Biographies","url":"/Biographies"},"links":[{"title":"Browse Biographies","url":"/browse/biographies"}]},{"title":{"id":1,"title":"Animals & Nature","url":"/Animals-Nature"},"links":[{"title":"Birds, Reptiles & Other Vertebrates","url":"/browse/Birds-Reptiles-Vertebrates"},{"title":"Environment","url":"/browse/Environment"},{"title":"Fossils & Geologic Time","url":"/browse/Fossil-Geologic-Time"},{"title":"Insects & Other Invertebrates","url":"/browse/Bugs-Mollusks-Invertebrates"},{"title":"Mammals","url":"/browse/Mammals"},{"title":"Plants","url":"/browse/Plants"}]},{"title":{"id":4,"title":"Geography & Travel","url":"/Geography-Travel"},"links":[{"title":"Geography & Travel","url":"/browse/Geography-Travel"}]},{"title":{"id":2,"title":"Arts & Culture","url":"/Arts-Culture"},"links":[{"title":"Entertainment & Pop Culture","url":"/browse/Entertainment-Pop-Culture"},{"title":"Literature","url":"/browse/Literature"},{"title":"Sports & Recreation","url":"/browse/Sports-Recreation"},{"title":"Visual Arts","url":"/browse/Visual-Arts"}]}],"browseByFeature":[{"title":"Image Galleries","url":"/gallery/browse"},{"title":"Podcasts","url":"/podcasts"},{"title":"Summaries","url":"/summary"},{"title":"Top Questions","url":"/question"}],"moreFromBritannica":[{"title":"Britannica Kids","url":"https://kids.britannica.com/","newTab":true}],"menuType":"DEFAULT"}
+</script>
+
+<header id="header" class="bg-navy-dark">
+    <div class="global-nav-top-bar">
+        <div class="grid gx-0 h-100 justify-content-between align-items-center container-lg mx-auto p-0 position-relative">
+            <div class="d-flex align-items-center">
+                <button class="d-flex align-items-center justify-self-start js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 p-10" aria-label="Explore">
+                    <div class="hamburger-tooltip">
+                        <em class="material-icons d-inline-block font-24" id="nav-toggle" data-icon="menu"></em>
+                    </div>
+                    <em
+                            
+                                    class="material-icons d-inline-block font-24 global-nav-search-icon d-none"
+                                
+                            id="nav-search-icon"
+                            data-icon="search"
+                    ></em>
+                    <span id="nav-toggle-text" class="font-14 ml-5 nav-toggle-text">Explore</span>
+                        </button>
+                <div class="global-nav-top-search-bar global-nav-top-search-container global-nav-search-container"
+                             id="global-nav-top-search-bar">
+                            <form method="get" action="/search" id="global-nav-search" class="md-search-form m-0 global-nav-search-bar-small">
+    <div class="search-box position-relative col-100">
+        <label class="sr-only" for="global-nav-search-query">Search Britannica</label>
+        <input name="query" id="global-nav-search-query" placeholder="Search Britannica..." class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm"  maxlength="200" autocomplete="off"  aria-label="Search Britannica" />
+        <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+            <em class="material-icons" data-icon="close"></em>
+        </button>
+        <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" type="submit" disabled>
+            <span class="sr-only">Click here to search</span>
+            <em class="material-icons search-icon" data-icon="search"></em>
+        </button>
+        </div>
+</form>
+</div>
+                    <div class="global-nav-top-search-bar global-nav-top-search-container global-nav-search-container"
+                     id="global-nav-top-search-bar">
+                    <form method="get" action="/search" id="global-nav-search" class="md-search-form m-0 global-nav-search-bar-small">
+    <div class="search-box position-relative col-100">
+        <label class="sr-only" for="global-nav-search-query">Search Britannica</label>
+        <input name="query" id="global-nav-search-query" placeholder="Search Britannica..." class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm"  maxlength="200" autocomplete="off"  aria-label="Search Britannica" />
+        <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+            <em class="material-icons" data-icon="close"></em>
+        </button>
+        <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" type="submit" disabled>
+            <span class="sr-only">Click here to search</span>
+            <em class="material-icons search-icon" data-icon="search"></em>
+        </button>
+        </div>
+</form>
+</div>
+            </div>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" alt="Encyclopedia Britannica" class="global-nav-center global-nav-logo"  />
+<div class="col-35 col-sm-auto text-right order-3 mr-lg-15 align-items-center d-flex justify-content-end">
+                <div class="d-none d-md-inline-block">
+                            <SPAN class="marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_DESKTOP2"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=global-nav&utm_campaign=blue-evergreen" class="subscribe-link btn btn-sm btn-blue py-5 mr-10" target="_blank" rel="noopener">
+   SUBSCRIBE
+</a></SPAN></div>
+                        <div class="d-inline-block d-md-none mr-5 mr-sm-10">
+                            <SPAN class="marketing-HEADER_SUBSCRIPTION_MOBILE marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_MOBILE"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=global-nav-mobile&utm_campaign=blue-evergreen" class="subscribe-link btn btn-xs btn-blue p-5" target="_blank" rel="noopener">
+   SUBSCRIBE
+</a></SPAN></div>
+                        <button class="js-toggle-user-dropdown js-toggle btn btn-sm btn-link link-white rounded-0 px-md-15 pl-5 pr-5">
+                            <span class="d-none d-md-inline-block mr-5">Login</span>
+                            <em class="material-icons d-inline-block d-md-none font-16 font-sm-20" data-icon="account_circle"></em>
+                            <div class="d-none dropdown-menu-subscription-link">https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=nav-login-box&utm_campaign=evergreen</div>
+                            <em aria-label="" class="material-icons inactive-icon d-inline-block font-18" data-icon="keyboard_arrow_down"></em>
+	<em aria-label="" class="material-icons active-icon d-inline-block font-18" data-icon="keyboard_arrow_up"></em>
+	</button>
+                    </div>
+        </div>
+    </div>
+
+    <div class="d-none hamburger-menu-subscription-link"><DIV class="marketing-HAMBURGER_MENU_CTA marketing-content" data-marketing-id="HAMBURGER_MENU_CTA"><a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=hamburger-menu&utm_campaign=blue" class="subscribe-link btn btn-sm btn-blue py-5" target="_blank">
+  SUBSCRIBE
+</a></DIV></div>
+    <div id="global-nav-react">
+        <div class="d-none">
+             <ul>
+    <li><a href="/History-Society">History & Society</a></li>
+    <li><a href="/Science-Tech">Science & Tech</a></li>
+    <li><a href="/Biographies">Biographies</a></li>
+    <li><a href="/Animals-Nature">Animals & Nature</a></li>
+    <li><a href="/Geography-Travel">Geography & Travel</a></li>
+    <li><a href="/Arts-Culture">Arts & Culture</a></li>
+    <li><a href="/procon">ProCon</a></li>
+    <li><a href="/money">Money</a></li>
+    </ul>
+
+<ul>
+    <li><a href="/quiz/browse">Games & Quizzes</a></li>
+    <li><a href="/videos">Videos</a></li>
+    <li><a href="/on-this-day">On This Day</a></li>
+    <li><a href="/one-good-fact">One Good Fact</a></li>
+    <li><a href="/dictionary">Dictionary</a></li>
+    <li><a href="/new-articles">New Articles</a></li>
+    </ul>
+
+
+<a href="/History-Society">History & Society</a>
+    <ul>
+        <li><a href="/browse/Lifestyles-Social-Issues">Lifestyles & Social Issues</a></li>
+        <li><a href="/browse/Philosophy-Religion">Philosophy & Religion</a></li>
+        <li><a href="/browse/Politics-Law-Government">Politics, Law & Government</a></li>
+        <li><a href="/browse/World-History">World History</a></li>
+        </ul>
+<a href="/Science-Tech">Science & Tech</a>
+    <ul>
+        <li><a href="/browse/Health-Medicine">Health & Medicine</a></li>
+        <li><a href="/browse/Science">Science</a></li>
+        <li><a href="/browse/Technology">Technology</a></li>
+        </ul>
+<a href="/Biographies">Biographies</a>
+    <ul>
+        <li><a href="/browse/biographies">Browse Biographies</a></li>
+        </ul>
+<a href="/Animals-Nature">Animals & Nature</a>
+    <ul>
+        <li><a href="/browse/Birds-Reptiles-Vertebrates">Birds, Reptiles & Other Vertebrates</a></li>
+        <li><a href="/browse/Environment">Environment</a></li>
+        <li><a href="/browse/Fossil-Geologic-Time">Fossils & Geologic Time</a></li>
+        <li><a href="/browse/Bugs-Mollusks-Invertebrates">Insects & Other Invertebrates</a></li>
+        <li><a href="/browse/Mammals">Mammals</a></li>
+        <li><a href="/browse/Plants">Plants</a></li>
+        </ul>
+<a href="/Geography-Travel">Geography & Travel</a>
+    <ul>
+        <li><a href="/browse/Geography-Travel">Geography & Travel</a></li>
+        </ul>
+<a href="/Arts-Culture">Arts & Culture</a>
+    <ul>
+        <li><a href="/browse/Entertainment-Pop-Culture">Entertainment & Pop Culture</a></li>
+        <li><a href="/browse/Literature">Literature</a></li>
+        <li><a href="/browse/Sports-Recreation">Sports & Recreation</a></li>
+        <li><a href="/browse/Visual-Arts">Visual Arts</a></li>
+        </ul>
+<ul>
+    <li><a href="/gallery/browse">Image Galleries</a></li>
+    <li><a href="/podcasts">Podcasts</a></li>
+    <li><a href="/summary">Summaries</a></li>
+    <li><a href="/question">Top Questions</a></li>
+    </ul>
+
+<ul>
+    <li><a href="https://kids.britannica.com/">Britannica Kids</a></li>
+    </ul>
+</div>
+    </div>
+</header>
+
+    
+
+
+
+<main>
+
+    
+
+    <div class="md-page-wrapper">
+
+        
+
+        <div id="content" class="md-content">
+
+            
+                
+                    <div class="bg-navy-dark shadow-lg pt-5" id="global-nav-homepage-section">
+        <div class="container-lg">
+            <div class="grid">
+                <div class="col-100 col-sm-80 col-sm-offset-10 col-md-50 col-md-offset-25">
+                    <div class="global-nav-home-search-container global-nav-search-container">
+                        <form method="get" action="/search" id="global-nav-search" class="md-search-form m-0 ">
+    <div class="search-box position-relative col-100">
+        <label class="sr-only" for="global-nav-search-query">Search Britannica</label>
+        <input name="query" id="global-nav-search-query" placeholder="Search Britannica..." class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm"  maxlength="200" autocomplete="off"  aria-label="Search Britannica" />
+        <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+            <em class="material-icons" data-icon="close"></em>
+        </button>
+        <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" type="submit" disabled>
+            <span class="sr-only">Click here to search</span>
+            <em class="material-icons search-icon" data-icon="search"></em>
+        </button>
+        </div>
+</form>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="container-lg p-0 d-flex justify-content-center overflow-hidden">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 global-nav-slider mb-5 category-snap-slider">
+    <div class="slider-container js-slider-container overflow-hidden font-14 overflow-hidden text-nowrap mx-5">
+        
+    <a class="nav-bar-category mx-5 category-link-CHATBOT  tw:relative " href="/chatbot" > <em class="material-icons" data-icon="auto_awesome"></em>
+                              Ask the Chatbot</a>
+		<a class="nav-bar-category mx-5 category-link-QUIZZES" href="/quiz/browse" > Games & Quizzes</a>
+		<a class="nav-bar-category mx-5 category-link-HISTORY" href="/History-Society" > History & Society</a>
+		<a class="nav-bar-category mx-5 category-link-SCIENCE" href="/Science-Tech" > Science & Tech</a>
+		<a class="nav-bar-category mx-5 category-link-BIOS" href="/Biographies" > Biographies</a>
+		<a class="nav-bar-category mx-5 category-link-ANIMALS" href="/Animals-Nature" > Animals & Nature</a>
+		<a class="nav-bar-category mx-5 category-link-GEOGRAPHY" href="/Geography-Travel" > Geography & Travel</a>
+		<a class="nav-bar-category mx-5 category-link-ART" href="/Arts-Culture" > Arts & Culture</a>
+		<a class="nav-bar-category mx-5 category-link-PROCON" href="/procon" > ProCon</a>
+		<a class="nav-bar-category mx-5 category-link-MONEY" href="/money" > Money</a>
+		<a class="nav-bar-category mx-5 category-link-VIDEOS" href="/videos" > Videos</a>
+		
+
+    </div>
+
+    
+
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow  btn-blue " aria-label="Previous">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow  btn-blue " aria-label="Next">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div>
+</div>
+    </div>
+
+    <div id="homepage-content" itemscope itemtype="https://schema.org/Organization">
+
+        <meta itemprop="url" content="https://www.britannica.com" />
+        <meta itemprop="logo" content="https://cdn.britannica.com/mendel-resources/3-168/images/EBLogo.jpg?v=3.168.15" />
+        <meta itemprop="name" content="Encyclopedia Britannica" />
+        <meta itemprop="description" content="Explore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands of objective articles, biographies, videos, and images from experts." />
+
+        <div class="container banner-links">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 ">
+    <div class="slider-container js-slider-container overflow-hidden font-14 overflow-hidden text-nowrap mx-5">
+        <span class="bl-title icon-true">Trending</span>
+                        <a class="bl-link" href="https://www.britannica.com/biography/Pete-Hegseth" > Pete Hegseth</a>
+		<a class="bl-link" href="https://www.britannica.com/science/hepatitis-B" > Hepatitis B</a>
+		<a class="bl-link" href="https://www.britannica.com/biography/Vladimir-Putin" > Vladimir Putin</a>
+		<a class="bl-link" href="https://www.britannica.com/money/Patient-Protection-and-Affordable-Care-Act" > Obamacare</a>
+		<a class="bl-link" href="https://www.britannica.com/biography/Matthew-Perry" > Matthew Perry</a>
+		<a class="bl-link" href="https://www.britannica.com/event/2026-FIFA-World-Cup" > 2026 World Cup</a>
+		<a class="bl-link" href="https://www.britannica.com/topic/Booker-T-and-the-MGs" > Booker T. and the MG's</a>
+		
+    </div>
+
+    
+
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow  btn-blue " aria-label="Previous">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow  btn-blue " aria-label="Next">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div></div>
+        <div class="container">
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kic-container qa-contentful1 my-20 ">
+
+    
+
+    <div class="label mb-10">
+        
+        <a href="/on-this-day" >
+            December 4, 2025
+        </a>
+    </div>
+
+    
+
+    
+        <div class="cards3up kic-grid-C2">
+            <div class="kic-title-container">
+                <h2 class="display-3 font-serif kic-title mb-15"> <a href="https://www.britannica.com/story/alternative-christmas-visitors" class="md-crosslink " data-show-preview="true">You Better Watch Out</a> </h2>
+                <div class="font-serif">
+                    Tomorrow is <a href="https://www.britannica.com/topic/Krampus" class="md-crosslink " data-show-preview="true">Krampus</a> Night in central Europe, a celebration focused on the legendary half-demon, half-goat figure who kidnaps naughty children. Much like the holiday of <a href="https://www.britannica.com/topic/Yule-festival" class="md-crosslink " data-show-preview="true">Yule</a>, Krampus is thought to have originated in <a href="https://www.britannica.com/topic/paganism" class="md-crosslink " data-show-preview="true">pagan</a> solstice rituals, later evolving into a regional Christmas tradition. Krampus isn’t alone. He’s one of many figures—including <a href="https://www.britannica.com/story/alternative-christmas-visitors#ref419421" class="md-crosslink " data-show-preview="true">Ded Moroz</a> in Russia and eastern Europe, <a href="https://www.britannica.com/biography/Saint-Basil-the-Great" class="md-crosslink " data-show-preview="true">Agios Vassilis</a> in Greece, and Italy’s benevolent witch, <a href="https://www.britannica.com/topic/Befana" class="md-crosslink " data-show-preview="true">La Befana</a>—who add a distinct local flavor to Christmastime.
+                </div>
+            </div>
+
+            
+
+            
+                
+
+                
+                    <div class="card-hero">
+                        
+
+                        <div class="card ">
+                            <div class="card-media media-IMAGE">
+                                
+                                    
+                                    
+                                    
+                                    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                            
+                                        
+
+                                        <a class="position-relative w-100"  href="/topic/Krampus">
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<img loading="eager" src="https://cdn.britannica.com/94/212894-050-6FF90A24/Krampus-Austrian-postcard-1910.jpg?w=380&q=80" alt="Krampus, an incubus figure in company of Santa Claus or St. Nicholas who warns and if necessary punishes naughty children at Christmas; postcard, Austria, 1910." class="w-100 h-100" />
+
+                                        </a>
+                                    
+                                
+                            </div>
+
+                            <div class="card-body mt-10 p-0">
+                                <a class="font-weight-bold h5" href="/topic/Krampus" > Krampus Knows If You’ve Been Bad or Good</a>
+		
+                                <div class="credit mt-5" style="word-break: break-word;">Cci/Shutterstock.com</div>
+                            </div>
+                        </div>
+                    </div>
+                
+            
+                
+
+                
+                    <div class="card-2">
+                        
+                            
+                                
+                                    
+                                
+                                
+                            
+                        
+
+                        <div class="card card-horizontal card-sm-vertical">
+                            <div class="card-media media-IMAGE">
+                                
+                                    
+                                    
+                                    
+                                    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                            
+                                        
+
+                                        <a class="position-relative w-100"  href="/topic/Befana">
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<img loading="eager" src="https://cdn.britannica.com/38/264138-050-CEDEC3ED/Italian-folklore-figure-Christmas-Witch-Befana.jpg?w=325&h=200&c=crop&q=80" alt="Befana, Italian folklore figure. Christmas. Witch. Befana, in Italian tradition, the old woman who fills children's stockings with gifts on Epiphany (Twelfth Night). Too busy to accompany the Three Wise Men on their journey to adore the infant Jesus, she said she would see them on their return. According to legend, they returned by another way, and she was doomed to look for them forever." class="w-100 h-100" />
+
+                                        </a>
+                                    
+                                
+                            </div>
+
+                            <div class="card-body mt-10 p-0">
+                                <a class="font-weight-bold h5" href="/topic/Befana" > Befana: We Witch You a Merry Christmas</a>
+		
+                                <div class="credit mt-5" style="word-break: break-word;">© Oldtime/Alamy</div>
+                            </div>
+                        </div>
+                    </div>
+                
+            
+                
+
+                
+                    <div class="card-3">
+                        
+                            
+                                
+                                    
+                                
+                                
+                            
+                        
+
+                        <div class="card card-horizontal card-sm-vertical">
+                            <div class="card-media media-IMAGE">
+                                
+                                    
+                                    
+                                    
+                                    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                            
+                                        
+
+                                        <a class="position-relative w-100"  href="/story/alternative-christmas-visitors">
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<img loading="eager" src="https://cdn.britannica.com/08/6308-004-ED1E2F44/St-Basil-detail-mosaic-Sicily-Italy-Palermo.jpg?w=325&h=200&c=crop&q=80" alt="Saint Basil, detail of a mosaic, 12th century; in the Palatine Chapel, Palermo" class="w-100 h-100" />
+
+                                        </a>
+                                    
+                                
+                            </div>
+
+                            <div class="card-body mt-10 p-0">
+                                <a class="font-weight-bold h5" href="/story/alternative-christmas-visitors" > Beyond Santa: Other Seasonal Visitors</a>
+		
+                                <div class="credit mt-5" style="word-break: break-word;">Alinari/Art Resource, New York</div>
+                            </div>
+                        </div>
+                    </div>
+                
+            
+
+            
+
+            
+                <div class="read-more">
+                    <h3>Discover More</h3>
+                    <div class="grid">
+                        
+                            <div class="col-sm-50 mb-15 mb-sm-0">
+                                <a class="font-16 font-weight-bold" href="https://www.britannica.com/topic/Yule-festival#ref410649"  target="_blank"> How the Pagan Celebration Yule Became Associated with Christmas</a>
+		
+                            </div>
+                        
+                            <div class="col-sm-50 mb-15 mb-sm-0">
+                                <a class="font-16 font-weight-bold" href="/biography/Saint-Nicholas" > Who Was the Real St. Nicholas, Bishop of Myra?</a>
+		
+                            </div>
+                        
+                    </div>
+                </div>
+            
+
+            <div class="kic-right-rail kic-right-rail-C2 font-14">
+                <div class="feature-block "><div class="oyr-title-container"><h3 class="h2 oyr-title font-serif mb-15">  <a href="https://www.britannica.com/art/Faberge-egg" class="md-crosslink " data-show-preview="true">Exceptional Eggs</a>  </h3><p class="font-serif mb-20">A <a href="https://www.britannica.com/art/Faberge-egg" class="md-crosslink " data-show-preview="true">Fabergé egg</a> made for Russia’s royal <a href="https://www.britannica.com/topic/Romanov-dynasty" class="md-crosslink " data-show-preview="true">Romanov</a> family was sold for $30.2 million on Tuesday, shattering the previous high of $18.5 million, paid in 2007 for an egg made for the <a href="https://www.britannica.com/money/Rothschild-family" class="md-crosslink " data-show-preview="true">Rothschild family</a>. Here’s more on these rare objects and the person who crafted them.</p></div>  <a class="oyr-link-title font-weight-bold d-block mb-10" href="/biography/Peter-Carl-Faberge">The designer</a><p class="font-serif mb-20"><a href="https://www.britannica.com/biography/Peter-Carl-Faberge" class="md-crosslink " data-show-preview="true">Peter Carl Fabergé</a> was born in <a href="https://www.britannica.com/place/St-Petersburg-Russia" class="md-crosslink " data-show-preview="true">St. Petersburg</a>, Russia, in 1846. The son of a <a href="https://www.britannica.com/art/jewelry" class="md-crosslink " data-show-preview="true">jeweler</a>, he inherited his father’s business in 1870, expanding the firm’s concentration to include furniture, functional objects, and, famously, objects of fancy. Assisted by his brother, Agathon, as well as his sons and associates, Fabergé gained recognition as a brilliant designer, specializing in precious and semiprecious materials such as <a href="https://www.britannica.com/science/gold-chemical-element" class="md-crosslink " data-show-preview="true">gold</a>, <a href="https://www.britannica.com/science/silver" class="md-crosslink " data-show-preview="true">silver</a>, and <a href="https://www.britannica.com/topic/jade-gemstone" class="md-crosslink " data-show-preview="true">jade</a>.</p>   <a class="oyr-link-title font-weight-bold d-block mb-10" href="/art/Faberge-egg">The eggs</a><p class="font-serif mb-20">In 1885 Fabergé was appointed jeweler and goldsmith to the Russian imperial court. The <a href="https://www.britannica.com/art/Faberge-egg" class="md-crosslink " data-show-preview="true">elaborate fanciful eggs</a> that he created for members of the court, and the less expensive eggs that he created for the general market, remain his best-known creations. In all, 50 eggs were produced for the imperial family, and each included an element of surprise. They generally took one year to complete and were created in secret. The egg sold on Tuesday, the Winter Egg (1913), was the most expensive to create, boasting thousands of <a href="https://www.britannica.com/topic/diamond-gemstone" class="md-crosslink " data-show-preview="true">diamonds</a>.</p>  </div>
+            </div>
+        </div>
+    
+</div></div>
+
+        <div class="qa-contentful2">
+            <div class="container my-40">
+                <div class="mb-15">
+                    <h2>  <a href="https://www.britannica.com/new-articles" class="md-crosslink " data-show-preview="true">New on <em>Britannica</em></a>  </h2>
+                </div>
+                <div class="grid g-20 mb-20 gtm-homepage-editors-picks">
+                    <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="/science/History-of-the-AIDS-Crisis-A-Timeline" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/09/172009-004-8B3AB3DF/Scanning-electron-micrograph-virions-HIV-lymphocyte-bumps.jpg?w=400&h=225&c=crop" alt="Scanning electron micrograph of HIV-1 virions (green) budding from a cultured lymphocyte. Multiple round bumps on cell surface represent sites of assembly and budding of virions. AIDS, HIV, gay rights, homosexual" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 homepage2up-card">
+		<a href="/science/History-of-the-AIDS-Crisis-A-Timeline" class="title font-weight-bold font-16">History of the AIDS crisis</a>
+		
+		<div href="/science/History-of-the-AIDS-Crisis-A-Timeline" class="m-0 mt-5 description ">
+			The&nbsp;<a href="https://www.britannica.com/science/AIDS" class="md-crosslink " data-show-preview="true">AIDS</a>&nbsp;crisis emerged in the early 1980s as a mysterious and terrifying&nbsp;disease.
+        </div>
+		
+	</div>
+</div></div>
+                            <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="/science/Do-Platypuses-Glow-Under-UV-Light" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/33/75133-004-09074156/platypus-snout-life-much-Australia-duck-bill.jpg?w=400&h=225&c=crop" alt="Duck-billed platypus (Ornithorhynchus anatinus) underwater, Australian Reptile Park, New South Wales, Australia." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 homepage2up-card">
+		<a href="/science/Do-Platypuses-Glow-Under-UV-Light" class="title font-weight-bold font-16">Do platypuses glow under UV light?</a>
+		
+		<div href="/science/Do-Platypuses-Glow-Under-UV-Light" class="m-0 mt-5 description ">
+			The <a href="https://www.britannica.com/animal/platypus" class="md-crosslink " data-show-preview="true">platypus</a> is one of the strangest animals on Earth, even when illuminated.
+        </div>
+		
+	</div>
+</div></div>
+                            <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="/topic/Manson-Family" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/08/251708-004-27A1C99C/susan-denise-atkins-patricia-krenwinkel-leslie-van-houten-charles-manson-tate-labianca-murders-serial-killers-cult.jpg?w=400&h=225&c=crop" alt="Susan Denise Atkins, (left), Patricia Krenwinkel and Leslie Van Houten,(right), laugh after receiving the death sentence for their part in the Tate-LaBianca killing at the order of Charles Manson." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 homepage2up-card">
+		<a href="/topic/Manson-Family" class="title font-weight-bold font-16">Manson family</a>
+		
+		<div href="/topic/Manson-Family" class="m-0 mt-5 description ">
+			This cult and criminal organization was active in California, U.S., in the late 1960s, led by <a href="https://www.britannica.com/biography/Charles-Manson" class="md-crosslink " data-show-preview="true">Charles Manson</a>.
+        </div>
+		
+	</div>
+</div></div>
+                            <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="/topic/When-Was-Jesus-Born" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/42/96742-004-BD0871FC/Nativity-Giotto-birth-Jesus-Scrovegni-Chapel-Padua.jpg?w=400&h=225&c=crop" alt="The birth of Jesus. The Nativity, fresco by Giotto (ca.1266-1337 Italian) c. 1305-06, in the Scrovegni Chapel, aka Capella degli Scrovegni, or Arena Chapel in Padua, Italy." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 homepage2up-card">
+		<a href="/topic/When-Was-Jesus-Born" class="title font-weight-bold font-16">When was Jesus born?</a>
+		
+		<div href="/topic/When-Was-Jesus-Born" class="m-0 mt-5 description ">
+			No one really knows the year, or even the day, that the <a href="https://www.britannica.com/biography/Jesus" class="md-crosslink " data-show-preview="true">historical figure</a> was born.
+        </div>
+		
+	</div>
+</div></div>
+                            </div>
+            </div>
+        </div>
+
+        <div class="gtm-money-cta container">
+
+            <div class="grid mb-10">
+
+                <div class="col-100 col-sm-30 col-md-25 col-lg-25 col-xl-25 text-left mb-10 mt-10">
+                    <a class="gtm-money-cta-logo" href="https://www.britannica.com/money">
+                        <img class="col-65 col-sm-90 col-md-90 col-lg-95 col-xl-100"
+                             src="https://cdn.britannica.com/money/assets/britannica-money-global-nav-logo-250x30-2x.png"
+                             alt="Britannica Money">
+                    </a>
+                </div>
+                <div class=" text-center pt-15">
+                        <a class="gtm-money-cta-nav-link link-blue-dark" href="/money/browse/investing">Investing</a>
+                    </div>
+                <div class=" text-center pt-15">
+                        <a class="gtm-money-cta-nav-link link-blue-dark" href="/money/browse/Trading">Trading</a>
+                    </div>
+                <div class=" text-center pt-15">
+                        <a class="gtm-money-cta-nav-link link-blue-dark" href="/money/browse/retirement">Retirement</a>
+                    </div>
+                <div class=" text-center pt-15">
+                        <a class="gtm-money-cta-nav-link link-blue-dark" href="/money/browse/household-finance">Household Finance</a>
+                    </div>
+                <div class=" text-center pt-15">
+                        <a class="gtm-money-cta-nav-link link-blue-dark" href="/money/browse/history-and-theory">Finance & the Economy</a>
+                    </div>
+                <div class=" text-center pt-15">
+                        <a class="gtm-money-cta-nav-link link-blue-dark" href="/money/browse/Companies">Companies</a>
+                    </div>
+                </div>
+
+            <div class="grid">
+                <div class="gtm-money-cta-card col-100 p-10 col-md-25">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/money/mortgage-amortization" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/04/280204-050-E3E12096/mortgage-length-15-30-50.jpg?w=400&h=225&c=crop" alt="Blue house illustration on a green scale labeled 15 yr, 30 yr, and 50 yr, representing different mortgage term lengths." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 money-card">
+		<a href="https://www.britannica.com/money/mortgage-amortization" class="title font-weight-bold font-16">50-year mortgage: How it stacks up against 15- and 30-year loans</a>
+		
+	</div>
+</div></div>
+                <div class="gtm-money-cta-card col-100 p-10 col-md-25">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/money/prediction-markets" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/07/278407-050-004FA0B2/Prediction-Markets-photo-illustration-image-hand-with-lightswitch-marked-yes-and-no.jpg?w=400&h=225&c=crop" alt="A hand presses a large switch centered between the words “Yes” above and “No” below on a yellow background." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 money-card">
+		<a href="https://www.britannica.com/money/prediction-markets" class="title font-weight-bold font-16">Prediction markets: The intersection of forecasting and investing</a>
+		
+	</div>
+</div></div>
+                <div class="gtm-money-cta-card col-100 p-10 col-md-25">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/money/emotional-stages-of-retirement" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/99/278399-050-9C71B069/Emotional-Stages-of-Retirement-photo-illustration-image-elderly-couple-walking-on-beach-with-emoticons-floating-nearby.jpg?w=400&h=225&c=crop" alt="An older couple walks arm in arm on a beach with three large emojis—crying, monocle, and smiling—floating beside them." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 money-card">
+		<a href="https://www.britannica.com/money/emotional-stages-of-retirement" class="title font-weight-bold font-16">Emotional stages of retirement: The joy, the jolt, and the adjustment</a>
+		
+	</div>
+</div></div>
+                <div class="gtm-money-cta-card col-100 p-10 col-md-25">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/money/buy-the-dip" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/60/236960-050-887AE4FC/stock-marcket-exchange-volatile-chart-graph-trading-data.jpg?w=400&h=225&c=crop" alt="Photo of a price chart." class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 money-card">
+		<a href="https://www.britannica.com/money/buy-the-dip" class="title font-weight-bold font-16">My stock is drifting down. Should I buy the dip?</a>
+		
+	</div>
+</div></div>
+                </div>
+        </div>
+
+		<div class="container my-40 qa-homepage-procon">
+                <div class="mb-15">
+                    <h2><a href="/procon">Popular ProCon Debate Topics</a></h2>
+                </div>
+                <div class="grid g-20 mb-20">
+                    <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/procon/ProCons-Free-Extra-Credit-Program" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/89/276089-050-B2546596/News-media-concept-image-light-background-Extra-Credit-ProCon.jpg?w=400&h=225&c=crop" alt="Extra Credit" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 procon-card">
+		<a href="https://www.britannica.com/procon/ProCons-Free-Extra-Credit-Program" class="title font-weight-bold font-16">A Current Affairs Program</a>
+		
+		<div href="https://www.britannica.com/procon/ProCons-Free-Extra-Credit-Program" class="m-0 mt-5 description ">
+			For Students & Nonstudents
+        </div>
+		
+	</div>
+</div></div>
+                            <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/procon/wind-power-debate" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/76/280376-050-F2B3A3F0/wind-turbines-in-a-field.jpg?w=400&h=225&c=crop" alt="Wind turbines in a field" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 procon-card">
+		<a href="https://www.britannica.com/procon/wind-power-debate" class="title font-weight-bold font-16">Wind Power</a>
+		
+		<div href="https://www.britannica.com/procon/wind-power-debate" class="m-0 mt-5 description ">
+			Is Wind Power a Good Form of Energy?
+        </div>
+		
+	</div>
+</div></div>
+                            <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/procon/Vocabulary-Quiz-Sports" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/99/279499-050-7819C100/Question-marks-hand-drawn.jpg?w=400&h=225&c=crop" alt="Vocabulary quiz" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 procon-card">
+		<a href="https://www.britannica.com/procon/Vocabulary-Quiz-Sports" class="title font-weight-bold font-16">Vocabulary Quiz</a>
+		
+		<div href="https://www.britannica.com/procon/Vocabulary-Quiz-Sports" class="m-0 mt-5 description ">
+			Sports
+        </div>
+		
+	</div>
+</div></div>
+                            <div class="col-100 col-sm-50 col-md">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-base  col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/procon/electric-vehicles-debate" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/49/191249-050-A5029C7A/cars-batteries-stations-electric-car-charging-station.jpg?w=400&h=225&c=crop" alt="Electric vehicle" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-serif font-14 procon-card">
+		<a href="https://www.britannica.com/procon/electric-vehicles-debate" class="title font-weight-bold font-16">Electric Vehicles</a>
+		
+		<div href="https://www.britannica.com/procon/electric-vehicles-debate" class="m-0 mt-5 description ">
+			Is It Good to Drive an Electric Vehicle? (Quick Take)
+        </div>
+		
+	</div>
+</div></div>
+                            </div>
+            </div>
+        <div class="container qa-featured-games my-40">
+                <h2 class="mt-20 mb-5 d-inline-block">Featured Games</h2>
+                <a href="/quiz/browse#featured-games" class="font-weight-bold ml-10 font-14">See All</a>
+                <div class="grid featured-games-container">
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18  col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games/quordle" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/quordle.jpeg?w=629&h=472&c=crop" alt="Quordle" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-center">
+		<a href="https://www.merriam-webster.com/games/quordle" class="title font-weight-bold font-16">Quordle</a>
+		
+		<div href="https://www.merriam-webster.com/games/quordle" class="m-0 mt-5 description ">
+			Can you solve four words at once?
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games/reunion" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/Reunion4-3Big.png?w=629&h=472&c=crop" alt="Reunion - NEW" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.merriam-webster.com/games/reunion" class="title font-weight-bold font-16">Reunion - NEW</a>
+		
+		<div href="https://www.merriam-webster.com/games/reunion" class="m-0 mt-5 description ">
+			A daily word puzzle
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/games/revealed" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/revealed-485-364-1x.png?w=629&h=472&c=crop" alt="Revealed" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.britannica.com/games/revealed" class="title font-weight-bold font-16">Revealed</a>
+		
+		<div href="https://www.britannica.com/games/revealed" class="m-0 mt-5 description ">
+			Uncover something interesting
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="/quiz/tightrope" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/tightrope_promo_4_3_2x.webp?w=629&h=472&c=crop" alt="Tightrope" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="/quiz/tightrope" class="title font-weight-bold font-16">Tightrope</a>
+		
+		<div href="/quiz/tightrope" class="m-0 mt-5 description ">
+			A daily trivia game
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games/blossom-word-game" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/blossom1x.jpeg?w=629&h=472&c=crop" alt="Blossom" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.merriam-webster.com/games/blossom-word-game" class="title font-weight-bold font-16">Blossom</a>
+		
+		<div href="https://www.merriam-webster.com/games/blossom-word-game" class="m-0 mt-5 description ">
+			Pick the best words
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/games/octordle" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/octordle-4x3.png?w=629&h=472&c=crop" alt="Octordle" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.britannica.com/games/octordle" class="title font-weight-bold font-16">Octordle</a>
+		
+		<div href="https://www.britannica.com/games/octordle" class="m-0 mt-5 description ">
+			The party starts at eight
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games/pilfer" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/pilfer.png?w=629&h=472&c=crop" alt="Pilfer" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.merriam-webster.com/games/pilfer" class="title font-weight-bold font-16">Pilfer</a>
+		
+		<div href="https://www.merriam-webster.com/games/pilfer" class="m-0 mt-5 description ">
+			A delightful ruthless word game
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games/missing-letter" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/missingLetter.png?w=629&h=472&c=crop" alt="The Missing Letter" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.merriam-webster.com/games/missing-letter" class="title font-weight-bold font-16">The Missing Letter</a>
+		
+		<div href="https://www.merriam-webster.com/games/missing-letter" class="m-0 mt-5 description ">
+			A daily crossword with a twist
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games-newsletter" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/games-newsletter-4-3.png?w=629&h=472&c=crop" alt="Games Newsletter" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.merriam-webster.com/games-newsletter" class="title font-weight-bold font-16">Games Newsletter</a>
+		
+		<div href="https://www.merriam-webster.com/games-newsletter" class="m-0 mt-5 description ">
+			Get free tips, tricks, and teases in your inbox
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.merriam-webster.com/games/twofer-goofer" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/twofer-goofer.png?w=629&h=472&c=crop" alt="Twofer Goofer" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.merriam-webster.com/games/twofer-goofer" class="title font-weight-bold font-16">Twofer Goofer</a>
+		
+		<div href="https://www.merriam-webster.com/games/twofer-goofer" class="m-0 mt-5 description ">
+			Think you know it, poet?
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/games/victordle/" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/victordle.png?w=629&h=472&c=crop" alt="Victordle" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.britannica.com/games/victordle/" class="title font-weight-bold font-16">Victordle</a>
+		
+		<div href="https://www.britannica.com/games/victordle/" class="m-0 mt-5 description ">
+			Play head-to-head!
+        </div>
+		
+	</div>
+</div></div>
+                    <div class="col-100 p-10 col-sm-25">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card card-lg featured-game-card text-center font-18 card-horizontal card-sm-vertical col-100">
+	<div class="card-media">
+		<a href="https://www.britannica.com/games/sudoku" class="d-flex position-relative align-items-center justify-content-center" >
+
+			<div class="w-100">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/kstm/GAME/Sudoku.jpg?w=629&h=472&c=crop" alt="Sudoku" class="w-100"   />
+    
+
+
+				
+			</div>
+
+			
+		</a>
+	</div>
+	<div class="card-body w-100 font-16 text-left text-sm-center">
+		<a href="https://www.britannica.com/games/sudoku" class="title font-weight-bold font-16">Sudoku</a>
+		
+		<div href="https://www.britannica.com/games/sudoku" class="m-0 mt-5 description ">
+			Your daily logic challenge
+        </div>
+		
+	</div>
+</div></div>
+                    </div>
+            </div>
+        <div class="container qa-quizzes my-40">
+            <h2 class="mt-20 mb-15 d-inline-block">Trending Quizzes</h2>
+            <a href="/quiz/browse" class="font-weight-bold ml-10 font-14">See All Quizzes</a>
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="m-n10 ">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100  card-snap-slider col-100">
+    <div class="slider-container js-slider-container overflow-hidden col-100">
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+						<div class="image-icon-sm position-absolute rounded-sm right-10 top-10">
+							<span class="material-icons font-20" data-icon="image"></span>
+						</div>
+					
+					<a href="/quiz/where-in-america-is-that" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/92/227792-131-EB50B20E/beautiful-image-taken-arches-national-park.jpg?w=400&h=225&c=crop" alt="Beautiful Image taken at Arches National Park in Utah" class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/where-in-america-is-that" class="font-weight-bold font-16 lh-sm">Where in America is That?</a>
+				
+					<div class="font-serif mt-10 font-14">
+						Crisscross the U.S. by placing these famous landmarks.
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/from-athena-to-zeus-basics-of-greek-mythology" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/22/99622-131-65926F1A/Parthenon-Athens.jpg?w=400&h=225&c=crop" alt="Parthenon, Acropolis, Athens, Greece." class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/from-athena-to-zeus-basics-of-greek-mythology" class="font-weight-bold font-16 lh-sm">From Athena to Zeus: Basics of Greek Mythology</a>
+				
+					<div class="font-serif mt-10 font-14">
+						Do you know which hero took a dip in the River Styx? Or what mysteries lurk inside the Labyrinth?
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/ultimate-animals-quiz" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/80/140480-131-28E57753/Dromedary-camels.jpg?w=400&h=225&c=crop" alt="Dromedary camels (Camelus dromedarius). Animals, mammals." class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/ultimate-animals-quiz" class="font-weight-bold font-16 lh-sm">Ultimate Animals Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						What is a rattlesnake’s rattle made of? What animals can go over 180 miles an hour?
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+						<div class="image-icon-sm position-absolute rounded-sm right-10 top-10">
+							<span class="material-icons font-20" data-icon="image"></span>
+						</div>
+					
+					<a href="/quiz/guess-the-language" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/66/236366-131-68E4F516/Hello-in-Thai.jpg?w=400&h=225&c=crop" alt="The word &quot;Hello&quot; written in Thai" class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/guess-the-language" class="font-weight-bold font-16 lh-sm">Guess the Language! Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						Can you recognize a language by its greeting?
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/best-picture-movie-quote-quiz" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/14/240414-131-1042720D/Casablanca-film.jpg?w=400&h=225&c=crop" alt="Publicity still with Humphrey Bogart and Ingrid Bergman from the motion picture film &quot;Casablanca&quot; (1942); directed by Michael Curtiz. (cinema, movies)" class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/best-picture-movie-quote-quiz" class="font-weight-bold font-16 lh-sm">Best Picture Movie Quote Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						Take this quiz or you may regret it. Maybe not today, maybe not tomorrow, but soon, and for the rest of your life.
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/american-civil-rights-movement-quiz" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/13/114513-131-E18DA695/Martin-Luther-King-Jr-Malcolm-X-1964.jpg?w=400&h=225&c=crop" alt="Martin Luther King, Jr. (left of centre) and Malcolm X (right) waiting for a press conference, 1964." class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/american-civil-rights-movement-quiz" class="font-weight-bold font-16 lh-sm">American Civil Rights Movement Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						Test your knowledge of Americans’ tumultuous fight to end racial segregation and discrimination.
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+						<div class="image-icon-sm position-absolute rounded-sm right-10 top-10">
+							<span class="material-icons font-20" data-icon="image"></span>
+						</div>
+					
+					<a href="/quiz/name-that-thing-tools" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/65/237065-131-4D50D54E/Name-that-Thing-Tools-composite-image.jpg?w=400&h=225&c=crop" alt="Name that Thing - Tools, composite image: calipers, hammer claw, pestle, trowel" class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/name-that-thing-tools" class="font-weight-bold font-16 lh-sm">Name That Thing: Tools</a>
+				
+					<div class="font-serif mt-10 font-14">
+						A handy quiz to test your tool acumen.
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/the-dog-breed-quiz" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/87/232787-131-33E4C22A/retriever-dog-breeds.jpg?w=400&h=225&c=crop" alt="Various retriever dog breeds sitting in a row. L-R: curly coated retriever, golden retriever, Labrador retriever, duck tolling retriever, flat coated retriever. hunting sporting dogs" class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/the-dog-breed-quiz" class="font-weight-bold font-16 lh-sm">The Dog Breed Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						Find out which breed can outrun a cheetah, which breed was created by monks, and much more.
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/baking-and-baked-goods" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/79/143279-131-AD0E874F/Slices-lemon-pie-meringue.jpg?w=400&h=225&c=crop" alt="Slices of lemon pie topped with meringue." class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/baking-and-baked-goods" class="font-weight-bold font-16 lh-sm">Baking and Baked Goods Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						You may have a sweet tooth, but how much do you know about baking and baked goods? Test your knowledge with this quiz.
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25 quiz-card">
+
+	<div class="card text-normal col-100 ">
+
+		
+
+		
+
+			
+
+			
+
+			
+
+			
+				<div class="card-media position-relative">
+					
+					<a href="/quiz/first-ladies-of-the-united-states" style="--aspect-ratio: 16/9">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/89/236189-131-46FF66C0/First-Ladies-dedication-of-Ronald-Reagan-Presidential-Library-November-1991.jpg?w=400&h=225&c=crop" alt="(From left): First Ladies Barbara Bush, Nancy Reagan, Rosalynn Carter, Betty Ford, Pat Nixon, and Lady Bird Johnson at the Dedication of the Ronald Reagan Presidential Library, Simi Valley, California; November 4, 1991. (first lady)" class="col-100"   />
+    
+
+					</a>
+				</div>
+			
+
+		
+
+		<div class="col">
+			<div class="card-body text-hyphenate">
+				
+
+				<a href="/quiz/first-ladies-of-the-united-states" class="font-weight-bold font-16 lh-sm">First Ladies of the United States Quiz</a>
+				
+					<div class="font-serif mt-10 font-14">
+						They have been hostesses, helpers, advisers, gatekeepers, guardians, confidantes, and sometimes formidable powers behind...
+					</div>
+				
+
+				
+
+				
+			</div>
+		</div>
+
+		
+
+		
+
+	</div>
+</div>
+
+    
+    </div>
+
+    
+
+    
+        
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-lg btn-blue " aria-label="Previous">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow btn-lg btn-blue " aria-label="Next">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div>
+</div>
+</div>
+
+		<div class="container qa-videos my-40">
+                <h2 class="mb-15 d-inline-block">Featured Videos</h2>
+                <a href="/videos" class="font-weight-bold ml-10 font-14">See All Videos</a>
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid video-player-with-playlist">
+    <div class="col-100 col-md-65">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="vpwpl-video-player-container" class="vpwpl-video-thumbnail-container position-relative top-0">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/19/192919-138-6154BF1A/infographic-attack-Pearl-Harbor-December-7-1941.jpg" alt="Black and white photo of destruction at Pearl Harbor." class="rounded super-video-thumbnail"   />
+    
+
+    <div class="btn btn-xl border border-white btn-circle position-absolute shadow" style="border-width: 4px; top: 50%; left:50%; transform: translate(-50%,-50%)">
+        <em class="material-icons text-white" data-icon="play_arrow"></em>
+    </div>
+</div>
+
+        <div class="vpwpl-video-title mt-10 font-weight-bold mb-10">
+            Timeline: Why Did Japan Attack Pearl Harbor?
+        </div>
+        
+        <div class="vpwpl-credit mb-20 font-13 text-gray-600 font-italic ">
+            Encyclopædia Britannica, Inc.
+        </div>
+    </div>
+
+    <ul class=" col-100 col-md-35 pl-md-30  vpwpl-playlist mt-15 mt-md-0">
+        
+            <li class="vpwpl-video-item-1 vpwpl-video-item video-playing" data-assemblyid="219097">
+                <script type="application/json">{"image":"https://cdn.britannica.com/19/192919-138-6154BF1A/infographic-attack-Pearl-Harbor-December-7-1941.jpg","sources":[{"file":"//content.jwplatform.com/manifests/wpAOBmMo.m3u8"}],"assetId":192919,"adfile":"//content.jwplatform.com/manifests/ML9XnQNi.m3u8","title":"Timeline: Why Did Japan Attack Pearl Harbor?","tracks":[{"file":"//assets-jpcust.jwpsrv.com/tracks/oq6JOqke","label":"English"}],"transcriptUrl":"/video/infographic-attack-Pearl-Harbor-December-7-1941/-219097#transcript"}</script>
+                <script data-id="video-credit" type="text/plain">Encyclopædia Britannica, Inc.</script>
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal " >
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/video/infographic-attack-Pearl-Harbor-December-7-1941/-219097" >Timeline: Why Did Japan Attack Pearl Harbor?</a>
+		
+	</div>
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/video/infographic-attack-Pearl-Harbor-December-7-1941/-219097">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/19/192919-138-6154BF1A/infographic-attack-Pearl-Harbor-December-7-1941.jpg?w=100&h=75&c=crop" alt="Black and white photo of destruction at Pearl Harbor."  width="100" height="75" />
+    
+
+
+			
+				<div class="btn btn-sm border border-white btn-circle position-absolute shadow" style="border-width: 3px; top: 50%; left:50%; transform: translate(-50%,-50%)">
+					<em class="material-icons text-white" data-icon="play_arrow"></em>
+				</div>
+			
+
+		</a>
+	</div>
+
+	
+</div>
+
+            </li>
+        
+            <li class="vpwpl-video-item-2 vpwpl-video-item " data-assemblyid="91423">
+                <script type="application/json">{"image":"https://cdn.britannica.com/94/23194-138-FD8E0647/Franklin-D-Roosevelt-war-attack-Congress-Japan-December-8-1941.jpg","sources":[{"file":"//content.jwplatform.com/manifests/tomVuGh3.m3u8"}],"assetId":23194,"adfile":"//content.jwplatform.com/manifests/2lj6Y8Ps.m3u8","title":"Roosevelt Reacts to the Pearl Harbor Attack: \u201cA Date Which Will Live in Infamy\u201d ","tracks":[{"file":"//assets-jpcust.jwpsrv.com/tracks/TKqghVJc","label":"English"}],"transcriptUrl":"/video/Franklin-D-Roosevelt-war-attack-Congress-Japan-December-8-1941/-91423#transcript"}</script>
+                <script data-id="video-credit" type="text/plain">Public Domain</script>
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal " >
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/video/Franklin-D-Roosevelt-war-attack-Congress-Japan-December-8-1941/-91423" >Roosevelt Reacts to the Pearl Harbor Attack: “A Date Which Will Live in Infamy” </a>
+		
+	</div>
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/video/Franklin-D-Roosevelt-war-attack-Congress-Japan-December-8-1941/-91423">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/94/23194-138-FD8E0647/Franklin-D-Roosevelt-war-attack-Congress-Japan-December-8-1941.jpg?w=100&h=75&c=crop" alt="Black and white photo of President Franklin D. Roosevelt addressing Congress."  width="100" height="75" />
+    
+
+
+			
+				<div class="btn btn-sm border border-white btn-circle position-absolute shadow" style="border-width: 3px; top: 50%; left:50%; transform: translate(-50%,-50%)">
+					<em class="material-icons text-white" data-icon="play_arrow"></em>
+				</div>
+			
+
+		</a>
+	</div>
+
+	
+</div>
+
+            </li>
+        
+            <li class="vpwpl-video-item-3 vpwpl-video-item " data-assemblyid="18891">
+                <script type="application/json">{"image":"https://cdn.britannica.com/75/22975-138-023AA23A/airplanes-Triumph-of-the-Axis-base-Japanese-December-7-1941.jpg","sources":[{"file":"//content.jwplatform.com/manifests/v7D4a7Qp.m3u8"}],"assetId":22975,"adfile":"//content.jwplatform.com/manifests/e01pZHGQ.m3u8","title":"From the Archives: The Pearl Harbor Attack","tracks":[{"file":"//assets-jpcust.jwpsrv.com/tracks/GCHzqKV3","label":"English"}],"transcriptUrl":"/video/airplanes-Triumph-of-the-Axis-base-Japanese-December-7-1941/-18891#transcript"}</script>
+                <script data-id="video-credit" type="text/plain">Encyclopædia Britannica, Inc.</script>
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal " >
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/video/airplanes-Triumph-of-the-Axis-base-Japanese-December-7-1941/-18891" >From the Archives: The Pearl Harbor Attack</a>
+		
+	</div>
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/video/airplanes-Triumph-of-the-Axis-base-Japanese-December-7-1941/-18891">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/75/22975-138-023AA23A/airplanes-Triumph-of-the-Axis-base-Japanese-December-7-1941.jpg?w=100&h=75&c=crop" alt="Black and white photo of plume of smoke at Pearl Harbor attack."  width="100" height="75" />
+    
+
+
+			
+				<div class="btn btn-sm border border-white btn-circle position-absolute shadow" style="border-width: 3px; top: 50%; left:50%; transform: translate(-50%,-50%)">
+					<em class="material-icons text-white" data-icon="play_arrow"></em>
+				</div>
+			
+
+		</a>
+	</div>
+
+	
+</div>
+
+            </li>
+        
+            <li class="vpwpl-video-item-4 vpwpl-video-item " data-assemblyid="68604">
+                <script type="application/json">{"image":"https://cdn.britannica.com/37/72837-138-4AF41D73/leaders-Tripartite-Pact-Imperial-Japan-conflict-Nazi-December-1941.jpg","sources":[{"file":"//content.jwplatform.com/manifests/T6vxZo20.m3u8"}],"assetId":72837,"adfile":"//content.jwplatform.com/manifests/XcwrEAzC.m3u8","title":"Before World War II: The Rise of Imperial Japan","tracks":[{"file":"//assets-jpcust.jwpsrv.com/tracks/YrWoWiDA","label":"English"}],"transcriptUrl":"/video/leaders-Tripartite-Pact-Imperial-Japan-conflict-Nazi-December-1941/-68604#transcript"}</script>
+                <script data-id="video-credit" type="text/plain">Encyclopædia Britannica, Inc.</script>
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal " >
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/video/leaders-Tripartite-Pact-Imperial-Japan-conflict-Nazi-December-1941/-68604" >Before World War II: The Rise of Imperial Japan</a>
+		
+	</div>
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/video/leaders-Tripartite-Pact-Imperial-Japan-conflict-Nazi-December-1941/-68604">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/37/72837-138-4AF41D73/leaders-Tripartite-Pact-Imperial-Japan-conflict-Nazi-December-1941.jpg?w=100&h=75&c=crop" alt="Vintage map of Japan and Indo China region."  width="100" height="75" />
+    
+
+
+			
+				<div class="btn btn-sm border border-white btn-circle position-absolute shadow" style="border-width: 3px; top: 50%; left:50%; transform: translate(-50%,-50%)">
+					<em class="material-icons text-white" data-icon="play_arrow"></em>
+				</div>
+			
+
+		</a>
+	</div>
+
+	
+</div>
+
+            </li>
+        
+    </ul>
+
+</div>
+</div>
+        <div class="container my-40">
+            <DIV class="marketing-HOMEPAGE_BOTTOM_SUBSCRIBE2 marketing-content" data-marketing-id="HOMEPAGE_BOTTOM_SUBSCRIBE2"><div class="grid pr-15 pb-15 pt-5 shadow-sm m-5" style="border:#ddd; border-width:2px; border-style:solid; background-color:#FFFFFF;">
+    <div class="col-sm-40 col-100 text-center">
+     <a href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=hp-bottom&utm_campaign=compact-evergreen"><img class="col-70 col-sm-100" src="https://cdn.britannica.com/marketing/Premium-alldevices-white-2024.jpg" style="width: 100%;"> </a>
+    </div>
+    <div class="col text-center text-sm-left">
+     <h1 class="mb-10 mt-5 mr-sm-20 font-serif"><font face="-apple-system, system-ui, Helvetica Neue, Segoe UI, Roboto, Arial, sans-serif"><span style="font-size: 14px; text-transform: capitalize;">Britannica Premium Subscription</span> </font></h1>
+     <h1 class="mb-5 mt-10 mr-sm-20 font-serif"><span style="font-family: var(--font-family-serif); color: var(--body-color); font-size: 26px;">Unlock Exclusive Content!</span></h1>
+     <span class="mb-0 mt-0 mr-sm-20 font-serif font-serif font-size-sm line-height-sm font-weight-base">Britannica's content is among the most trusted in the world. Subscribe to Britannica Premium and unlock our entire database of trusted content today.</span> </br> 
+      <a class="retargetA btn mt-sm-15 mt-20 mb-5 btn-blue btn-md" href="https://premium.britannica.com/premium-membership/?utm_source=premium&utm_medium=hp-bottom&utm_campaign=compact-evergreen">Subscribe Now!</a>
+    </div>
+   </div></DIV></div>
+
+		<div class="container explore-britannica my-40">
+            <h2 class="mt-20 mb-0 font-serif">Explore <span>Britannica</span></h2>
+
+            <div class="grid">
+                <div class="col-100 col-sm-50 col-md-33">
+                        <h3 class="font-serif link-blue-dark font-24 m-0 border-top mt-20 pt-15">
+                            <a class="" href="History-Society" > History & Society</a>
+		</h3>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/topic/How-the-Opioid-Crisis-Devasted-Families-Communities-and-Ultimately-a-Country">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/46/277446-049-234AF0B7/opioid-history-timeline.jpg?w=100&h=75&c=crop" alt="The History of Opioids"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/topic/How-the-Opioid-Crisis-Devasted-Families-Communities-and-Ultimately-a-Country" >How the Opioid Crisis Devastated Families and Communities</a>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/topic/How-Women-with-Military-Backgrounds-Are-Changing-the-Face-of-Politics">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/87/278687-050-6EC5CB90/Photo-collage-of-women-politicians-who-have-served-in-the-military.jpg?w=100&h=75&c=crop" alt="How woman with military backgrounds are changing the face of politics"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/topic/How-Women-with-Military-Backgrounds-Are-Changing-the-Face-of-Politics" >How Women with Military Backgrounds Are Changing Politics</a>
+		
+	</div>
+	
+</div>
+</div>
+                <div class="col-100 col-sm-50 col-md-33">
+                        <h3 class="font-serif link-blue-dark font-24 m-0 border-top mt-20 pt-15">
+                            <a class="" href="Science-Tech" > Science & Tech</a>
+		</h3>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/story/how-do-black-holes-really-work">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/84/193284-050-95601E48/merging-black-holes-binary-system-each-other-December-26-2015.jpg?w=100&h=75&c=crop" alt="Illustration of gravitational waves detected by LIGO on Dec. 26, 2015"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/story/how-do-black-holes-really-work" >How Do Black Holes Really Work?</a>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/story/are-there-really-right-brained-and-left-brained-people">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/11/162611-050-E9C06663/Illustration-human-head-brain-waves.jpg?w=100&h=75&c=crop" alt="brain"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/story/are-there-really-right-brained-and-left-brained-people" >Are There Really Right-Brained and Left-Brained People?</a>
+		
+	</div>
+	
+</div>
+</div>
+                <div class="col-100 col-sm-50 col-md-33">
+                        <h3 class="font-serif link-blue-dark font-24 m-0 border-top mt-20 pt-15">
+                            <a class="" href="Biographies" > Biographies</a>
+		</h3>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/topic/Deaths-in-2025">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/79/277179-050-3C679CD1/Sundance-Institute-Robert-Redford-2015.jpg?w=100&h=75&c=crop" alt="Steward of independent cinema"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/topic/Deaths-in-2025" >Deaths in 2025</a>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/biography/Jimmy-Cliff">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/77/23577-004-2AF2018A/Jimmy-Cliff.jpg?w=100&h=75&c=crop" alt="Jimmy Cliff"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/biography/Jimmy-Cliff" >Jimmy Cliff</a>
+		
+	</div>
+	
+</div>
+</div>
+                <div class="col-100 col-sm-50 col-md-33">
+                        <h3 class="font-serif link-blue-dark font-24 m-0 border-top mt-20 pt-15">
+                            <a class="" href="Animals-Nature" > Animals & Nature</a>
+		</h3>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/list/7-animals-that-turn-white-in-winter">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/91/186691-050-E1FD5EC7/Snowshoe-hare-Summer-coat-side-right-winter.jpg?w=100&h=75&c=crop" alt="Canada: snowshoe hare"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/list/7-animals-that-turn-white-in-winter" >Animals That Turn White in Winter</a>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/list/8-famous-animals">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/52/236352-050-B27CF044/Sergeant-Stubby-World-War-I-dog.jpg?w=100&h=75&c=crop" alt="Sergeant Stubby at your service"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/list/8-famous-animals" >8 of the World's Most Famous Animals</a>
+		
+	</div>
+	
+</div>
+</div>
+                <div class="col-100 col-sm-50 col-md-33">
+                        <h3 class="font-serif link-blue-dark font-24 m-0 border-top mt-20 pt-15">
+                            <a class="" href="Geography-Travel" > Geography & Travel</a>
+		</h3>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/list/6-small-kingdoms-of-the-world">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/79/6479-050-27099C64/flag-dragon-image-Bhutan-design.jpg?w=100&h=75&c=crop" alt="Flag of Bhutan"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/list/6-small-kingdoms-of-the-world" >Mini Monarchies: 6 Small Kingdoms</a>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/story/where-is-old-zealand">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/63/62463-050-9864945E/New-Zealand-country-political-physical-features.jpg?w=100&h=75&c=crop" alt="Map of New Zealand."  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/story/where-is-old-zealand" >Where Is "Old" Zealand?</a>
+		
+	</div>
+	
+</div>
+</div>
+                <div class="col-100 col-sm-50 col-md-33">
+                        <h3 class="font-serif link-blue-dark font-24 m-0 border-top mt-20 pt-15">
+                            <a class="" href="Arts-Culture" > Arts & Culture</a>
+		</h3>
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/art/10-Must-Read-Modern-Poets">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/55/234455-050-99CCC7C2/Ada-Limon-US-Poet-Laureate-2022.jpg?w=100&h=75&c=crop" alt="Ada Limón"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/art/10-Must-Read-Modern-Poets" >10 Must-Read Modern Poets</a>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="imagelink-with-image-on-the-side card card-horizontal mt-20 card-sm" >
+
+	
+
+	<div class="position-relative card-media" style="flex: 0;">
+
+		
+
+		<a class="ilf-image position-relative" href="https://www.britannica.com/topic/Monty-Python">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        <img loading="lazy" src="https://cdn.britannica.com/03/277503-050-DBDCE1C0/Monty-Pythons-Six-Members-1969-Terry-Jones-Graham-Chapman-John-Cleese-Eric-Idle-Terry-Gilliam-Michael-Palin.jpg?w=100&h=75&c=crop" alt="And now for something completely different"  width="100" height="75" />
+    
+
+
+			
+
+		</a>
+	</div>
+
+	
+		<div class="card-body ilf-content">
+		<a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="https://www.britannica.com/topic/Monty-Python" >Monty Python</a>
+		
+	</div>
+	
+</div>
+</div>
+                </div>
+        </div>
+
+        <div class="container calcularors mt-60 mb-40">
+            <h2 class="mb-20 font-serif link-blue-dark"><a href="/calculators">Calculators</a>
+            </h2>
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="m-n10 ">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slider js-slider position-relative d-inline-flex align-items-center mw-100  card-snap-slider col-100">
+    <div class="slider-container js-slider-container overflow-hidden col-100">
+        
+      <div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25">
+                        <div class="card col-100">
+                            <div class="col">
+                                <div class="card-body text-hyphenate">
+                                    <a href="/calculators/mortgage-calculator"
+                                       class="font-weight-bold font-16 lh-sm">Mortgage Payment Calculator</a>
+                                    <div class="font-serif mt-10 font-14">
+                                            Estimate your monthly mortgage payments with our free mortgage calculator. Account for interest rates, compound
+    frequency and pay back schedule.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25">
+                        <div class="card col-100">
+                            <div class="col">
+                                <div class="card-body text-hyphenate">
+                                    <a href="/calculators/compound-interest-calculator"
+                                       class="font-weight-bold font-16 lh-sm">Compound Interest Calculator</a>
+                                    <div class="font-serif mt-10 font-14">
+                                            Compounding means getting returns on your previous returns plus your initial investment. Learn how to grow your
+    savings with our compound interest calculator.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25">
+                        <div class="card col-100">
+                            <div class="col">
+                                <div class="card-body text-hyphenate">
+                                    <a href="/calculators/percent-increase-calculator"
+                                       class="font-weight-bold font-16 lh-sm">Percentage Increase Calculator</a>
+                                    <div class="font-serif mt-10 font-14">
+                                            Calculate the increase from one value to another with our free percentage increase calculator. Evaluate population
+    growth, inflation, stock values and more.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25">
+                        <div class="card col-100">
+                            <div class="col">
+                                <div class="card-body text-hyphenate">
+                                    <a href="/calculators/retirement-calculator"
+                                       class="font-weight-bold font-16 lh-sm">Retirement Income Calculator</a>
+                                    <div class="font-serif mt-10 font-14">
+                                            Are you on track for retirement? Use our free retirement calculator to help determine how much you'll need to save
+    each year to retire at your desired age.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <div class="p-10 d-inline-flex col-100 col-sm-33 col-md-25">
+                        <div class="card col-100">
+                            <div class="col">
+                                <div class="card-body text-hyphenate">
+                                    <a href="/calculators/tvm-calculator"
+                                       class="font-weight-bold font-16 lh-sm">Time Value of Money (TVM) Calculator</a>
+                                    <div class="font-serif mt-10 font-14">
+                                            The time value of money (TVM) principle asserts that the same amount of money is worth more now than in the future.
+    Use our TVM calculator to estimate future value, present value & more.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+    
+    </div>
+
+    
+
+    
+        
+    
+
+    
+
+    <button disabled class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-lg btn-blue " aria-label="Previous">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_left"></span>
+    </button>
+    <button disabled class="next-button js-next-button position-absolute btn btn-circle shadow btn-lg btn-blue " aria-label="Next">
+        <span class="material-icons md-24" data-icon="keyboard_arrow_right"></span>
+    </button>
+</div>
+</div>
+</div>
+
+		<div class="container my-40 qa-more">
+            <h2 class="mt-20 mb-15 font-weight-bold">More From Britannica</h2>
+            <div class="grid gy-30">
+                <div class="col-100 col-sm-50 col-md-25">
+                    <div class="border-orange border-top-10 p-20 shadow text-center h-100">
+                        <a class="font-weight-bold font-18" href="/procon" target="_blank">ProCon</a>
+                        <div class="mt-10 font-serif">Award-winning ProCon promotes critical thinking, education, and
+                            informed citizenship by presenting the pro and con arguments to controversial issues in a
+                            straightforward, nonpartisan, freely accessible way.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-100 col-sm-50 col-md-25">
+                    <div class="border-green-dark border-top-10 p-20 shadow text-center h-100">
+                        <a class="font-weight-bold font-18" href="/money">Britannica Money</a>
+                        <div class="mt-10 font-serif">Discover all you need to know about retirement, investing, and
+                            household finance, without the jargon or agenda. Get reliable guidance, insight, and
+                            easy-to-understand explanations, written, edited, and verified to Britannica’s exacting
+                            standards.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-100 col-sm-50 col-md-25">
+                    <div class="border-purple border-top-10 p-20 shadow text-center h-100">
+                        <a class="font-weight-bold font-18"
+                           href="https://explore.britannica.com/explore/savingearth/advocacy/" target="_blank"
+                           rel="noopener">Advocacy for Animals</a>
+                        <div class="mt-10 font-serif">
+                            Presenting <em class="font-weight-bold">Advocacy for Animals</em>, a blog focused primarily
+                            on animal rights, wildlife conservation, environmental health and safety, and the legal and
+                            cultural issues related to these topics. This blog is a source of information and a call to
+                            action. It is meant to be a provocation and a stimulus to thought regarding humanity’s
+                            relationship with nonhuman animals.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-100 col-sm-50 col-md-25">
+                    <div class="border-red border-top-10 p-20 shadow text-center h-100">
+                        <a class="font-weight-bold font-18" href="https://alainelkanninterviews.com/" target="_blank"
+                           rel="noopener">Alain Elkann Interviews</a>
+                        <div class="mt-10 font-serif">Alain has been writing a weekly interview column for the Italian
+                            newspaper La Stampa since 1989. His interviews celebrate some of the best known and
+                            successful personalities of the present day.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+            
+
+        </div>
+    </div>
+</main>
+
+
+
+
+
+
+
+<div id="md-footer"></div> 
+
+    <footer class="md-footer footer-wrapper hide-on-edit">
+
+    <div class="footer-bck tw:@container">
+        <div class="container">
+            <div id="braze-footer-unit"></div>
+        </div>
+        <div class="footer container">
+    <div class="footer-links grid text-left tw:@sm:border-t tw:@sm:border-black tw:pt-5">
+        <div class="col-100 col-sm-33 col-md-25">
+            <div class="collapse">
+                <button class="btn btn-link link-white text-uppercase font-weight-bold collapse__toggle">
+                    Our Sites <em aria-label="" class="material-icons " data-icon="keyboard_arrow_down"></em>
+	</button>
+
+                <ul class="list-unstyled collapse__body">
+                    <li><a class="link-white" href="https://kids.britannica.com/" rel="noopener" target="_blank">Britannica Kids</a></li>
+                    <li><a class="link-white" href="https://www.merriam-webster.com" rel="noopener" target="_blank">Merriam-Webster</a></li>
+                    <li><a class="link-white" href="https://britannicalearn.com/" rel="noopener" target="_blank">School &amp; Library</a></li>
+                    <li><a class="link-white" href="https://melingo.com/" rel="noopener" target="_blank">Melingo</a></li>
+	                <li><a class="link-white" href="https://books.britannica.com/" rel="noopener" target="_blank">Britannica Books</a></li>
+                    <li><a class="link-white" href="https://escola.britannica.com.br/" rel="noopener" target="_blank">Escola</a></li>
+                    <li><a class="link-white" href="https://arabic.britannicaenglish.com/en/" rel="noopener" target="_blank">Britannica English-Arabic</a></li>
+                    <li><a class="link-white" href="https://www.nglish.com/spanish/en/" rel="noopener" target="_blank">Nglish Sp-En Translation</a></li>
+	                <li><a class="link-white" href="https://britannica.threadless.com/?utm_source=ebsite&utm_medium=footer&utm_campaign=evergreen" rel="noopener" target="_blank">Britannica Merch</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-100 col-sm-33 col-md-25">
+            <div class="collapse">
+                <button class="btn btn-link link-white text-uppercase font-weight-bold collapse__toggle">
+                    International <em aria-label="" class="material-icons " data-icon="keyboard_arrow_down"></em>
+	</button>
+
+                <ul class="list-unstyled collapse__body">
+                    <li><a class="link-white" href="https://britannica.com.au/" rel="noopener" target="_blank">Australia</a></li>
+                    <li><a class="link-white" href="https://britannica.com.br/" rel="noopener" target="_blank">Brazil</a></li>
+                    <li><a class="link-white" href="https://china.eb.com/" rel="noopener" target="_blank">China</a></li>
+                    <li>India</li>
+                    <li><a class="link-white" href="https://www.britannica.co.jp/" rel="noopener" target="_blank">Japan</a></li>
+                    <li><a class="link-white" href="https://britannica.es" rel="noopener" target="_blank">Latin America</a></li>
+                    <li><a class="link-white" href="https://britannica.co.uk/" rel="noopener" target="_blank">United Kingdom</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-100 col-sm-33 col-md-25">
+            <div class="collapse">
+                <button class="btn btn-link link-white text-uppercase font-weight-bold collapse__toggle">
+                    Content &amp; Editorial <em aria-label="" class="material-icons " data-icon="keyboard_arrow_down"></em>
+	</button>
+
+                <ul class="list-unstyled collapse__body">
+	                <li><a class="link-white" href="https://encyclopediaapi.com/" rel="noopener" target="_blank">Encyclopaedia Britannica's Syndication API</a></li>
+                    <li><a class="link-white" href="https://corporate.britannica.com/intl_publishing.html" rel="noopener" target="_blank">International Publishing</a></li>
+                    <li><a class="link-white" href="/sitemap" >Site Map</a></li>
+                    <li><a class="link-white" href="/new-articles">New Articles</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-100 col-sm-33 col-md-25">
+            <div class="collapse">
+                <button class="btn btn-link link-white text-uppercase font-weight-bold collapse__toggle">
+                    Stay Connected <em aria-label="" class="material-icons " data-icon="keyboard_arrow_down"></em>
+	</button>
+
+                <ul class="list-unstyled collapse__body">
+                    <li class="md-footer-social-links">
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+
+
+
+    
+    
+    
+        
+    
+
+
+
+
+
+
+<div class="md-social-toolbar-circle d-flex justify-content-center grayscale colored"
+     data-value="connect"
+     
+     
+>
+    
+    
+        <a class="social-icon facebook justify-content-center d-flex align-items-center align-self-center" aria-label="Share on Facebook" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" target="_blank" rel="noopener"><span>Facebook</span></a>
+    
+    
+        <a class="social-icon x justify-content-center d-flex align-items-center align-self-center" aria-label="Share on X" data-provider="x" href="https://x.com/britannica" target="_blank" rel="noopener"><span>X</span></a>
+    
+    
+        <a class="social-icon youtube justify-content-center d-flex align-items-center align-self-center" aria-label="Share on Youtube" data-provider="youtube" href="https://www.youtube.com/c/encyclopaediabritannica" target="_blank" rel="noopener"><span>YouTube</span></a>
+    
+    
+        <a class="social-icon instagram justify-content-center d-flex align-items-center align-self-center" aria-label="Share on Instagram" data-provider="instagram" href="https://www.instagram.com/britannica/" target="_blank" rel="noopener"><span>Instagram</span></a>
+    
+    
+        <a class="social-icon pinterest justify-content-center d-flex align-items-center align-self-center" aria-label="Share on Pinterest" data-provider="pinterest" href="https://www.pinterest.com/britannica/" target="_blank" rel="noopener">
+            <svg height="30" width="30" viewBox="0 0 24 24" aria-hidden="true" aria-label="" role="img"><path d="M0 12c0 5.123 3.211 9.497 7.73 11.218-.11-.937-.227-2.482.025-3.566.217-.932 1.401-5.938 1.401-5.938s-.357-.715-.357-1.774c0-1.66.962-2.9 2.161-2.9 1.02 0 1.512.765 1.512 1.682 0 1.025-.653 2.557-.99 3.978-.281 1.189.597 2.159 1.769 2.159 2.123 0 3.756-2.239 3.756-5.471 0-2.861-2.056-4.86-4.991-4.86-3.398 0-5.393 2.549-5.393 5.184 0 1.027.395 2.127.889 2.726a.36.36 0 0 1 .083.343c-.091.378-.293 1.189-.332 1.355-.053.218-.173.265-.4.159-1.492-.694-2.424-2.875-2.424-4.627 0-3.769 2.737-7.229 7.892-7.229 4.144 0 7.365 2.953 7.365 6.899 0 4.117-2.595 7.431-6.199 7.431-1.211 0-2.348-.63-2.738-1.373 0 0-.599 2.282-.744 2.84-.282 1.084-1.064 2.456-1.549 3.235C9.584 23.815 10.77 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12"></path></svg>
+        </a>
+    
+    
+    
+</div>
+
+
+</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+            <ul class="list-unstyled legal-links">
+                <li><a href="https://corporate.britannica.com" rel="noopener" target="_blank">About Us & Legal Info</a></li>
+                <li><a href="https://corporate.britannica.com/advertise-with-us" rel="noopener" target="_blank">Advertising</a></li>
+                <li><a href="https://corporate.britannica.com/contact/" target="_blank" rel="noopener nofollow">Contact Us</a></li>
+                <li><a href="https://corporate.britannica.com/privacy-policy" target="_blank" rel="noopener nofollow">Privacy Policy</a></li>
+                <li><a href="https://corporate.britannica.com/termsofuse.html" target="_blank" rel="noopener nofollow">Terms of Use</a></li>
+                <li><a href="https://corporate.britannica.com/equalemployment" target="_blank" rel="noopener nofollow">Equal Opportunity</a></li>
+                <li><a href="#" class="dnsmi-link">Do Not Sell My Info</a></li>
+                </ul>
+
+            <div class="mt-20">&copy;2025 Encyclop&aelig;dia Britannica, Inc.</div>
+        </div>
+        <img src="https://cdn.britannica.com/mendel-resources/3-168/images/footer/half-thistle.png?v=3.168.15" alt="Footer Background" class="footer-logo">
+    </div>
+
+</footer>
+
+
+
+
+
+<script type="module">
+            window.dataLayer = window.dataLayer || [];
+
+            async function awaitPaint(fn) {
+                return new Promise((resolve) => {
+                    const fallbackTimeout = setTimeout(() => {
+                        if (typeof fn === 'function') { fn(); }
+                        resolve();
+                    }, 200);
+                    requestAnimationFrame(() => {
+                        setTimeout(() => {
+                            clearTimeout(fallbackTimeout);
+                            if (typeof fn === 'function') { fn(); }
+                            resolve();
+                        }, 50);
+                    });
+                });
+            }
+
+            if (window.dataLayer && typeof window.dataLayer.push === 'function') {
+                const originalDataLayerPush = window.dataLayer.push.bind(window.dataLayer);
+                window.dataLayer.push = function (...args) {
+                    (async () => {
+                        await awaitPaint(() => {
+                            originalDataLayerPush(...args);
+                        });
+                    })();
+                };
+            }
+        </script>
+
+    <noscript><iframe title="google-gtm" src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<noscript><iframe title="google-gtm" src="//www.googletagmanager.com/ns.html?id=GTM-KRJ753NG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		
+
+
+
+
+
+
+
+<script src="https://cdn.britannica.com/mendel-resources/3-168/js/libs/jquery-3.5.0.min.js?v=3.168.15"></script>
+
+
+
+
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.britannica.com",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://www.britannica.com/search?query={search_term}",
+                    "query-input": "required name=search_term"
+                }
+            }
+    </script>
+
+
+
+<script type="text/javascript" data-type="Init Mendel Code Splitting">
+              (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: 'https://cdn.britannica.com/mendel-resources/3-168/dist/home-page.js?v=3.168.15'
+                });
+              })();
+            </script>
+		
+
+
+
+
+    <script src="https://cdn.britannica.com/mendel-resources/3-168/js/ccpa.js?v=3.168.15" defer="defer"></script>
+
+
+
+
+
+
+
+
+
+
+<div id="bc-fixed-dialogue"></div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9a8e1aa8dd3909a2","version":"2025.9.1","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"5cc7d7124de641b181da990fc8c9a0b6","b":1}' crossorigin="anonymous"></script>
+</body>
+</html> title 36 Encyclopedia Britannica | Britannica contentType 9 text/html url 31 https://www.britannica.com:443/ responseCode 3 200 

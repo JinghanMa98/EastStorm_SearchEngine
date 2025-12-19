@@ -1,0 +1,767 @@
+eqakggliqexglcxogsrqlgocdigmkgokzktaxqte page 62137 <!doctype html>
+	<!--[if IEMobile 7 ]><html lang="en" class="no-js iem7"><![endif]-->
+	<!--[if lt IE 7 ]><html lang="en" class="no-js ie6"><![endif]-->
+	<!--[if IE 7 ]><html lang="en" class="no-js ie7"><![endif]-->
+	<!--[if IE 8 ]><html lang="en" class="no-js ie8"><![endif]-->
+	<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+	<!--[if IE 10]>    <html class="no-js ie10" lang="en"> <![endif]-->
+	<!--[if !IE]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+	<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.sportssun.com/index.php/sid/223159751/scat/c4cdc9be967f45f9/ht/Report-claims-FIFA-bosses-secretly-doubled-their-salaries","20140725084250","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1406277770");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="refresh" content="300">
+		<meta http-equiv="content-language" content="en">
+		<meta name="Title" content="Report claims FIFA bosses secretly doubled their salaries | Sports Sun">
+		<meta name="Description" content="FIFA's ruling board reportedly doubled its own salary even as the organisation faces its largest corruption scandal ever.">
+		<meta name="Keywords" content="sports sun, world cup, FIFA, Qatar, Sepp Blatter, Exco">
+		<meta name="news_keywords" content="news,latest news,daily news,news today,news headlines">
+		<meta name="robots" content="index,follow,archive">
+		<meta name="revisit-after" content="1 Day">
+		
+		<title>Report claims FIFA bosses secretly doubled their salaries | Sports Sun</title>
+		<link rel="shortcut icon" href="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/favicons/sportssun.ico">
+		<link rel="stylesheet" href="https://web.archive.org/web/20140725084250cs_/http://www.sportssun.com/style_black.css">
+
+		<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+		<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/> 
+		<meta name="DC.description" content="FIFA's ruling board reportedly doubled its own salary even as the organisation faces its largest corruption scandal ever.">
+		<meta name="DC.subject" content="sports sun, world cup, FIFA, Qatar, Sepp Blatter, Exco">
+		<meta name="DC.title" content="Report claims FIFA bosses secretly doubled their salaries | Sports Sun">
+		<meta name="DC.format" content="text/html; charset=UTF-8"/> 
+
+		<link href="https://web.archive.org/web/20140725084250cs_/http://www.sportssun.com/library/css/jquery-ui.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" async src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/jquery.min.js"></script>
+		<script type="text/javascript" src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/jquery-ui.min.js"></script>
+		
+        <script type="text/javascript">
+		function init ( )
+		{
+		  timeDisplay = document.createTextNode ( "" );
+		  document.getElementById("clock").appendChild ( timeDisplay );
+		}
+		
+		function updateClock ( )
+		{
+		  var currentTime = new Date ( );
+		
+		  var currentHours = currentTime.getHours ( );
+		  var currentMinutes = currentTime.getMinutes ( );
+		  var currentSeconds = currentTime.getSeconds ( );
+		  var mydate=new Date()
+		  var year=mydate.getYear()
+		  if (year < 1000)
+		  year+=1900
+		  var day=mydate.getDay()
+		  var month=mydate.getMonth()
+		  var daym=mydate.getDate()
+		  if (daym<10)
+		  daym="0"+daym
+		  var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+		  var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+		
+		  // Pad the minutes and seconds with leading zeros, if required
+		  currentMinutes = ( currentMinutes < 10 ? "0" : "" ) + currentMinutes;
+		  currentSeconds = ( currentSeconds < 10 ? "0" : "" ) + currentSeconds;
+		
+		  // Choose either "AM" or "PM" as appropriate
+		  var timeOfDay = ( currentHours < 12 ) ? "AM" : "PM";
+		
+		  // Convert the hours component to 12-hour format if needed
+		  currentHours = ( currentHours > 12 ) ? currentHours - 12 : currentHours;
+		
+		  // Convert an hours component of "0" to "12"
+		  currentHours = ( currentHours == 0 ) ? 12 : currentHours;
+		
+		  // Compose the string for display
+		  var currentTimeString = currentHours + ":" + currentMinutes + " " + timeOfDay + " " + dayarray[day] + " " + daym + " " +  montharray[month] + " " + year;
+		
+		  // Update the time display
+		  document.getElementById("clock").firstChild.nodeValue = currentTimeString;
+		}
+		</script>
+		
+       
+		<script>
+		  $(document).ready(function() {
+			$("#datepicker").datepicker({
+			showOtherMonths: true,
+			selectOtherMonths: true
+			});
+		  });
+	  	</script>
+        
+		<script type="text/javascript">
+			jQuery(window).bind("load", function() {
+				jQuery("div#slider1").codaSlider()
+			});
+		</script>
+
+	</head>
+	<body onload="updateClock(); setInterval('updateClock()', 1000 )">
+
+		<div id="container">
+			<header role="banner">
+<h1><center>Report claims FIFA bosses secretly doubled their salaries | Sports Sun</center></h1>
+				<div id="inner-header">
+
+                	<div class="leaderboard">
+
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Country Sites - ATF , publisher: Big News Network , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript">
+var zflag_nid="2323"; var zflag_cid="5"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+</script>
+<script language="JavaScript" src="https://web.archive.org/web/20140725084250js_/http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: Country Sites - ATF , publisher: Big News Network , Ad Dimension: Super Banner - 728 x 90 -->
+
+                    </div>
+
+					<center>
+		                        <a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/900x195/sportssun.jpg" alt="Sports Sun" title="Sports Sun"></a>
+					</center>
+                <div class="topSection">
+                    	<p>Volume 12/306</p>
+                    	<ul class="breadcrumb">
+                        	<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/">Sports Sun</a></li>
+                        	<li>&nbsp;</li>
+                        	<li>&nbsp;</li>
+                        	<li>&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/">http://www.sportssun.com</a></li>
+                        </ul>
+                        <span id="clock">&nbsp;</span>
+						
+                    </div>
+					<nav role="navigation">
+							<ul id="menu">
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/c4cdc9be967f45f9">Breaking Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/ea82bf8ca23d1a56">US Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/b8de8e630faf3631">Breaking International  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/063707874900e969">Europe Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/b5f688d798d36f99">Asia Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/063707874900e969">Europe Sports  News</a></li>
+<br>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/501c8e20ffb141b5">UK Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/8b92a8b758b50c5e">NFL  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/f42d024be04f4336">Basketball  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/3a7dd2959269aebc">Baseball  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/c4cdc9be967f45f9">Breaking Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/15360451341a5c70">Soccer  News</a></li>
+
+							</ul>
+					</nav>
+				</div> <!-- end #inner-header -->
+			</header> <!-- end header -->
+<!-- HEADER END -->
+<!-- CONTENT START -->
+			<div id="content">
+
+				<div id="main" role="main">
+					<section>
+						<span class="st_facebook" displaytext="Facebook"></span>
+						<span class="st_twitter" displaytext="Tweet"></span>
+						<span class="st_email" displaytext="Email"></span>
+						<span class="st_sharethis" displaytext="ShareThis"></span>
+								<article>
+			<h2>Report claims FIFA bosses secretly doubled their salaries</h2>
+			<p><span><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/">Sports Sun</a> <em>Sunday 22nd June, 2014</em></span></p> 
+				<img src="/web/20140725084250im_/http://www.sportssun.com/photo_story/d7dbdd81550e23c9.jpg" alt="" title="">
+			<p><strong>&bull; Salaries for ruling board members doubled to US $200,000</strong></p><p><strong>&bull; Comes as FIFA faces largest corruption scandal in its history</strong></p><p><strong>&bull; FIFA accused of accepting Qatari brides in return for hosting World Cup</strong></p><p>LONDON, UK - FIFA bosses secretly doubled their salaries to US $200,000 this year, according to a report by the Sunday Times, which alleges the pay rise was to mitigate the cancellation of hefty bonuses amid corruption allegations over Qatar's World Cup bid.</p>
+
+
+
+<p>According to the Sunday Times, the pay rise was in addition to expenses of up to US $100,000, free business class flights and five-star hotel stays, that executive committee (Exco) members can claim. The newspaper also alleges that leaked documents show FIFA President Sepp Blatter awarded members a total of US $4.4m in secret bonuses from money the organisation made at the 2010 World Cup in South Africa.</p>
+
+
+
+<p>The Exco is FIFA's main decision-making body and is made up of officials from every continent, most of whom hold down other jobs. It is the committee that controversially awarded Qatar the rights to host the 2022 World Cup. Mohamed Bin Hammam, Qatar's former football boss, is accused of paying bribes to officials in order to secure the competition, some of the most serious corruption allegations in FIFA's history.</p>
+		</article>
+
+						
+                        <div class="article_options">
+                        	<div class="article_share">
+                            	<strong>Share this article:</strong>
+								<ul>
+									<li><span class="st_facebook_large" displaytext="Facebook"></span></li>
+									<li><span class="st_twitter_large" displaytext="Tweet"></span></li>
+									<li><span class="st_linkedin_large" displaytext="LinkedIn"></span></li>
+									<li><span class="st_googleplus_large" displaytext="Google +"></span></li>
+									<li><span class="st_pinterest_large" displaytext="Pinterest"></span></li>
+									<li><span class="st_myspace_large" displaytext="MySpace"></span></li>
+									<li><span class="st_tumblr_large" displaytext="Tumblr"></span></li>
+									<li><span class="st_blogger_large" displaytext="Blogger"></span></li>
+									<li><span class="st_reddit_large" displaytext="Reddit"></span></li>
+									<li><span class="st_baidu_large" displaytext="Baidu"></span></li>
+									<li><span class="st_sina_large" displaytext="Sina"></span></li>
+									<li><span class="st_email_large" displaytext="Email"></span></li>
+									<li><span class="st_sharethis_large" displaytext="ShareThis"></span></li>
+                                </ul>
+                            </div>
+                                
+                            <div class="article_actions">
+                            	<a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/" class="back">Back to Sports Sun</a>
+                            </div>
+                        </div>
+
+
+
+
+			<div class="comments">
+				<h3>Comments</h3>
+				<div id="disqus_thread"></div>
+				<script type="text/javascript">
+				    var disqus_shortname = 'mynewsnetwork'; 
+					var disqus_disable_mobile = true;
+
+				    (function() {
+				        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				    })();
+				</script>
+				<noscript>Please enable JavaScript to view the <a href="https://web.archive.org/web/20140725084250/http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>
+
+						
+
+
+                        <div class="boxColumns">
+                            <div class="stories">
+                            	<h3>Featured Story</h3>
+                            		<div class="story_teaser">
+             	               		<h2><a href="/web/20140725084250/http://www.sportssun.com/index.php/sid/224082133">Vandana completes 100 caps at CWG</a></h2>
+						</div>
+					<p>Indian women's hockey team forward Vandana Kataria completed her 100th international cap Thursday while playing against Canada in the Pool A opener of the Commonwealth Games here Thursday.<br/>
+<br/>
+Known for her ... </p>
+
+				</div>
+
+						<div class="facebook_teas"><a href="https://web.archive.org/web/20140725084250/http://www.facebook.com/pages/Sports-Sun/210553102289191">Find Sports Sun on Facebook</a></div>
+                        </div>
+                        <div class="boxColumns">
+             <div class="gossips">
+      	<h3>They Said It</h3>
+         <blockquote>
+         	<em>When it comes to Iran's nuclear weapons program, the only difference between them is this: Ahmadinejad was a wolf in wolf's clothing, Rouhani is a wolf in sheep's clothing, a wolf who thinks he can pull the wool over the eyes of the international community.</em>
+         </blockquote>
+         <p><span>David French</span></p>
+         <p>The chief lobbyist for the National Retail Federation was speaking about talks to end the U.S. government shutdown.</p>
+     </div>
+
+                        	<div class="comodities">
+<script language="javascript">
+var title = "Sports Sun";
+</script>
+<script language="javascript" src="https://web.archive.org/web/20140725084250js_/http://www.oilprice.com/widgets/jv-sfn-pmp4.js"></script>
+<noscript>Please Enable Javascript for this <a href="https://web.archive.org/web/20140725084250/http://oilprice.com/">Oil Price</a> widget to work</noscript>
+                            </div>
+                        </div>
+					</section>
+					
+					<aside>
+
+                    	<div class="rectangle">
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Country Sites - ATF , publisher: Big News Network , Ad Dimension: Medium Rectangle - 300 x 250 -->
+<script language="JavaScript">
+var zflag_nid="2323"; var zflag_cid="5"; var zflag_sid="1"; var zflag_width="300"; var zflag_height="250"; var zflag_sz="9";
+</script>
+<script language="JavaScript" src="https://web.archive.org/web/20140725084250js_/http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: Country Sites - ATF , publisher: Big News Network , Ad Dimension: Medium Rectangle - 300 x 250 -->
+                        </div>
+
+                        <div class="rectangle">
+						<div class="aside_news">
+							<div class="top_aside_news">
+								<h1><font size="5">Latest Sports Sun news</font>
+								<a class="rss" href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/c4cdc9be967f45f9"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Sports Sun news RSS feed" title="Sports Sun news RSS feed"></a></h1>
+							</div>
+								<ul>
+									<li>
+										<a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224043991/scat/c4cdc9be967f45f9/ht/Player-backs-McIlroy-to-become-second-non-American-to-win-career-Grand-Slam"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/photo_story/thumb_small/82cfc9e3e6289bce.jpg" alt="Player backs McIlroy to become second non-American to win career Grand Slam" title="Player backs McIlroy to become second non-American to win career Grand Slam"></a>
+										<div class="news_content">
+											<h3><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224043991/scat/c4cdc9be967f45f9/ht/Player-backs-McIlroy-to-become-second-non-American-to-win-career-Grand-Slam">Player backs McIlroy to become second non-American to win career Grand Slam</a></h3>
+											<p>Nine-time Major winner Gary Player is confident that Northern Irish golf ace Rory McIlroy would ... </p>
+										</div>
+									</li>
+									<li>
+										<a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033353/scat/c4cdc9be967f45f9/ht/UK-Queens-Racehorse-Fails-Drug-Test"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/photo_story/thumb_small/uni1406091624.jpg" alt="UK Queens Racehorse Fails Drug Test" title="UK Queens Racehorse Fails Drug Test"></a>
+										<div class="news_content">
+											<h3><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033353/scat/c4cdc9be967f45f9/ht/UK-Queens-Racehorse-Fails-Drug-Test">UK Queens Racehorse Fails Drug Test</a></h3>
+											<p>A racehorse owned by Britain's Queen Elizabeth has failed a drug test.
+Buckingham Palace identified Estimate ... </p>
+										</div>
+									</li>
+									<li>
+										<a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224021007/scat/c4cdc9be967f45f9/ht/Tiny-Fly-May-Hold-Key-to-New-Generation-of-Hearing-Aids"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/photo_story/thumb_small/uni1406073027.jpg" alt="Tiny Fly May Hold Key to New Generation of Hearing Aids" title="Tiny Fly May Hold Key to New Generation of Hearing Aids"></a>
+										<div class="news_content">
+											<h3><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224021007/scat/c4cdc9be967f45f9/ht/Tiny-Fly-May-Hold-Key-to-New-Generation-of-Hearing-Aids">Tiny Fly May Hold Key to New Generation of Hearing Aids</a></h3>
+											<p>Ormia ochracea, a tiny yellow parasitic fly native to Central America and the southern United ... </p>
+										</div>
+									</li>
+									<li>
+										<div class="news_content">
+											<h3><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096183/scat/c4cdc9be967f45f9/ht/Best-Shoaib-fined-over-CPL-altercation">Best Shoaib fined over CPL altercation</a></h3>
+											<p>Temperamental fast bowler Tino Best and former Pakistan batsman Shoaib Malik have been hit with ... </p>
+										</div>
+									</li>
+									<li>
+										<div class="news_content">
+											<h3><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096145/scat/c4cdc9be967f45f9/ht/Queen-photobombs-Australian-hockey-players-selfie">Queen photobombs Australian hockey players selfie</a></h3>
+											<p>A selfie of two Australian women hockey players, Jayde Taylor and Brooke Peris, has gone ... </p>
+										</div>
+									</li>
+								</ul>
+								<ol>
+									<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096167/scat/c4cdc9be967f45f9/ht/Wiggins-says-he-is-done-with-cycle-road-racing">Wiggins says he is done with cycle road racing</a></li>
+									<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096089/scat/c4cdc9be967f45f9/ht/Aguirre-appointed-Japans-football-team-manager">Aguirre appointed Japans football team manager</a></li>
+									<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096073/scat/c4cdc9be967f45f9/ht/China-under-20-star-set-for-Botafogo-move">China under-20 star set for Botafogo move</a></li>
+								</ol>
+								<p class="more"><a href="https://web.archive.org/web/20140725084250/http://sportssun.com/index.php/cat/c4cdc9be967f45f9">Additional Sports Sun news</a></p>
+							</div>
+
+                        </div>
+
+                        <div id="twitter_widget">
+
+                        	<script charset="utf-8" src="https://web.archive.org/web/20140725084250js_/http://widgets.twimg.com/j/2/widget.js"></script>
+				<script>
+                            new TWTR.Widget({
+                              version: 2,
+                              type: 'profile',
+                              rpp: 4,
+				  interval: 30000,
+                              width: 310,
+                              height: 300,
+                              theme: {
+                                shell: {
+                                  background: '#008200',
+                                  color: '#fff'
+                                },
+                                tweets: {
+                                  background: '#ffffff',
+                                  color: '#444444',
+                                  links: '#007926'
+                                }
+                              },
+                              features: {
+                                scrollbar: true,
+                                loop: false,
+                                live: true,
+                                behavior: 'default'
+                              }
+                            }).render().setUser('sportssun').start();
+                            </script>
+
+				</div>
+
+                    	<div class="rectangle">
+
+                        </div>
+
+					</aside>
+				</div>
+			</div>
+<!-- CONTENT END -->
+<!-- FOOTER START -->
+			<footer role="contentinfo">
+				<div id="inner-footer" class="clearfix">
+
+                       <div class="rss_row">
+                            <div class="rss_column">
+                                <div class="top_rss"><h2>Breaking Sports  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/c4cdc9be967f45f9"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Breaking Sports  Rss feed" title="Breaking Sports  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224043991">Player backs McIlroy to become second non-American to win career Grand Slam</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033353">UK Queens Racehorse Fails Drug Test</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224021007">Tiny Fly May Hold Key to New Generation of Hearing Aids</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096183">Best Shoaib fined over CPL altercation</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096145">Queen photobombs Australian hockey players selfie</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/c4cdc9be967f45f9">More Breaking Sports  News</a></p>
+				</div>
+                            <div class="rss_column">
+                                <div class="top_rss"><h2>US Sports  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/ea82bf8ca23d1a56"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="US Sports  Rss feed" title="US Sports  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224085283">Nibali wins Stage 18 closes in on Tour victory</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094825">Tarp shenanigans help Yankees to 5-inning victory</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094823">Victor Cruz barely completes his marriage proposal</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094419">Sources Ravens RB Rice suspended 2 games</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094833">Source Gordon to appeal suspension Aug. 1</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/ea82bf8ca23d1a56">More US Sports  News</a></p>
+				</div>
+                            <div class="rss_column last">
+                                <div class="top_rss"><h2>Breaking International  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/b8de8e630faf3631"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Breaking International  Rss feed" title="Breaking International  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224095841">UN school in Gaza bombarded killing many</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224095839">Moderate Kurd leader elected as Iraq president</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224095837">All 116 onboard Air Algerie plane feared dead in crash</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224095843">Pope meets Sudanese woman who faced death sentence for apostasy</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224095835">Militants gun down Finish aid workers in Afghanistan</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/b8de8e630faf3631">More Breaking International  News</a></p>
+				</div>
+			</div><!-- End RSS Row -->
+
+                	<div class="leaderboard">
+
+
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: Country Sites - BTF , publisher: Big News Network , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript">
+var zflag_nid="2323"; var zflag_cid="6"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+</script>
+<script language="JavaScript" src="https://web.archive.org/web/20140725084250js_/http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: Country Sites - BTF , publisher: Big News Network , Ad Dimension: Super Banner - 728 x 90 -->
+
+                    </div>
+
+                       <div class="rss_row">
+                            <div class="rss_column">
+                                <div class="top_rss"><h2>Europe Sports  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/063707874900e969"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Europe Sports  Rss feed" title="Europe Sports  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033411">Brazil reacts with praise and scorn to Dunga return</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224085279">Majka Enjoys His Ride to Win in 17th Stage of Tour de France</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224085291">Tour de France 2014 stage 18 Pau to Hautacam live</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094563">Bulls skipper Stegmann raring to go</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094565">Morris hasnt watched final</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/063707874900e969">More Europe Sports  News</a></p>
+				</div>
+                            <div class="rss_column">
+                                <div class="top_rss"><h2>Asia Sports  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/b5f688d798d36f99"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Asia Sports  Rss feed" title="Asia Sports  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224044083">Thirimanna to lead Sri Lanka cricket team at Asiad</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033527">Kiwi spinner suspended from bowling in international cricket</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224070477">Oz legend Gilchrist backs Englands Buttler to make immediate impact in Test cricket</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224070407">President congratulates Indian cricket team for winning Lords test match</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224070357">Banned Williamson vows to return to bowling crease</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/b5f688d798d36f99">More Asia Sports  News</a></p>
+				</div>
+                            <div class="rss_column last">
+                                <div class="top_rss"><h2>Europe Sports  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/063707874900e969"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Europe Sports  Rss feed" title="Europe Sports  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033411">Brazil reacts with praise and scorn to Dunga return</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224085279">Majka Enjoys His Ride to Win in 17th Stage of Tour de France</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224085291">Tour de France 2014 stage 18 Pau to Hautacam live</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094563">Bulls skipper Stegmann raring to go</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094565">Morris hasnt watched final</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/063707874900e969">More Europe Sports  News</a></p>
+				</div>
+			</div><!-- End RSS Row -->
+
+                    <div class="leaderboard">
+
+                    </div>
+                       <div class="rss_row">
+                            <div class="rss_column">
+                                <div class="top_rss"><h2>UK Sports  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/501c8e20ffb141b5"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="UK Sports  Rss feed" title="UK Sports  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094811">Preview Commonwealth Games 7s</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094809">Tier Two fixtures for November</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094821">Anscombe on his way to Wales</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094555">F1 Hungarian Grand Prix Lewis Hamilton hungry for Hungary success to gain momentum ahead of the summer break</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094739">Andy Murray set to continue his partnership with coach Amelie Mauresmo despite early Wimbledon exit</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/501c8e20ffb141b5">More UK Sports  News</a></p>
+				</div>
+                            <div class="rss_column">
+                                <div class="top_rss"><h2>NFL  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/8b92a8b758b50c5e"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="NFL  Rss feed" title="NFL  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224094517">New England Patriots go all in on Rob Gronkowski</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224092183">AP source Gordon to meet with league Aug. 1</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224092187">Suspended WR Blackmon arrested on drug complaint</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224092193">Falcons WR White agrees to 4-year extension</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224091981">Heinz Field Issues Advisory for Sundays 2014 Guinness International Champions Cup Match</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/8b92a8b758b50c5e">More NFL  News</a></p>
+				</div>
+                            <div class="rss_column last">
+                                <div class="top_rss"><h2>Basketball  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/f42d024be04f4336"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Basketball  Rss feed" title="Basketball  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224070317">Akal Takht Jathedar terms turban incident shameful</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224044437">Headgear controversy International Olympic Committee asked to give guidelines</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224088723">India basketball irked over turban ban at Fiba event</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224088645">India angered by basketballs no turban rule</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224083669">Bank Of America Sale Book For Los Angeles Clippers Fouls Out</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/f42d024be04f4336">More Basketball  News</a></p>
+				</div>
+
+                            <div class="rss_actions">
+                                <div class="subscribe_nws">
+                                    <h3>Subscribe to our Newsletter</h3>
+                                    <p>Get the latest Sports Sun headlines delivered to your inbox.</p>
+                                    <form action="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/subscribe_em" method="post">
+                                        <p><input type="text" value="Your email address" onblur="if (this.value==''){this.value='Your email address'}" onfocus="if (this.value=='Your email address'){this.value=''}"></p>
+                                        <p><input type="image" src="/web/20140725084250im_/http://www.sportssun.com/index.php/sid/223159751/scat/c4cdc9be967f45f9/ht/library/images/input_submit.jpg" alt="Submit"><span>*We hate spam as much as you. <a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/privacy">Privacy</a></span></p>
+                                    </form>
+                                </div>
+                                <div class="headlines_link">
+                                    <a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/hladd">Add Sports Sun news headlines to your site.<span>Get started</span></a>
+                                </div>
+                            </div>
+                            <div class="rss_column web_news">
+                                <div class="top_rss"><h2>Soccer  News</h2><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/rss/15360451341a5c70"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/rss_ico.jpg" alt="Soccer  Rss feed" title="Soccer  Rss feed"></a></div>
+                                <ul>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224021007">Tiny Fly May Hold Key to New Generation of Hearing Aids</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096073">China under-20 star set for Botafogo move</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224096089">Aguirre appointed Japans football team manager</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224070423">Ronaldinho on Boca Juniors radar</a></li>
+                                    <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/sid/224033411">Brazil reacts with praise and scorn to Dunga return</a></li>
+				</ul>
+				<p><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/15360451341a5c70">More Soccer  News</a></p>
+			</div><!-- End RSS Row -->
+
+
+                       <div class="rss_row">
+			</div><!-- End RSS Row -->
+
+			</div>
+					<div class="slider-wrap">
+                    	<div class="top_stories">
+                        	<h3>News from around our Network</h3>
+                        </div>
+                        <div id="slider1" class="csw">
+                            <div class="panelContainer">
+                            	
+                            	
+			<div class="panel panel1" title="Panel 1">
+				<p class="slide_info">
+					<span>Showing 1 thru 5 out of 10</span><a href="#">More from our network</a>
+				</p>
+				<div class="wrapper">
+					<div class="first_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.afghanistansun.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/afghanistansun.png" alt="Afghanistan Sun"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.afghanistansun.com/index.php/sid/224095835/scat/6e1d5c8e1f98f17c/" target="_blank">Militants gun down Finish aid workers in Afghanistan</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.afghanistansun.com/index.php/sid/224057421/scat/6e1d5c8e1f98f17c/" target="_blank">Afghanistan Pakistans Anti-Haqqani Offensive Ineffective</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.afghanistansun.com/index.php/sid/224095787/scat/6e1d5c8e1f98f17c/" target="_blank">Amid audit delay UN in Afghanistan proposes criteria for ordering recounts</a></li>
+						</ul>
+					</div>
+					<div class="news asia_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.malaysiasun.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/malaysiasun.png" alt="Malaysia Sun"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.malaysiasun.com/index.php/sid/224021033/scat/48cba686fe041718/" target="_blank">Top Ukraine official claims Russian officer downed Malaysian jet</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.malaysiasun.com/index.php/sid/224095913/scat/48cba686fe041718/" target="_blank">Airline Expert Missile will Show Signature on Debris</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.malaysiasun.com/index.php/sid/224095797/scat/48cba686fe041718/" target="_blank">Russian Army Said to Be Tipping Balance in E. Ukraine</a></li>
+						</ul>
+					</div>
+					<div class="news america_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.atlantaleader.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/atlantaleader.png" alt="Atlanta Leader"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.atlantaleader.com/index.php/sid/224090223/scat/ffe56b8f30c50146/" target="_blank">Pospisil advances in Atlanta</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.atlantaleader.com/index.php/sid/224082927/scat/ffe56b8f30c50146/" target="_blank">Emig Joins IFG Companies’ Property Unit in Atlanta Office</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.atlantaleader.com/index.php/sid/224076455/scat/ffe56b8f30c50146/" target="_blank">More than 1000 rally for Israel in Atlanta</a></li>
+						</ul>
+					</div>
+					<div class="news sydney_sun">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.chicagochronicle.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/chicagochronicle.png" alt="Chicago Chronicle"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.chicagochronicle.com/index.php/sid/224090617/scat/c8ac3000ee01c7aa/" target="_blank">7-year-old gets to be a Buffalo Grove officer for a day</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.chicagochronicle.com/index.php/sid/224090621/scat/c8ac3000ee01c7aa/" target="_blank">Woody Allens Magic in the Moonlight is just that</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.chicagochronicle.com/index.php/sid/224090619/scat/c8ac3000ee01c7aa/" target="_blank">Former owners launch second suit over sale of Horizon Farms</a></li>
+						</ul>
+					</div>
+					<div class="last_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.kansascitypost.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/kansascitypost.png" alt="Kansas City Post"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.kansascitypost.com/index.php/sid/224084167/scat/cc264e50ceab3697/" target="_blank">Former police chief will get to spend 10 days in Missouri jail</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.kansascitypost.com/index.php/sid/224091015/scat/cc264e50ceab3697/" target="_blank">Mayor of Missouri Bootheel town dies in house fire</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.kansascitypost.com/index.php/sid/224091017/scat/cc264e50ceab3697/" target="_blank">Missouri couple charged with selling $1 milllion in synthetic pot</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="panel panel2" title="Panel 2">
+				<p class="slide_info">
+					<span>Showing 6 thru 10 out of 10</span><a href="#">More from our network</a>
+				</p>
+				<div class="wrapper">
+					<div class="first_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.oklahomacitysun.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/oklahomacitysun.png" alt="Oklahoma City Sun"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.oklahomacitysun.com/index.php/sid/224087581/scat/ade52738bf7d5fc8/" target="_blank">Skydiver dies during WWII-style jump in Oklahoma</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.oklahomacitysun.com/index.php/sid/224091695/scat/ade52738bf7d5fc8/" target="_blank">Significant drought improvement across parts of Oklahoma</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.oklahomacitysun.com/index.php/sid/224091697/scat/ade52738bf7d5fc8/" target="_blank">Oklahoma City police recruit officers through social media</a></li>
+						</ul>
+					</div>
+					<div class="news asia_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.trinidadtimes.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/trinidadtimes.png" alt="Trinidad Times"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.trinidadtimes.com/index.php/sid/224070247/scat/f7da47955ef03229/" target="_blank">Bravo defends sending Pooran in Super over</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.trinidadtimes.com/index.php/sid/224057503/scat/f7da47955ef03229/" target="_blank">Superb Smiths century takes Tridents to victory</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.trinidadtimes.com/index.php/sid/224087063/scat/f7da47955ef03229/" target="_blank">Royal Caribbean profits surge in second quarter</a></li>
+						</ul>
+					</div>
+					<div class="news america_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.pennsylvaniasun.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/pennsylvaniasun.png" alt="Pennsylvania Sun"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.pennsylvaniasun.com/index.php/sid/224091965/scat/3e0f27c4f0bf8c91/" target="_blank">3 lawsuits settled after outbreak at Pittsburgh VA</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.pennsylvaniasun.com/index.php/sid/224091971/scat/3e0f27c4f0bf8c91/" target="_blank">Authorities Dad stayed in bathroom while girls were dying</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.pennsylvaniasun.com/index.php/sid/224091975/scat/3e0f27c4f0bf8c91/" target="_blank">Weekend DUI checkpoint scheduled in North Hills</a></li>
+						</ul>
+					</div>
+					<div class="news sydney_sun">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.texasguardian.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/texasguardian.png" alt="Texas Guardian"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.texasguardian.com/index.php/sid/224093311/scat/42acbe017a594c30/" target="_blank">DA requests budget increase to battle public corruption</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.texasguardian.com/index.php/sid/224090873/scat/42acbe017a594c30/" target="_blank">D.R. Horton reports a 22 percent decline in profits</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.texasguardian.com/index.php/sid/224093293/scat/42acbe017a594c30/" target="_blank">Loop 820 in Hurst closed after highway sign collapses</a></li>
+						</ul>
+					</div>
+					<div class="last_news">
+						<p>
+							<a href="https://web.archive.org/web/20140725084250/http://www.professionalautos.com/"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/images/150x125/professionalautos.png" alt="Professional Autos"></a>
+						</p>
+						<ul>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.professionalautos.com/index.php/sid/224095833/scat/f1a1cdcdb4956669/" target="_blank">Unipart Automobile enters administration, over 1200 lose jobs</a></li>
+							<li><a href="https://web.archive.org/web/20140725084250/http://www.professionalautos.com/index.php/sid/224095829/scat/f1a1cdcdb4956669/" target="_blank">Q2 profits of GM tumbles by 80 percent due to recalls</a></li>
+							<li class="nopad"><a href="https://web.archive.org/web/20140725084250/http://www.professionalautos.com/index.php/sid/224070499/scat/f1a1cdcdb4956669/" target="_blank">Needed More safety features in cars</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+                              
+                            </div><!-- .panelContainer -->
+                        </div><!-- #slider1 -->
+                    </div>
+                    <div class="bottom_menu">
+                    	<ul>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/c4cdc9be967f45f9">Breaking Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/ea82bf8ca23d1a56">US Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/b8de8e630faf3631">Breaking International  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/063707874900e969">Europe Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/b5f688d798d36f99">Asia Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/063707874900e969">Europe Sports  News</a></li>
+<br>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/501c8e20ffb141b5">UK Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/8b92a8b758b50c5e">NFL  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/f42d024be04f4336">Basketball  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/3a7dd2959269aebc">Baseball  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/c4cdc9be967f45f9">Breaking Sports  News</a></li>
+<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/cat/15360451341a5c70">Soccer  News</a></li>
+
+			</ul>
+                    </div>
+                    <div class="bottom_nav_links">
+                    	<ul>
+                        	<li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/contact">Contact</a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/about">About Sports Sun</a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/newsr.php/nrt=0&amp;tp=pr&amp;si=1391">News Releases</a></li>
+
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/tandc">Terms &amp; Conditions</a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/privacy">Privacy Policy</a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/sitemap">Sitemap</a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.sportssun.com/index.php/nav/arc/c4cdc9be967f45f9">Archived Stories</a></li>
+                        </ul>
+                    </div>
+                    <div class="bottom_promo">
+
+<!-- Javascript tag: -->
+<!-- begin ZEDO for channel: International City Sites - BTF , publisher: Big News Network , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript">
+var zflag_nid="2323"; var zflag_cid="8"; var zflag_sid="1"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="14";
+</script>
+<script language="JavaScript" src="https://web.archive.org/web/20140725084250js_/http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: International City Sites - BTF , publisher: Big News Network , Ad Dimension: Super Banner - 728 x 90 -->
+
+                    </div>
+                    <div class="share">
+                    	<strong></strong>
+                        <ul>
+                        	<li><a href="https://web.archive.org/web/20140725084250/http://plus.google.com/118155496332343957420" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/gplus-32.png" alt="Google Plus"></a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://twitter.com/sportssun" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/twitter.jpg" alt="Twitter"></a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.facebook.com/pages/Sports-Sun/210553102289191" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/facebook.jpg" alt="Facebook"></a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.linkedin.com/" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/linkedin.jpg" alt="Linked In"></a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.blogger.com/" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/blogger.jpg" alt="Blogger.com"></a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.orkut.com/" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/orkut.jpg" alt="orkut.com"></a></li>
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.tumblr.com/" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/tumblr.jpg" alt="Tumblr"></a></li>
+
+                            <li><a href="https://web.archive.org/web/20140725084250/http://www.redit.com/" target="_blank"><img src="https://web.archive.org/web/20140725084250im_/http://www.sportssun.com/library/images/redit.jpg" alt="redit"></a></li>
+                        </ul>
+                    </div>
+                    <div class="bottom_info">
+
+                        <p>&copy; 1999 - 2014 Sports Sun - <a href="https://web.archive.org/web/20140725084250/http://www.midwestradionetwork.com/">Midwest Radio Network Pty Ltd.</a> - (LU) <span>A division of Big News Network. All rights reserved</span></p>
+
+                    </div>
+				</footer>
+			</div>
+		</div>
+		
+	
+		<script type="text/javascript" src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/jquery.expander.js"></script>
+        <script type="text/javascript" src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/cufon-yui.js"></script>
+        <script type="text/javascript" src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/Big_Caslon_500.font.js"></script>
+		
+		<script src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/modernizr-2.0.min.js"></script>
+		<script src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/scripts.js"></script>
+		<script src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/jquery-easing.1.2.pack.js" type="text/javascript"></script>
+		<script src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/jquery-easing-compatibility.1.2.pack.js" type="text/javascript"></script>
+		<script src="https://web.archive.org/web/20140725084250js_/http://www.sportssun.com/library/js/coda-slider.1.1.pack.js" type="text/javascript"></script>
+		
+		<script type="text/javascript">var switchTo5x=true;</script>
+		<script type="text/javascript" async src="https://web.archive.org/web/20140725084250js_/http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript">stLight.options({publisher: "fb2b92d4-ae15-407a-b8da-bb1229c34788", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+		<!-- Javascript tag  -->
+		<!-- begin ZEDO for channel:  Big News Network - ATF , publisher: Big News Network , Ad Dimension: Pixel/Popup - 1 x 1 -->
+		<script language="JavaScript">
+		var zflag_nid="2323"; var zflag_cid="1"; var zflag_sid="1"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+		</script>
+		<script language="JavaScript" src="https://web.archive.org/web/20140725084250js_/http://c5.zedo.com/jsc/c5/fo.js"></script>
+		<!-- end ZEDO for channel:  Big News Network - ATF , publisher: Big News Network , Ad Dimension: Pixel/Popup - 1 x 1 -->
+	
+	</body>
+</html><!--
+     FILE ARCHIVED ON 08:42:50 Jul 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:43:25 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 2.245
+  exclusion.robots: 0.183
+  exclusion.robots.policy: 0.165
+  esindex: 0.014
+  cdx.remote: 29.831
+  LoadShardBlock: 157.874 (3)
+  PetaboxLoader3.datanode: 110.881 (4)
+  PetaboxLoader3.resolve: 68.892 (2)
+  load_resource: 98.91
+--> title 70 Report claims FIFA bosses secretly doubled their salaries | Sports Sun contentType 9 text/html url 178 https://web.archive.org:443/web/20140725084250/http://www.sportssun.com/index.php/sid/223159751/scat/c4cdc9be967f45f9/ht/Report-claims-FIFA-bosses-secretly-doubled-their-salaries responseCode 3 200 

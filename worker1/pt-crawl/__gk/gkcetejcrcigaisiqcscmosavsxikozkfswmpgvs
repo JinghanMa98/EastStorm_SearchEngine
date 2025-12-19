@@ -1,0 +1,418 @@
+gkcetejcrcigaisiqcscmosavsxikozkfswmpgvs length 5 61111 page 61223 ﻿
+
+<!DOCTYPE html>
+<html class="" lang="en" dir="ltr">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<script type="text/javascript">
+    window.onerror = function () {
+        var summary = {
+            errorText: arguments[0],
+            url: arguments[1],
+            lineNumber: arguments[2],
+            userID: "Anonymous",
+            stackTrace: arguments[4].stack
+        };
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('POST', '/api/clientSideError/Log', true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState != 4 || xhr.status != 200) return;
+        };
+        xhr.send(JSON.stringify(summary));
+    };
+</script>
+<link rel="stylesheet" type="text/css" href="/Content/Redesign/dist/assets/toolkit/styles/self-registration-ltr.css?v=9.7.245.0" />
+    <script src='/Content/Redesign/dist/assets/toolkit/scripts/modernizr.js?v=9.7.245.0'></script>
+    <script src="/content/bundles/selfregistration_redesign?v=CTBjABv7P1XgZqzuzjqZ4Cfn5pCDt__pd0Onx6Y_WAg1"></script>
+<script src="/content/bundles/uploader?v=GbaN59ALKynB4_UoSbOA9etYXGfHZ5MK929LJ2omf9Q1"></script>
+
+    <script type="text/javascript">
+        var Configuration = {
+            UploadServiceUrl: "/Uploader/UploadServiceWithUniqueFileNames.ashx?guidDirectory=35c0d685-7ee4-491d-bf3d-7da5c938e666&toDirectory=%7e%2fTemp%2f"
+        };
+    </script>
+  
+    
+
+    <!-- Favicons -->
+    <link href="/favicon.ico" rel="icon" type="image/x-icon" />
+    
+    <style>
+        .has-themeBgColor {
+            
+        }
+
+        .has-themeColor {
+            ;
+        }
+
+        .has-mediaHubBgColor {
+            ;
+        }
+
+        .has-themeFontColor {
+            ;
+        }
+
+        .no-touchevents .self-registration__btn:hover,
+        .no-touchevents .self-registration__btn:disabled:hover,
+        .self-registration__btn:focus,
+        .self-registration__btn:disabled {
+            ;
+            
+        }
+    </style>
+<title>
+	Condiciones generales de servicio de FIFA extranet - FIFA Extranet
+</title></head>
+        
+<body class="SelfRegistrationTCPage">
+     
+
+<script type="text/javascript" data-elastic-exclude="">
+    Namespace("fifa.responsiveImage");
+
+    fifa.responsiveImage = function () {
+        var imageSizesDictionary = [{Name: 'DesktopSize.Article', MediaQuery: '(min-width: 1201px)', Width: 1040, Height: 585, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.ContentListBig', MediaQuery: '(min-width: 1201px)', Width: 571, Height: 321, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.ContentListSmall', MediaQuery: '(min-width: 1201px)', Width: 258, Height: 145, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.ContentListPromoBox', MediaQuery: '(min-width: 1201px)', Width: 325, Height: 183, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.ContentListTwoBoxesHigh', MediaQuery: '(min-width: 1201px)', Width: 505, Height: 284, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.ContentListTwoBoxesMedium', MediaQuery: '(min-width: 1201px)', Width: 162, Height: 91, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.ContentListTwoBoxesLow', MediaQuery: '(min-width: 1201px)', Width: 251, Height: 141, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.NewsList', MediaQuery: '(min-width: 1201px)', Width: 425, Height: 239, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.GalleryIndex', MediaQuery: '(min-width: 1201px)', Width: 322, Height: 181, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.GalleryPage', MediaQuery: '(min-width: 1201px)', Width: 768, Height: 432, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.SponsorLogo1', MediaQuery: '(min-width: 1201px)', Width: 148, Height: 148, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.SponsorLogo2', MediaQuery: '(min-width: 1201px)', Width: 126, Height: 126, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.SponsorLogo3', MediaQuery: '(min-width: 1201px)', Width: 104, Height: 104, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.WelcomePageMedia', MediaQuery: '(min-width: 1201px)', Width: 126, Height: 126, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.WelcomePageBackground', MediaQuery: '(min-width: 1201px)', Width: 1034, Height: 200, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.MessagingToolHeader', MediaQuery: '(min-width: 1201px)', Width: 650, Height: 2000, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.UserManualPage', MediaQuery: '(min-width: 1201px)', Width: 970, Height: 595, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.RelatedContent', MediaQuery: '(min-width: 1201px)', Width: 505, Height: 284, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.UserPhotoBlockBig', MediaQuery: '(min-width: 1201px)', Width: 288, Height: 336, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.UserPhotoBlockSmall', MediaQuery: '(min-width: 1201px)', Width: 120, Height: 140, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.UserPhoto', MediaQuery: '(min-width: 1201px)', Width: 145, Height: 191, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.IntroductionModuleMedia', MediaQuery: '(min-width: 1201px)', Width: 1034, Height: 581, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.TeamBaseCampSearchResult', MediaQuery: '(min-width: 1201px)', Width: 1424, Height: 801, Transformation: 'ScaleDownToFit' },{Name: 'DesktopSize.TeamBaseCampTraingSitePlan', MediaQuery: '(min-width: 1201px)', Width: 1424, Height: 801, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.Article', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.ContentListBig', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.ContentListSmall', MediaQuery: '', Width: 258, Height: 145, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.ContentListPromoBox', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.NewsList', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.GalleryIndex', MediaQuery: '', Width: 706, Height: 397, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.GalleryPage', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.SponsorLogo1', MediaQuery: '', Width: 148, Height: 148, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.SponsorLogo2', MediaQuery: '', Width: 126, Height: 126, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.SponsorLogo3', MediaQuery: '', Width: 104, Height: 104, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.UserManualPage', MediaQuery: '', Width: 750, Height: 485, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.RelatedContent', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.UserPhotoBlockBig', MediaQuery: '', Width: 274, Height: 320, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.UserPhotoBlockSmall', MediaQuery: '', Width: 274, Height: 320, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.UserPhoto', MediaQuery: '', Width: 343, Height: 452, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.IntroductionModuleMedia', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.TeamBaseCampSearchResult', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'MobileSize.TeamBaseCampTraingSitePlan', MediaQuery: '', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.Article', MediaQuery: '(min-width: 769px)', Width: 1040, Height: 585, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.ContentListSmall', MediaQuery: '(min-width: 769px)', Width: 258, Height: 145, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.ContentListPromoBox', MediaQuery: '(min-width: 769px)', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.ContentListTwoBoxesMedium', MediaQuery: '(min-width: 769px)', Width: 162, Height: 91, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.ContentListTwoBoxesLow', MediaQuery: '(min-width: 769px)', Width: 251, Height: 141, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.NewsList', MediaQuery: '(min-width: 769px)', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.GalleryIndex', MediaQuery: '(min-width: 769px)', Width: 322, Height: 181, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.GalleryPage', MediaQuery: '(min-width: 769px)', Width: 768, Height: 432, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.SponsorLogo1', MediaQuery: '(min-width: 769px)', Width: 148, Height: 148, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.SponsorLogo2', MediaQuery: '(min-width: 769px)', Width: 126, Height: 126, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.SponsorLogo3', MediaQuery: '(min-width: 769px)', Width: 104, Height: 104, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.UserManualPage', MediaQuery: '(min-width: 769px)', Width: 580, Height: 400, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.RelatedContent', MediaQuery: '(min-width: 769px)', Width: 505, Height: 284, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.UserPhotoBlockBig', MediaQuery: '(min-width: 769px)', Width: 288, Height: 336, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.UserPhotoBlockSmall', MediaQuery: '(min-width: 769px)', Width: 120, Height: 140, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.UserPhoto', MediaQuery: '(min-width: 769px)', Width: 323, Height: 425, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.IntroductionModuleMedia', MediaQuery: '(min-width: 769px)', Width: 1034, Height: 581, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.TeamBaseCampSearchResult', MediaQuery: '(min-width: 769px)', Width: 738, Height: 415, Transformation: 'ScaleDownToFit' },{Name: 'TabletSize.TeamBaseCampTraingSitePlan', MediaQuery: '(min-width: 769px)', Width: 1034, Height: 581, Transformation: 'ScaleDownToFit' }];
+        var tabletMediaQuery = '(min-width: 769px)';
+
+        var BreakPointsViewModel = function(data) {
+            var self = this;
+
+            self.Name = data.Name;
+            self.MediaQuery = data.MediaQuery;
+            self.Width = data.Width;
+            self.Height = data.Height;
+            self.Transformation = data.Transformation;
+
+            self.getURL = function(baseUrl, newWidth, newHeigth) {
+                return baseUrl + (baseUrl.indexOf("?") === -1 ? "?" : "&") + "t=" + data.Transformation + ":" + (newWidth ? newWidth : self.Width) + "x" + (newHeigth ? newHeigth : self.Height);
+            };
+        };
+
+        var getImageParams = function(sizeName) {
+            var imageParams;
+            $.each(imageSizesDictionary, function(key, value) {
+                if (value.Name === sizeName) {
+                    imageParams = value;
+                }
+            });
+
+            return imageParams;
+        };
+
+        this.RegisterKoBinding = function() {
+            ko.components.register('responsive-image', {
+                viewModel: function (params) {
+                    var self = this;
+                    //for some reason when using component binding baseUrl is passed as a string and when using custom tag then baseUrl is passed as an observable, 
+                    this.baseUrl = (typeof params.baseUrl == 'function') ? params.baseUrl() : params.baseUrl;
+                    this.alt = params.alt;
+                    this.breakPointOptions = params.breakPointOptions;
+                    this.desktopSize = params.desktopSize;
+                    this.mobileSize = params.mobileSize;
+                    this.tabletSize = params.tabletSize;
+                    this.cssClass = params.cssClass;
+
+                    this.images = ko.computed(function () {
+                        var images = [];
+
+                        if (self.breakPointOptions) {
+                            $.each(self.breakPointOptions,
+                                function(key, item) {
+                                    images.push(new BreakPointsViewModel(item));
+                                });
+
+                            return images.reverse();
+                        }
+
+                        if (self.mobileSize) {
+                            var mobileImageInfo = getImageParams(self.mobileSize);
+                            images.push(new BreakPointsViewModel(mobileImageInfo));
+
+                            if (self.tabletSize) {
+                                var tabletImageInfo = getImageParams(self.tabletSize);
+                                images.push(new BreakPointsViewModel(tabletImageInfo));
+                            } else {
+                                var fallbackTabletImageInfo = getImageParams(self.mobileSize);
+                                fallbackTabletImageInfo.MediaQuery = tabletMediaQuery;
+                                images.push(new BreakPointsViewModel(fallbackTabletImageInfo));
+                            }
+                        }
+
+                        if (self.desktopSize) {
+                            var desktopImageInfo = getImageParams(self.desktopSize);
+                            images.push(new BreakPointsViewModel(desktopImageInfo));
+                        }
+
+                        return images.reverse();
+                    });
+
+                    this.defaultImageUrl = ko.computed(function() {
+                        if (!self.images() || self.images().length === 0) {
+                            return self.baseUrl;
+                        }
+
+                        var sorted = self.images().slice(0)
+                            .sort(function(a, b) {
+                                return (b.Width * b.Height) - (a.Width * a.Height);
+                            });
+
+                        return sorted[0].getURL(self.baseUrl);
+                    });
+                },
+                template:
+                    '<picture>' +
+                        '<!-- ko foreach: images -->' +
+                            '<source data-bind="attr: { srcset: getURL($parent.baseUrl), media: MediaQuery }"/>' +
+                        '<!-- /ko -->' +
+                        '<img data-bind="attr: {srcset: defaultImageUrl, src: defaultImageUrl, alt: alt}, css: cssClass" />' +
+                    '</picture>'
+            });
+        };
+    };
+    $(function () {
+        var responsiveImage = new fifa.responsiveImage();
+        responsiveImage.RegisterKoBinding();
+    });
+</script>
+
+
+    <form name="aspnetForm" method="post" action="/es/registration/condiciones-generales-de-servicio-de-fifa-extranet/" id="aspnetForm">
+<input type="hidden" name="__AntiForgeryField" id="__AntiForgeryField" value="d56380e5-7fad-45d5-b5ca-300cc24c0bce" />
+<input type="hidden" name="__PageLanguageField" id="__PageLanguageField" value="es" />
+<input type="hidden" name="__EpiServerDisplayModeField" id="__EpiServerDisplayModeField" value="Default" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="CODkX+oqTI3PXL2DWFWj3hm69xpHRT1bcIJ2oNakHo45tDpLf/wbxgCo36aw6pS2XagATIiRR9YxQNtFu5bOHDN6oL3ltD3Mu7+e5eeRkvgSHw73DlfQrXSNaMp+ZKbro5wciG+D6P5yXIlrU4w56LGSIlX4/ikoMkDd2rEtozQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1CBDE9F9" />
+        <main id="pageContainer" class="self-registration__inner-wrapper">
+
+                <div class="self-registration__language-wrapper has-mediaHubBgColor has-themeFontColor align-r u-pb- u-pt+ palm-pt-">
+                    <div class="language-selector language-selector--custom">
+                        
+            <div class="language-selector__dropdown dropdown">
+                <a class="language-selector__dropdown-toggle dropdown-toggle" data-toggle="dropdown" href="#">
+                        <span class="language-selector__active">ESPA&#209;OL</span>
+                         <svg class="dropdown-toggle__icon dropdown-toggle__icon--open">
+                            <use xlink:href="/Content/Redesign/dist/assets/toolkit/svgIcons/svgIconsMin.svg#chevron-down"></use>
+                        </svg>
+                        <svg class="dropdown-toggle__icon dropdown-toggle__icon--close">
+                            <use xlink:href="/Content/Redesign/dist/assets/toolkit/svgIcons/svgIconsMin.svg#cross"></use>
+                        </svg>
+                </a>
+                <div class="dropdown-menu--styled dropdown-menu">
+                    <ul class="language-selector unstyled">
+                        
+                <li class="">
+                    <a title="DEUTSCH" href="/de/registration/nutzungsbedingungen-fur-das-fifa-extranet/">
+                        DEUTSCH
+                    </a>
+                </li>
+        
+                <li class="active">
+                    <a title="ESPAÑOL" href="/es/registration/condiciones-generales-de-servicio-de-fifa-extranet/">
+                        ESPA&#209;OL
+                    </a>
+                </li>
+        
+                <li class="">
+                    <a title="FRANÇAIS" href="/fr/registration/conditions-dutilisation-de-lextranet-de-la-fifa-/">
+                        FRAN&#199;AIS
+                    </a>
+                </li>
+        
+                <li class="">
+                    <a title="ENGLISH" href="/en/registration/fifa-terms-and-conditions/">
+                        ENGLISH
+                    </a>
+                </li>
+        
+                    </ul>
+                </div>
+            </div>
+        
+                    </div>
+                </div>
+
+                
+                    <section id="ctl00_MainPlaceHolder_divMainPanel" class="self-registration  self-registration--single">
+                        <div class="self-registration__section self-registration__section--intro has-mediaHubBgColor has-themeFontColor">
+                            <!-- Logo -->
+                            <div class="self-registration__logo">
+                                
+                                <svg class="self-registration__fifa-logo self-registration__fifa-logo--main svgIcon-logo--white">
+                                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/Content/Redesign/dist/assets/toolkit/svgIcons/svgIconsMin.svg#logo"></use>
+                                            </svg>
+                            </div>
+                            <!-- / Logo -->
+
+                            
+                        </div>
+
+                        <div class="self-registration__section lap-and-up-p+ palm-p">
+                            
+
+    <div class="container--small">
+        <h1 class="heading--beta lap-and-up-mb+ align-c">General Terms & Conditions</h1>
+        
+        <div class="lap-and-up-ph"><p><b>CONDICIONES GENERALES DE SERVICIO DE EXTRANET DE LA FIFA </b></p>
+<p>Bienvenido a la plataforma de apoyo a socios de la FIFA, la cual engloba los canales exclusivos de extranet de Torneos y Eventos de la FIFA, Informática (IT) de la FIFA, Marketing de la FIFA, FIFA TV, la plataforma informativa de FIFA TV, Comunidad extranet de la FIFA, Federaciones Miembro de la FIFA, FIFA IT, intranet de la FIFA, el Canal de los Medios de la FIFA, Árbitros de la FIFA y las herramientas extranet de mensajería de la FIFA, de informes de la FIFA y de entradas de prensa de la FIFA (colectiva e individualmente conocidas como la «<strong>extranet</strong>»). La Federación Internacional de Fútbol Asociación (FIFA) (<strong>«FIFA», «nosotros/as», «nuestro/a(s), «nos»</strong>) autoriza a usted y a su organización el acceso a la extranet si aceptan y cumplen las siguientes Condiciones Generales de Servicio (las «<strong>condiciones generales</strong>»).</p>
+<p><strong>ACEPTACIÓN DE LAS CONDICIONES GENERALES </strong></p>
+<p>Mediante el acceso a la extranet y la utilización con regularidad de este servicio, usted <strong>(</strong><strong>«usted(es)», «su(s)», «suyo/a(s)») </strong>y su organización aceptan, de forma expresa e irrevocable, someterse a las condiciones generales, que ustedes reconocen haber leído y entendido.</p>
+<p>La FIFA se reserva el derecho, según su criterio exclusivo, de cambiar o modificar estas condiciones generales en cualquier momento. Usted deberá revisar estas condiciones generales con regularidad para mantenerse informado de cualquier cambio. Todas las actualizaciones serán jurídicamente vinculantes para usted y su organización desde el momento de su publicación en la extranet.</p>
+<p>Al usar la extranet, usted y su organización aceptan que mediante la publicación de nuevas o revisadas condiciones generales en la extranet se les avisa de forma adecuada y constructiva de toda revisión y cambios. La utilización de este servicio después de que se hayan efectuado cambios o tras haber aceptado expresamente las nuevas condiciones generales al acceder a la extranet constituirá la aceptación de su parte de dichos cambios.</p>
+<p>Además, al acceder a la extranet y utilizar este servicio, usted y su organización se someterán a las directrices y normas de aplicación que puedan ser publicadas por la FIFA periódicamente y que le serán notificadas en su siguiente acceso a la extranet. Tales directrices y normas se incorporan por remisión a estas condiciones y son, mediante su acceso a la extranet y la utilización con regularidad de este servicio, reconocidas y aceptadas de forma explícita e irrevocable por usted y su organización. En el caso de que existiera alguna incompatibilidad entre las condiciones generales y alguna de las directrices o normas, las condiciones generales prevalecerán. En caso de que se presenten discrepancias relativas a la interpretación de los textos en inglés, francés, español o alemán de estas condiciones generales, el texto inglés prevalecerá.</p>
+<p>El uso de determinados servicios de la FIFA podrá estar sujeto a condiciones de servicio específicas, relacionadas con el servicio en cuestión. Al recurrir a tales servicios, usted y su organización aceptan acatar las condiciones en vigor. En caso de que existiera alguna divergencia entre las condiciones generales y otras condiciones de servicio, prevalecerán aquellas condiciones de servicio con respecto al servicio en cuestión.</p>
+<p>Las nuevas funciones que amplíen o mejoren el servicio actual de la extranet estarán sujetas a las condiciones generales, a menos que se establezca de forma explícita de otra manera.</p>
+<p><strong>NOMBRE DE USUARIO, CONTRASEÑA Y SEGURIDAD </strong></p>
+<p>Se podrá solicitarle que facilite cierta información para tener acceso a la extranet. Al registrarse, usted declara y garantiza que: i) cumple los requisitos para tener acceso a la extranet conforme a las condiciones generales; ii) la información que facilita en el trámite de registro es exacta y fidedigna; y iii) mantendrá diligentemente actualizado cualquier dato del registro a fin de mantener un contenido veraz, actualizado y completo. Si usted facilitase información falsa, imprecisa, no actualizada o incompleta, o si la FIFA tiene motivos razonables para sospechar tal acción o considera de forma razonable que incumple cualquiera de las disposiciones de estas condiciones generales, la FIFA tendrá el derecho a bloquear o cerrar su cuenta y a denegarle, total o parcialmente, el acceso a uno o todos los servicios actuales o futuros de la extranet.</p>
+<p>El acceso a la extranet no se circunscribe a aquellos que tengan dieciocho años (18) o sean mayores de esta edad, pero se restringe a aquellas personas con el derecho y la facultad para actuar en nombre de una organización o entidad con el fin de obtener acceso y usar la extranet.</p>
+<p>Para acceder a la extranet, necesitará un nombre de usuario y una contraseña que la FIFA o su organización le suministrarán. El nombre de usuario y la contraseña le concederán acceso solo al material al que tenga derecho. Usted y su organización asumirán la responsabilidad de mantener secreto el nombre de usuario y la contraseña, y asumirán igualmente la responsabilidad absoluta de todas las actividades que se realicen con su nombre de usuario y contraseña.</p>
+<p>Usted y su organización aceptan: i) notificar de inmediato a la FIFA todo uso no autorizado de su nombre de usuario y contraseña y/o de cualquier otra violación de la seguridad; ii) asegurarse de que se sale y se desconecta de su <em>cuenta </em>al término de cada sesión; iii) cumplir de inmediato con toda petición actual o futura de la FIFA de cambiar el nombre de usuario y/o la contraseña; y iv) notificar de inmediato a la FIFA todo cambio en la información de la organización. La FIFA no es ni será responsable de pérdidas o daños que se produzcan por el incumplimiento de cualquier disposición de las condiciones generales.</p>
+<p><strong>Conducta del usuario</strong></p>
+<p><em><b>Al utilizar la extranet, usted y su organización aceptan:</b></em></p>
+<p>a) no alterar ni interferir en la seguridad, o abusar de cualquier otro modo del servicio extranet o de cualquiera de los servicios, recursos del sistema, cuentas, servidores o redes conectados a o accesibles desde la extranet o sus páginas en internet asociadas o vinculadas;</p>
+<p>b) no alterar ni interferir en la utilización de cualquier otro usuario de extranet o sus páginas en internet asociadas o vinculadas;</p>
+<p>c) no cargar, publicar o transmitir a través de la extranet todo tipo de virus o cualquier tipo de archivo perjudicial, perturbador o destructivo;</p>
+<p>d) no usar ni intentar usar la cuenta, el servicio o el sistema de otro usuario sin la autorización de la FIFA, ni crear o usar una identidad falsa en la extranet;</p>
+<p>e) no transmitir a través de la extranet correo basura, cartas en cadena, propaganda basura o cualquier otro tipo de correo electrónico masivo no solicitado a personas o entidades que no hayan aceptado ser parte de este tipo de correo;</p>
+<p>f) no divulgar su nombre de usuario o contraseña dentro o fuera de la extranet; y</p>
+<p>g) no intentar obtener acceso no autorizado a la extranet o a partes de este servicio a las que no tenga derecho de acceso.</p>
+<p>Además, usted y su organización aceptan que son los únicos responsables de las acciones y comunicaciones realizadas o transmitidas desde su cuenta y que cumplirán todas las leyes y reglamentos locales, estatales, nacionales e internacionales relativos al uso que usted haga y a las actividades que emprenda en la extranet. Si reside en una jurisdicción que restringe el acceso a la extranet, le solicitamos que en ninguna circunstancia acceda o use este servicio.</p>
+<p><strong>PROPIEDAD INTELECTUAL Y USO DE LAS MARCAS FIFA</strong></p>
+<p><em>La FIFA, el nombre de la FIFA, los logotipos de la FIFA, los emblemas, las mascotas y los nombres de producto y servicio de la FIFA son marcas comerciales y material sujeto a derechos de autor de la FIFA (las «</em><strong>marcas FIFA</strong><em>»). Usted y su organización reconocen y aceptan que las marcas FIFA son y seguirán siendo propiedad exclusiva de la FIFA. </em></p>
+<p><em>Las marcas FIFA solo podrán ser utilizadas de conformidad con las condiciones del acuerdo o acuerdos entre la FIFA y su organización (el «</em><strong>acuerdo</strong><em>»). Por lo que respecta al Canal de los Medios, las marcas FIFA solo podrán usarse con fines redaccionales y periodísticos, de acuerdo con las directrices gráficas de la FIFA. </em></p>
+<p><em>Concretamente, pero sin perjuicio de lo anterior, todo uso de las marcas FIFA deberá contar con la previa aprobación por escrito de la FIFA. Todo incumplimiento de esta exigencia y/o de las condiciones del acuerdo les hará a usted y a su organización responsables ante la FIFA e implicará el incumplimiento del acuerdo y las presentes condiciones generales por parte de su organización. Ninguna información que contenga la extranet deberá interpretarse como concesión de una licencia para utilizar las marcas FIFA.</em></p>
+<p><em>Todos los derechos de autor y otros derechos de propiedad en cualquier información y/o materiales publicados en la extranet pertenecen exclusivamente a la FIFA. Con excepción de los fines redaccionales o periodísticos del Canal de los Medios de la FIFA, no se podrá hacer ningún uso de dicha información o materiales sin la previa aprobación expresa y por escrito de la FIFA, la cual podrá retirarla según su propio y exclusivo criterio.</em></p>
+<p><em>Usted y su organización reconocen y aceptan que el servicio de extranet y cualquier programa necesario utilizado en conexión con la extranet (el «</em><strong>programa</strong><em>») contienen información reservada y confidencial que está protegida por las leyes de propiedad intelectual y otra legislación aplicables. Usted y su organización reconocen y aceptan además que el contenido incluido en cualquier información emitida que se le presente a través de la extranet está protegido por derechos de autor, marca registrada, marcas de servicio registradas, patentes o cualquier otro derecho de propiedad y las leyes pertinentes. Salvo que sea autorizado de forma expresa y por escrito por la FIFA, usted y su organización aceptan no modificar, arrendar, alquilar, prestar, vender, distribuir o crear productos derivados basados en la extranet o en el programa, ya sea completa o parcialmente. </em></p>
+<p><em>La FIFA se reserva el derecho de retirar o modificar cualquier información o materiales difundidos en la extranet en cualquier momento y según su criterio. </em></p>
+<p><strong>CONFIDENCIALIDAD</strong></p>
+<p><em>Con excepción del material editorial publicado en el Canal de los Medios, concretamente para que los usuarios y sus organizaciones lo utilicen en sus publicaciones con fines periodísticos y redaccionales (el «<b>material editorial de la FIFA</b>»), la información a la que tiene acceso en la extranet es estrictamente confidencial, a menos que la FIFA lo establezca de otro modo, y no se deberá poner al alcance del público. Usted y su organización aceptan someterse a las mismas obligaciones de confidencialidad que se imponen a su organización en las condiciones del acuerdo.</em></p>
+<p><em>Usted y su organización solo podrán reproducir, duplicar, copiar, explotar y usar cualquier información y materiales publicados en la extranet a los que usted tenga derecho de acceso con fines de explotación por parte de su organización de los derechos concedidos a ella por la FIFA en las condiciones del acuerdo y con sujeción a las condiciones del mismo. Por lo que respecta al Canal de los Medios de la FIFA, usted y su organización solo podrán reproducir, duplicar, copiar, explotar y usar material editorial con fines redaccionales o periodísticos. Sin perjuicio de lo anterior, usted no deberá utilizar esta información o materiales para su uso personal o ganancia personal. </em></p>
+<p><strong>POLÍTICA DE PRIVACIDAD</strong></p>
+<p><strong>Datos que recabamos de usted </strong></p>
+<p>La FIFA recopila los datos personales cuando usted se registra para crear una cuenta. Los datos personales recopilados podrán incluir, entre otros, la dirección de correo electrónico, los nombres y apellidos, el país de residencia, la fecha de nacimiento, el género, el seudónimo, la contraseña, participación en preferencias de contenidos de la FIFA y nombre de su empleador <em>(denominados colectivamente «</em><strong>datos personales</strong><em>»)</em>.</p>
+<p><strong>Recopilación y uso de los datos </strong></p>
+<p>La recopilación y el uso de sus datos tendrá siempre un fundamento jurídico, ya sea porque sean necesarios para que nosotros ejecutemos un contrato que hayamos concertado con usted, o porque usted ha consentido que usemos sus datos, o bien porque este proceder sirve a nuestros intereses legítimos. Concretamente, nosotros podremos usar sus datos con los siguientes fines: i) permitir a la FIFA que le conceda acceso a extranet y le ofrezca este servicio de una manera eficiente; ii) permitir a la FIFA que administre su cuenta de miembro; iii) permitir a la FIFA que le contacte en relación con la extranet; iv) atender las solicitudes de servicio que usted presente a través de la extranet; v) permitir a la FIFA que compruebe el uso de la extranet y su efectividad como herramienta de comunicación y ayuda para garantizar que no pierde comunicaciones importantes que le son enviadas, vi) proporcionar y mejorar el servicio de extranet y las funciones y contenidos; vii) permitir que los usuarios puedan disfrutar del servicio y navegar fácilmente en extranet, viii) permitir que la FIFA controle que solo personas autorizadas acceden a la extranet utilizando su nombre de usuario y contraseña; y ix) hacer cumplir las condiciones generales de servicio de extranet de la FIFA, descritas en el momento de la recopilación.</p>
+<p>Los datos en su conjunto se usarán también para personalizar la publicidad. Al usar la extranet, otorgará expresamente el derecho a la FIFA de recopilar y procesar sus datos, particularmente para el servicio de marketing y de adaptación al cliente. En todo momento podrá retirar su consentimiento enviando la solicitud para eliminar su cuenta.</p>
+<p>&nbsp;</p>
+<p><strong>Transferencia internacional </strong></p>
+<p>SUS DATOS SE TRATARÁN EN SUIZA, Y SE PODRÁN ALMACENAR Y USAR EN OTRO LUGAR, DEPENDIENDO DE LA UBICACIÓN DE LOS AFILIADOS, SOCIOS COMERCIALES Y DEMÁS ENTIDADES A LAS QUE SE PERMITA EL ACCESO A ESOS DATOS CONFORME A LAS CONDICIONES DE LA PRESENTE POLÍTICA DE PRIVACIDAD (Y ENTRE LUGARES UBICADOS FUERA DEL ESPACIO ECONÓMICO EUROPEO [EEE] PODRÁN FIGURAR PAÍSES QUE QUIZÁ NO PUEDAN OFRECER EL MISMO GRADO DE PROTECCIÓN DE DATOS QUE EL PAÍS DONDE USTED HA PROPORCIONADO SUS DATOS). SI PROCESAMOS SUS DATOS FUERA DEL EEE, ADOPTAREMOS TODAS LAS MEDIDAS RAZONABLES PARA GARANTIZAR QUE SUS DATOS SE TRATEN CON TODA LA SEGURIDAD Y PROTECCIÓN QUE RECIBIRÍAN SI ESTUVIERAN EN SUIZA Y AL AMPARO DE LA LEY FEDERAL DE PROTECCIÓN DE DATOS DE SUIZA (LFPD), CON SUS MODIFICACIONES PERIÓDICAS, Y DEL REGLAMENTO GENERAL DE PROTECCIÓN DE DATOS (RGPD), LO QUE INCLUYE: LA IMPLANTACIÓN DE ACUERDOS DE PROTECCIÓN DE DATOS COMO LAS CLÁUSULAS TIPO DE LA UE. AL ACCEDER O UTILIZAR LA EXTRANET O AL TRANSMITIRNOS SUS DATOS PERSONALES, USTED ACEPTA EXPRESAMENTE ESA TRANSFERENCIA Y CUALQUIER FINALIDAD RELACIONADA CON ELLA.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Cookies</strong></p>
+<p>Utilizamos cookies cuando usted visita la extranet de la FIFA. Consulte nuestra <a href="/globalassets/_common-files/cookie-policy/cookie-policy-fifa-en.pdf">Política de cookies</a></p>
+<p><strong>Recopilación automática de datos </strong></p>
+<p>La FIFA recopila automáticamente algunos datos de su computadora cuando visita la extranet, independientemente de si usted ha creado o no una cuenta, simplemente por el hecho de navegar en nuestros servidores. La FIFA, por ejemplo, recopilará su dirección IP, su navegador y el sitio web de referencia. También es posible que recopilemos datos sobre su actividad en la extranet. Con estos datos recopilados, la FIFA podrá mejorar los servicios al usuario, además de analizar y supervisar el uso que usted hace de la extranet y el servicio que recibe. Asimismo, esta información se utiliza para la administración técnica de la extranet y la optimización del uso y las funciones del sitio.</p>
+<p><strong><i>Phishing</i></strong></p>
+<p>El robo de la identidad mediante mensajes fraudulentos, la práctica conocida actualmente como <i>phishing</i>, es motivo de gran preocupación para la FIFA. Una de nuestras prioridades es salvaguardar sus datos para protegerle de la usurpación de identidad. En ningún momento solicitamos, ni solicitaremos, los datos de su tarjeta de crédito, el nombre de su cuenta, su contraseña de inicio de sesión o su número de identidad nacional en comunicaciones telefónicas o correos electrónicos inseguros o no solicitados.</p>
+<p><strong>Datos compartidos o divulgados </strong></p>
+<p>La FIFA podrá enviar información suya a otras compañías o personas si:</p>
+<p>a) necesitamos compartir sus datos para proporcionarle el producto o servicio que nos haya solicitado; o</p>
+<p>b) proporcionamos datos a las empresas que trabajan en nombre de la FIFA en virtud de acuerdos con encargados del tratamiento para proporcionar la protección de sus datos en consonancia con la legislación sobre protección de datos aplicable; o</p>
+<p>c) respondemos a citaciones, órdenes judiciales o procedimientos jurídicos; o</p>
+<p>d) estimamos que es necesaria, según nuestro exclusivo criterio, para investigar, prevenir, o actuar ante actividades ilegales, presunto fraude, situaciones de emergencia que conlleven posibles amenazas a la integridad física de cualquier persona, violaciones de las condiciones de uso de la FIFA, o en los casos previstos por la ley;</p>
+<p><strong>Seguridad </strong></p>
+<p>Queremos que se sienta seguro al usar la extranet. Por esta razón, hemos implantado medidas técnicas y organizativas razonables, orientadas a proteger sus datos personales de pérdidas accidentales y del acceso, uso, modificación o divulgación no autorizados. Sin embargo, internet es un sistema abierto y no podemos garantizar que terceros no autorizados consigan burlar esas medidas o usar sus datos personales con fines ilícitos.</p>
+<p>Si usted mantiene comunicación con la FIFA por correo electrónico, debe saber que la privacidad de este medio es incierta. Al enviar mensajes confidenciales o con información delicada por correo electrónico que no hayan sido cifrados, usted asume el riesgo de dicha inseguridad y la posible falta de confidencialidad en internet.</p>
+<p><strong>Sus derechos</strong></p>
+<p>De conformidad con la LFPD y el RGPD, usted tiene los derechos siguientes que defiende la presente política de privacidad y el uso que nosotros hacemos de sus datos:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho a recibir información sobre la recopilación y el uso que hacemos de sus datos;</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho de acceso a los datos que poseemos sobre usted;</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho de rectificación si alguno de sus datos es inexacto o está incompleto;</p>
+<p>d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho al olvido, es decir, el derecho a pedirnos que eliminemos sus datos personales (solamente conservamos sus datos personales durante un tiempo limitado, pero si usted desea que los eliminemos antes, póngase en contacto con nosotros);</p>
+<p>e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho a restringir (es decir, impedir) el tratamiento de sus datos; y</p>
+<p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho a la portabilidad de sus datos (obtener una copia de sus datos y volver a usarla con otro servicio u organización);</p>
+<p>g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el derecho a oponerse a que usemos sus datos para fines concretos; y</p>
+<p>h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; derechos relativos a la automatización de la toma de decisiones y la creación de perfiles.</p>
+<p>Si tuviera motivos de queja sobre el uso que hacemos de sus datos, póngase en contacto con nosotros mediante el formulario que encontrará <a href="https://reg.fifa.org/App/FSurveyCP.aspx?HeadId=eForms_dU41RVYvJkNyawdWM0A=">aquí</a>. Podremos solicitarle que verifique su identidad. Si no pudiéramos ayudarle, también tiene derecho a presentar una queja al Comisionado Federal para la Protección de Datos y la Información de Suiza o al comisionado competente en materia de datos de la UE (donde sea aplicable). En determinadas circunstancias, podremos denegarle el acceso a sus datos en la medida en que nos autorice la legislación vigente sobre protección de datos.</p>
+<p>&nbsp;</p>
+<p><strong>Actualización o eliminación de sus datos</strong></p>
+<p>Podrá consultar, corregir, actualizar, cambiar o eliminar sus datos personales en todo momento accediendo a su cuenta en la extranet de la FIFA. Atenderemos su solicitud de eliminación de sus datos, en el caso de que no tengamos ninguna obligación legal para guardar el registro (para usuarios que hayan iniciado la sesión: <a href="https://reg.fifa.org/App/FSurveyCP.aspx?HeadId=eForms_dU41RVYvJkNyawdWM0A=">aquí</a>).</p>
+<p><strong>Enlaces a otros sitios </strong></p>
+<p>Si en una parte de la extranet existe un enlace a otros sitios web, estos no operarán de acuerdo con la presente política de privacidad. Si decide visitar a un anunciante o hacer clic en un vínculo de un tercero, se le dirigirá al sitio web de ese tercero. Nosotros no ejercemos control alguno sobre los sitios web de terceros y, por tanto, le recomendamos que lea las declaraciones sobre privacidad que publican esos sitios para entender los procedimientos que siguen para recabar, usar y revelar datos personales.</p>
+<p><strong>Retirada del consentimiento</strong></p>
+<p><b>En el caso de que se haya dado su consentimiento, usted tiene derecho a retirar dicho consentimiento en cualquier momento, con solo remitir una notificación por escrito a la Fédération Internationale de Football Association (FIFA), FIFA-Strasse 20, 8044 Zúrich (Suiza) o enviar un correo electrónico a </b><b><a href="mailto:dataprotection@fifa.org">dataprotection@fifa.org</a>.</b></p>
+<p><strong>Cambios a la presente política de privacidad </strong></p>
+<p>La presente política de privacidad podrá enmendarse periódicamente. Si modificamos la presente política de privacidad, publicaremos inmediatamente los cambios en la extranet de la FIFA, y se considerará que usted ha aceptado las condiciones de la política de privacidad cuando haya usado por primera vez la extranet de la FIFA después de que se introdujeran las modificaciones. Publicaremos la versión actualizada en esta página de la extranet de la FIFA. Asimismo, la extranet de la FIFA podrá publicar avisos de cambios a esta política de privacidad y otros asuntos mediante avisos o enlaces dirigidos a su persona, generalmente en la extranet.</p>
+<p><strong>Contacto</strong></p>
+<p><b>Si le surgiera cualquier pregunta sobre la presente política de privacidad, le rogamos que se ponga en contacto con nosotros por correo electrónico en la dirección </b><b><a href="mailto:dataprotection@fifa.org">dataprotection@fifa.org</a> o por correo postal en la dirección Fédération Internationale de Football Association (FIFA), FIFA-Strasse 20, 8044 Zúrich (Suiza). Podrá contactar con el representante de la FIFA en la UE en la siguiente dirección: VGS Datenschutzpartner UG, Am Kaiserkai 69, 20457 Hamburgo (Alemania).</b></p>
+<p><strong>Prevalencia</strong></p>
+<p><b>En el caso de que las disposiciones de esta política de privacidad entren en conflicto con las disposiciones de una política de privacidad de terceros en la extranet de la FIFA, prevalecerán las disposiciones de la presente política de privacidad.</b></p>
+<p><strong>Renuncia</strong></p>
+<p>Por último, con el presente documento usted renuncia de forma irrevocable y categórica a presentar reclamación alguna contra la FIFA, sus oficiales, directores, empleados, representantes, afiliados, asistentes y socios, resultante de cualquier decisión relacionada con los datos facilitados. El tratamiento de los datos personales no podrá exceder el ámbito descrito o implícito en el presente documento.</p>
+<p>La FIFA entiende que es necesario, según su criterio exclusivo, investigar, prevenir o actuar ante actividades ilegales, presunto fraude, situaciones de emergencia que conlleven posibles amenazas a la integridad física de cualquier persona, violaciones de las condiciones de uso de la FIFA, o en los casos previstos por la ley, o para aplicar las condiciones generales.</p>
+<p><strong>INDEMNIZACIÓN </strong></p>
+<p>Usted y su organización se comprometen incondicionalmente a indemnizar, defender y exonerar íntegramente a la FIFA, así como a sus filiales, afiliados, licenciantes, licenciatarios, oficiales, agentes, cotitulares de marca y otros socios y empleados de toda responsabilidad, pérdida, daño, demanda, sanción, multa, costos, gastos, incluidas costas procesales, resultante o derivada de: i) el uso que usted haga de la extranet y el acceso a la misma, comprendido, entre otros, cualquier contenido en la extranet con el que usted esté relacionado; ii) la omisión por su parte de cualquier disposición de las condiciones generales; o iii) las demandas de terceros originadas por una infracción de la propiedad intelectual, otra propiedad o derecho de privacidad de dichos terceros o que haya causado daños a terceros al usar o acceder usted y su organización a la extranet.</p>
+<p><strong>MODIFICACIONES DEL SERVICIO </strong></p>
+<p>La FIFA se reserva, según su criterio exclusivo, el derecho a modificar o interrumpir, temporal o permanentemente, en cualquier momento y periódicamente, el servicio de extranet (o una parte del mismo) con una notificación a usted o sin notificación. Usted y su organización aceptan que la FIFA no será responsable frente a usted, su organización o terceros de ninguna modificación, suspensión o interrupción del servicio de extranet. A pesar de que la FIFA intentará dentro de lo razonable mantener el contenido al día, podrá existir contenido que no esté actualizado y respecto al cual la FIFA no estará obligada a actualizarlo.</p>
+<p><strong>CANCELACIÓN </strong></p>
+<p><em>Usted y su organización aceptan que la FIFA, según su criterio exclusivo, podrá cancelar su acceso, contraseña y/o cuenta (o parte de ella) por cualquier motivo, incluida, entre otros, la falta de uso de la extranet, o si la FIFA considera que han violado o no han actuado conforme a la letra o el espíritu de las condiciones generales. Usted y su organización aceptan que cualquier cancelación de su acceso a la extranet de acuerdo con lo previsto en estas condiciones generales podrá realizarse sin notificación previa y reconocen y aceptan que la FIFA podrá inmediatamente desactivar o eliminar su cuenta y toda la información y los archivos de su cuenta y/o bloquear cualquier acceso posterior a dichos archivos o a la extranet. Además, usted y su organización aceptan que la FIFA no será responsable frente a usted, su organización o un tercero de la cancelación de su acceso a la extranet. </em></p>
+<p><strong>ENLACES </strong></p>
+<p><em>El servicio de extranet podrá contener vínculos o enlaces a otras páginas web o a otras fuentes. Dado que la FIFA no tiene control sobre dichos sitios y recursos, usted y su organización reconocen y aceptan que la FIFA no será responsable de la disponibilidad de dichos sitios o recursos externos, y no respaldará ni será responsable de los contenidos, la publicidad, los productos, u otros materiales o informaciones que aparezcan o estén disponibles en dichos sitios o recursos. Usted y su organización reconocen y aceptan además que la FIFA no será responsable, directa o indirectamente, de ningún daño o pérdida causados o supuestamente causados por o en conexión con el uso de los contenidos, bienes o servicios disponibles en dichos sitios web o recursos o la confianza depositada en ellos. </em></p>
+<p><em>En caso de que usted desee establecer un vínculo o enlace a la extranet, usted y su organización aceptan expresamente: a) obtener el previo consentimiento por escrito de la FIFA; b) hacerlo únicamente desde la página web de su organización y nunca desde una página web o parte de una página web de acceso público; c) no crear una asociación de terceros con la extranet; d) garantizar que el vínculo/enlace no afirma o insinúa que la FIFA patrocina o respalda alguna otra actividad en la página web que contiene el vínculo o enlace o alguna compañía o entidad (sin el permiso previo y por escrito de la FIFA), ni presenta a la FIFA y/o sus actividades de una forma falsa, equívoca, difamatoria o despectiva, y e) usar el logotipo de extranet de la FIFA únicamente con el previo consentimiento por escrito de la FIFA. </em></p>
+<p><em>El vínculo o enlace a la extranet no permite ni a usted ni a su organización usar los contenidos, nombres, logotipos, imágenes o marcas registradas de la FIFA y/o de un tercero, salvo que ello haya sido aceptado previamente y por escrito por el legítimo titular del derecho. </em></p>
+<p><strong>EXENCIÓN DE RESPONSABILIDAD </strong></p>
+<p><em>Usted y su organización reconocen expresamente y aceptan que: </em></p>
+<p>Solo utilizarán el contenido de la extranet con fines de explotación de los derechos cedidos por la FIFA de conformidad con las condiciones del acuerdo. Solo usarán el contenido del Canal de los Medios con fines redaccionales o informativos. En este sentido, si usted hace uso de este contenido con otra finalidad, la FIFA se mantendrá exenta, hasta agotar los límites permitidos por la ley en vigor, de las responsabilidades derivadas de las garantías, condiciones y otras cláusulas de cualquier tipo, ya sean explícitas o implícitas, incluida, entre otros, cualquier cláusula implícita de comercialización, calidad satisfactoria, adecuación a un fin concreto, y cualquier cláusula relativa al suministro de servicios dentro de unos estándares razonables de diligencia y aptitudes o relativa al respeto a cualquier derecho de propiedad intelectual.</p>
+<p>La FIFA no garantiza ni afirma que i) la extranet cumplirá con todas sus solicitudes; ii) la extranet mantendrá un servicio ininterrumpido, puntual, seguro o exento de errores; iii) los resultados que puedan obtenerse del uso de la extranet sean exactos o fiables; iv) la calidad de los productos, servicios, información u otro material adquirido o conseguido a través de la extranet satisfaga sus expectativas o aquellas de su organización; o v) se subsanen los defectos en la extranet o en su contenido.</p>
+<p>Si usted accede a la extranet y/o a su contenido y lo usa, lo hará por cuenta y riesgo propios y de su organización. La extranet y su contenido se facilitan «tal cual» y «en función de su disponibilidad». Toda descarga de material obtenido al usar extranet o cualesquiera de sus fuentes o de otro modo se hará por cuenta y riesgo propios. Usted será el único responsable de cualquier daño en su sistema informático o de la pérdida de datos que resulte de la descarga de cualquier material a través de la extranet.</p>
+<p>La FIFA renuncia a garantizar o afirmar que se mantendrá la confidencialidad de la información transmitida a través de la extranet. Ninguna recomendación o información, sea oral o escrita, obtenida por usted o su organización de la FIFA o a través de la extranet otorgará garantías ni creará obligaciones que no hayan sido expresamente establecidas por escrito, y la FIFA declina toda responsabilidad derivada de la confianza depositada en dicha información por los visitantes de la extranet o las personas que hayan sido informadas de su contenido.</p>
+<p>Algunas jurisdicciones no permiten la limitación o exclusión de ciertas garantías o condiciones, por lo que algunas de las exclusiones anteriores podrían no ser de aplicación para usted o su organización.</p>
+<p><strong>LIMITACIÓN DE RESPONSABILIDAD </strong></p>
+<p><em>Usted y su organización reconocen expresamente y aceptan que la FIFA y sus matrices, filiales, afiliados, oficiales, directores, empleados, agentes y proveedores no serán responsables de ningún daño directo, indirecto, incidental, cuantificable, accesorio o punitivo, incluidos, entre otros, costos, gastos, daños por pérdida de ganancias, fondo de comercio, servicios, datos y otras pérdidas intangibles (incluso si la FIFA ha sido advertida de la posibilidad de que se produzcan dichos daños) resultantes de: i) el uso que haga o la imposibilidad de usar la extranet; ii) la</em> imposibilidad de acceder a materiales o información publicados en la extranet a fin de que pueda tener acceso a ellos; iii) el acceso no autorizado a y/o uso de la extranet por parte de terceros; iv) declaraciones o la conducta de terceros en relación con la extranet; v) cualquier asunto relativo al contenido de la extranet; vi) el incumplimiento por su parte de cualquier disposición de estas condiciones generales; o vii) cualquier otro asunto relacionado con la extranet.</p>
+<p><em>Usted y su organización aceptan que, sin importar cualquier estatuto o ley que establezca lo contrario, toda reclamación o demanda originada por el uso de la extranet en relación con este servicio o estas condiciones generales deberá ser presentada dentro del plazo de un (1) año a partir del momento en que dicha reclamación o demanda surja o deberá ser excluida para siempre. </em></p>
+<p><strong>EXCLUSIONES Y LIMITACIONES </strong></p>
+<p><em>Algunas jurisdicciones no permiten la exclusión de ciertas garantías o la limitación o exclusión de la responsabilidad por daños incidentales o resultantes. En consecuencia, podría ser que algunas de las limitaciones establecidas en las dos secciones precedentes no se apliquen a su persona ni a su organización. </em></p>
+<p><em>En particular, nada de lo recogido en estas condiciones generales deberá afectar sus derechos amparados por la ley ni excluir o restringir la responsabilidad por muerte o daños personales originada en una negligencia o fraude por parte de la FIFA o cualquier otra responsabilidad que no se pueda excluir o limitar conforme a la legislación aplicable. </em></p>
+<p><strong>AVISOS</strong></p>
+<p><em>Las notificaciones de la FIFA dirigidas a usted o a su organización podrán realizarse a través de su publicación en la extranet o por correo electrónico. Usted o su organización aceptan por este documento que dichas notificaciones tendrán un efecto vinculante inmediato a partir del momento de su publicación en la extranet y/o el envío a usted o a su organización por correo electrónico.</em></p>
+<p><em>Si la FIFA enmienda estas condiciones generales, publicaremos la versión actualizada en esta página de la extranet, la cual será de inmediato vinculante tras su publicación.</em></p>
+<p><strong>INFORMACIÓN GENERAL </strong></p>
+<p><em>Estas condiciones generales (incluido el acuerdo, las guías y normas a las que se hace referencia en este documento) constituyen la totalidad del acuerdo entre usted y/o su organización y la FIFA para regular el uso que haga de la extranet y reemplazarán y derogarán cualquier acuerdo(s) anterior(es) o compromisos de cualquier índole, sean orales o por escrito, entre usted y/o su y la FIFA en relación con la extranet. </em></p>
+<p><em>Cualquier disputa relacionada con estas condiciones generales deberá ser resuelta de acuerdo con las condiciones del acuerdo de su organización. En calidad de representante de su organización y mediante la aceptación de estas condiciones generales, usted queda también sometido a las condiciones de su acuerdo o el de su organización; estas condiciones generales complementan las condiciones del acuerdo en lo que respecta al uso de la extranet. </em></p>
+<p><em>Para que no haya lugar a dudas, estas condiciones generales no pretenden enmendar y no enmiendan las condiciones del acuerdo entre la FIFA y usted y/o su organización. Todo asunto, duda o pregunta en relación con estas condiciones generales podrá enviarse por correo electrónico recurriendo a la opción «Feedback» que se localiza al pie de esta página.</em></p>
+<p><em>El hecho de que la FIFA no ejerza ni haga valer un derecho o disposición de las condiciones generales no constituirá una renuncia a tal derecho o disposición. </em></p>
+<p>Si alguna disposición de las condiciones generales no resultara válida, las partes aceptan, no obstante, que se dará cumplimiento a las intenciones de las partes, tal y como se reflejan en la disposición, hasta el máximo grado posible, y las otras disposiciones de las presentes condiciones generales mantendrán plena vigencia y efecto. Los títulos utilizados en las presentes condiciones generales sirven solo para su consulta y no tendrán efectos jurídicos ni contractuales.</p>
+<p>Usted no podrá asignar o transferir sus derechos u obligaciones, ni podrá subcontratar el ejercicio de sus obligaciones conforme a las presentes condiciones generales. Sin menoscabo de lo anterior, la FIFA podrá ceder o transferir cualquier derecho u obligación o subcontratar el ejercicio de sus obligaciones conforme a las presentes condiciones generales a terceros en todo momento y sin su consentimiento (el cual ya se presume al aceptar el presente documento).</p>
+<p>Estas condiciones generales han sido redactadas en inglés y se han traducido a otros idiomas. En caso de discrepancias entre el inglés y los textos traducidos, el texto inglés prevalecerá y se empleará para resolver dudas de interpretación y aplicación.</p>
+<p><strong>INCUMPLIMIENTOS, PREGUNTAS Y SUGERENCIAS</strong></p>
+<p><em>Notifique cualquier incumplimiento de las condiciones generales o formule cualquier pregunta, problema o sugerencia al equipo del proyecto extranet, FIFA-Strasse 20, 8044 Zúrich (Suiza).</em></p>
+<p><em>Todo incumplimiento de las presentes condiciones generales relativo al Canal de los Medios de la FIFA y toda pregunta, problema o sugerencia relacionada con el Canal de los Medios de la FIFA deberá notificarse al equipo del Canal de los Medios, FIFA-Strasse 20, 8044 Zúrich (Suiza) (mediachannel@fifa.org).</em></p>
+<p><strong>LEY APLICABLE Y ARBITRAJE</strong></p>
+<p>Las condiciones generales y la relación entre usted y la FIFA se regirán e interpretarán de conformidad con las leyes suizas, quedando excluida la elección de principios jurídicos y la Convención de Viena sobre los Contratos de Compraventa Internacional de Mercaderías.</p>
+<p>Todas las disputas relacionadas con estas condiciones generales deberán ser resueltas inmediatamente entre las partes mediante negociación. En caso de no llegar a un acuerdo, las partes renuncian a cualquier otro tribunal o foro y tales desacuerdos serán exclusivamente resueltos por un tribunal arbitral integrado por tres (3) árbitros, al amparo de los principios y de conformidad con el Reglamento Suizo de Arbitraje Internacional de las Cámaras de Comercio Suizas. La sede del arbitraje será la ciudad suiza de Zúrich y el procedimiento se llevará a cabo en inglés.&nbsp;Se hace constar de manera explícita que las decisiones de dicho tribunal de arbitraje serán firmes y vinculantes para las partes.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+    </div>
+
+
+                        </div>
+
+                    </section>
+                    
+                
+
+                <footer class="self-registration__footer">
+
+                    <svg class="self-registration__fifa-logo self-registration__fifa-logo--small svgIcon-logo--blue align-m u-mv0 u-ml0 u-mr--">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/Content/Redesign/dist/assets/toolkit/svgIcons/svgIconsMin.svg#logo"></use>
+                    </svg>
+                    <span class="align-m">Copyright ©  1994-2025 FIFA. All rights reserved</span>
+
+                    
+                        
+                    
+                </footer>
+            </main>
+    </form>
+    <div id="ctl00_ctl02_StatisticsPlaceholder" data-elastic-exclude=""></div>
+
+<script>
+    var pageViewModel = new fifa.Statistics.StatisticsViewModel({"url":"https://extranets.fifa.com:443/es/registration/condiciones-generales-de-servicio-de-fifa-extranet/","userId":"anonymous","organisations":"anonymous","channelName":"Self-Registration","pageName":"Condiciones generales de servicio de FIFA extranet","piwikTrackingId":"23","userAgent":null,"language":null,"screenResolution":null,"timeZone":null,"platform":null,"sessionId":"20zbonlfaoejogvhwnmf2njr","environment":"Production","referrerPage":null,"entryTime":null,"exitTime":null,"duration":null});
+    ko.applyBindings(pageViewModel, $('#' + 'ctl00_ctl02_StatisticsPlaceholder')[0]);
+</script>
+
+<script type="text/javascript"  src="/IvQWsA/T_w/gfG/pxyreFjk/E11ccQ7mu1ihbp/BUYyEwh-WAY/UmUIaTBI/YCU"></script></body>
+</html> title 66 Condiciones generales de servicio de FIFA extranet - FIFA Extranet contentType 9 text/html url 98 https://extranets.fifa.com:443/es/registration/condiciones-generales-de-servicio-de-fifa-extranet/ responseCode 3 200 

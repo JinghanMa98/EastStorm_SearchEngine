@@ -1,0 +1,1282 @@
+qkleqqzclewozizaaktmfmmsuqrmjioaasyiweda page 183486 <style type="text/css"> 
+   #fv {
+
+ position: fixed;
+
+ bottom: 20px;
+
+ right: 20px;
+
+ border-radius: 8px;
+
+ overflow: hidden;
+
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+
+ z-index: 9999;
+
+background: #000;
+
+ cursor: pointer;
+
+ transition: 0.3s all ease;
+
+}
+
+
+
+#fv video {
+
+width: 100%;
+
+height: 100%;
+
+object-fit: cover;
+
+pointer-events: none;
+
+display: block;
+
+}
+
+ #cta {
+
+ position: absolute;
+
+ bottom: 12px;
+
+ left: 50%;
+
+ transform: translateX(-50%);
+
+ padding: 12px 24px;
+
+ background: #ff4081;
+
+ color: #fff;
+
+ font-weight: bold;
+
+ border: none;
+
+ border-radius: 4px;
+
+ text-decoration: none;
+
+ font-size: 16px;
+
+ z-index: 10000;
+
+ display: none;
+
+ align-items: center;
+
+ }
+
+
+
+ #cls {
+
+ display: none;
+ justify-content: center;
+
+ position: absolute;
+
+ top: 8px;
+
+ right: 12px;
+
+ background: rgba(0, 0, 0, 0.6);
+
+ color: #fff;
+
+ font-size: 20px;
+
+ border: none;
+
+ border-radius: 50%;
+
+ width: 32px;
+
+ height: 32px;
+
+ line-height: 28px;
+
+ text-align: center;
+
+ cursor: pointer;
+
+ z-index: 10001;
+
+ }
+
+
+#bd {
+
+ display: none;
+
+ position: fixed;
+
+ inset: 0;
+
+ z-index: 9998;
+
+ }
+
+
+ #fv.expanded #cta,
+
+ #fv.expanded #cls {
+
+display: flex;
+
+
+ }
+
+
+ @media (max-width: 600px) {
+
+ #fv.expanded {
+
+width: 90vw !important;
+
+height: auto !important;
+
+}
+
+}
+</style><!DOCTYPE html><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1"></meta><meta name="robots" content="max-image-preview:large"></meta><link rel="apple-touch-icon" href="https://english.cdn.zeenews.com/sites/default/files/images/icons/icon-180x180.png"></link><link rel="preconnect" href="https://english.cdn.zeenews.com"></link><link href="//www.googletagmanager.com" rel="preconnect"></link><link href="//www.googletagservices.com" rel="preconnect"></link><link href="//sb.scorecardresearch.com" rel="preconnect"></link><link href="//securepubads.g.doubleclick.net" rel="preconnect"></link><link rel="preconnect" href="https://tags.crwdcntrl.net"></link><script async="true" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6717584324019958" crossorigin="anonymous"></script><link rel="preload" as="image" href="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2015/01/29/319099-ajinkya-rahaneedged700.jpg?im=Resize=(400)"></link><script src="https://public.bnbstatic.com/unpkg/growth-widget/cryptoCurrencyWidget@0.0.21.min.js"></script><link rel="preload" href="/fonts/Poppins-Medium.woff2" as="font" type="font/woff2" crossorigin="true"></link><link rel="preload" href="/fonts/Poppins-Regular.woff2" as="font" type="font/woff2" crossorigin="true"></link><link rel="icon" href="https://english.cdn.zeenews.com/static/public/updated_logos/Zee.svg"></link><meta charSet="UTF-8"></meta><title>Controversial DRS to be used in 2015 ICC World Cup | Cricket News | Zee News</title><link rel="canonical" href="https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html"></link><meta name="description" content="Crickets world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015."></meta><meta name="theme-color" content="#345678"></meta><meta name="keywords" content=",DRS, Decision Review System, ICC World Cup 2015, Cricket World Cup, International Cricket Council, umpires, decision, Dubai, Australia, New Zealand, LBW, cricket news, sports news"></meta><script type="text/javascript"> (function() {
+          /** CONFIGURATION START **/
+          var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+          _sf_async_config.uid = 65504;
+          _sf_async_config.domain = 'zeenews.india.com'; 
+          _sf_async_config.flickerControl = false;
+          _sf_async_config.useCanonical = true;
+          _sf_async_config.useCanonicalDomain = true;
+          _sf_async_config.sections = 'Cricket'; 
+          _sf_async_config.authors = '';
+          /** CONFIGURATION END **/
+          function loadChartbeat() {
+              var e = document.createElement('script');
+              var n = document.getElementsByTagName('script')[0];
+              e.type = 'text/javascript';
+              e.async = true;
+              e.src = '//static.chartbeat.com/js/chartbeat.js';;
+              n.parentNode.insertBefore(e, n);
+          }
+          loadChartbeat();
+        })();</script><script async="true" src="//static.chartbeat.com/js/chartbeat_mab.js"></script><link rel="amphtml" href="https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html/amp"></link><meta property="fb:app_id" content="1911135012435337"></meta><meta property="fb:pages" content="281348048596429"></meta><meta property="og:type" content="website"></meta><meta property="og:site_name" content="Zee News"></meta><meta property="og:title" content="Controversial DRS to be used in 2015 ICC World Cup"></meta><meta property="og:description" content="Crickets world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015."></meta><meta property="og:url" content="https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html"></meta><meta property="og:image" content="https://english.cdn.zeenews.com/sites/default/files/2015/01/29/319099-ajinkya-rahaneedged700.jpg"></meta><meta name="twitter:card" content="summary_large_image"></meta><meta property="twitter:site" content="@zeenews"></meta><meta property="twitter:creator" content="@zeenews"></meta><meta name="twitter:title" content="Controversial DRS to be used in 2015 ICC World Cup"></meta><meta name="twitter:description" content="Crickets world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015."></meta><meta name="twitter:url" content="https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html"></meta><meta name="twitter:image" content="https://english.cdn.zeenews.com/sites/default/files/2015/01/29/319099-ajinkya-rahaneedged700.jpg"></meta><script async="true" src="https://d3fukwxve5r8zf.cloudfront.net/prebid_config_7576127173.min.js"></script><style type="text/css">
+            .splide__container{box-sizing:border-box;position:relative}.splide__list{backface-visibility:hidden;display:-ms-flexbox;display:flex;height:auto;margin:0!important;padding:0!important}.splide.is-initialized:not(.is-active) .splide__list{display:block}.splide__pagination{-ms-flex-align:center;align-items:center;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-ms-flex-pack:center;justify-content:center;margin:0;pointer-events:none}.splide__pagination li{display:inline-block;line-height:1;list-style-type:none;margin:0;pointer-events:auto}.splide:not(.is-overflow) .splide__pagination{display:none}.splide__progress__bar{width:0}.splide{position:relative;visibility:hidden}.splide.is-initialized,.splide.is-rendered{visibility:visible}.splide__slide{backface-visibility:hidden;box-sizing:border-box;-ms-flex-negative:0;flex-shrink:0;list-style-type:none!important;margin:0;position:relative}.splide__slide img{vertical-align:bottom}.splide__spinner{animation:splide-loading 1s linear infinite;border:2px solid #999;border-left-color:transparent;border-radius:50%;bottom:0;contain:strict;display:inline-block;height:20px;left:0;margin:auto;position:absolute;right:0;top:0;width:20px}.splide__sr{clip:rect(0 0 0 0);border:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.splide__toggle.is-active .splide__toggle__play,.splide__toggle__pause{display:none}.splide__toggle.is-active .splide__toggle__pause{display:inline}.splide__track{overflow:hidden;position:relative;z-index:0}@keyframes splide-loading{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.splide__track--draggable{-webkit-touch-callout:none;-webkit-user-select:none;-ms-user-select:none;user-select:none}.splide__track--fade>.splide__list>.splide__slide{margin:0!important;opacity:0;z-index:0}.splide__track--fade>.splide__list>.splide__slide.is-active{opacity:1;z-index:1}.splide--rtl{direction:rtl}.splide__track--ttb>.splide__list{display:block}.splide__arrow{-ms-flex-align:center;align-items:center;background:#ccc;border:0;border-radius:50%;cursor:pointer;display:-ms-flexbox;display:flex;height:2em;-ms-flex-pack:center;justify-content:center;opacity:.7;padding:0;position:absolute;top:50%;transform:translateY(-50%);width:2em;z-index:1}.splide__arrow svg{fill:#000;height:1.2em;width:1.2em}.splide__arrow:hover:not(:disabled){opacity:.9}.splide__arrow:disabled{opacity:.3;cursor: not-allowed}.splide__arrow:focus-visible{outline:3px solid #0bf;outline-offset:3px}.splide__arrow--prev{left:1em}.splide__arrow--prev svg{transform:scaleX(-1)}.splide__arrow--next{right:1em}.splide.is-focus-in .splide__arrow:focus{outline:3px solid #0bf;outline-offset:3px}.splide__pagination{bottom:.5em;left:0;padding:0 1em;position:absolute;right:0;z-index:1}.splide__pagination__page{background:#ccc;border:0;border-radius:50%;display:inline-block;height:8px;margin:3px;opacity:.7;padding:0;position:relative;transition:transform .2s linear;width:8px}.splide__pagination__page.is-active{background:#fff;transform:scale(1.4);z-index:1}.splide__pagination__page:hover{cursor:pointer;opacity:.9}.splide__pagination__page:focus-visible{outline:3px solid #0bf;outline-offset:3px}.splide.is-focus-in .splide__pagination__page:focus{outline:3px solid #0bf;outline-offset:3px}.splide__progress__bar{background:#ccc;height:3px}.splide__slide{-webkit-tap-highlight-color:rgba(0,0,0,0)}.splide__slide:focus{outline:0}@supports(outline-offset:-3px){.splide__slide:focus-visible{outline:3px solid #0bf;outline-offset:-3px}}@media screen and (-ms-high-contrast:none){.splide__slide:focus-visible{border:3px solid #0bf}}@supports(outline-offset:-3px){.splide.is-focus-in .splide__slide:focus{outline:3px solid #0bf;outline-offset:-3px}}@media screen and (-ms-high-contrast:none){.splide.is-focus-in .splide__slide:focus{border:3px solid #0bf}.splide.is-focus-in .splide__track>.splide__list>.splide__slide:focus{border-color:#0bf}}.splide__toggle{cursor:pointer}.splide__toggle:focus-visible{outline:3px solid #0bf;outline-offset:3px}.splide.is-focus-in .splide__toggle:focus{outline:3px solid #0bf;outline-offset:3px}.splide__track--nav>.splide__list>.splide__slide{border:3px solid transparent;cursor:pointer}.splide__track--nav>.splide__list>.splide__slide.is-active{border:3px solid #000}.splide__arrows--rtl .splide__arrow--prev{left:auto;right:1em}.splide__arrows--rtl .splide__arrow--prev svg{transform:scaleX(1)}.splide__arrows--rtl .splide__arrow--next{left:1em;right:auto}.splide__arrows--rtl .splide__arrow--next svg{transform:scaleX(-1)}.splide__arrows--ttb .splide__arrow{left:50%;transform:translate(-50%)}.splide__arrows--ttb .splide__arrow--prev{top:1em}.splide__arrows--ttb .splide__arrow--prev svg{transform:rotate(-90deg)}.splide__arrows--ttb .splide__arrow--next{bottom:1em;top:auto}.splide__arrows--ttb .splide__arrow--next svg{transform:rotate(90deg)}.splide__pagination--ttb{bottom:0;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;left:auto;padding:1em 0;right:.5em;top:0}
+            </style><style type="text/css">
+                .hybridh2{
+                    display: block; /* or inline-block if you want it to be inline with text */
+                    font-size: 24px; /* Adjust the font size as needed */
+                    font-weight: bold; /* Mimicking the boldness of an h2 */
+                    margin-bottom: 10px; /* Space below the span */
+                    /* Add any other styles you want to mimic an h2 */
+                }</style><style>:root {--blue: #007bff;--indigo: #6610f2;--purple: #6f42c1;--pink: #e83e8c;--red: #dc3545;--orange: #fd7e14;--yellow: #ffc107;--green: #28a745;--teal: #20c997;--cyan: #17a2b8;--white: #fff;--gray: #6c757d;--gray-dark: #343a40;--primary: #007bff;--secondary: #6c757d;--success: #28a745;--info: #17a2b8;--warning: #ffc107;--danger: #dc3545;--light: #f8f9fa;--dark: #343a40;--breakpoint-xs: 0;--breakpoint-sm: 576px;--breakpoint-md: 768px;--breakpoint-lg: 992px;--breakpoint-xl: 1200px;--font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";--font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace }*, ::after, ::before {box-sizing: border-box }html {font-family: sans-serif;line-height: 1.15;-webkit-text-size-adjust: 100%;-webkit-tap-highlight-color: transparent }article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {display: block }body {margin: 0;font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";font-size: 1rem;font-weight: 400;line-height: 1.5;color: #212529;text-align: left;background-color: #fff }h1, h2, h3, h4, h5, h6 {margin-top: 0;margin-bottom: .5rem }p {margin-top: 0;margin-bottom: 1rem }dl, ol, ul {margin-top: 0;margin-bottom: 1rem }blockquote {margin: 0 0 1rem }b, strong {font-weight: bolder }a {color: #007bff;text-decoration: none;background-color: transparent }a:hover {color: #0056b3;text-decoration: underline }a:not([href]):not([tabindex]) {color: inherit;text-decoration: none }a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {color: inherit;text-decoration: none }a:not([href]):not([tabindex]):focus {outline: 0 }figure {margin: 0 0 1rem }img {vertical-align: middle;border-style: none }svg {overflow: hidden;vertical-align: middle }button {border-radius: 0 }button:focus {outline: 1px dotted;outline: 5px auto -webkit-focus-ring-color }button, input, optgroup, select, textarea {margin: 0;font-family: inherit;font-size: inherit;line-height: inherit }button, input {overflow: visible }button, select {text-transform: none }select {word-wrap: normal }[type=button], [type=reset], [type=submit], button {-webkit-appearance: button }[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {cursor: pointer }[hidden] {display: none !important }.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {margin-bottom: .5rem;font-weight: 500;line-height: 1.2 }.h1, h1 {font-size: 38px }.h2, h2 {font-size: 18px }.h3, h3 {font-size: 1.75rem }.h4, h4 {font-size: 1.5rem }.h5, h5 {font-size: 1.25rem }.h6, h6 {font-size: 1rem }.container {width: 100%;padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto }@media (min-width:576px) {.container {max-width: 540px }}@media (min-width:768px) {.container {max-width: 720px }}@media (min-width:992px) {.container {max-width: 960px }}@media (min-width:1200px) {.container {max-width: 1140px }}.container-fluid {width: 100%;padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto }.row {display: -ms-flexbox;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;margin-right: -15px;margin-left: -15px }.no-gutters {margin-right: 0;margin-left: 0 }.no-gutters>.col, .no-gutters>[class*=col-] {padding-right: 0;padding-left: 0 }.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {position: relative;width: 100%;padding-right: 15px;padding-left: 15px }.col-12 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100% }@media (min-width:576px) {.col-sm {-ms-flex-preferred-size: 0;flex-basis: 0;-ms-flex-positive: 1;flex-grow: 1;max-width: 100% }.col-sm-4 {-ms-flex: 0 0 33.333333%;flex: 0 0 33.333333%;max-width: 33.333333% }.col-sm-8 {-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667% }}@media (min-width:576px) {.col-sm {-ms-flex-preferred-size: 0;flex-basis: 0;-ms-flex-positive: 1;flex-grow: 1;max-width: 100% }.col-sm-4 {-ms-flex: 0 0 33.333333%;flex: 0 0 33.333333%;max-width: 33.333333% }.col-sm-8 {-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667% }}@media (min-width:768px) {.col-md {-ms-flex-preferred-size: 0;flex-basis: 0;-ms-flex-positive: 1;flex-grow: 1;max-width: 100% }.col-md-auto {-ms-flex: 0 0 auto;flex: 0 0 auto;width: auto;max-width: 100% }.col-md-1 {-ms-flex: 0 0 8.333333%;flex: 0 0 8.333333%;max-width: 8.333333% }.col-md-2 {-ms-flex: 0 0 16.666667%;flex: 0 0 16.666667%;max-width: 16.666667% }.col-md-3 {-ms-flex: 0 0 25%;flex: 0 0 25%;max-width: 25% }.col-md-4 {-ms-flex: 0 0 33.333333%;flex: 0 0 33.333333%;max-width: 33.333333% }.col-md-5 {-ms-flex: 0 0 41.666667%;flex: 0 0 41.666667%;max-width: 41.666667% }.col-md-6 {-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50% }.col-md-7 {-ms-flex: 0 0 58.333333%;flex: 0 0 58.333333%;max-width: 58.333333% }.col-md-8 {-ms-flex: 0 0 66.666667%;flex: 0 0 66.666667%;max-width: 66.666667% }.col-md-9 {-ms-flex: 0 0 75%;flex: 0 0 75%;max-width: 75% }.col-md-10 {-ms-flex: 0 0 83.333333%;flex: 0 0 83.333333%;max-width: 83.333333% }.col-md-11 {-ms-flex: 0 0 91.666667%;flex: 0 0 91.666667%;max-width: 91.666667% }.col-md-12 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100% }}.fade {transition: opacity .15s linear }.fade:not(.show) {opacity: 0 }.collapse:not(.show) {display: none }.close {float: right;font-size: 1.5rem;font-weight: 700;line-height: 1;color: #000;text-shadow: 0 1px 0 #fff;opacity: .5 }.close:hover {color: #000;text-decoration: none }.close:not(:disabled):not(.disabled):focus, .close:not(:disabled):not(.disabled):hover {opacity: .75 }button.close {padding: 0;background-color: transparent;border: 0;-webkit-appearance: none;-moz-appearance: none;appearance: none }.modal {position: fixed;top: 0;left: 0;z-index: 1050;display: none;width: 100%;height: 100%;overflow: hidden;outline: 0 }.modal-dialog {position: relative;width: auto;margin: 0.5rem;pointer-events: none;}.modal-dialog-centered {display: -ms-flexbox;display: flex;-ms-flex-align: center;align-items: center;min-height: calc(100% - 1rem);}.modal.show .modal-dialog {-webkit-transform: none;transform: none;}.modal-content {position: relative;display: -ms-flexbox;display: flex;-ms-flex-direction: column;flex-direction: column;width: 100%;pointer-events: auto;background-color: #fff;background-clip: padding-box;border: 1px solid rgba(0,0,0,.2);border-radius: 0.3rem;outline: 0;}.modal-body {position: relative;-ms-flex: 1 1 auto;flex: 1 1 auto;padding: 1rem;}.modal-backdrop {position: fixed;top: 0;left: 0;z-index: 1040;width: 100vw;height: 100vh;background-color: #000;}.modal-backdrop.fade {opacity: 0;}.modal-backdrop.show {opacity: .5;}.form-group {margin-bottom: 1rem;}.form-control {display: block;width: 100%;height: calc(2.25rem + 2px);padding: 0.375rem 0.75rem;font-size: 1rem;line-height: 1.5;color: #495057;background-color: #fff;background-clip: padding-box;border: 1px solid #ced4da;border-radius: 0.25rem;transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;}.form-control-lg {height: calc(2.875rem + 2px);padding: 0.5rem 1rem;font-size: 1.25rem;line-height: 1.5;border-radius: 0.3rem;}#subscribe-modal .error {color: #dc2229;}.form-text {display: block;margin-top: 0.25rem;}small {font-size: 80%;}#subscribe-modal .modal-title{font-size: 1.25rem;line-height: 1.5;}.modal-dialog-centered {display: -ms-flexbox;display: flex;-ms-flex-align: center;align-items: center;min-height: calc(100% - (0.5rem * 2));}#subscribe-modal .subscribe-close{border:none}.d-flex {display: -ms-flexbox !important;display: flex !important }@media (min-width:992px) {.d-lg-block {display: block !important }.d-lg-flex {display: -ms-flexbox !important;display: flex !important }.d-lg-inline-flex {display: -ms-inline-flexbox !important;display: inline-flex !important }}.align-items-center {-ms-flex-align: center !important;align-items: center !important }.position-relative {position: relative !important }.mt-2, .my-2 {margin-top: .5rem !important }.mb-2, .my-2 {margin-bottom: .5rem !important }.mb-3, .my-3 {margin-bottom: 1rem !important }.mt-4, .my-4 {margin-top: 1.5rem !important }.pr-4, .px-4 {padding-right: 1.5rem !important }.pl-4, .px-4 {padding-left: 1.5rem !important }.text-right {text-align: right !important }.text-center {text-align: center !important }.col-6 {-ms-flex: 0 0 50%;flex: 0 0 50%;max-width: 50% }.d-none {display: none !important }.d-lg-block{display:block!important}@media (min-width: 576px){.modal-dialog {max-width: 500px;margin: 1.75rem auto;}}</style><style type="text/css">#sticky_header_main{display:flex;position:sticky;top:0;left:0;z-index:9999}#sticky_header{transition:all .3s ease-in-out}#sticky_header{background-color:#fff;display:block}.scrolled-down{transform:translateY(-100%);transition:all .3s ease-in-out}header{padding:0 !important;border:0 !important;position:relative;width:100%;font-size:12px}.lang-select{background:#2c2b2b;color:#fff;font-size:9px;display:flex;justify-content:space-between;padding:7px 14px;height:30px}.lang-block a{padding:6px;color:#ffff;text-decoration:none;text-transform:uppercase}.lang-block a:hover{color:#fff}.social-block{width:100px;text-align:right;padding-left:6px}.social-block a{margin-right:10px}.social-block a:last-child{margin-right:0}.nav-menu{border-top:0 solid #707070;border-bottom:1px solid #d3d4de;background:#fff;box-shadow:4px 1px 4px 1px rgb(0 0 0 / 20%);position:relative;display:flex;justify-content:space-between;align-items:center;padding:4px 14px;height:49px}.nav-menu ul{margin:0;padding:0;display:flex;align-items:center;justify-content:space-between}.nav-menu ul li{list-style-type:none;display:inline-block;margin-right:14px;padding-right:22px;position:relative}.nav-menu ul.submenu li{position:relative}.nav-menu ul.submenu li:after{content:'';width:1px;height:48px;background-color:#d3d4de;position:absolute;right:0;top:-12px}ul.submenu{padding-left:14px;position:relative}.submenu:before{content:'';width:1px;height:48px;background-color:#d3d4de;position:absolute;left:0;top:-12px !important}.nav-menu ul li:nth-child(1),.nav-menu ul li:nth-child(2){padding-right:0;background-color:transparent}.nav-menu ul.submenu li:nth-child(1),.nav-menu ul.submenu li:nth-child(2){padding-right:22px}.nav-menu ul li a{display:inline-block;align-items:center;font-size:13px;font-weight:500;color:#555d67;text-decoration:none;font-family:Poppins,sans-serif;font-display:swap}.nav-menu ul li a span{position:relative}.nav-menu ul li.menu-active a{color:#dc2229 !important}.nav-menu ul li.menu-active{position:relative}.menu-active .news_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/hindihome-active.svg)}.menu-active .covid_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/covid-active.svg)}.menu-active .states_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/location-active.svg)}.menu-active .watch_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/watch-active.svg)}.menu-active .photos_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/menuphotos-active.svg)}.menu-active .webstories_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/entertainment-red2.svg)}.menu-active .livetv_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/livetv-active.svg)}.menu-active .technology_menu{background-image:url(https://english.cdn.zeenews.com/pwa-images/menu_technology_n_red.svg)}.news_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/hindihome.svg);background-position:0 0;background-repeat:no-repeat;padding-left:22px}.news_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/hindihome-active.svg)}.covid_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/covid.svg);background-position:0 0;background-repeat:no-repeat;padding-left:22px}.covid_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/covid-active.svg)}.states_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/location.svg);background-position:0 2px;background-repeat:no-repeat;padding-left:17px}.states_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/location-active.svg)}.watch_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/watch.svg);background-position:0 3px;background-repeat:no-repeat;padding-left:22px}.watch_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/watch-active.svg)}.photos_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/menuphotos.svg);background-position:0 3px;background-repeat:no-repeat;padding-left:26px}.photos_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/menuphotos-active.svg)}.webstories_menu{background-image:url(https://english.cdn.zeenews.com/static/apprun/english/entertainment.svg);background-position:0 -5px;background-repeat:no-repeat;padding-left:34px}.livetv_menu{background-image:url(https://english.cdn.zeenews.com/static/public/icons/livetv-active.svg);background-position:0 0;background-repeat:no-repeat;padding-left:30px}.livetv_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/livetv-active.svg)}.technology_menu{background-image:url(https://english.cdn.zeenews.com/pwa-images/menu_technology_n.svg);background-position:0 0;background-repeat:no-repeat;padding-left:30px}.technology_menu:hover{background-image:url(https://english.cdn.zeenews.com/pwa-images/menu_technology_n_red.svg)}.webstories_menu:hover{background-image:url(https://english.cdn.zeenews.com/static/public/icons/entertainment-red2.svg)}.nav-menu ul li .subnav-arrow::after{content:'';border:solid #fff;background:#fff;border-width:0 3px 3px 0;display:inline-block;padding:3px;transform:rotate(45deg);position:absolute;top:31px;left:44px;display:none}.nav-menu ul li a:hover{color:#dc2229 !important}.select_language{font-size:11px;color:#000;text-transform:uppercase;position:relative;position:relative;top:0}.hamburger{cursor:pointer}.hamburger .line{width:22px;height:2px;background:#2c2d31;display:block;margin:4px auto;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.line:nth-child(2){width:18px;margin-left:0}.nav-open{overflow:hidden}.nav-open .hamburger .line:nth-child(1){opacity:1;transform:rotate(45deg) translate(2px,8px);background:#232323}.nav-open .hamburger .line:nth-child(2){left:-20px;opacity:0;transform:rotate(0) scale(.2,.2)}.nav-open .hamburger .line:nth-child(3){opacity:1;transform:rotate(-45deg) translate(0,-7px)}.menu_slider{position:absolute;top:47px;right:0;left:0;z-index:999;text-align:left;background-color:#fff;border-top:1px solid #e7e7e7;box-shadow:0 7px 13px -4px rgba(0,0,0,.3)}.menu_slider ul{margin:0;padding:0;padding-top:20px;padding-left:10px;display:inherit;height:452px;overflow-y:auto}.inside{font-size:12px;font-family:'Nunito Sans',sans-serif;color:#fff !important;background-color:#f74e21;padding:6px 10px;box-shadow:0 2px 4px #ccc;border-radius:2px}.menu_slider ul li{list-style:none;margin-bottom:5px;display:block}.menu_slider ul li a{font-size:13px;color:#6c6c6c;padding:5px 10px}.menu_slider ul li a:hover{color:#dc2229}.menu_slider .topic_container{margin-top:20px;padding:13px 30px 30px 20px;overflow:hidden;overflow-y:hidden;height:calc(100% - 100px)}.menu_slider_footer{border-top:1px solid #cbcbcb;margin-left:15px;margin-right:15px}.sticky1{width:100%}.sticky+.content{padding-top:102px}.search_box{position:absolute;top:50px;z-index:9;right:22px;border:1px solid #d5d1d1;border-radius:6px;padding:6px;background-color:#fff;box-shadow:0 3px 5px #00000029;width:355px;height:52px}.search_box form{display:flex}.search_box form input{width:100%;outline:0;border:0;border-radius:6px;z-index:1;box-sizing:border-box;font-size:16px;background:#fff;outline:0;color:#2c2d31;height:42px;padding-right:10px}.search_btn1{width:50px;height:40px;margin-right:5px;background:#dc2229;text-align:center;color:#fff;border-radius:6px;cursor:pointer;font-size:16px;border:0;outline:0}.search-arrow{position:relative}.search-arrow{content:'';position:absolute;width:0;height:0;bottom:100%;right:58px;border:.75rem solid transparent;border-top:0;border-bottom-color:#fff;filter:drop-shadow(0 -.0625rem .0625rem rgba(0,0,0,.1));right:16px}.right-menu{width:40px;display:flex;align-items:center}.right-menu .icon-search,.right-menu a{cursor:pointer;margin-right:10px}.right-menu a:last-child{margin-right:0}.subnav{border-bottom:2px solid #dadbdf;background:#f9fafa;height:40px}.subnav a{text-transform:uppercase;font-size:12px;color:#2c2d31;font-weight:500;display:inline-block;padding:11px 15px;text-decoration:none;font-family:Poppins,sans-serif;font-display:swap}.subnav a:hover{color:#dc2229}.header-live-score{display:none}.header-live-score a{color:#ff0606;font-size:11px;text-transform:uppercase;font-weight:700;text-decoration:none}.header-live-score sup{font-size:11px;line-height:0;padding-left:1px}.menu_slider_footer a{color:#6c6c6c;font-size:12px;text-transform:uppercase;line-height:35px;display:inline-block;padding:5px 10px;font-weight:600;position:relative}.menu_slider_footer a:hover{color:#dc2229;text-decoration:none}.trending-topic-menu ul li ul li a{position:relative;padding-left:18px;font-weight:400}.trending-topic-menu ul li ul li a::before{content:'';position:absolute;left:0;top:4px;border:solid #707070;border-width:0 2px 2px 0;display:inline-block;padding:3px;transform:rotate(-45deg);-webkit-transform:rotate(-45deg)}.trending-topic-menu ul li a{font-weight:700}.criccntry{padding:1px 4px 1px 12px;font-size:11px;margin-left:5px}.criccntry1{padding:1px 12px 1px 4px;font-size:11px;margin-right:5px}.criccntry2{font-size:11px;color:#393939;margin-right:5px;font-weight:600}.criccntry3{color:gray;font-size:10px}.header-live-score span:nth-child(3){border-top-right-radius:4px;border-bottom-right-radius:4px;margin-left:-3px;background:#e5e5e5;color:#707070}.header-live-score span:nth-child(2){border-top-left-radius:4px;border-bottom-left-radius:4px;background:#e5e5e5;color:#707070}.header-live-score .active{background:#006fff !important;color:#fff !important}.padR10{padding-right:10px}.zeenews_logo{position:relative;top:-3px}.select_language{font-size:11px;color:#000;text-transform:uppercase;position:relative;position:relative;top:-2px}header .appdownload{position:relative;top:4px}a.collapse_menu{position:absolute;right:0;top:0;padding:25px 20px}.menucaterory_container .category-slider{display:flex;height:42px}.menucaterory_container .category-slider::after{content:'';width:100%;border-bottom:1px solid #dadbdf;position:absolute;left:0;bottom:0}.menucaterory_container .category-slider .category_item{padding:0;white-space:nowrap}.menucaterory_container .category-slider .category_item a{color:#2c2d31;font-size:13px;line-height:22px;font-weight:500;display:block;padding:8px 6px;text-decoration:none;font-family:Poppins,sans-serif;border-bottom:1px solid transparent;text-transform:uppercase;font-display:swap}.menucaterory_container .category-slider .category_item a:hover{color:#dc2229;font-weight:500}.menucaterory_container .category-slider .category_item .btn-secondary{color:#2c2d31;background-color:transparent;border-color:transparent;font-weight:500;position:absolute;top:2px;right:-14px;display:none}.menucaterory_container .category-slider .category_item a.haryna-dropdown::after{position:absolute;top:15px;right:1px;display:inline-block;margin-left:.255em;vertical-align:.255em;content:'';border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent;left:inherit;width:inherit;background-color:transparent}.dropdown:hover .dropdown-menu{display:block;margin-top:0}.menucaterory_container .category-slider .category_item.menu_active .dropdown .dropdown-menu .dropdown-item{color:#2c2d31 !important}.menucaterory_container .category-slider .category_item .btn-secondary:hover{color:#dc2229;font-weight:500;background-color:transparent;border-color:transparent}.menucaterory_container .category-slider .category_item .btn-secondary:focus{outline:0;box-shadow:0 0 0 transparent}.menucaterory_container .category-slider .category_item .dropdown-menu .dropdown-item:active{color:#fff !important;background-color:#dc2229}.menucaterory_container .category-slider .category_item .dropdown-menu{height:300px;overflow-y:auto}.menu_active a{position:relative;color:#dc2229 !important}.menu_active a::after{content:'';position:absolute;bottom:-2px;left:0;width:100%;height:0;color:#2c2d31 !important;background-color:#707070}.menucaterory_container .add_category{float:left;padding:9.5px 12px;width:10%;text-align:center;position:relative;z-index:99}.nav-button{position:relative;z-index:91;display:block;left:-3px;top:1px}.menucaterory_container .clear-both{clear:both}.topic_select{top:0}.topic_select{width:100%;height:auto}.topic_selected{display:block}.nav-open .topic_select{opacity:1;visibility:visible;background:#fff}.topic_select .topic_container{margin-top:20px;padding:13px 30px 30px 20px;overflow:hidden;overflow-y:auto;height:calc(100% - 100px)}.topic_select{position:absolute;top:0;right:0;left:0;z-index:9;text-align:left;background-color:#fff}.topic_select .topic_container a{font-size:12px;color:#f77b25;padding:7px 13px;border:1px solid #f77b25;border-radius:5px;box-shadow:0 3px 6px rgba(0,0,0,.3607843137254902);text-decoration:none;text-transform:uppercase;display:inline-block;margin-left:10px;margin-right:10px;margin-bottom:30px}.language_select .modal-body{max-height:calc(100vh - 130px);overflow-y:auto}.language_select .modal-header{display:block;text-align:center}.language_select .modal-header .modal-title{font-size:11px;font-family:Poppins,sans-serif;color:#000;font-display:swap}.language_select .modal-header .modal-title .marR10{margin-right:10px}.language_select .modal-header .close{padding:10px;margin:inherit;position:absolute;right:5px;top:0;opacity:1}.language_select .badge-primary{color:#000;background-color:transparent;position:relative;top:-5px}.language_select .modal-body{padding:2px}.language_select .list-group-item{border:0;border-bottom:2px solid #f3f3f3}.language_select .list-group-item:focus,.language_select .list-group-item:hover{outline:0;background-color:#f6f6f6;text-decoration:none}.language_select .list-group-item:last-child{border-bottom:0 solid #a4a4a4}.lag_subline{position:absolute;right:27px;top:29px;font-size:11px;color:#616161}.scrolled-up{position:fixed;top:0;right:0;left:0;z-index:99}.top-0{top:0 !important}.state-modal .modal-title{font-size:23px;font-weight:700;text-align:center;color:#535353}.state-modal a{display:inline-block;box-shadow:0 0 5px #00000017;border-radius:6px;margin-bottom:15px;margin:8px;text-align:center;padding:7px 24px;width:111px;color:#555d67;font-size:15px;text-decoration:none}.state-modal a img{margin-bottom:10px;margin-top:10px}.state-modal .close{float:right;font-size:39px;font-weight:700;line-height:1;color:#000;text-shadow:0 1px 0 #fff;opacity:.5;position:absolute;right:20px;top:15px;padding:10px 20px}.state-modal .close:focus{border:0;outline:0}.state-modal .modal-header{display:initial;display:initial;-ms-flex-align:start;align-items:flex-start;-ms-flex-pack:justify;justify-content:space-between;padding:.8rem 1rem;border-bottom:0 solid #dee2e6;border-top-left-radius:.3rem;border-top-right-radius:.3rem}.state-modal .modal-body{position:relative;-ms-flex:1 1 auto;flex:1 1 auto;padding:.5rem 1rem 1rem 1rem}.state-modal .modal-content{border-radius:0;border-top-left-radius:22px;border-top-right-radius:22px}.fixed-footer{display:none}footer{background:#1a1e22;padding:0;text-transform:uppercase;color:#cbcbcb;font-size:13px;height:175px;overflow:hidden;overflow-y:auto;position:fixed;width:100%;bottom:0;z-index:998;box-sizing:border-box;transform:translateY(120%);-webkit-transition:all .5s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}footer p{display:block !important;font-size:13px !important;color:#fff !important;margin-bottom:10px}footer a{color:#cbcbcb;font-size:12px;margin-bottom:10px;display:inline-block}footer a:hover{color:#fff;text-decoration:none}footer span{margin:0 10px;color:#616466;font-size:10px;vertical-align:middle}.quick-links{margin-bottom:10px;border-bottom:1px solid #707070}footer ul{margin:0;padding:0;display:flex;justify-content:space-between}footer ul li{list-style:none}footer ul li ul{display:inherit !important;list-style-type:none}footer ul li ul li{list-style-type:none}.partner-sites{background:#32373b;color:#fff;font-size:12px;padding:10px 0;border-bottom:0 !important}.static-pages{padding:10px 0}.rights{text-align:center;background:#000;padding:13px 0}.rights p{color:#818181 !important;font-size:12px !important;margin-bottom:0}footer::-webkit-scrollbar{width:5px}footer::-webkit-scrollbar{width:5px}footer::-webkit-scrollbar-thumb{background:#707070}footer::-webkit-scrollbar-thumb{background:#707070}footer::-webkit-scrollbar-track{box-shadow:0 0 0 #fff;border-radius:10px}footer::-webkit-scrollbar-track{box-shadow:0 0 0 #fff;border-radius:10px}@media(max-width:1024px){.logo img{height:32px}.menucaterory_container{padding-left:0}.submenu{display:none !important}.header-live-score{width:100%;text-align:right;margin-right:20px;justify-content:flex-end}}.marquee{display:flex;font-size:12px;color:#a7a7a7}#sticky_header{display:flex;width:100%;position:sticky;top:0;left:0;z-index:99}.logo-content{width:11%;border:1px solid #dadbdf;display:flex;align-items:center;justify-content:center}.logo-content h1{margin:0}.header-content{width:89%}.healthSummit{color:#00af21 !important}.myMoney{position:relative}.category_item .myMoney{color:#fd5b2f !important}.category_item .myMoney:hover{color:#fd5b2f !important}.category_item .myMoney:hover::after{content:'';background-size:100%;background-repeat:no-repeat;background-position:center;z-index:99999;position:absolute;width:105px;height:125px;top:32px;left:-12px}.new-txt{font:normal normal 800 11px/17px Poppins;color:#d80303;display:block;margin-top:-30px !important;margin-left:35px;animation:blink 1.5s ease-in-out infinite}@-webkit-keyframes blink{from{opacity:1}to{opacity:0}}.menucaterory_container{display:flex;align-items:center;position:relative}.more_button_icon{position:relative;width:20px;height:50px;background-color:rgba(0,0,0,.1);cursor:pointer;margin:0 15px}.more_button_icon:after{content:"";height:3px;width:3px;background:#000;border-radius:5px;display:block;position:absolute;top:15px;left:9px;box-shadow:0 8px 0 #000,0 16px 0 #000}.more_button_menu{list-style:none;position:absolute;top:50px;z-index:9;right:14px;border:1px solid #d5d1d1;border-radius:0;padding:6px;background-color:#fff;box-shadow:0 3px 5px #00000029;width:150px;height:auto;box-shadow:0 3px 5px rgba(0,0,0,.161)}.more_button_menu ul{margin:0;padding:0;list-style:none}.more_button_menu ul li{padding:10px;border-bottom:1px solid #eee}.more_button_menu ul li a{color:#2c2d31;font-size:13px;line-height:22px;text-decoration:none;font-weight:500}.more_button_menu ul li a:hover{color:#d7202a}.more_button_menu ul li:last-child{border-bottom:0}.hidden{display:none}.more_button_box{position:relative}a.googleIcon,a.googleIcon:hover{margin:0 24px 0 12px}a.googleIcon img{width:100px;height:32px}.googleIcon svg{min-width:20px;height:auto;max-width:20px}.trustedSource{color:#666;font-size:12px}.googlePopUp{position:fixed;height:93px;bottom:0;left:0;right:0;padding:30px 0;background:url(https://english.cdn.zeenews.com/static/apprun/ZEE-GoogleCTA.jpg) no-repeat center center;background-size:cover;border:1px solid #707070;z-index:99999;opacity:1;justify-content:center;align-items:center}.googlePopUp .logoImgage{position:absolute;display:flex;align-items:center;justify-content:center;left:0;top:0;background-color:#fff;clip-path:polygon(0 0,96% 0,77% 100%,0 100%);height:100%}.logoImgage img{width:60%}.googlePopUp .trustedSource{color:#000;font-size:18px;font-weight:600}.googlePopUp .googleIcon img{width:184px;height:58px}.googlePopUp .close{position:absolute;right:2%;top:-14px;background-color:#747474;border-radius:50%;width:30px;height:30px;color:#fff;font-size:28px;font-weight:300;opacity:1}</style><style type="text/css">@font-face {font-family: 'Poppins';font-style: normal;font-stretch: normal;font-weight: 400;font-display: swap;src: local('poppins regular'), local('Poppins Regular'), local('Poppins-Regular'), url("/fonts/Poppins-Regular.woff2") format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style><style type="text/css">@font-face {font-family: 'Poppins';font-style: normal;font-stretch: normal;font-weight:500;font-display: swap;src: local('poppins medium'), local('Poppins Medium'), local('Poppins-Medium'), url('/fonts/Poppins-Medium.woff2') format('woff2');unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style><style>.ads-box-970x90.first-ad:before, .ads-box-300x250.first-ad:before {content: "";display: none;}body {font-family: Poppins, sans-serif;padding: 0;margin: 0;height: 100% !important;overflow: visible;width: 100% !important;}a {text-decoration: none;}section {margin-bottom: 20px;}.top-ad {text-align: center;min-height: 90px;min-width: 728px;margin: 10px 0;border-bottom: 1px solid rgb(0 0 0 / 29%);padding-bottom: 15px;}.top-ad1 {text-align: center;min-height: 60px;margin: 10px 0;padding-bottom: 15px;}.breaking-news {min-height: 50px;background-color: #dc2229;display: flex;align-items: center;margin: 10px 14px;padding: 0 13px;}.breaking-news-title {font-size: 14px;font-weight: 700;color: #fff;width: 160px;font-family: Poppins, sans-serif;position: relative;}.breaking-widget .breaking-close {display: none;}.breaking-widget .carousel-indicators {display: none;}.breaking-widget {width: 100%;position: relative;}.breaking-news-title::after {content: "";width: 1px;height: 22px;background-color: rgb(255 255 255 / 67%);position: absolute;right: 10px;top: -2px;}.carousel-controls {position: absolute;right: 0;top: 0;display: flex;width: 115px;background-color: #dc2229;padding: 13px;justify-content: center;}#toggleCarousel {position: relative;width: 20px;height: 20px;border-radius: 3px;border: 0;background-color: rgb(212 108 4 / 50%);}#toggleCarousel:focus {outline: 0;border: 0;}.carousel-play {left: 8px;top: 10px;border: solid transparent;content: " ";height: 0;width: 0;position: absolute;pointer-events: none;border-color: rgba(136, 183, 213, 0);border-left-color: #fff;border-width: 6px;margin-top: -6px;}.carousel-pause {left: 6px;top: 11px;content: " ";height: 10px;width: 9px;position: absolute;pointer-events: none;margin-top: -6px;border-style: dashed;border-width: 0 3px 0 3px;border-color: #fff;}.prev_carousel {position: absolute;left: 24px;top: 9px;}.next_carousel {position: absolute;right: 24px;top: 9px;}.layout-item-center {align-items: center;}.layout {display: flex;}.align-items-center {align-items: center;}.layout-justify-space-between {justify-content: space-between;}.layout-justify-space-start {justify-content: flex-start;}.layout-justify-space-end {justify-content: flex-end;}.breaking-widget .carousel-inner {padding-top: 0;}.ad_300 {width: 300px;min-height: 250px;text-align: center;background-color: #e6e6e6;}.main-container {padding-left: 14px;padding-right: 14px;}.read_more {color: #8f8f8f;font-family: Poppins, sans-serif;padding: 5px 9px;border-radius: 7px;font-size: 16px;text-decoration: none;border: 1px solid #707070;text-decoration: none;}.read_more:hover {color: #fff;border: 1px solid #dc2229;background-color: #dc2229;text-decoration: none;}.bread_crum {font-size: 10px;color: #202020;font-family: Poppins, sans-serif;}.bread_crum a {font-size: 10px;color: #202020;padding-right: 3px;}.bread_crum a:first-child {font-weight: 400;}.bread_crum a:last-child {color: #a4a4a4 !important;}.pos_relative {position: relative;}.primary-color {color: #dc2229;}.font-weight-bold {font-weight: 700 !important;}.add-placeholder {width: 300px;height: 250px;background-color: #a4a4a4;margin-bottom: 20px;margin-top: 20px;}.arrow {border: solid #afafaf;border-width: 0 1px 1px 0;display: inline-block;padding: 2px;margin-right: 8px;}.left {transform: rotate(-45deg);-webkit-transform: rotate(-45deg);}.section-title a {color: #dc2229;font-size: 22px;font-weight: 700;line-height: normal;font-family: Poppins, sans-serif;}.section-title a:hover {text-decoration: none;color: #000;}.small-thumb-list {display: flex;margin-bottom: 12px;padding-bottom: 12px;}.tab-content .small-thumb-list .article-img img {min-height: 40px;}.small-thumb-list .article-img img {min-height: 65px;}.news_description a {color: #333;font-family: Poppins, sans-serif;font-weight: 500;font-size: 15px;line-height: 18px;text-decoration: none;display: inline-block;}.small-thumb-list .article-img img {min-height: 65px;}.article-tag a {color: #dc2229 !important;font-size: 14px;line-height: 16px;display: block;font-weight: 500;font-family: Poppins, sans-serif;display: none !important;}.article-time {display: none !important;}.article-img {margin-right: 10px;border-radius: 4px;max-width: 114px;height: auto;display: block;}.article-img img {border-radius: 4px;}.news_details a {font-size: 16px;line-height: 24px;color: rgba(112, 112, 112, 0.7);margin-bottom: 5px;}.news_updatetime {font-size: 16px;line-height: 24px;color: rgba(112, 112, 112, 0.5);margin-bottom: 5px;display: none;}.padLR14 {padding-left: 6px;padding-right: 6px;}.gsc-control-cse {padding: 0 !important;}.search-container .pageh1 {font-size: 30px;color: #dc2229;position: relative;display: inline-block;margin-bottom: 10px;font-weight: 700;line-height: 22px;margin-top: 10px;}.camera_icon {position: absolute;top: inherit;bottom: 0;left: inherit;right: 0;z-index: 9;font-size: 14px;color: #fff;font-family: Poppins, sans-serif;padding: 2px 4px;border-radius: 0;min-width: 46px;background-color: #dc2229;display: flex;}.camera_icon img {width: 18px !important;height: 18px;min-height: inherit;margin-right: 3px;margin-top: 1px;}.camera_icon .video_duration {padding-left: 3px;}.photo_tag a {font-size: 14px;color: #dc2229;font-weight: 500;text-decoration: none;}.photos_section .photo-thumb-img {height: 260px;position: relative;}.primary-black-bg {background-color: #2c2d31;padding: 14px;}.video-story-title {color: #fff;font-size: 30px;line-height: 40px;font-weight: 400;margin: 0;display: block;text-decoration: none;font-family: Poppins, sans-serif;margin-top: 5px;}.font-weight-bold {font-weight: 700 !important;}.orange-text {color: #ff8000 !important;padding-top: 0 !important;}.align-baseline {align-items: baseline;}.static-address .align-baseline span.english-text {padding-left: 5px;}.fs16 {font-size: 16px !important;}.gradiant_bg {padding: 13px 10px;position: absolute;bottom: 0;left: 0;width: 100%;background: transparent linear-gradient(180deg, rgb(44 45 49 / 0) 0, #000 100%) 0 0 no-repeat;}.wide-ad {width: 969px;height: 90px;margin: 0 auto;}.play_icon {position: absolute;bottom: 0;left: 0;font-size: 13px;color: #fff;font-family: Poppins, sans-serif;padding: 6px;border-top-right-radius: 6px;min-width: 42px;background-color: #dc2229;display: inline-block;}.play_icon img {margin-right: 5px;margin-top: 4px;margin-left: 6px;}.white-color {color: #fff !important;}.photo_title a {font-size: 16px;color: #fff;text-decoration: none;line-height: 22px;}.arrow-bredcum {width: 0;height: 0;border-top: 4px solid transparent;border-bottom: 4px solid transparent;border-left: 4px solid #555d67;display: inline-block;margin-right: 6px;margin-left: 6px;}.btn-read-more {position: absolute;display: block;bottom: 0;left: 50%;transform: translate(-50%, -50%);width: 70px;height: 70px;background: 0 0;border: 3px solid #3c3c3c59;border-radius: 50%;text-align: center;line-height: 65px;font-family: sans-serif;font-size: 12px;color: #dc2229;text-transform: uppercase;text-shadow: 0 0 10px #dc2229;box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);cursor: pointer;}.btn-read-more:before {content: "";position: absolute;top: 0;left: 0;width: 100%;height: 100%;border: 3px solid transparent;border-top: 3px solid #dc2229;border-right: 3px solid #dc2229;border-radius: 50%;animation: animateC 0.6s linear infinite;}@keyframes animateC {0% {transform: rotate(0);}100% {transform: rotate(360deg);}}.videolisting_container .btn-read-more {font-size: 16px;color: #fff;border: 1px solid #fff;display: block;width: 136px;margin: 0 auto;padding: 9px;border-radius: 7px;cursor: pointer;margin-bottom: 20px;margin-top: 10px;}.videolisting_container .videoslide_title {color: #fff;text-decoration: none;margin-top: 5px;display: inline-block;}.btn-read-more:hover {color: #fff;border: 1px solid #dc2229;background-color: #dc2229;box-shadow: 0 0 20px rgb(0 0 0);}.no-aur-bi-pade .read_more {display: none;}.pb-160 {padding-bottom: 160px;}.news_widget_container .bread_crum {margin-left: -14px;}@media (min-width: 1200px) {.container {max-width: 1360px;}}.internal-banner img {width: 100%;}@media screen and (max-width: 1024px) {.entertainment_container .col-lg-3, .entertainment_container .col-lg-9 {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;}.entertainment_container .photos-thumb img {min-height: inherit;width: inherit !important;}.astro-list-raasi {display: flex;overflow-y: auto;}.container {max-width: 100%;}.internal-banner {display: none;}.astro_container .col-md-3, .astro_container .col-md-9, .list_container .col-md-3, .list_container .col-md-9, .livetv-container .col-md-3, .livetv-container .col-md-9, .photodetails_container .col-md-3, .photodetails_container .col-md-9, .videolisting_container .col-md-3, .videolisting_container .col-md-9, .videosdetails_container .col-md-3, .videosdetails_container .col-md-9 {-ms-flex: 0 0 75%;flex: 0 0 100%;max-width: 100%;padding-right: 0 !important;}.top-ad {display: none;}}.tab-content {display: block;padding-top: 15px;}.pl-5px {padding-left: 5px;}tr:nth-child(odd) {background: #fff;}tr:nth-child(even) {background: rgba(242, 247, 253, 0.7);}#photos-tab {margin-top: -16px;}#photos-tab h2 {font-size: 30px;color: #fff;font-weight: 700;margin-bottom: 10px;}.mlr-15 {margin-left: -15px;margin-right: -15px;}.googlenews-btnblack {border: 1px solid #d2d2d2;border-radius: 25px;padding: 5px 5px;font-size: 12px;line-height: 13px;height: 29px;vertical-align: top;cursor: pointer;background-color: inherit;}.googlenews-btnblack:hover {text-decoration: none;}.googlenews-btnblack svg {margin-right: 2px;}.section_titile {font-size: 22px;color: #dc2229;font-weight: 700;text-decoration: none;}.more_livetv {font-size: 14px;color: #5a5a5a;text-decoration: none;}.live-text {display: none;}.live-text:before {content: "";background-color: #fff;color: #fff;width: 4px;height: 4px;border-radius: 20px;position: absolute;left: 5px;top: 6px;z-index: 5;animation: pulse-dot 1.25s cubic-bezier(0.455, 0.03, 0.515, 0.955) -0.4s infinite;}.live-text:after {content: "";background-color: rgba(255, 255, 255, 0.5);color: #fff;width: 6px;height: 6px;border-radius: 20px;position: absolute;left: 4px;top: 5px;z-index: 2;display: inline-block;opacity: 0;-webkit-animation: live-now 2s infinite 1s;-moz-animation: live-now 2s infinite 1s;-ms-animation: live-now 2s infinite 1s;-o-animation: live-now 2s infinite 1s;animation: live-now 2s infinite 1s;}.livetv-scroll {background-color: rgba(44, 45, 49, 1);}.livetv-logos {display: flex;overflow-y: auto;padding-bottom: 6px;padding-left: 5px;padding-top: 6px;}.livetv-logos .livetv-logo {display: inline-block;}.livetv-logo .liveTvImg {background-color: rgba(255, 255, 255, 0.8);padding: 14px 5px;margin: 5px 3px;border-radius: 4px;position: relative;display: block;cursor: pointer;}.livemenu_active {background-color: #fff !important;}.livemenu_active .live-text {display: block;position: absolute;opacity: 1;color: #fff;font-size: 10px;line-height: 13px;right: 0;bottom: 0;padding: 2px 4px 0 0;border-radius: 2px 0 3px 0;font-weight: 400;text-align: right;background-color: #e2000b;width: 38px;display: inline-block;}.live_update {border: 1px solid #ccc;box-shadow: 0 2px 3px #ccc;}.article-trending-photos ul li a {padding: inherit !important;}.article-trending-photos .trending-tag {padding: 0;padding-bottom: 2px !important;margin-top: 3px;}.updated-timestamp {font-family: Poppins, sans-serif;font-size: 12px;color: #707070;opacity: 1;}.play_icon_video img {width: 40px !important;height: 24px;min-height: inherit;margin-right: 0;margin-top: 2px;margin-bottom: 2px;}.googlelogin {position: absolute;right: 0;top: 0;}#userLogin {font-family: Montserrat, sans-serif;font-size: 12px;font-weight: 600;}.box {width: 600px;height: 40px;}.box1 {width: 300px;}.txt-white {color: #fff !important;}.bg-transparent {background-color: transparent !important;}.ad300 {width: 300px;height: 250px;margin: 0 auto;}.top-ad60 {min-height: 60px;margin: 10px 0;padding-bottom: 9px;}.btn-outline {border: 1px solid #000;width: 122px;font-size: 14px;}.btn-outline1 {border: 1px solid #000;width: 250px;font-size: 14px;}.lazy-image {position: relative;width: 100%;padding-top: 60.6667%;overflow: hidden;z-index: 2;background-color: #fff;border-radius: 0;line-height: 1.3;font-size: 11px;color: #000;box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);}.lazy-image img {position: absolute;left: 0;top: 0;right: 0;bottom: 0;object-position: top;-webkit-backface-visibility: hidden;backface-visibility: hidden;width: 100%;height: 100%;object-fit: cover;border: 0;}.orangebox {width: 12px;height: 12px;background-color: #ff8e00;}.bluebox {width: 12px;height: 12px;background-color: #006dd3;}.greenbox {width: 12px;height: 12px;background-color: #00c300;}.greybox {width: 12px;height: 12px;background-color: #2c2c2c;}.txt-white {color: #fff !important;}.bg-transparent {background-color: transparent !important;}.ad300 {width: 300px;height: 250px;margin: 0 auto;}.top-ad60 {min-height: 60px;margin: 10px 0;padding-bottom: 9px;}.btn-outline {border: 1px solid #000;width: 122px;font-size: 14px;}.lazy-image {position: relative;width: 100%;padding-top: 60.6667%;overflow: hidden;z-index: 2;background-color: #fff;border-radius: 0;line-height: 1.3;font-size: 11px;color: #000;box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);}.lazy-image img {position: absolute;left: 0;top: 0;right: 0;bottom: 0;object-position: top;-webkit-backface-visibility: hidden;backface-visibility: hidden;width: 100%;height: 100%;object-fit: cover;border: 0;}.ad5 {height: 5px;}.section-topheading h1 {color: #000;font-family: Poppins, sans-serif;font-weight: 700;font-size: 30px;line-height: 34px;margin-bottom: 20px;}.orangebox {width: 12px;height: 12px;background-color: #ff8e00;}.bluebox {width: 12px;height: 12px;background-color: #006dd3;}.greenbox {width: 12px;height: 12px;background-color: #00c300;}.greybox {width: 12px;height: 12px;background-color: #2c2c2c;}.view-btn {margin-top: 30px;margin-bottom: 20px;text-align: center;position: relative;}.view-btn1 {margin-top: 30px;margin-bottom: 20px;text-align: center;position: relative;}.view-btnbox {background-color: #fff;padding: 0 20px;width: 280px;margin: 0 auto;}.view-btn1::after {border-bottom: 1px solid #bdbdbd;content: "";position: absolute;top: 17px;width: 100%;right: 0;z-index: -1;}.liveblog-card-time p {color: #708090;font-size: 14px;margin-bottom: 5px;line-height: 18px;}.liveblog-card-time img {margin-top: -7px;}.ads-box-d90-m300 {padding-top: 7px;padding-bottom: 10px;text-align: center;display: block;width: 100%;background-color: #fbfbfb;}.ads-box-d90-m300 .ads-placeholder-internal {width: 970px;height: 90px;margin: 0 auto;background-color: #fbfbfb;position: relative;font-size: 11px;}.ads-box-d90-m300:before {content: "advertisement";font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;}.ads-box-970x90 {padding-top: 7px;padding-bottom: 10px;text-align: center;display: block;width: 100%;background-color: #fbfbfb;}.ads-box-970x90 .ads-placeholder-internal {width: 970px;height: 90px;margin: 0 auto;background-color: #fbfbfb;position: relative;font-size: 11px;}.ads-box-970x90:before {content: "advertisement";font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;}.ads-box-1000x60 {padding-top: 7px;padding-bottom: 10px;text-align: center;display: block;width: 100%;background-color: #fbfbfb;}.ads-box-1000x60 .ads-placeholder-internal {width: 970px;height: 60px;margin: 0 auto;background-color: #fbfbfb;position: relative;font-size: 11px;}.ads-box-1000x60:before {content: "advertisement";font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;}.ads-box-1000x60-no-heading {padding-top: 7px;padding-bottom: 10px;text-align: center;display: block;width: 100%;background-color: #fbfbfb;}.ads-box-1000x60-no-heading .ads-placeholder-internal {width: 970px;height: 60px;margin: 0 auto;background-color: #fbfbfb;position: relative;font-size: 11px;}.ads-box-1000x60-no-heading:before {content: "";font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;}.ads-box-300x250 {padding-top: 7px;padding-bottom: 10px;text-align: center;display: block;width: 100%;background-color: #fbfbfb;}.ads-box-300x250 .ads-placeholder-internal {width: 300px;height: 250px;margin: 0 auto;background-color: #fbfbfb;position: relative;font-size: 11px;}.ads-box-300x250:before {content: "advertisement";font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;}.ads-box-300x300 {padding-top: 7px;padding-bottom: 10px;text-align: center;display: block;width: 100%;background-color: #fbfbfb;}.ads-box-300x300 .ads-placeholder-internal {width: 300px;height: 300px;margin: 0 auto;background-color: #fbfbfb;position: relative;font-size: 11px;}.ads-box-300x300:before {content: "advertisement";font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;}.ads-box20 {height: 20px;}.update_news h2 {font-size: 20px;font-weight: 900;}.adv_txt {font-size: 10px;text-transform: uppercase;text-align: center;line-height: 1.4;display: block;color: #666;letter-spacing: 2px;padding: 5px 0;} 
+            </style><style>.article_content h1{font-size:38px;color:#2c2d31;text-align:left;font-family:Poppins,sans-serif;font-weight:600;line-height:40px;margin-bottom:10px}.article_content h2{font-size:18px;line-height:26px;color:#707070;font-family:Poppins,sans-serif;margin-bottom:10px;padding-bottom:5px;position:relative;padding-top:0}.article_content .articleauthor_details{font-size:14px;color:#707070;line-height:14px;margin-bottom:15px}.article_content h2 p{margin-bottom:0}.article-trending-photos ul{padding:0;margin:0}.article-trending-photos ul li{list-style-type:none;margin-bottom:20px}.article-trending-photos ul li img{border-radius:6px}.trending-photoicon{position:absolute;top:10px;left:10px;z-index:9;font-size:14px;color:#fff;font-family:Poppins,sans-serif;padding:2px 6px;border-radius:5px;min-width:47px;background-color:rgba(218,33,42,.8);display:flex;justify-content:space-around}.photo_count{font-size:12px}.trending-tag a{font-size:12px;color:#dc2229;font-weight:600;margin-top:5px;padding-bottom:0}.articledetails-page .trending-title a{font-size:15px;color:#171717;font-weight:500;line-height:20px}.trending-title a{font-size:16px;color:#171717;font-weight:500;line-height:18px}.readmore-section ol{margin:0;padding:0;padding-left:14px}.readmore-section ol li{margin-bottom:20px}.article-trending-photos p,.readmore-section p,.watch-more p{font-size:22px;color:#dc2229;font-weight:700;margin-bottom:5px}.trendingtopic_container a{font-size:12px;color:#505050;font-weight:700;border-radius:15px;border:.5px solid #505050;margin-right:10px;padding:5px 10px;display:inline-block;margin-bottom:10px;text-transform:capitalize}.article_image{position:relative;margin-bottom:10px;margin-top:10px;text-align:center;padding-top: 56.25%;}.article_image img {    position: absolute;top: 0; left: 0; height: 100%;}}.article-intro{position:relative;padding-bottom:5px;margin-bottom:20px}.article-intro ul{margin:0;padding:0 10px}.article-intro::after{content:'';width:120px;height:2px;position:absolute;bottom:0;left:0;right:0;margin:0 auto}.article-intro ul li{position:relative;list-style-type:none;padding-left:15px;margin-bottom:20px;font-size:16px;color:rgba(0,0,0,.8);font-family:Poppins,sans-serif;line-height:22px;font-weight:500;word-break:break-word}.article-intro ul li::before{content:'';width:6px;height:6px;border-radius:50%;background-color:rgb(112 112 112 / .5);position:absolute;left:0;top:8px}.article_content .article_description{position:relative;padding-bottom:10px;margin-top:20px;padding-left:10px;padding-right:10px}.article_content .article_description p img{width:100%!important;height:auto!important}.article_content .article_description p{margin:0;color:#1c1a1a;font-size:18px!important;font-family:Poppins,sans-serif;line-height:34px;margin-bottom:20px;word-break:break-word}.article_content .article_description p span{font-size:19px!important;line-height:33px;display:inline-block;word-break:break-word}.article_content .article_description h2{font-size:32px!important;color:inherit!important}.article_content .article_description p p{padding-left:0;padding-right:0;font-family:Poppins,sans-serif;word-break:break-word}span.articleimg-caption{padding:4px;position:absolute!important;width:100%;background:rgba(0,0,0,.6);z-index:1;display:block;color:#fff;bottom:0;font-size:14px;text-align:center}.read_full{background-color:#fff;padding-top:40px;padding-bottom:20px;background:-moz-linear-gradient(top,rgba(255,255,255,.86) 0,#fff 53%,#fff 100%);background:-webkit-linear-gradient(top,rgba(255,255,255,.86) 0,#fff 53%,#fff 100%);background:linear-gradient(to bottom,rgba(255,255,255,.86) 0,#fff 53%,#fff 100%);position:relative;margin-top:-70px}.read_full button.read_fullbtn{border:1px solid #dc2229;border-radius:50px;background-color:#fff;color:#dc2229;font-size:12px;font-family:Poppins,sans-serif;padding:5px 35px 5px 22px;position:relative}.read_full button.read_fullbtn:focus,.read_full button.read_fullbtn:hover{color:#fff;border:1px solid #dc2229;background-color:#dc2229;outline:0}.read_full .read_fullbtn::after{content:'';position:absolute;right:20px;top:13px;width:0;height:0;border-left:4px solid transparent;border-right:4px solid transparent;border-top:5px solid #dc2229}.article_description a{color:#dc2229!important}.article_line{width:120px;height:2px;background-color:#dc2229;margin:0 auto;margin-bottom:10px;margin-top:10px}.next_article{padding-top:14px;position:relative;margin-bottom:10px}.next_article p{font-size:22px;color:#dc2229;line-height:24px;font-family:Poppins,sans-serif;margin-bottom:8px;position:relative;font-weight:700;text-transform:uppercase}.next_article .next_close{position:absolute;top:10px;right:10px}.next_article .carousel{padding-bottom:0}.next_article .carousel .slider-wrapper.axis-horizontal .slider{padding:0;padding-right:20px!important;padding-bottom:0;margin:0;display:flex;overflow-y:auto}.next_article .carousel .slider-wrapper.axis-horizontal .slider.pr-0{padding-right:0!important}.next_article .carousel .slider-wrapper.axis-horizontal .slider.pr-0 .slide{width:100%;margin-right:10px!important}.carousel .slider-wrapper.axis-horizontal .slider .slide:last-child{border-right:1px solid transparent}.next_article .carousel .slide{border-radius:0;background-color:transparent!important;overflow:hidden;margin:0!important;text-align:left!important;padding:13px;font-size:12px;color:#fff;line-height:18px;font-family:Poppins,sans-serif;min-width:45%}.nextarticle_title1{font-size:15px;color:#2c2d31;line-height:18px;font-weight:500}.nextarticle_tag{font-size:12px;color:#dc2229;font-weight:500}.next_article .slider-wrapper.axis-horizontal{background-color:rgba(241,239,239,.62);border-radius:8px}.news_carousel{display:flex}.next_article .carousel .slide .nextarticle_title{color:#000;line-height:20px;font-family:Poppins,sans-serif;padding-left:10px}.next_article .carousel .slide a{font-size:14px;color:#fff;font-family:Poppins,sans-serif;line-height:20px;text-decoration:none}.next_article .carousel .slide .nextarticle_img{text-align:left}.next_article .carousel .slide .nextarticle_img img{width:96px;border-radius:5px}.share_article{position:fixed;right:0;bottom:120px;z-index:999}.share_article .whatapp_share{width:30px;height:40px;background-color:#2cb742!important;border:0;font-size:20px;color:#fff;padding-left:4px!important;line-height:36px;margin-bottom:5px;border-top-left-radius:10px;border-bottom-left-radius:10px;display:block}.share_article .whatapp_share svg{border-radius:50%}.social_share{position:relative}.share_article a.share_shares1{width:30px;height:40px;background-color:#404040!important;font-size:20px;color:#fff;padding-left:7px;line-height:34px;border-top-left-radius:10px;border-bottom-left-radius:10px;display:block}.social_share.share_dropdown .dropdown-menu{min-width:155px!important;height:auto;border:.5px solid #a4a4a4!important;border-radius:20px!important;margin:0 auto;margin-bottom:20px;text-align:center}.article_container .share_article .share_dropdown .dropdown-menu li{display:inline-block;margin-right:5px}.section-header .section_titile a h2{font-size:14px;color:#000;font-family:Poppins,sans-serif;font-weight:800;text-transform:uppercase;text-decoration:none;margin-bottom:0;line-height:inherit}.section-header .section_titile::after{content:'';width:50px;height:1px;background-color:#dc2229;position:absolute;bottom:0;left:0}.article_content .articleauthor_details .aaticleauthor_name{color:#dc2229}.article_content .articleauthor_details img{width:21px;height:21px;border-radius:50%;margin-right:5px}.article_content .article_description iframe{width:100%}.main_share_buttons{display:flex}.main_share_buttons a{margin-right:5px}.main_share_buttons a:last-child{margin-right:0}.fb_comments a{margin-right:0}.social_share.share_dropdown .dropdown-menu a{margin-left:2px;margin-right:2px}.article_share .dropdown-menu{min-width:82px;padding:.3rem}.watch-more{margin-bottom:20px}.details_share-button{margin-top:10px;margin-bottom:20px}.live-blog-btn{font-size:14px;color:#fff;border-radius:8px;background-color:#dc2229;padding:5px 13px;margin-left:11px;display:inline-block}.update_container{padding:0 11px}.update_container img{width:100%;height:auto}.live-date{width:60%;color:#2c2d31;font-size:16px;font-weight:700;position:relative}.live-date-line{width:100%;height:1px;position:relative;top:10px;background-color:rgb(112 112 112 / .3)}.time{background-color:#2c2d31;display:inline-block;color:#fff;border-radius:6px;font-size:14px;padding:5px 7px;margin-bottom:10px;font-weight:700;position:relative}.time::before{content:'';width:0;height:0;border-top:6px solid transparent;border-bottom:6px solid transparent;border-right:6px solid #2c2d31;position:absolute;left:-6px;top:9px}.live-feed{padding-left:20px;position:relative;margin-bottom:30px}.live-feed::before{content:'';width:1px;height:100%;background-color:#dc2229;position:absolute;left:3px;top:10px}.live-feed::after{content:'';width:12px;height:12px;background-color:#dc2229;position:absolute;left:-2px;top:10px;border-radius:50%}table{width:100%!important}.comments-collapse{margin:20px 11px}.comments-collapse{margin-left:10px;margin-right:10px;margin-bottom:30px}.fb_comments{display:none}.update_news{font-size:20px;color:#2c2d31;line-height:32px}.update_news h2{font-size:26px;font-weight:900}.article-ad{margin:20px auto}.mobile-trending{display:none}@media (max-width:1024px){.top-ad{display:none}.articledetails-page .col-md-9{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%;padding-right:15px}.articledetails-page .col-md-3{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.trending-photoicon{padding:6px}.article-trending-photos ul{display:flex;overflow-y:auto}.article-trending-photos ul li{min-width:40%;margin:10px}.mobile-trending{display:block}.mobile-trending .add-placeholder{display:none}}.trendingtopic_container{display:flex;white-space:nowrap;overflow-y:auto}.article-detail-cauroselblg .carousel .carousel-indicators li{background-color:#666;opacity:1}.article-detail-cauroselblg.carousel .carousel-indicators{bottom:-30px}.article-detail-cauroselblg .sectionthumbnail-header p{margin:0;padding:0;font-size:22px;color:#000;font-weight:700}.article-detail-cauroselblg .carousel-inner{position:relative;width:100%;overflow:hidden}.article-detail-cauroselblg .section-thumbnail{position:relative;margin-bottom:10px}.article-detail-cauroselblg .section-thumbnail a{font-size:18px;color:#333;line-height:19px;text-decoration:none}.article-detail-cauroselblg .pos_relative{position:relative}.article-detail-cauroselblg .section-thumbnail .camera_icon{position:absolute;top:inherit;bottom:0;left:inherit;right:0;z-index:9;font-size:14px;color:#fff;font-family:Poppins,sans-serif;padding:2px 4px;border-radius:0;min-width:46px;background-color:#dc2229;display:flex}.article-detail-cauroselblg .camera_icon .video_duration{padding-left:3px}.article-detail-cauroselblg .section-thumbnail-title{padding:5px 0 20px 0}.article-detail-cauroselblg{margin-bottom:65px}.article-detail-cauroselblg .carousel .carousel-indicators li.active{background-color:#dc2229}.article-detail-cauroselblg .carousel-inner::after{display:block;clear:both;content:''}.article-detail-cauroselblg .carousel-control-next-icon,.carousel-control-prev-icon{background-image:none!important}.vjs-icon-share{display:none!important}.livetv-heading{margin:0;color:#000;font-size:24px!important;font-family:Mukta,sans-serif;font-display:swap;line-height:44px;margin-bottom:20px;font-weight:400;word-break:break-word}.trendingtopics_widget{margin-top:30px}.cre-peopleReading .title{font-size:16px;font-weight:600;color:#d0232a;margin:10px 0;text-transform:uppercase}.cre-peopleReading .icons{width:40px;float:left;display:flex;margin-top:5px}.cre-peopleReading .read{display:flex}.cre-peopleReading .read a{margin-bottom:15px;color:#000}.cre-peopleReading .read a:hover{color:#d0232a;text-decoration:none}.cre-topStories .newsimg{height:117px;overflow:hidden;display:block;border-radius:10px}.cre-topStories figure{margin:10px}.cre-topStories .img-fluid{width:100%;background-size:cover;height:100%;object-fit:fill;object-position:center;-webkit-user-select:none}.cre-topStories h1,.cre-topStories h2{font-size:18px;color:#d0232a;text-transform:uppercase;font-weight:600;margin-bottom:10px}.cre-topStories figcaption a{font-size:14px;color:#323643;padding:5px 0;display:block;height:65px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;text-decoration:none}.cre-topStories figcaption a:hover{color:#d0232a}.cre-topStories .slick-custom-arrow-left,.cre-topStories .slick-custom-arrow-right{background:0 0!important;top:40%;width:30px;height:30px;margin-top:-15px;position:absolute;z-index:150;font-size:0}.cre-topStories .slick-custom-arrow-right:before{display:inline-block;content:'';margin:0;border:solid #333;border-width:0 2px 2px 0;padding:1px;transform:rotate(-45deg);-webkit-transform:rotate(-45deg);position:relative;top:0;right:2px;width:10px;height:10px;cursor:pointer}.cre-topStories .slick-custom-arrow-right{right:-30px}.cre-topStories .slick-custom-arrow-left:before{display:inline-block;content:'';margin:0;border:solid #333;border-width:0 2px 2px 0;padding:1px;transform:rotate(-225deg);-webkit-transform:rotate(-225deg);position:relative;top:0;right:2px;width:10px;height:10px;cursor:pointer}.cre-topStories .slick-custom-arrow-left{left:-6px}.cre-topStories .slick-custom-arrow-left:hover:before,.cre-topStories .slick-custom-arrow-right:hover:before{border:solid #ff7800;border-width:0 1px 1px 0}.cre-topStories .slick-disabled{cursor:not-allowed;opacity:0;display:none}.cre-liketoread{margin-top:15px;margin-bottom:15px}#cre-topStoriesList.slick-track{display:flex}#cre-topStoriesList{width:98%}.section-header{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;padding:10px;text-align:left}.section-header .section_titile{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%;position:relative}.section-header .section_titile a h2{font-size:14px;color:#000;font-family:'Nunito Sans',sans-serif;font-weight:800;text-transform:uppercase;text-decoration:none;margin-bottom:0;line-height:inherit}.section-header .section_titile::after{content:'';width:50px;height:1px;background-color:#dc2229;position:absolute;bottom:0;left:0}.article_content .article_description p:last-child{margin-bottom:0}.bn-article{position:relative;}.bn-articleimg{width: 100%;height: 400px;}.bn-articleimg .bn-image{object-fit: fill;}.bn-heading{background: #BE0F0B;padding:10px 20px;font-size: 22px;line-height: 33px;font-weight: 500;color: #FFFFFF;text-transform: uppercase;}.bn-article-content{background-color: #E8423E; padding:20px;}.bn-article-content h1{font-size: 26px;line-height: 39px;font-weight: 600;color: #FFFFFF;}.bn-article-content h2{font-size: 18px;line-height: 27px;font-weight: 500;color: #FFFFFF;margin-top:20px;}.bn-article .bn-smalltxt{font-size: 17px;line-height: 26px;color: #1C1A1A;margin-top:10px;margin-bottom:20px;}.bn-article .bn-smalltxt a{color: #E8423E;text-decoration: underline;}.article_table,.article_table table{overflow-x:scroll;overflow-y:hidden}.article_table table tr th,.article_table table tr:first-child td{background:#000;border-top:1px solid #bbb;text-align:left;color:#fff}.article_table{position:relative;margin:20px 0}.article_table table{border-collapse:separate;border-spacing:0;width:100% !important;border:1px solid #bbb;border-radius:6px}.article_table table tr:first-child td{padding:5px 10px}.article_table table tr:first-child td p{color:#fff;font-size:16px!important}.article_table table tr td,.article_table table tr th{border-bottom:1px solid #bbb;padding:5px 10px}.article_table table tr td:first-child,.article_table table tr td:nth-child(2){width:150px}.article_table tr:nth-child(2n){background:rgba(220,38,38,.2)}.article_table table tr:first-child th:first-child{border-top-left-radius:6px}.article_description table tr:first-child th:last-child{border-top-right-radius:6px}.article_table::-webkit-scrollbar{width:1em;height:10px}.article_table::-webkit-scrollbar-track{box-shadow:inset 0 0 6px transparent}.article_table::-webkit-scrollbar-thumb{background-color:#dc2626;border-radius:6px} .article_table_big table{width:1100px !important}
+                </style><script>dataLayer=[{
+                'author_name':'Jayanta Oinam',
+                'section_name':'Cricket',
+                'publish_date':'Jan 29, 2015, 08:50 AM IST',
+                'story_url':'https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html',
+                'post_id':'1538054',
+                'news_platform':'News'
+                }];</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T7SRCQC');</script><script src="https://www.googletagmanager.com/gtag/js?id=UA-2069755-1" async="true"></script><script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                </script><script type="text/javascript" async="true">
+        let UUID = '';
+        let clientId = '';
+        
+        const stringToHexHash = (str, len) => {
+          let hash = 0;
+          for (let i = 0; i < str.length; i++) {
+            hash = str.charCodeAt(i) + ((hash << 5) - hash);
+          }
+          let hex = hash.toString(16);
+          let alphanumeric = hex.replace(/[^0-9a-zA-Z]/gi, "");
+          while (alphanumeric.length < len) {
+            alphanumeric = "0" + alphanumeric;
+          }
+          return alphanumeric.substr(0, len);
+        };
+        
+        window.addEventListener("load", function(event) {
+          // Fetch client ID using gtag
+          gtag('get', 'UA-2069755-1', 'client_id', (client_id) => {
+            clientId = client_id
+            // Calculate PPID based on client ID
+            UUID = stringToHexHash(client_id, 22);
+           
+            // Set Publisher Provided ID in googletag
+            window.googletag = window.googletag || { cmd: [] };
+            if (window.googletag && googletag.pubadsReady) {
+              googletag.pubads().setPublisherProvidedId(UUID);
+              googletag.enableServices();
+            }
+            // Set Google Analytics dimensions
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('set', {'dimension1': 'Jayanta Oinam'});
+            gtag('set', {'dimension2': 'Not Set'});
+            gtag('set', {'dimension3': 'Not Set'});
+            gtag('set', {'dimension4': 'Cricket'});
+            gtag('set', {'dimension5': '29-January-2015'});
+            gtag('set', {'dimension6': 'https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html'});
+            gtag('set', {'dimension7': 'DRS'});
+            gtag('set', {'dimension8': '1538054'});
+            // Check if PPID is set and configure Google Analytics
+            var ppid_set = false;
+            if (clientId.length) {
+                    ppid_set = true;
+                    gtag('set', {'dimension9': clientId});
+                    gtag('set', {'dimension10': clientId});
+                    gtag('set', {'dimension11': UUID });
+                    gtag('set', {'dimension17': UUID });
+                  }
+                  gtag('config', 'UA-2069755-1');
+                  if (!ppid_set) {
+                    gtag('event', 'setting_ppid', {'dimension9': clientId , 'dimension10': clientId, 'dimension11': UUID,'dimension17': UUID});
+                  }
+          });
+        });
+        
+    </script><script type="text/javascript" async="true">
+              function initAdserver(forced) {
+                  if((forced === true && window.initAdserverFlag !== true) || (PWT.a9_BidsReceived && PWT.ow_BidsReceived)){
+                      window.initAdserverFlag = true;
+                      PWT.a9_BidsReceived = PWT.ow_BidsReceived = false;
+                      googletag.pubads().refresh();
+                  }
+              }
+           
+              !function(a9,a,p,s,t,A,g){
+                if(a[a9]) return;
+                function q(c,r){a[a9]._Q.push([c,r])}
+                a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};
+                A=p.createElement(s);A.async=!0;A.src=t;
+                g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)
+              }("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+              apstag.init({ pubID: 'a17c03c1-eb0c-4671-8a5d-3cb93c8ca58e', adServer: 'googletag' });
+
+
+            </script><script id="openwrap-load">
+              var PWT = {};
+              var googletag = googletag || {};
+              googletag.cmd = googletag.cmd || [];
+              var gptRan = false;
+              PWT.jsLoaded = function () {
+                loadGpt();
+              };
+              (function () {
+                var purl = window.location.href;
+                var url = 'https://ads.pubmatic.com/AdServer/js/pwt/158141/10819';
+                var wtads = document.createElement('script');
+                wtads.async = true;
+                wtads.src = url + (purl.includes('pwtv=') ? '/' + purl.split('pwtv=')[1].split('&')[0] : '') + '/pwt.js';
+                document.head.appendChild(wtads);
+              })();
+
+              function loadGpt() {
+                if (!gptRan) {
+                  gptRan = true;
+                  var gads = document.createElement('script');
+                  gads.async = true;
+                  gads.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+                  document.head.appendChild(gads);
+                }
+              }
+              setTimeout(loadGpt, 500);
+           </script><script async="true">
+                function openWrapCustFunction(){
+                    googletag.pubads().set("page_url","https://zeenews.india.com");
+                    googletag.pubads().disableInitialLoad();
+                    googletag.pubads().setPublisherProvidedId('281efdd4-a958-4439-8ac4-578db605d7ab');
+                    googletag.pubads().enableLazyLoad({ fetchMarginPercent: 50, renderMarginPercent: 50, mobileScaling: 2.0 });
+                    googletag.enableServices();
+
+                    // OpenWrap code START here
+                    if(typeof PWT.requestBids === 'function'){
+                        PWT.requestBids(
+                            PWT.generateConfForGPT(googletag.pubads().getSlots()),
+                            function(adUnitsArray) {
+                                PWT.addKeyValuePairsToGPTSlots(adUnitsArray);
+                                PWT.ow_BidsReceived = true;
+                                initAdserver(false);
+                            }
+                        );
+                    }
+                    // No need to handle "else" part as we have A9 wrapper on page
+                    // OpenWrap code END here
+
+                    var FAILSAFE_TIMEOUT = 1000; // this timeout should be more than OpenWrap and A9 timeout
+                    setTimeout(function() {
+                        initAdserver(true); // calling this function with forced mode set to true so that GPT API is always executed
+                    }, FAILSAFE_TIMEOUT);
+                }
+            </script><script>
+        apstag.fetchBids({
+            slots: [{
+                slotID: 'div-gpt-ad-1539255199048-0',
+                sizes: [[970, 90], [728, 90]]
+            },
+            {
+                slotID: 'div-gpt-ad-1539257793131-0',
+                sizes: [[300, 250]]
+            },
+            {
+                slotID: 'div-gpt-ad-1539257878034-0',
+                sizes: [[300, 250]]
+            },
+            {
+                slotID: 'div-gpt-ad-1539605648902-0',
+                sizes: [[300, 250]]
+            },
+            {
+                slotID: 'div-gpt-ad-1539258889544-0',
+                sizes: [[300, 250]]
+            },
+            {
+                slotID: 'div-gpt-ad-1539258995955-0',
+                sizes: [[300, 250]]
+            }],
+            timeout: 1000 // Make Sure this timeout is less than or equal to OpenWrap TimeOut
+        }, function(bids) {
+            googletag.cmd.push(function(){
+                apstag.setDisplayBids();
+                PWT.a9_BidsReceived = true;
+                initAdserver(false);
+            });
+        });</script><script type="text/javascript">
+          googletag.cmd.push(function() {
+               openWrapCustFunction();
+              googletag.defineSlot('/11440465/Zeenews_English_Web/Zeenews_English_AS_ATF_970x90', [[970, 90], [728, 90]], 'div-gpt-ad-1539255199048-0').addService(googletag.pubads());
+              googletag.defineSlot('/11440465/Zeenews_English_Web/Zeenews_English_AS_ATF_300x250', [[300, 250]], 'div-gpt-ad-1539257793131-0').addService(googletag.pubads());
+              googletag.defineSlot('/11440465/Zeenews_English_Web/Zeenews_English_AS_BTF_1_300x250', [[300, 250]], 'div-gpt-ad-1539257878034-0').addService(googletag.pubads());
+              googletag.defineSlot('/11440465/Zeenews_English_Web/Zeenews_English_AS_BTF_2_300x250', [[300, 250]], 'div-gpt-ad-1539605648902-0').addService(googletag.pubads());
+              googletag.defineSlot('/11440465/Zeenews_English_Web/Zeenews_English_AS_Inarticle_1_300x250', [300, 250], 'div-gpt-ad-1539258889544-0').addService(googletag.pubads());
+              googletag.pubads().setTargeting('Category', ["Cricket","DRS","Decision Review System","ICC World Cup 2015","Cricket World Cup","International Cricket Council","umpires","decision","Dubai","Australia","New Zealand","LBW","cricket news","sports news","Zee English"]);
+             
+          });</script><script>
+            googletag.cmd.push(function() {                
+                googletag.defineSlot('/11440465/Zeenews_English_Web/Zeenews_English_AS_OOP_1x1', [1, 1], 'div-gpt-ad-1539259315136-0').addService(googletag.pubads());      
+            googletag.pubads().collapseEmptyDivs();
+            });
+        </script><script data-cfasync="false">window.addEventListener('scroll', (event) => {(function(v,d,o,ai){ai=d.createElement('script');ai.async=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, '//a.vdo.ai/core/v-zeenews-india-v1/vdo.ai.js')}, { once: true });</script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7SRCQC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><style>
+.right-menu {
+    width: auto;
+}
+
+.ssoLoginCol {
+    display: flex;
+    width: auto;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 13px;
+    line-height: 1;
+    padding: 0.35rem 0.5rem;
+    border: 1px solid #000;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #000;
+    text-decoration: none;
+}  
+
+.ssoLoginCol:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.ssoLoggedInCol {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 24px;
+    background-color: #699722;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bold;
+    position: relative;
+}
+
+.ssoLoggedInCol:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.ssoLoggedInCol ul {
+    position: absolute;
+    top: 100%;
+    right: -6px;
+    display: none;
+    flex-direction: column;
+    color: #000;
+    font-weight: normal;
+    text-transform: initial;
+    padding: 20px 12px 12px;
+    z-index: 5;
+    gap: 0.5rem;
+    font-size: 12px;
+    width: 185px;
+    cursor: initial;
+}
+
+.ssoLoggedInCol ul::before {
+    content: "";
+    box-shadow: 0 3px 10px #E2E2E2;
+    position: absolute;
+    right: 13px;
+    top: 4px;
+    width: 8px;
+    height: 8px;
+    background: #fff;
+    transform: rotate(45deg);
+    z-index: -1;
+    border: 1px solid #E2E2E2;
+}
+
+.ssoLoggedInCol ul::after {
+    content: "";
+    background: #fff;
+    border: 1px solid #E2E2E2;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px #E2E2E2;
+    padding: 12px;
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width:100%;
+    height: calc(100% - 8px);
+    z-index: -1;
+}
+
+.ssoLoggedInCol:hover ul {
+    display: flex;
+}
+
+.nav-menu .ssoLoggedInCol ul li {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.ssoLoggedInCol ul .userName {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ssoLoggedInCol ul .userEmailId {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+
+.ssoLoggedInCol ul .logoutBtn {
+    border: 0;
+    width: 100%;
+    border-radius: 4px;
+    background: #F6F1F1;
+    padding: 0.35rem 0.5rem;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 0.5rem;
+}
+
+.ssoLoggedInCol .userProfilePic {
+    width: 24px;
+    height: 24px;
+    border-radius: 24px;
+    overflow: hidden;
+}
+
+.ssoLoggedInCol .userProfilePic img {
+    width: 100%;
+    height: 100%;
+}
+
+.fakeCheck img {
+    width: auto;
+    height: 36px;
+}
+
+.fakeCheck {
+    display: flex;
+    align-items: center;
+}
+</style><div class="over_lay"></div><div id="sticky_header_main" class="navbar1 smart-scroll"><header id="myHeader"><div class="lang-select"><div class="lang-block"><a href="/hindi" target="_blank" title="Hindi News">हिन्दी</a><a href="/" target="_blank" title="English News">English</a><a href="/marathi" target="_blank" title="Marathi News">मराठी</a><a href="/bengali" target="_blank" title="Bengali News">বাংলা</a><a href="/tamil" target="_blank" title="Tamil News">தமிழ்</a><a href="/malayalam" target="_blank" title="Malaylam News" class="active">മലയാളം</a><a href="/gujarati" target="_blank" title="Gujarati News">ગુજરાતી</a><a href="/telugu" target="_blank" title="Telugu News">తెలుగు</a><a href="/kannada" target="_blank" title="Kannada News">ಕನ್ನಡ</a><a href="/hindi/zeeodisha" target="_blank" title="Odisha News">ଓଡ଼ିଶା</a><a href="https://www.zeebiz.com/" target="_blank" rel="nofollow">Business</a><a href="https://www.techlusive.in/" target="_blank" rel="nofollow">Tech</a><a href="https://www.wionews.com/" target="_blank" rel="nofollow">World</a><a href="https://www.thehealthsite.com/" target="_blank" rel="nofollow">Health</a></div><div class="social-block"><a href="https://www.facebook.com/ZeeNewsEnglish/" target="_blank"><svg version="1.1" xmlns="https://www.w3.org/2000/svg" width="8" height="14" viewBox="0 0 16 28"><path fill="#fff" d="M14.984 0.187v4.125h-2.453c-1.922 0-2.281 0.922-2.281 2.25v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406c0-3.953 2.422-6.109 5.953-6.109 1.687 0 3.141 0.125 3.563 0.187z"></path></svg></a><a href="https://twitter.com/zeenewsenglish" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 53.268 54.439"><path id="x_logo" data-name="x logo" d="M44.887,23.051,64.717,0h-4.7L42.8,20.015,29.047,0H13.185l20.8,30.266-20.8,24.173h4.7L36.068,33.3,50.591,54.439H66.453L44.886,23.051ZM38.45,30.533l-2.107-3.014L19.578,3.538H26.8l13.53,19.354,2.107,3.014L60.02,51.062H52.8L38.45,30.534Z" transform="translate(-13.185)" fill="#fff"></path></svg></a><a href="https://www.whatsapp.com/channel/0029VaBDGRD2ZjCp4qtioI46" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12"><path id="whatsapp_ic" d="M6.375,11.25a5.575,5.575,0,0,1-2.73-.7L0,12,1.453,8.355a5.575,5.575,0,0,1-.7-2.73A5.483,5.483,0,0,1,1.2,3.439,5.566,5.566,0,0,1,4.189.445a5.586,5.586,0,0,1,4.371,0A5.567,5.567,0,0,1,11.555,3.44a5.586,5.586,0,0,1,0,4.371A5.567,5.567,0,0,1,8.56,10.805,5.474,5.474,0,0,1,6.375,11.25ZM8.25,6.75H7.5l-.422.375a3.28,3.28,0,0,1-1.295-.908,3.277,3.277,0,0,1-.908-1.295L5.25,4.5V3.75a.687.687,0,0,0-.141-.4A.891.891,0,0,0,4.8,3.065q-.17-.088-.24-.018L4.008,3.6a1.32,1.32,0,0,0-.135,1.424A4.868,4.868,0,0,0,5.1,6.9a4.86,4.86,0,0,0,1.875,1.23A1.321,1.321,0,0,0,8.4,7.992l.551-.551q.07-.07-.018-.24a.891.891,0,0,0-.287-.311A.687.687,0,0,0,8.25,6.75Z" fill="#fff"></path></svg></a><a href="https://www.instagram.com/zeenewsenglish/?igshid=MzMyNGUyNmU2YQ%3D%3D" target="_blank"><svg xmlns="https://www.w3.org/2000/svg" width="12" height="12.02" viewBox="0 0 12 12.02"><g id="instagram_ic" transform="translate(-4.495 -4.47)"><path id="Path_1" data-name="Path 1" d="M16.457,8.018a4.352,4.352,0,0,0-.279-1.477,3.072,3.072,0,0,0-1.755-1.755,4.4,4.4,0,0,0-1.457-.28c-.641-.029-.844-.037-2.472-.037s-1.836,0-2.472.037a4.4,4.4,0,0,0-1.456.28A3.07,3.07,0,0,0,4.811,6.542,4.368,4.368,0,0,0,4.532,8c-.029.642-.037.845-.037,2.472s0,1.835.037,2.472A4.393,4.393,0,0,0,4.811,14.4a3.072,3.072,0,0,0,1.755,1.754,4.387,4.387,0,0,0,1.456.3c.642.029.845.037,2.472.037s1.836,0,2.472-.037a4.391,4.391,0,0,0,1.457-.279,3.076,3.076,0,0,0,1.755-1.755,4.377,4.377,0,0,0,.279-1.457c.029-.641.037-.844.037-2.472s0-1.834-.039-2.472Zm-5.966,5.529a3.081,3.081,0,1,1,3.081-3.08,3.08,3.08,0,0,1-3.081,3.08Zm3.2-5.557a.718.718,0,1,1,.717-.718A.718.718,0,0,1,13.694,7.99Z" transform="translate(0)" fill="#fff"></path><path id="Path_2" data-name="Path 2" d="M16.835,15.137a1.674,1.674,0,1,1-1.674-1.674,1.674,1.674,0,0,1,1.674,1.674Z" transform="translate(-4.67 -4.672)" fill="#fff"></path></g></svg></a></div></div><div id="sticky_header"><div class="logo-content"><div class="logo"><a href="/"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/english.svg" alt="english news" class="img-fluid" height="55" width="118"></img></a></div></div><div class="header-content"><div class="nav-menu"><div class="d-flex"><ul><li><div class="hamburger nav-icon3"><span class="line"></span><span class="line"></span><span class="line"></span></div></li></ul><ul class="submenu"><li class="d-none d-lg-block menu-active"><a href="/" class="news_menu"><span class="news-tab">NEWS</span><div class="subnav-arrow"></div></a></li><li class="d-none d-lg-block undefined"><a href="/videos" class="watch_menu"><span>VIDEOS</span></a></li><li class="d-none d-lg-block undefined"><a href="/photos" class="photos_menu"><span>PHOTOS</span></a></li><li class="d-none d-lg-block undefined"><a href="/web-stories" class="webstories_menu"><span>Web Stories</span></a></li><li class="d-none d-lg-block undefined"><a href="/live-tv" class="livetv_menu"><span>LIVE TV</span></a></li></ul><a href="https://zeenews.india.com/hindi/deepfake-video-checker" class="fakeCheck"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/fake-check.png" alt=""></img></a></div><div class="right-menu"><span class="icon-search"><svg xmlns="https://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></span><a rel="noopener" href="https://play.google.com/store/apps/details?id=com.zeenews.tv&hl=en_IN" target="_blank"><img src="https://english.cdn.zeenews.com/static/apprun/desktop/images/app-mobile.svg" alt="mobile app" height="20" width="16"></img></a><a href="/login" class="ssoLoginCol" style="display:none"><svg id="Group_32" data-name="Group 32" xmlns="http://www.w3.org/2000/svg" width="13.999" height="14" viewBox="0 0 13.999 14"><path data-name="Path 4" d="M12,5a7,7,0,1,0,7,7A7.008,7.008,0,0,0,12,5Z" transform="translate(-5 -5)"></path><g id="Group_3" data-name="Group 3" transform="translate(2.976 2.473)"><circle id="Ellipse_1" data-name="Ellipse 1" cx="2.012" cy="2.012" r="2.012" transform="translate(2.012 0)" fill="#fff"></circle><path id="Path_5" data-name="Path 5" d="M7.023,13A3.824,3.824,0,0,0,3,16.576a.447.447,0,0,0,.447.447H10.6a.447.447,0,0,0,.447-.447A3.824,3.824,0,0,0,7.023,13Z" transform="translate(-3 -7.971)" fill="#fff"></path></g></svg><span>LOGIN</span></a><div class="ssoLoggedInCol" style="display:none"><span class="userInitial"></span><ul><li><span class="userName"></span></li><li><span class="userEmailId"></span></li><li><button class="logoutBtn">logout</button></li></ul></div><div id="root" class="googlelogin"></div></div><div class="search_box" style="display:none"><div class="search-arrow"></div><form id="search-form" method="get" action="/Search"><input autoComplete="on" type="text" name="q" placeholder="Search on Zeenews..." class="input-search" value="" required="true"></input><button type="submit" class="search_btn1">GO</button></form></div><div class="menu_slider" style="display:none"><div class="menu_container"><ul><li key="Min_nav_left_0"><a href="/latest-news">Latest</a></li><li key="Min_nav_left_1"><div class="pos_relative"><a href="/india" class="pos_relative"><span>India</span></a><a class="collapse_menu" data-target="#india_menus" data-toggle="collapse" href="#india_menus" role="button" aria-expanded="false" aria-controls="india_menu"></a></div><div class="collapse" id="india_menus"><div class="collapse_container"><ul><li key="ahmedabadSMenu"><a href="/ahmedabad">Ahmedabad</a></li><li key="bengaluruSMenu"><a href="/bengaluru">Bengaluru</a></li><li key="chennaiSMenu"><a href="/chennai">Chennai</a></li><li key="hyderabadSMenu"><a href="/hyderabad">Hyderabad</a></li><li key="kolkataSMenu"><a href="/kolkata">Kolkata</a></li><li key="mumbaiSMenu"><a href="/mumbai">Mumbai</a></li><li key="puneSMenu"><a href="/pune">Pune</a></li></ul></div></div></li><li key="Min_nav_left_2"><a href="/cricket">Cricket</a></li><li key="Min_nav_left_3"><div class="pos_relative"><a href="/world" class="pos_relative"><span>World</span></a><a class="collapse_menu" data-target="#world_menus" data-toggle="collapse" href="#world_menus" role="button" aria-expanded="false" aria-controls="world_menu"></a></div><div class="collapse" id="world_menus"><div class="collapse_container"><ul><li key="asiaSMenu"><a href="/asia">Asia</a></li><li key="africaSMenu"><a href="/africa">Africa</a></li><li key="americasSMenu"><a href="/americas">Americas</a></li><li key="australia-oceaniaSMenu"><a href="/australia-oceania">Australia-Oceania</a></li><li key="europeSMenu"><a href="/europe">Europe</a></li></ul></div></div></li><li key="Min_nav_left_4"><a href="/photos">Photos</a></li><li key="Min_nav_left_5"><a href="/web-stories">Web stories</a></li><li key="Min_nav_left_6"><a href="/tags/success-story.html">Success Story</a></li><li key="Min_nav_left_7"><div class="pos_relative"><a href="/entertainment" class="pos_relative"><span>Entertainment</span></a><a class="collapse_menu" data-target="#entertainment_menus" data-toggle="collapse" href="#entertainment_menus" role="button" aria-expanded="false" aria-controls="entertainment_menu"></a></div><div class="collapse" id="entertainment_menus"><div class="collapse_container"><ul><li key="hollywoodSMenu"><a href="/hollywood">Hollywood</a></li><li key="musicSMenu"><a href="/music">Music</a></li><li key="bollywoodSMenu"><a href="/bollywood">Bollywood</a></li><li key="televisionSMenu"><a href="/television">Television</a></li><li key="regionalSMenu"><a href="/regional">Regional</a></li><li key="movie-reviewSMenu"><a href="/movie-review">Movie Review</a></li></ul></div></div></li><li key="Min_nav_left_8"><div class="pos_relative"><a href="/lifestyle" class="pos_relative"><span>Lifestyle</span></a><a class="collapse_menu" data-target="#lifestyle_menus" data-toggle="collapse" href="#lifestyle_menus" role="button" aria-expanded="false" aria-controls="lifestyle_menu"></a></div><div class="collapse" id="lifestyle_menus"><div class="collapse_container"><ul><li key="relationshipsSMenu"><a href="/relationships">Relationship</a></li><li key="travelSMenu"><a href="/travel">Travel</a></li><li key="food-recipesSMenu"><a href="/food-recipes">Food & Recipes</a></li><li key="fashionSMenu"><a href="/fashion">Fashion</a></li><li key="cultureSMenu"><a href="/culture">Culture</a></li><li key="spiritualitySMenu"><a href="/spirituality">Spirituality</a></li></ul></div></div></li><li key="Min_nav_left_9"><div class="pos_relative"><a href="/business" class="pos_relative"><span>Business</span></a><a class="collapse_menu" data-target="#business_menus" data-toggle="collapse" href="#business_menus" role="button" aria-expanded="false" aria-controls="business_menu"></a></div><div class="collapse" id="business_menus"><div class="collapse_container"><ul><li key="economySMenu"><a href="/economy">Economy</a></li><li key="marketsSMenu"><a href="/markets">Markets</a></li><li key="companiesSMenu"><a href="/companies">Companies</a></li><li key="real-estateSMenu"><a href="/real-estate">Real Estate</a></li><li key="international-businessSMenu"><a href="/international-business">International Business</a></li><li key="personal-financeSMenu"><a href="/personal-finance">Personal Finance</a></li><li key="automobileSMenu"><a href="/automobile">Automobile</a></li></ul></div></div></li><li key="Min_nav_left_10"><a href="/real-estate">Real Estate</a></li><li key="Min_nav_left_11"><div class="pos_relative"><a href="/technology" class="pos_relative"><span>Technology</span></a><a class="collapse_menu" data-target="#technology_menus" data-toggle="collapse" href="#technology_menus" role="button" aria-expanded="false" aria-controls="technology_menu"></a></div><div class="collapse" id="technology_menus"><div class="collapse_container"><ul><li key="gadgetsSMenu"><a href="/gadgets">Gadgets</a></li><li key="gamingSMenu"><a href="/gaming">Gaming</a></li><li key="internet-social-mediaSMenu"><a href="/internet-social-media">Internet & Social Media</a></li><li key="appsSMenu"><a href="/apps">Apps</a></li><li key="mobilesSMenu"><a href="/mobiles">Mobiles</a></li></ul></div></div></li><li key="Min_nav_left_12"><a href="/auto">Auto</a></li><li key="Min_nav_left_13"><a href="/mobility">Mobility</a></li><li key="Min_nav_left_14"><a href="/viral">Viral</a></li><li key="Min_nav_left_15"><a href="/samsung-health">Samsung Health</a></li><li key="Min_nav_left_16"><a href="/tags/diabytes.html" class="diabyte-logo d-none"><img data-src="https://english.cdn.zeenews.com/static/public/icons/diabytes-logo.png" alt="Diabytes" class="diabytes-logo lazyload" height="25" width="30"></img>Diabytes</a></li><li key="Min_nav_left_17"><a href="/archive">Archived Videos</a></li><li key="Min_nav_left_18"><a href="#subscribe-modal" data-toggle="modal" class="" target="">Newsletter</a></li></ul></div><div class="menu_slider_footer"><a rel="noopener" href="/contact-us">contact us</a><a rel="noopener" href="/terms-conditions">terms & conditions</a><a rel="noopener" href="/privacy-policy">privacy policy </a><a rel="noopener" href="/disputes/web">complaint</a><a rel="noopener" href="/disclaimer">legal disclaimer</a><a rel="noopener" href="https://zeemedia.in/investorinfo" target="_blank">investor info</a><a rel="noopener" href="/advertise-with-us">Advertise With Us</a><a rel="noopener" href="https://careers.zeenews.com" target="_blank">careers</a><a rel="noopener" target="_blank" href="/contest-terms-conditions">contest T&C</a></div><div class="partnersites" id="partnersites" style="display:none"></div><div class="partnersites1" id="partnersites1" style="display:none"></div></div></div><div class="menucaterory_container"><div class="category-slider"><div class="category_item" style="" key="0"><a href="/latest-news">Latest</a></div><div class="category_item" style="" key="1"><a href="/india">India</a></div><div class="category_item menu_active " style="" key="2"><a href="/cricket">Cricket</a></div><div class="category_item" style="" key="3"><a href="/world">World</a></div><div class="category_item" style="" key="4"><a href="/tags/success-story.html">Success Story</a></div><div class="category_item" style="" key="5"><a href="/entertainment">Entertainment</a></div><div class="category_item" style="" key="6"><a href="/lifestyle">Lifestyle</a></div><div class="category_item" style="" key="7"><a href="/business">Business</a></div><div class="category_item" style="" key="8"><a href="/real-estate">Real Estate</a></div><div class="category_item" style="" key="9"><a href="/auto">Auto</a></div><div class="category_item" style="" key="10"><a href="/mobility">Mobility</a></div><div class="category_item" style="" key="11"><a href="/viral">Viral</a></div><div class="category_item" style="" key="12"><a href="/samsung-health" target="_blank">Samsung Health</a></div></div><div class="more_button_box"><div id="more-button-icon" class="more_button_icon"> </div><div class="more_button_menu hidden" id="more-button-menu"><ul><li><a href="/archive" target="_blank">Archived Videos</a></li></ul></div></div><div class="clear-both"></div><div class="topic_select" id="topicSelect" style="display: none;"><div class="topic_container"><a href="/latest-news" class="" key="latest-newsMenu_item">Latest</a><a href="/india" class="" key="indiaMenu_item">India</a><a href="/cricket" class="" key="cricketMenu_item">Cricket</a><a href="/world" class="" key="worldMenu_item">World</a><a href="/photos" class="" key="photosMenu_item">Photos</a><a href="/web-stories" class="" key="web-storiesMenu_item">Web stories</a><a href="/tags/success-story.html" class="" key="tags/success-story.htmlMenu_item">Success Story</a><a href="/entertainment" class="" key="entertainmentMenu_item">Entertainment</a><a href="/lifestyle" class="" key="lifestyleMenu_item">Lifestyle</a><a href="/business" class="" key="businessMenu_item">Business</a><a href="/real-estate" class="" key="real-estateMenu_item">Real Estate</a><a href="/auto" class="" key="autoMenu_item">Auto</a><a href="/mobility" class="" key="mobilityMenu_item">Mobility</a><a href="/viral" class="" key="viralMenu_item">Viral</a><a href="/samsung-health" class="" key="samsung-healthMenu_item">Samsung Health</a><a href="/archive" class="" key="archiveMenu_item">Archived Videos</a></div></div><script>
+        let menuIcon = document.getElementById('more-button-icon');
+        menuIcon.onmouseover = function(){
+              document.getElementById('more-button-menu').classList.toggle("hidden");
+            }
+        </script></div></div></div></header></div><div class="modal fade language_select" id="myModal"></div><style>.ads-box-970x90 .ads-placeholder-internal2{width:100%;height:90px;margin:0 auto;background-color:#fbfbfb;position:relative;display: flex;justify-content: center;font-size:11px}</style><section class=""><div class="ads-box-970x90 first-ad"><span class="adv_txt">Advertisement</span><div class="ads-placeholder-internal ads-placeholder-internal2"><div id="_Adslazy_118320"><div><div id="div-gpt-ad-1539255199048-0"><script type="text/javascript">googletag.cmd.push(function () {
+                    googletag.display("div-gpt-ad-1539255199048-0");
+               });</script></div></div></div></div></div></section><section class="mb-0" hidden="true"><div class="breaking-news position-relative" id="breaking_news_gray"><div class="breaking-widget" id="breaking_news"><div class=""><div id="demo" class="layout carousel slide" data-ride="carousel"><div class="breaking-news-title" id="breakingNewTitle"></div><div class="carousel-inner" id="breakingNewsText"></div></div><div class="breaking-close" id="breakingNewsClose">X</div><ul class="carousel-indicators" id="carouselIndicators"></ul></div></div><div class="carousel-controls"><a class="prev_carousel" href="#demo" role="button" data-slide="prev"><img src="https://english.cdn.zeenews.com/static/public/prev_carousel.svg" class="lazyload" alt="Previous"></img></a><button id="toggleCarousel"><span class="carousel-pause"></span></button><a class="next_carousel" href="#demo" role="button" data-slide="next"><img src="https://english.cdn.zeenews.com/static/public/next_carousel.svg" class="lazyload" alt="Previous"></img></a></div></div></section><span id="stories" class="d-none">trendingNow</span><span id="lang" class="d-none">english</span><span id="id" class="d-none">1538054</span><span id="websiteurl" class="d-none">https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html</span><section class="main-container articledetails-page"><div class="container"><div class="row"><div class="col-md-12 mt-2 mb-3 text-center"><div id="div-gpt-ad-1539259315136-1" style="height:1px; width:1px;"></div><div id="_Adslazy_118315"><div><div id="div-gpt-ad-1539259315136-0"></div><script>googletag.cmd.push(function () {googletag.display("div-gpt-ad-1539259315136-0");});</script></div></div></div><div class="col-12 col-md-9"><div class="bread_crum"><a href="/">News</a><span class="arrow-bredcum"></span><a href="/sports/cricket/news.html">Cricket</a></div><div class="trending-tag"><a href="/tags/drs.html">DRS</a></div><div class="article_content"><h1>Controversial DRS to be used in 2015 ICC World Cup</h1></div><div class="article_content"><h2 style="minHeight:50px"><p>Cricket's world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015.</p>
+</h2></div><div class="article_content"><div class="articleauthor_details"><span class="padLR14">|</span><span>Last Updated: </span><span>Jan 29, 2015, 08:52 AM IST</span><span class="padLR14">|</span><span>Source: </span><span>Bureau</span></div></div><style>.read_button {
+	text-align: center;
+}
+
+.contentheight {
+	height: 1000px;
+  width: 100%;
+	overflow: hidden;
+   
+}
+
+#read_button {
+	text-align: center;
+	height: 65px;
+	position: relative;
+	background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 10%, #fff 60%, #fff 100%);
+}
+
+#read_button button {
+	overflow: hidden;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1.4;
+    height: auto;
+    width: auto;
+    color: var(--white);
+    z-index: 9;
+    font-weight: 700;
+    display: inline-block;
+    background: linear-gradient(to right, #f32c89, #730be2) !important;
+    padding: 10px 25px;
+    border-radius: 30px;
+    border: 0;
+    position: absolute;
+    bottom: 30px;
+    text-align: center;
+    transform: translate(-50%);
+}</style><section id="Readmore_height" class="contentheight"><div class="row"><div class="col-12 col-md-3"><div class="article_content article-intro"></div><div class="details_share-button"><div class="article_share"><div class="main_share_buttons button"><a href="https://web.whatsapp.com/send?text=https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html" data-action="share/whatsapp/share" onClick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on whatsapp"><svg viewBox="0 0 64 64" width="28" height="28"><circle cx="32" cy="32" r="31" fill="#2cb742"></circle><path d="m42.32286,33.93287c-0.5178,-0.2589 -3.04726,-1.49644 -3.52105,-1.66732c-0.4712,-0.17346 -0.81554,-0.2589 -1.15987,0.2589c-0.34175,0.51004 -1.33075,1.66474 -1.63108,2.00648c-0.30032,0.33658 -0.60064,0.36247 -1.11327,0.12945c-0.5178,-0.2589 -2.17994,-0.80259 -4.14759,-2.56312c-1.53269,-1.37217 -2.56312,-3.05503 -2.86603,-3.57283c-0.30033,-0.5178 -0.03366,-0.80259 0.22524,-1.06149c0.23301,-0.23301 0.5178,-0.59547 0.7767,-0.90616c0.25372,-0.31068 0.33657,-0.5178 0.51262,-0.85437c0.17088,-0.36246 0.08544,-0.64725 -0.04402,-0.90615c-0.12945,-0.2589 -1.15987,-2.79613 -1.58964,-3.80584c-0.41424,-1.00971 -0.84142,-0.88027 -1.15987,-0.88027c-0.29773,-0.02588 -0.64208,-0.02588 -0.98382,-0.02588c-0.34693,0 -0.90616,0.12945 -1.37736,0.62136c-0.4712,0.5178 -1.80194,1.76053 -1.80194,4.27186c0,2.51134 1.84596,4.945 2.10227,5.30747c0.2589,0.33657 3.63497,5.51458 8.80262,7.74113c1.23237,0.5178 2.1903,0.82848 2.94111,1.08738c1.23237,0.38836 2.35599,0.33657 3.24402,0.20712c0.99159,-0.15534 3.04985,-1.24272 3.47963,-2.45956c0.44013,-1.21683 0.44013,-2.22654 0.31068,-2.45955c-0.12945,-0.23301 -0.46601,-0.36247 -0.98382,-0.59548m-9.40068,12.84407l-0.02589,0c-3.05503,0 -6.08417,-0.82849 -8.72495,-2.38189l-0.62136,-0.37023l-6.47252,1.68286l1.73463,-6.29129l-0.41424,-0.64725c-1.70875,-2.71846 -2.6149,-5.85116 -2.6149,-9.07706c0,-9.39809 7.68934,-17.06155 17.15993,-17.06155c4.58253,0 8.88029,1.78642 12.11655,5.02268c3.23625,3.21036 5.02267,7.50812 5.02267,12.06476c-0.0078,9.3981 -7.69712,17.06155 -17.14699,17.06155m14.58906,-31.58846c-3.93529,-3.80584 -9.1133,-5.95471 -14.62789,-5.95471c-11.36055,0 -20.60848,9.2065 -20.61625,20.52564c0,3.61684 0.94757,7.14565 2.75211,10.26282l-2.92557,10.63564l10.93337,-2.85309c3.0136,1.63108 6.4052,2.4958 9.85634,2.49839l0.01037,0c11.36574,0 20.61884,-9.2091 20.62403,-20.53082c0,-5.48093 -2.14111,-10.64081 -6.03239,-14.51915" fill="white"></path></svg></a><a href="https://www.facebook.com/sharer.php?u=https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html" target="_blank" title="Share on facebook"><svg viewBox="0 0 64 64" width="28" height="28"><circle cx="32" cy="32" r="31" fill="#3b5998"></circle><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" fill="white"></path></svg></a><a href="https://twitter.com/intent/tweet?url=https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html&t=Zee News" target="_blank" title="Share on twitter"><svg width="28" height="28" viewBox="0 0 32 32"><path id="Path_5" data-name="Path 5" d="M16,0A16,16,0,1,0,32,16,16,16,0,0,0,16,0Z"></path><path id="Path_6" data-name="Path 6" d="M271.65,260.614l6.813-7.922h-1.614l-5.916,6.878-4.725-6.878h-5.449l7.145,10.4-7.145,8.307h1.615l6.247-7.264,4.99,7.264h5.449l-7.41-10.787Zm-8.7-6.706h2.48L276.85,270.24h-2.48Z" transform="translate(-253.909 -246.054)" fill="#fff"></path></svg></a><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html&t=Zee News" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false;" target="_blank" title="Share on Linkedin"><svg viewBox="0 0 64 64" width="28" height="28"><circle cx="32" cy="32" r="31" fill="#007fb1"></circle><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z" fill="white"></path></svg></a><a class="googlenews-btnblack" target="_blank" href="https://news.google.com/publications/CAAqBwgKMIm_jQsw2sCfAw?hl=en-IN&gl=IN&ceid=IN:en" data-platform="Google Follow" title=""><svg height="15" width="15" xmlns="https://www.w3.org/2000/svg" viewBox="1.1349999999999998 48.867000000000004 509.568 414.234"><radialGradient id="a" cx="22.546%" cy="8.104%" gradientTransform="matrix(.81793 0 0 1 .041 0)" r="97.22%"><stop offset="0" stop-color="#fff" stop-opacity=".1"></stop><stop offset="1" stop-color="#fff" stop-opacity="0"></stop></radialGradient><g fill="none"><path d="M405.573 329.866c-.047 7.1-5.816 12.829-12.915 12.829H119.4c-7.122.032-12.926-5.707-12.973-12.829V61.728c.047-7.1 5.816-12.83 12.915-12.83H392.6c7.122-.031 12.926 5.708 12.973 12.83z" fill="#0c9d58"></path><path d="M405.573 117.818l-102.429-13.174 102.429 27.498zm-144.626-54.94l-155.124 69.264 171.434-62.39v-.172c-2.672-6.335-9.955-9.328-16.31-6.702z" fill="#004d40" opacity=".2"></path><path d="M392.658 48.899H119.4c-7.122-.032-12.926 5.707-12.973 12.829v2.876c.047-7.099 5.816-12.829 12.915-12.829H392.6c7.122-.032 12.926 5.707 12.973 12.829v-2.876c-.047-7.1-5.816-12.83-12.915-12.83z" fill="#fff" opacity=".2"></path><path d="M172.757 321.64c-2.026 6.574 1.636 13.551 8.198 15.618l253.123 68.085c6.716 1.484 13.37-2.73 14.9-9.435l59.628-222.576c2.033-6.55-1.584-13.515-8.112-15.619L247.371 89.63c-6.716-1.485-13.37 2.729-14.9 9.434z" fill="#ea4335"></path><path d="M451.596 252.778l13.317 80.885-13.317 49.704zM304.324 107.951l11.937 3.222 7.42 49.906z" fill="#3e2723" opacity=".2"></path><path d="M500.494 157.713L247.371 89.63c-6.716-1.485-13.37 2.729-14.9 9.434L172.757 321.64c0 .373 0 .747-.201 1.121l59.196-220.908c1.53-6.705 8.184-10.919 14.9-9.434l253.123 68.084a12.397 12.397 0 0 1 8.37 14.382l.46-1.697c1.942-6.504-1.657-13.37-8.11-15.475z" fill="#fff" opacity=".2"></path><path d="M372.12 294.227c2.598 6.37-.434 13.643-6.788 16.28L98.2 407.73c-6.558 2.073-13.56-1.537-15.676-8.082L3.711 183.083c-2.576-6.37.468-13.625 6.817-16.252L277.659 69.61c6.568-2.113 13.607 1.49 15.734 8.054l78.727 216.564z" fill="#ffc107"></path><path d="M4.717 185.816c-2.578-6.362.45-13.614 6.789-16.252l267.131-97.222c6.467-2.034 13.375 1.464 15.562 7.88l-.806-2.56c-2.115-6.544-9.117-10.155-15.676-8.082l-267.19 97.251c-6.353 2.638-9.385 9.91-6.788 16.28l78.814 216.537v.201z" fill="#fff" opacity=".2"></path><rect fill="#4285f4" height="302.022" rx="12.944" width="391.191" x="60.404" y="161.079"></rect><path d="M272.54 241.618h109.303a5.753 5.753 0 0 1 5.753 5.753v17.258a5.753 5.753 0 0 1-5.753 5.753H272.539v-28.764zm0 109.303h109.303a5.753 5.753 0 0 1 5.753 5.753v17.259a5.753 5.753 0 0 1-5.753 5.752H272.539v-28.764zm0-54.651H399.1a5.753 5.753 0 0 1 5.753 5.752v17.259a5.753 5.753 0 0 1-5.753 5.753H272.54z" fill="#fff"></path><path d="M438.652 460.225H73.348c-7.142-.016-12.928-5.802-12.944-12.944v2.876c.016 7.142 5.802 12.928 12.944 12.944h365.304c7.142-.016 12.928-5.802 12.944-12.944v-2.876c-.016 7.142-5.802 12.928-12.944 12.944z" fill="#1a237e" opacity=".2"></path><path d="M73.348 163.955h365.304c7.142.016 12.928 5.802 12.944 12.944v-2.877c-.016-7.142-5.802-12.928-12.944-12.943H73.348c-7.142.015-12.928 5.801-12.944 12.943v2.877c.016-7.142 5.802-12.928 12.944-12.944z" fill="#fff" opacity=".2"></path><path d="M174.742 299.146v25.888h37.22c-3.078 15.82-16.97 27.268-37.22 27.268-23.035 0-41.708-18.673-41.708-41.708 0-23.034 18.673-41.708 41.708-41.708a37.393 37.393 0 0 1 26.606 10.413l19.704-19.703a66.157 66.157 0 0 0-46.31-17.978 69.034 69.034 0 1 0 0 138.067c39.867 0 66.157-28.016 66.157-67.451a82.121 82.121 0 0 0-1.093-13.088z" fill="#fff"></path><path d="M175.46 325.034v2.876h36.531c.268-.94.499-1.898.69-2.876h-37.22z" fill="#1a237e" opacity=".2"></path><path d="M175.46 379.685c-37.57.009-68.25-30.032-69.033-67.595v1.438c0 38.126 30.907 69.034 69.034 69.034 39.867 0 66.157-28.016 66.157-67.452v-.92c-.95 38.4-26.952 65.495-66.157 65.495zm26.492-100.386a37.393 37.393 0 0 0-26.491-10.355c-22.757.362-40.997 18.948-40.932 41.708v1.438c.674-22.178 18.66-39.911 40.845-40.27a37.393 37.393 0 0 1 26.492 10.355l21.142-21.141c-.49-.46-1.036-.863-1.554-1.323l-19.588 19.588zm185.644-11.793v-2.877a5.753 5.753 0 0 1-5.753 5.753H272.539v2.876h109.304a5.753 5.753 0 0 0 5.753-5.752zm-5.753 112.179H272.539v2.877h109.304a5.753 5.753 0 0 0 5.753-5.753v-2.876a5.753 5.753 0 0 1-5.753 5.752zm17.258-54.651H272.54v2.876h126.562a5.753 5.753 0 0 0 5.753-5.753v-2.876a5.753 5.753 0 0 1-5.753 5.753z" fill="#1a237e" opacity=".2"></path><path d="M500.494 157.713l-94.921-25.398V61.728c-.047-7.1-5.816-12.83-12.915-12.83H119.4c-7.122-.031-12.926 5.708-12.973 12.83v70.184l-95.9 34.92c-6.353 2.637-9.385 9.91-6.788 16.28L60.404 338.84v111.317c.016 7.142 5.802 12.928 12.944 12.944h365.304c7.142-.016 12.928-5.802 12.944-12.944v-63.913l57.039-212.854c2.068-6.576-1.572-13.586-8.14-15.677z" fill="url(#a)"></path></g></svg><span>Follow Us</span></a></div></div></div><div class="article-trending-photos"><p>Trending Photos</p><ul><li><div class="position-relative"><a href="/photos/sports/cricket/meet-arshi-khan-salman-khans-bigg-boss-fame-who-once-dated-shahid-afridi-now-allegedly-marrying-afghanistan-cricketer-aftab-alam-know-it-all-2992144"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872599-fotojet-2025-12-04t091356.820.jpg?im=FitAndFill=(225,169)" class="languageImage lazyload" alt="alt" width="225" height="169" loading="lazy" referrerpolicy="no-referrer"></img></a><div class="trending-photoicon"><img src="https://english.cdn.zeenews.com/static/public/icon-camera.png" align="left" class="lazyload" alt="photo icon" loading="lazy" width="15" height="15"></img><span class="photo_count">12</span></div></div><div class="trending-tag"><a href="/tags/arshi-khan.html">Arshi Khan</a></div><div class="trending-title"><a href="/photos/sports/cricket/meet-arshi-khan-salman-khans-bigg-boss-fame-who-once-dated-shahid-afridi-now-allegedly-marrying-afghanistan-cricketer-aftab-alam-know-it-all-2992144">Meet Arshi Khan: Salman Khan's Bigg Boss Fame Who Once Dated Shahid Afridi, Now Allegedly Marrying This Afghanistan Cricketer </a></div></li><li><div class="position-relative"><a href="/photos/entertainment/bigg-boss-19-finale-unseen-childhood-photos-of-tanya-mittal-farhana-bhatt-other-top-contestants-go-viral-know-their-family-backgrounds-2992126"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872567-arjun-2025-12-04t203703.162.jpg?im=FitAndFill=(225,169)" class="languageImage lazyload" alt="alt" width="225" height="169" loading="lazy" referrerpolicy="no-referrer"></img></a><div class="trending-photoicon"><img src="https://english.cdn.zeenews.com/static/public/icon-camera.png" align="left" class="lazyload" alt="photo icon" loading="lazy" width="15" height="15"></img><span class="photo_count">13</span></div></div><div class="trending-tag"><a href="/tags/bigg-boss-19.html">Bigg Boss 19</a></div><div class="trending-title"><a href="/photos/entertainment/bigg-boss-19-finale-unseen-childhood-photos-of-tanya-mittal-farhana-bhatt-other-top-contestants-go-viral-know-their-family-backgrounds-2992126">Bigg Boss 19 Finale: Unseen Childhood Photos Of Tanya Mittal, Farhana Bhatt & Other Top Contestants Go Viral — Know Their Family Backgrounds</a></div></li><li><div class="position-relative"><a href="/photos/business/from-farmer-s-son-to-billionaire-ceo-meet-man-who-overcame-struggles-cracked-iit-today-owns-rs-94480000000-stake-he-is-2992108"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872553-lalit-2.jpg?im=FitAndFill=(225,169)" class="languageImage lazyload" alt="alt" width="225" height="169" loading="lazy" referrerpolicy="no-referrer"></img></a><div class="trending-photoicon"><img src="https://english.cdn.zeenews.com/static/public/icon-camera.png" align="left" class="lazyload" alt="photo icon" loading="lazy" width="15" height="15"></img><span class="photo_count">8</span></div></div><div class="trending-tag"><a href="/tags/business-success-story.html">business success story</a></div><div class="trending-title"><a href="/photos/business/from-farmer-s-son-to-billionaire-ceo-meet-man-who-overcame-struggles-cracked-iit-today-owns-rs-94480000000-stake-he-is-2992108">From Farmer’s Son To Billionaire CEO: Meet Man Who Overcame Struggles, Cracked IIT, Today Owns Rs 94,48,00,00,000 Stake—He Is…</a></div></li><li><div class="position-relative"><a href="/photos/india/from-modi-vajpayee-s-2001-moscow-trip-to-2025-delhi-visit-vintage-glimpse-of-putins-meet-with-indian-leaders-2992093"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenewshindi.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872515-atal-ji-putin.jpg?im=FitAndFill=(225,169)" class="languageImage lazyload" alt="alt" width="225" height="169" loading="lazy" referrerpolicy="no-referrer"></img></a><div class="trending-photoicon"><img src="https://english.cdn.zeenews.com/static/public/icon-camera.png" align="left" class="lazyload" alt="photo icon" loading="lazy" width="15" height="15"></img><span class="photo_count">6</span></div></div><div class="trending-tag"><a href="/tags/india-russia.html">India-Russia</a></div><div class="trending-title"><a href="/photos/india/from-modi-vajpayee-s-2001-moscow-trip-to-2025-delhi-visit-vintage-glimpse-of-putins-meet-with-indian-leaders-2992093">From Modi–Vajpayee’s 2001 Moscow Trip To 2025 Delhi Visit: ‘Vintage’ Glimpse Of Putin's Meet With Indian Leaders</a></div></li></ul></div></div><div class="col-12 col-md-9"><div class="article_content article_image"><img data-hero="true" src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2015/01/29/319099-ajinkya-rahaneedged700.jpg?im=Resize=(400)" width="100%" height="400" alt="Controversial DRS to be used in 2015 ICC World Cup" class="article_img" title="Controversial DRS to be used in 2015 ICC World Cup" data="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2015/01/29/319099-ajinkya-rahaneedged700.jpg?im=Resize=(700,400)" id="articleImage" fetchpriority="high"></img><script type="text/javascript" async="true"> let x=document.getElementById("articleImage"),source=x.getAttribute("data");window.addEventListener("mousemove",()=>{x.setAttribute("src",source)},{once:!0});</script></div><div class="article_content"><div class="article_content article_description" id="fullArticle"><div><div><p>New Delhi: Cricket's world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015.<div class="ads-box-300x250"><div class="ads-placeholder-internal"><div id="_Adslazy_118316"><div><div id="div-gpt-ad-1539258889544-0"></div><script>googletag.cmd.push(function () {googletag.display("div-gpt-ad-1539258889544-0");});</script></div></div></div></div>
+
+<p>DRS has always been opposed by the Indian cricket board (BCCI) over the accuracy of the system and the technology used in reviewing decisions.<div><div class="recommended_widget"><div id="taboola-mid-article-thumbnails"></div></div></div><div id = "v-zeenews-india-v1"></div>
+
+<p>However, the ICC, during it's two-day meeting in Dubai, confirmed that the DRS would be used in all 49 matches during it's flagship tournament to be played in Australia and New Zealand.<div className="googlePopUp" id="googleCTA" style="background-color:#FFD1D1;height:46px; border-radius:4px">
+           <div className="googlePreferredAd"  style="display:flex;padding:4px 20px;gap:20px;width:100%;justify-content:center">
+          <p style=" font-size:14px !important; font-weight:bold; color:#333333;">Add Zee News as a Preferred Source
+              <a
+            href="https://www.google.com/preferences/source?q=zeenews.india.com"
+            target="_blank"
+            style="margin-left: 20px;"
+            id="googleIconBtn">
+            <img
+              src="https://english.cdn.zeenews.com/static/public/updated_logos/googlePreferred.png"
+              alt=""
+              style="width:122px !important;"
+            />
+          </a>
+        </div>
+      </div>
+      <div id="trendingNow" class="mb-3"></div>
+
+<p>The system was officially used for the first time when New Zealand hosted Pakistan in a Test series in 2009. &nbsp;It was alos used during the previous World Cup in India with some degree of success. But during an England match in the 2011 World Cup, it received a lot of flak&nbsp;over the dismissal of&nbsp;Ian Bell.
+
+<p>Modelled in the review systems used in other sports, like in lawn tennis, DRS has seen amendments made, especially regarding the LBW verdicts.</div></div><div class="pos_relative" id="shareIcon"></div></div></div><div class="article_content"><div class="article_description"><p class="article_description">Stay informed on all the <a href="/">latest news</a>, real-time <a href="/"> breaking news</a> updates, and follow all the important headlines in<a href="/india"> india news</a> and<a href="/world">world News</a> on Zee News.</p></div></div><style>
+  
+    .author-box {
+      background: #F3F3F3;
+      border-radius: 10px;
+      padding: 12px 14px 30px 20px;
+      display: flex;
+      flex-direction: column;
+      gap;20px;
+    }
+
+    .upper-bar{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    .about-title {
+      color: #DC2229;
+      font-weight:bold;
+      font-size: 14px;
+      margin-bottom: 15px;
+      line-height:20px;
+      letter-spacing: 0px;
+    }
+    .author-main {
+      display: flex;
+      align-items: start;
+    }
+    .author-pic {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      margin-right: 10px;
+      object-fit: cover;
+    }
+    .author-info {
+      flex: 1;
+    }
+    .author-name {
+      font-weight:bold;
+      font-size: 14px;
+      margin-bottom: 10px;
+      margin-top: 2px;
+      text-align: left;
+      letter-spacing: 0px;
+      color: #000000;
+    }
+    .author-desc {
+      font-size: 14px;
+      color: #000000;
+      line-height: 24px;
+      margin-bottom: 2px;
+    }
+    .toggleReadMore {
+      color: #000000;;
+      font-weight: bold;
+      background: none;
+      border: none;
+      cursor: pointer;
+      border: none;
+      cursor: pointer;
+      font-size: 14px;
+      line-height:20px;
+      padding: 0;
+      margin: 0;
+      outline: none;
+      display: inline;
+    }
+    .author-socials {
+      top: 24px;
+      right: 34px;
+      display: flex;
+      gap: 8px;
+    }
+    .social-btn {
+      background: #fafafa;
+      border-radius: 50%;
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      margin-left: 2px;
+      transition: background .16s;
+      color: #222;
+      font-size: 17px;
+    }
+  
+    .social-btn:hover {
+      background: #f3f3f3;
+      opacity: 0.9;
+    }
+        .toggleReadMore:focus {
+      outline: none;
+      box-shadow: none;
+}
+      .author-desc > :first-child {
+      display: inline;
+    }
+   
+    </style><div><div class="trendingtopics_widget"><div class="section-header"><div class="section_titile"><div class="black_text"><h2>TAGS</h2></div></div><div class="section_click"></div></div><div class="trendingtopic_container"><a href="/tags/drs.html" class="trending_chip" key="Tag_article_0">DRS</a><a href="/tags/decision-review-system.html" class="trending_chip" key="Tag_article_1">Decision Review System</a><a href="/sports/cricket/icc-world-cup-2015/news" class="trending_chip" key="Tag_article_2">ICC World Cup 2015</a><a href="/tags/cricket-world-cup.html" class="trending_chip" key="Tag_article_3">Cricket World Cup</a><a href="/tags/international-cricket-council.html" class="trending_chip" key="Tag_article_4">International Cricket Council</a><a href="/tags/umpires.html" class="trending_chip" key="Tag_article_5">umpires</a><a href="/tags/decision.html" class="trending_chip" key="Tag_article_6">decision</a><a href="/tags/dubai.html" class="trending_chip" key="Tag_article_7">Dubai</a><a href="/tags/australia.html" class="trending_chip" key="Tag_article_8">Australia</a><a href="/tags/new-zealand.html" class="trending_chip" key="Tag_article_9">New Zealand</a><a href="/tags/lbw.html" class="trending_chip" key="Tag_article_10">LBW</a><a href="/tags/cricket-news.html" class="trending_chip" key="Tag_article_11">cricket news</a><a href="/tags/sports-news.html" class="trending_chip" key="Tag_article_12">sports news</a></div></div></div></div></div></section><div id="read_button"><button>Read More</button></div><script>let readbutton = document.getElementById('read_button');
+            readbutton.addEventListener('click', function () {
+            var element = document.getElementById('Readmore_height');
+            element.classList.remove('contentheight');
+            readbutton.style.display = 'none';
+            });</script><div class="recommended_widget taboola"><div id="taboola-below-article-thumbnails"></div></div></div><div class="col-12 col-md-3 d-none d-lg-block"><span id="right_data"></span><div class="ads-box-300x250 first-ad"><span class="adv_txt">Advertisement</span><div class="ads-placeholder-internal"><div id="_Adslazy_118317"><div><div id="div-gpt-ad-1539257793131-0"></div><script>googletag.cmd.push(function () {googletag.display("div-gpt-ad-1539257793131-0");});</script></div></div></div></div><p class="livetv-heading"><strong>Live Tv</strong></p><div style="height: 186px; width: 100%"><div id="playerContainer" style="background: black; height: 100%; width: 100%"></div></div><div class="ads-box-300x250 first-ad"><span class="adv_txt">Advertisement</span><div class="ads-placeholder-internal"><div id="_Adslazy_118318"><div><div id="div-gpt-ad-1539257878034-0"></div><script>googletag.cmd.push(function () {googletag.display("div-gpt-ad-1539257878034-0");});</script></div></div></div></div><h3 class="section-title">Trending news</h3><div class="small-thumb-list"><div class="article-img"><a href="/india/putin-s-india-policy-decoded-how-moscow-s-friendship-influences-delhi-s-strategic-future-2992162.html" title="How Moscow’s ‘Friendship’ Influences Delhi’s Strategic Future"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872607-dna-4.jpg?im=FitAndFill=(210,120)" class="lazyload" title="How Moscow’s ‘Friendship’ Influences Delhi’s Strategic Future" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/russian-president-vladimir-putin.html" title="Russian President Vladimir Putin">Russian President Vladimir Putin</a></div></div><div class="news_description"><a href="/india/putin-s-india-policy-decoded-how-moscow-s-friendship-influences-delhi-s-strategic-future-2992162.html" title="How Moscow’s ‘Friendship’ Influences Delhi’s Strategic Future">How Moscow’s ‘Friendship’ Influences Delhi’s Strategic Future</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/putin-is-being-hosted-here-inside-delhi-s-rs-170-crore-ultra-luxury-royal-palace-of-the-world-s-richest-man-2992161.html" title="Putin Is Being Hosted Here: Inside Rs 170-Cr Palace Of The World’s Richest Man"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872606-hyderabad-house-putin-delhi.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Putin Is Being Hosted Here: Inside Rs 170-Cr Palace Of The World’s Richest Man" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/putin-india-visit.html" title="Putin India visit">Putin India visit</a></div></div><div class="news_description"><a href="/india/putin-is-being-hosted-here-inside-delhi-s-rs-170-crore-ultra-luxury-royal-palace-of-the-world-s-richest-man-2992161.html" title="Putin Is Being Hosted Here: Inside Rs 170-Cr Palace Of The World’s Richest Man">Putin Is Being Hosted Here: Inside Rs 170-Cr Palace Of The World’s Richest Man</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/putin-india-visit-delhi-traffic-police-issues-advisory-for-dec-5-2992142.html" title="Putin India Visit: Delhi Traffic Police Issues Advisory For Dec 5"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872584-traffic.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Putin India Visit: Delhi Traffic Police Issues Advisory For Dec 5" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/putin-india-visit.html" title="Putin India visit">Putin India visit</a></div></div><div class="news_description"><a href="/india/putin-india-visit-delhi-traffic-police-issues-advisory-for-dec-5-2992142.html" title="Putin India Visit: Delhi Traffic Police Issues Advisory For Dec 5">Putin India Visit: Delhi Traffic Police Issues Advisory For Dec 5</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/reservation-policy-cleared-by-jk-cabinet-sent-to-l-g-omar-abdullah-2992140.html" title="Reservation Policy Cleared By J&K Cabinet, Sent To L-G: Omar Abdullah"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872581-omar-abdulla-2.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Reservation Policy Cleared By J&K Cabinet, Sent To L-G: Omar Abdullah" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/cm-omar-abdullah.html" title="CM Omar Abdullah">CM Omar Abdullah</a></div></div><div class="news_description"><a href="/india/reservation-policy-cleared-by-jk-cabinet-sent-to-l-g-omar-abdullah-2992140.html" title="Reservation Policy Cleared By J&K Cabinet, Sent To L-G: Omar Abdullah">Reservation Policy Cleared By J&K Cabinet, Sent To L-G: Omar Abdullah</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/pm-modi-breaks-protocol-to-receive-putin-drives-russian-president-in-fortuner-in-strategic-messaging-to-west-and-pakistan-2992123.html" title="Modi Breaks Protocol To Receive Putin, Drives Him In Fortuner, Not Limousine"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872565-fortuner-modi-putin.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Modi Breaks Protocol To Receive Putin, Drives Him In Fortuner, Not Limousine" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/narendra-modi.html" title="Narendra Modi">Narendra Modi</a></div></div><div class="news_description"><a href="/india/pm-modi-breaks-protocol-to-receive-putin-drives-russian-president-in-fortuner-in-strategic-messaging-to-west-and-pakistan-2992123.html" title="Modi Breaks Protocol To Receive Putin, Drives Him In Fortuner, Not Limousine">Modi Breaks Protocol To Receive Putin, Drives Him In Fortuner, Not Limousine</a></div></div></div><div class="ads-box-300x250"><div class="ads-placeholder-internal"><div id="_Adslazy_118319"><div><div id="div-gpt-ad-1539605648902-0"></div><script>googletag.cmd.push(function () {googletag.display("div-gpt-ad-1539605648902-0");});</script></div></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/mpcb-shuts-down-19-ready-mix-concrete-plants-in-mumbai-region-to-curb-air-pollution-2992121.html" title="MPCB Shuts Down 19 Ready Mix Concrete Plants In Mumbai To Curb Air Pollution"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872562-mumbai-pollution.jpg?im=FitAndFill=(210,120)" class="lazyload" title="MPCB Shuts Down 19 Ready Mix Concrete Plants In Mumbai To Curb Air Pollution" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/air-pollution.html" title="Air pollution">Air pollution</a></div></div><div class="news_description"><a href="/india/mpcb-shuts-down-19-ready-mix-concrete-plants-in-mumbai-region-to-curb-air-pollution-2992121.html" title="MPCB Shuts Down 19 Ready Mix Concrete Plants In Mumbai To Curb Air Pollution">MPCB Shuts Down 19 Ready Mix Concrete Plants In Mumbai To Curb Air Pollution</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/pakistan-isi-pushes-global-drug-cartels-to-fund-khalistan-revival-indian-agencies-uncover-expanding-network-2992118.html" title="Pakistan's ISI Pushes Global Drug Cartels To Fund Khalistan Revival"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872558-pakistan-flag.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Pakistan's ISI Pushes Global Drug Cartels To Fund Khalistan Revival" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/pakistan.html" title="Pakistan">Pakistan</a></div></div><div class="news_description"><a href="/india/pakistan-isi-pushes-global-drug-cartels-to-fund-khalistan-revival-indian-agencies-uncover-expanding-network-2992118.html" title="Pakistan's ISI Pushes Global Drug Cartels To Fund Khalistan Revival">Pakistan's ISI Pushes Global Drug Cartels To Fund Khalistan Revival</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/election-commission-moves-to-clean-up-bengal-sir-exercise-data-entry-process-2992117.html" title="Election Commission Moves To 'Clean Up' Bengal SIR Exercise Data Entry Process"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872557-election-commission-pti1.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Election Commission Moves To 'Clean Up' Bengal SIR Exercise Data Entry Process" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/west-bengal.html-3" title="West Bengal">West Bengal</a></div></div><div class="news_description"><a href="/india/election-commission-moves-to-clean-up-bengal-sir-exercise-data-entry-process-2992117.html" title="Election Commission Moves To 'Clean Up' Bengal SIR Exercise Data Entry Process">Election Commission Moves To 'Clean Up' Bengal SIR Exercise Data Entry Process</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/consumer-connect/boost-your-health-with-chyawanprash-2992106.html" title="Boost Your Health With Chyawanprash"><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872554-image-6.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Boost Your Health With Chyawanprash" loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/chyawanprash.html" title="chyawanprash">chyawanprash</a></div></div><div class="news_description"><a href="/consumer-connect/boost-your-health-with-chyawanprash-2992106.html" title="Boost Your Health With Chyawanprash">Boost Your Health With Chyawanprash</a></div></div></div><div class="small-thumb-list"><div class="article-img"><a href="/india/where-will-russian-president-putin-stay-in-night-the-presidential-suite-that-costs-2992104.html" title="Where Will Russian President Putin Stay In Night? The ITC Suite That Costs..."><img src="https://english.cdn.zeenews.com/static/public/updated_logos/Zee_Zeenews.svg" data-src="https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2025/12/04/1872552-itc-maurya.jpg?im=FitAndFill=(210,120)" class="lazyload" title="Where Will Russian President Putin Stay In Night? The ITC Suite That Costs..." loading="lazy" height="65" width="114"></img></a></div><div class="100"><div class="layout layout-justify-space-between align-items-center"><div class="article-tag"><a href="/tags/vladimir-putin.html" title="Vladimir Putin">Vladimir Putin</a></div></div><div class="news_description"><a href="/india/where-will-russian-president-putin-stay-in-night-the-presidential-suite-that-costs-2992104.html" title="Where Will Russian President Putin Stay In Night? The ITC Suite That Costs...">Where Will Russian President Putin Stay In Night? The ITC Suite That Costs...</a></div></div></div><div class="recommended_widget"><div id="taboola-right-rail-hybrid-thumbnails"></div></div></div></div></div><div id="schema" style="display:none"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Home","url":"https://zeenews.india.com"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Live TV","url":"https://zeenews.india.com/live-tv"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Latest News","url":"https://zeenews.india.com/latest-news"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"India","url":"https://zeenews.india.com/india"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Videos","url":"https://zeenews.india.com/videos"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Entertainment","url":"https://zeenews.india.com/entertainment"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Cricket","url":"https://zeenews.india.com/cricket"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Photos","url":"https://zeenews.india.com/photos"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Business","url":"https://zeenews.india.com/business"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Bhojpuri","url":"https://zeenews.india.com/bhojpuri"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"World","url":"https://zeenews.india.com/world"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Technology","url":"https://zeenews.india.com/technology"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Bollywood","url":"https://zeenews.india.com/bollywood"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Economy","url":"https://zeenews.india.com/economy"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"States","url":"https://zeenews.india.com/state"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Top News","url":"https://zeenews.india.com/top-news"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Sports","url":"https://zeenews.india.com/sports"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Television","url":"https://zeenews.india.com/television"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Horoscope","url":"https://zeenews.india.com/horoscope"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"City","url":"https://zeenews.india.com/city"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Mumbai","url":"https://zeenews.india.com/mumbai"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Delhi NCR","url":"https://zeenews.india.com/delhi"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Gujarat","url":"https://zeenews.india.com/gujarat"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Bihar","url":"https://zeenews.india.com/bihar"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Haryana","url":"https://zeenews.india.com/haryana"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Jammu and Kashmir","url":"https://zeenews.india.com/jammu-and-kashmir"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Kerala","url":"https://zeenews.india.com/kerala"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Madhya Pradesh","url":"https://zeenews.india.com/madhya-pradesh"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Maharashtra","url":"https://zeenews.india.com/maharashtra"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Rajasthan","url":"https://zeenews.india.com/rajasthan"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"Uttar Pradesh","url":"https://zeenews.india.com/uttar-pradesh"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"#table-of-contents","name":"West Bengal","url":"https://zeenews.india.com/west-bengal"}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"News","item":"https://zeenews.india.com"},{"@type":"ListItem","position":2,"name":"Cricket","item":"https://zeenews.india.com/sports/cricket/news.html"}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"Zee News","legalName":"Zee Media Corporation Ltd","url":"https://zeenews.india.com/","logo":"https://english.cdn.zeenews.com/images/zeenew_600x60_new.png","address":{"@type":"PostalAddress","streetAddress":"Essel Studio FC-19 Film City","addressLocality":"Sector 16A","addressRegion":"Noida","postalCode":"201301","addressCountry":"India"},"contactPoint":{"@type":"ContactPoint","contactType":"customer support","telephone":"[+91-0120-2511064]","email":"inews@zeemedia.esselgroup.com"},"sameAs":["https://www.facebook.com/ZeeNews","https://twitter.com/ZeeNews"]}</script><script type="application/ld+json">{"@context":"https://schema.org/","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@url":"https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html"},"headline":"Controversial DRS to be used in 2015 ICC World Cup","description":"Crickets world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015.","articleBody":"New Delhi: Crickets world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015.DRS has always been opposed by the Indian cricket board (BCCI) over the accuracy of the system and the technology used in reviewing decisions.However, the ICC, during its two-day meeting in Dubai, confirmed that the DRS would be used in all 49 matches during its flagship tournament to be played in Australia and New Zealand.The system was officially used for the first time when New Zealand hosted Pakistan in a Test series in 2009.  It was alos used during the previous World Cup in India with some degree of success. But during an England match in the 2011 World Cup, it received a lot of flak over the dismissal of Ian Bell.Modelled in the review systems used in other sports, like in lawn tennis, DRS has seen amendments made, especially regarding the LBW verdicts.","inLanguage":"en","datePublished":"2015-01-29T08:50:32+05:30","dateModified":"2015-01-29T08:52:03+05:30","image":{"@type":"ImageObject","url":"https://english.cdn.zeenews.com/sites/default/files/2015/01/29/319099-ajinkya-rahaneedged700.jpg?im=Resize=(1200,900)","height":900,"width":1200},"author":{"@type":"Person","name":"Bureau","url":""},"publisher":{"@type":"NewsMediaOrganization","name":"Zee News","logo":{"@type":"ImageObject","url":"https://english.cdn.zeenews.com/images/zeenew_600x60_new.png","width":600,"height":60}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Controversial DRS to be used in 2015 ICC World Cup","description":"Crickets world governing body, International Cricket Council (ICC) confirmed that the controversial Decision Review System (DRS) will be used during the ICC World Cup 2015. DRS has always been opposed by the Indian cricket board (BCCI) over the accuracy of the system and the technology used in revie","url":"https://zeenews.india.com/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html","headline":"Controversial DRS to be used in 2015 ICC World Cup","image":"https://english.cdn.zeenews.com/sites/default/files/2015/01/29/319099-ajinkya-rahaneedged700.jpg?im=Resize=(1200,900)","keywords":"DRS,Decision Review System,ICC World Cup 2015,Cricket World Cup,International Cricket Council,umpires,decision,Dubai,Australia,New Zealand,LBW,cricket news,sports news","publisher":{"@type":"NewsMediaOrganization","name":"ZEE News","url":"https://zeenews.india.com","logo":{"@type":"ImageObject","url":"https://english.cdn.zeenews.com/images/zeenew_600x60_new.png","width":600,"height":60}}}</script></div></section><script src="https://english.cdn.zeenews.com/static/public/jquery-3.4.1.min.js" type="text/javascript"></script><script src="https://english.cdn.zeenews.com/static/public/popper.min.js" type="text/javascript" async="true"></script><script src="https://english.cdn.zeenews.com/static/public/bootstrap.min.js" type="text/javascript" async="true"></script><script type="text/javascript" src="https://english.cdn.zeenews.com/static/public/splide1.min.js" async="true"></script><script data-ad-client="ca-pub-6717584324019958" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="true"></script><style type="text/css">
+            <style type="text/css">
+  #subscribe-now {
+    width: 780px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    overflow: hidden;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  
+  #subscribe-now .subscribe-logo {
+    width: auto;
+    padding-left: 15px;
+    text-align: center;
+  }
+  
+  #subscribe-now img {
+    display: inline-block;
+  }
+  
+  #subscribe-now .subscribe-text {
+    width: auto;
+    padding: 5px 10px;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 5px 0;
+  }
+  
+  #subscribe-now .subscribe-text p span {
+    color: #136b3c;
+  }
+  
+  #subscribe-now .subscribe-text p {
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 1.3;
+    font-weight: 700;
+    color: #ee6721;
+    padding: 0;
+  }
+  
+  #subscribe-now .btn-col {
+    width: auto;
+  }
+  
+  .subscribe-btn {
+    min-width: 129px;
+    font-size: 13px;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 0;
+    color: #fff;
+    font-weight: 700;
+    text-transform: none;
+    background: #919191;
+    background: -moz-linear-gradient(top, #919191 0, #040404 100%);
+    background: -webkit-linear-gradient(top, #919191 0, #040404 100%);
+    background: linear-gradient(to bottom, #919191 0, #040404 100%);
+  }
+  
+  .subscribe-btn:before,
+  .subscribe-btn:focus,
+  .subscribe-btn:focus:before,
+  .subscribe-btn:hover,
+  .subscribe-btn:hover:before {
+    background: #195bca !important;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Modal Styling */
+  #subscribe-modal {
+    z-index: 9999999 !important;
+    position: fixed !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    display: none; 
+  }
+  
+  #subscribe-modal .modal-content {
+    border-radius: 0.5rem;
+    background-color: #f8f8f8;
+    padding: 20px;
+    position: relative;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  #subscribe-modal .modal-header {
+    position: relative;
+  }
+  
+  #subscribe-modal .modal-title {
+    font-weight: 700;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 0 0 8px 15px;
+    margin: 0 0 10px;
+  }
+  
+  #subscribe-modal .modal-title:before {
+    content: '';
+    background: #dc2229;
+    width: 4px;
+    height: 22px;
+    position: absolute;
+    left: 15px;
+    top: 20px;
+  }
+  
+  #subscribe-modal .subscribe-close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    z-index: 5;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 0 0 0 10px;
+    padding: 0;
+    margin: 0;
+    font-weight: 200;
+    opacity: 0.6;
+  }
+  
+  #subscribe-modal .subscribe-form h2 {
+    font-size: 16px;
+    line-height: 1.4;
+    padding: 5px 0 20px;
+    margin: 0;
+    color: #000;
+  }
+  
+  #subscribe-modal .error {
+    color: #dc2229;
+  }
+  
+  #subscribe-modal .subscribe-form .form-control {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  #subscribe-modal .subscribe-form .form-control::placeholder {
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 200;
+  }
+  
+  #subscribe-modal .subscribe-form .form-control:focus {
+    border-color: #ced4da;
+    box-shadow: none;
+  }
+  
+  #subscribe-modal .envelope {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    opacity: 0.2;
+  }
+  
+  #subscribe-modal .subscribe-thanks p {
+    color: #136b3c;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+  }</style><div class="modal fade" id="subscribe-modal" tabindex="-1" aria-labelledby="subscribeModalLabel" aria-hidden="true"><div class="modal-dialog modal-dialog-centered"><div class="modal-content"><div class="modal-body"><h5 class="modal-title" id="subscribeModalLabel">Subscribe Now</h5><button type="button" class="close subscribe-close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button><div class="subscribe-form" style="display:block;"><span class="hybridh2">Enroll for our free updates</span><div class="form-group"><input type="text" class="form-control form-control-lg" aria-describedby="emailHelp" placeholder="Full Name" id="name"></input><small class="form-text error" id="name-error">Please enter full name.</small></div><div class="form-group"><input type="text" class="form-control form-control-lg" placeholder="E-mail" id="email"></input><small class="form-text error" id="email-error">Please enter valid email address.</small></div><div class="form-group" style="margin-bottom: 10px;"><div style="display: flex; align-items: flex-start;"><input type="checkbox" id="tt" name="tt" required="true" style="margin-top: 3px; margin-right: 8px;"></input><label for="tt" style="font-size: 14px; line-height: 1.5; cursor: pointer;">By signing up, I accept the <a href="/terms-conditions" target="_blank">Terms & Conditions</a> and <a href="/privacy-policy" target="_blank">Privacy Policy</a>,  and consent to receive newsletters.</label></div><span class="errormsg" id="tt_error" style="color: red; font-size: 13px;"></span></div><small class="" id="site" hidden="true">https://zeenews.india.com/</small><button type="submit" class="btn subscribe-btn">Subscribe Now</button></div><div class="subscribe-thanks" style="display: none;"><p>Thank you</p></div><div class="envelope"><img src="https://english.cdn.zeenews.com/static/public/subscribe-now-envelope.png" alt="Zee News India.com subscribe now" width="107" height="67"></img></div></div></div></div></div><script type="text/javascript">window.addEventListener('scroll', (event) => {
+                      var script = document.createElement('script');
+                      script.src = 'https://english.cdn.zeenews.com/static/apprun/desktop/v8/js/english/newsLetterSubscription.min.js?v=26.5';
+                      document.body.appendChild(script);
+                    }, { once: true });</script><script type="text/javascript">
+                  window.addEventListener('scroll', (event) => {
+                    var script = document.createElement('script');
+                    script.type = 'text/javascript';
+                    script.src = 'https://platform.twitter.com/widgets.js';
+                    document.body.appendChild(script);
+
+                    var script = document.createElement('script');
+                    script.type = 'text/javascript';
+                    script.src = 'https://www.instagram.com/embed.js';
+                    document.body.appendChild(script);
+                  }, { once: true });
+                </script><script type="text/javascript">window.addEventListener('scroll', (event) => {
+                      var script = document.createElement('script');
+                      script.src = 'https://english.cdn.zeenews.com/static/apprun/desktop/v8/js/english/taboolaArticle.min.js?v=26.5';
+                      document.body.appendChild(script);
+                    }, { once: true });</script><link rel="stylesheet" href="https://english.cdn.zeenews.com/static/apprun/desktop/v10/css/english/cre.min.css?v=30.0" type="text/css" media="print" onload="this.media='all'"></link><script type="text/javascript">window.addEventListener('scroll', (event) => {
+                      var script = document.createElement('script');
+                      script.src = 'https://english.cdn.zeenews.com/static/apprun/desktop/v8/js/english/CRE.min.js?v=26.5';
+                      script.async=true;
+                      document.body.appendChild(script);
+                    }, { once: true });</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=9254297&cv=2.0&cj=1" class="lazyload" fetchpriority="low"></img></noscript><script async="true">window._izq = window._izq || []; window._izq.push(["init"]);</script><script id="sample_id" async="true">
+                   window.addEventListener('load', (event) => {
+                 setTimeout(function(){
+                var script = document.createElement('script');
+                script.src = "https://cdn.izooto.com/scripts/45e029859d5f2f6e53c4fca59d8ecc26e4bdced9.js";
+                document.body.appendChild(script);
+                },
+                7000);
+                })</script><script type="text/javascript" src="https://english.cdn.zeenews.com/static/apprun/js/pwa14.js?v=1" async="true"></script><script src="https://english.cdn.zeenews.com/static/apprun/desktop/v8/js/english/common.min.js?v=26.5" type="text/javascript" async="true"></script><script type="text/javascript">
+            var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "9254297" }); (function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "https://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();</script><script src="//english.cdn.zeenews.com/static/apprun/lazysizes.min.js" async="true"></script><script type="text/javascript">  window.addEventListener('DOMContentLoaded', (event) => {
+                     window._taboola = window._taboola || [];
+                     _taboola.push({article:'auto'});
+                     !function (e, f, u, i) {
+                     if (!document.getElementById(i)){
+                     e.async = 1;
+                     e.src = u;
+                     e.id = i;
+                     f.parentNode.insertBefore(e, f);
+                     }
+                     }(document.createElement('script'),
+                     document.getElementsByTagName('script')[0],
+                     '//cdn.taboola.com/libtrc/zeemedia-zeenews-english/loader.js',
+                     'tb_loader_script');
+                     if(window.performance && typeof window.performance.mark == 'function')
+                     {window.performance.mark('tbl_ic');}}, { once: true })
+                </script><link rel="stylesheet" href="https://english.cdn.zeenews.com/static/apprun/desktop/v10/css/hindi/vjs.min.css?v=30.0" type="text/css" media="print" onload="this.media='all'"></link><script type="text/javascript">
+              window.addEventListener('load', (event) => {
+                var script = document.createElement('script');
+                script.src = 'https://smartplugin.youbora.com/v6/js/adapters/videojs/6.8.0/sp.min.js';
+                script.async = true;
+                document.body.appendChild(script);
+                var script = document.createElement('script');
+                 script.async = true;
+                script.src = 'https://static.vidgyor.com/player/v9/js/vgr_dai_init.min.js';
+                document.body.appendChild(script);
+                setTimeout(function(){
+                  if(document.getElementById("playerContainer") !== null){
+                    window.recognisedDomains = [
+                    "https://s3-ap-southeast-1.amazonaws.com",
+                    "https://static.vidgyor.com",
+                    "https://content.vidgyor.com",
+                    "https://zeenews.india.com",
+                    "https://www.wionews.com",
+                    "https://www.zeebiz.com"
+                    ];
+                    
+                    function getQueryParams(qs) {
+                    qs = qs.split("+").join(" ");
+                    
+                    var params = {},
+                        tokens,
+                        re = /[?&]?([^=]+)=([^&]*)/g;
+                    
+                    while ((tokens = re.exec(qs))) {
+                        params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+                    }
+                    
+                    return params;
+                    }
+                    
+                    function parseParameters(item) {
+                    if (item === "1") {
+                        return true;
+                    }
+                    
+                    if (item === "0") {
+                        return false;
+                    }
+                    return false;
+                    }
+                    
+                    var options = {
+                    videoElemId: "playerContainer",
+                    accountId: "zee",
+                    videoId: 183,
+                    isAutoPlay: "0",
+                    isMute: "0",
+                    posterImageUrl: "",
+                    taptounmute: "0",
+                    disableAds: ""
+                    };
+                    
+                    const optionsFromUrl = getQueryParams(window.location.search);
+                    options.videoId = optionsFromUrl.videoId || options.videoId;
+                    
+                    if (optionsFromUrl.mute !== undefined) {
+                    options.isMute = parseParameters(optionsFromUrl.mute);
+                    }
+                    if (optionsFromUrl.taptounmute !== undefined) {
+                    options.taptounmute = parseParameters(optionsFromUrl.taptounmute);
+                    }
+                    
+                    if (optionsFromUrl.disableAds !== undefined) {
+                    options.disableAds = parseParameters(optionsFromUrl.disableAds);
+                    }
+                    
+                    if (optionsFromUrl.autoplay !== undefined) {
+                    options["isAutoPlay"] = parseParameters(optionsFromUrl.autoplay);
+                    }
+                    
+                    if (optionsFromUrl.pip !== undefined) {
+                    window.pip = parseParameters(optionsFromUrl.pip);
+                    }
+                    
+                    let count = 0;
+                    var interval;
+                    if (optionsFromUrl.piv === "1") {
+                    interval = setInterval(function() {
+                        window.parent.postMessage("readyToRecieveProps", "*");
+                    }, 1000);
+                    window.addEventListener("message", function(event) {
+                       
+                        if (window.recognisedDomains.indexOf(event.origin) > -1) {
+                        messageFromParent = event.data;
+                        if (messageFromParent === "init") {
+                            if (count === 0) {
+                            VIDGYOR.initPlayer(options);
+                            clearInterval(interval);
+                            }
+                            count++;
+                            parent.postMessage("myevent", "*");
+                        }
+                        }
+                    });
+                    } else {
+                    VIDGYOR.initPlayer(options);
+                    
+                    }
+                    var intrvl = setInterval(function() {
+                    if (document.querySelector("#content_video")) {
+                        clearInterval(intrvl);
+                        var player = videojs("content_video")
+                        window.plugin = new youbora.Plugin({
+                        accountCode: 'zeenews'
+                        });
+                        plugin.setOptions({
+                        'content.isLive': true,
+                        'content.title': optionsFromUrl.title || "Zee News",
+                        'extraparam.1': optionsFromUrl.extraParam1 || "Zee News",
+                        'extraparam.2': optionsFromUrl.extraParam2 || "https://zeenews.india.com",
+                        })
+                        plugin.setAdapter(new youbora.adapters.Videojs(player))
+                        
+                        //Global site tag (gtag.js) - Google Analytics
+                        window.dataLayer = window.dataLayer || [];
+                            function gtag(){dataLayer.push(arguments);}
+                            gtag('js', new Date());
+                    
+                    }
+                    }, 100);
+                    
+                    $.fn.inView = function() {
+                    //Window Object
+                    var win = $(window);
+                    //Object to Check
+                    obj = $(this);
+                    //the top Scroll Position in the page
+                    var scrollPosition = win.scrollTop();
+                    //the end of the visible area in the page, starting from the scroll position
+                    var visibleArea = win.scrollTop() + win.height();
+                    //the end of the object to check
+                    var objEndPos = (obj.offset().top + obj.outerHeight());
+                    return (visibleArea >= objEndPos && scrollPosition <= objEndPos ? true : false)
+                    };
+                
+                    $(window).scroll(function() {
+                    // if ($("#playerContainer").inView() && $("#playerContainer button.vjs-play-control").hasClass("vjs-paused")) {
+                    //     $("#playerContainer button.vjs-play-control").trigger('click');
+                    // }
+                
+                    if ($("#playerContainer").inView() == false && $("#playerContainer button.vjs-play-control").hasClass("vjs-playing")) {
+                        $("#playerContainer button.vjs-play-control").trigger('click');
+                    }
+                
+                    // if ($("#playerContainer").inView() && $("#playerContainer button.vjs-play-control").hasClass("vjs-playing") == false) {
+                    //     $("#playerContainer button.vjs-big-play-button").trigger('click');
+                    // }
+                    })
+                  }
+                },1000);
+              })
+            </script><link rel="stylesheet" href="https://english.cdn.zeenews.com/static/apprun/desktop/v10/css/english/cookiePolicyEnglish.min.css?v=30.0" type="text/css" media="print" onload="this.media='all'"></link><div id="google-sso"></div><script src="https://accounts.google.com/gsi/client" defer="true"></script><script async="true">document.addEventListener('DOMContentLoaded', function() {
+            let homePathname,timeoutId;
+            const getAccessToken = new URLSearchParams(window.location.hash.substring(1));
+            const idToken = getAccessToken.get('id_token'); 
+            const userLoginElement = document.querySelector('.google-button');
+            const userLoggedInElement = document.querySelector('.ssoLoggedInCol');
+            const checkBox =document.querySelector('#termsCheck');
+
+            
+            if( window &&  window.location ){
+            if(window.location.pathname == '/login' || window.location.pathname == "/"  || "english" =="english"){
+              homePathname="";
+              }
+              else if(window.location.pathname.length>1){
+                homePathname = "/" + window.location.pathname.split("/")[1];
+              }
+            }  
+            const userNavLogin = document.querySelector('.ssoLoginCol');
+            userNavLogin.href = homePathname + "/login";
+            (function() {
+                if (idToken) {
+                    const cleanedUrl = window.location.origin + window.location.pathname;
+                    window.history.replaceState({}, document.title, cleanedUrl);
+                }
+            })();
+
+            if (idToken) {
+              googleUserHandler(idToken);
+            } else {
+                if (userLoginElement instanceof HTMLElement) {
+                    userLoginElement.addEventListener('click', redirectToGoogleSignIn);
+                }
+            }
+                
+            const userLogoutElement = document.querySelector('.logoutBtn');
+            if (userLogoutElement instanceof HTMLElement) {
+                userLogoutElement.addEventListener('click', logoutGoogle);
+            }
+           
+            function redirectToGoogleSignIn() {
+                const clientId =
+                    '59456282601-afrl20hg5tshhrv6nnbk8nrgb30ctf52.apps.googleusercontent.com';
+                const redirectUri = encodeURIComponent(window &&  window.location ? window.location.origin + homePathname : "");
+                const scope = encodeURIComponent('openid email profile');
+                const state = encodeURIComponent('sso-login');
+                const authUrl =
+                    'https://accounts.google.com/o/oauth2/v2/auth?' +
+                    'client_id=' + clientId +
+                    '&redirect_uri=' + redirectUri +
+                    '&response_type=id_token token' +   
+                    '&scope=' + scope +
+                    '&state=' + state +
+                    '&nonce=' + (new Date().getTime());
+                   
+                 if (checkBox.checked){
+                        window.location.href = authUrl;
+                    } else{
+                       alert('⚠️ Please accept the Terms of Use of the service and Privacy Policy before signing in.');
+                    }
+            }
+            function logoutGoogle() {
+                localStorage.removeItem('userSSO');
+                google.accounts.id.disableAutoSelect();
+                const googleButton = document.getElementById('google-sso');
+                if (googleButton) googleButton.style.display = 'block';
+                const userInitialsElement = document.querySelector('.userInitial');
+                userLoggedInElement.style.display = 'none';
+                userNavLogin.style.display = '';
+                if (userInitialsElement instanceof HTMLElement) {
+                    userInitialsElement.innerText = '';
+                }
+                const userNameElement = document.querySelector('.userName');
+                if (userNameElement instanceof HTMLElement) {
+                    userNameElement.innerText = '';
+                }
+                const userEmailElement = document.querySelector('.userEmailId');
+                if (userEmailElement instanceof HTMLElement) {
+                    userEmailElement.innerText = '';
+                }
+                const ssoContainerDiv = document.querySelector('#google-sso');
+                if (ssoContainerDiv instanceof HTMLElement) {
+                    ssoContainerDiv.style.display = 'none';
+                }
+            }
+
+             function getInitials(name) {
+                if (!name) return '';
+                let words = name.trim().split(' ');
+                return words[0][0].toUpperCase();
+            }
+
+            function isUserLoggedIn() {
+                try {
+                    const user = JSON.parse(localStorage.getItem('userSSO'));
+                    if (user == null || user == undefined) {
+                        document.getElementById('google-sso').style.display = 'none';
+                        userLoggedInElement.style.display = 'none';
+                        userNavLogin.style.display = '';
+                        return false;
+                    } else {
+                        const nameInitials = getInitials(user['name']);
+                        document.querySelector('.userInitial').innerText = nameInitials;
+                        document.querySelector('.userName').innerText =
+                            'Hello, ' + user['name'] + '!';
+                        document.querySelector('.userEmailId').innerText = user['email'];
+                        userLoggedInElement.style.display = '';
+                        userNavLogin.style.display = 'none';
+                        return user && Object.keys(user).length > 0;
+                    }
+                } catch (e) {
+                    document.getElementById('google-sso').style.display = 'none';
+                    userLoggedInElement.style.display = 'none';
+                    userNavLogin.style.display = '';
+                    return false;
+                }
+            }
+
+            function handleCredentialResponse(response) {
+                if (!response || !response.credential) {
+                    console.warn('No credentials received.');
+                    return;
+                }
+                googleUserHandler(response.credential);
+            }
+            async function googleUserHandler(token) {
+                const userObj = {
+                    orgId: "english",
+                    accessToken: token,
+
+                };
+                try {
+                    const response = await fetch(
+                        'https://prod-pkd.project-turbine.in/auth-service/sso', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify(userObj),
+                        }
+                    );
+                    const result = await response.json();
+                    localStorage.setItem('userSSO', JSON.stringify(result));
+                    document.dispatchEvent(new Event('userLoggedIn'));
+                    isUserLoggedIn()
+                } catch (error) {
+                    console.error('Error verifying user:', error);
+                }
+            }
+
+            function initGoogleSignIn() {
+                if (isUserLoggedIn()) {
+                    console.log('User already logged in, hiding sign-in button.');
+                    document.getElementById('google-sso').style.display = 'none';
+                    return;
+                }
+                google.accounts.id.initialize({
+                    client_id: '59456282601-afrl20hg5tshhrv6nnbk8nrgb30ctf52.apps.googleusercontent.com',
+                    callback: handleCredentialResponse,
+                    auto_select: false,
+                    use_fedcm_for_prompt: false,
+                });
+                google.accounts.id.renderButton(document.getElementById('google-sso'), {
+                    type: 'standard',
+                    theme: 'outline',
+                    size: 'large',
+                });
+               const user = JSON.parse(localStorage.getItem('userSSO'));
+                   if (user == null || user == undefined) {
+                        google.accounts.id.prompt();
+                    }
+            }
+            document.addEventListener('userLoggedIn', () => {
+                const googleButton = document.getElementById('google-sso');
+                if (googleButton) googleButton.style.display = 'none';
+                if (timeoutId) {
+                    clearTimeout(timeoutId);
+                    timeoutId = null;
+                }
+            });
+            timeoutId = setTimeout(initGoogleSignIn, 500);
+        });
+      </script><div class="cookiepolicy-wrap" style="display:none" id="cookiepolicy-wrap"><div class="screen-overlay-cookie"></div><div class="cookiepolicy"><div class="container-fluid pl-4 pr-4"><div class="row"><button type="button" class="close hide-cookies" aria-label="Close"><span aria-hidden="true">×</span></button><div class="col-sm-8 col-12"><p id="content"></p> </div><div class="col-sm-4 col-12 text-right"><button id="settingsBtn" data-toggle="modal" data-target="#cookie-modal" class="btn btn-transparent hide-cookies" hidden="true">Cookies Settings</button><button id="rejectBtn" class="btn btn-reject hide-cookies">Reject</button><button id="acceptBtn" class="btn btn-accept-cookies hide-cookies">Accept Cookies</button></div></div></div></div></div><script>document.addEventListener("DOMContentLoaded", function() {
+        var cookieContent = 'By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts';
+       setTimeout(()=>{
+        jQuery("#cookiepolicy-wrap p#content").text(cookieContent);
+       }, 2000)
+    });
+  </script><script id="sample_id" async="true">
+              window.addEventListener('scroll', (event) => {
+                var script = document.createElement('script');
+                script.src = "https://english.cdn.zeenews.com/static/apprun/desktop/v8/js/english/cookiePolicyEnglish.min.js?v=26.5";
+                document.getElementsByTagName('head')[0].appendChild(script);
+              },{once:true})
+            </script><script>
+  setTimeout(() => {
+    // Create script tag
+    const swgScript = document.createElement("script");
+    swgScript.src = "https://news.google.com/swg/js/v1/swg-basic.js";
+    swgScript.async = true;
+ 
+    // Append script to head
+    document.head.appendChild(swgScript);
+ 
+    // When script loads, init
+    swgScript.onload = () => {
+      (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+        basicSubscriptions.init({
+          type: "NewsArticle",
+          isPartOfType: ["Product"],
+          isPartOfProductId: "CAowib-NCw:openaccess",
+          clientOptions: { theme: "light", lang: "en" }
+        });
+      });
+    };
+  }, 50000); // 50 sec
+  </script></body></html> title 76 Controversial DRS to be used in 2015 ICC World Cup | Cricket News | Zee News contentType 9 text/html url 108 https://zeenews.india.com:443/sports/cricket/controversial-drs-to-be-used-in-2015-icc-world-cup_1538054.html responseCode 3 200 

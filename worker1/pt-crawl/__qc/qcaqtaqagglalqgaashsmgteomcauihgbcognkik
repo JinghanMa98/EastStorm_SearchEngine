@@ -1,0 +1,4082 @@
+qcaqtaqagglalqgaashsmgteomcauihgbcognkik page 156202 
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="h-100">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/nihod5__subtheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="https://grants.nih.gov/policy-and-compliance/policy-topics/public-access" />
+<link rel="shortlink" href="https://grants.nih.gov/node/1199" />
+
+    <title>Public Access | Grants &amp; Funding</title>
+    <link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/align.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/fieldgroup.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/container-inline.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/clearfix.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/details.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/hidden.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/item-list.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/js.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/nowrap.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/position-container.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/reset-appearance.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/resize.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-counter.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-counters.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-general-info.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/tablesort.module.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/layouts/layout_discovery/onecol/onecol.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/core/assets/vendor/normalize-css/normalize.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/action-links.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/breadcrumb.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/container-inline.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/details.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/exposed-filters.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/field.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/form.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/icons.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/inline-form.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/item-list.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/links.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/menu.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/more-link.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/pager.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/tabledrag.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/tableselect.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/tablesort.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/textarea.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/ui-dialog.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/messages.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/bootstrap5/css/components/node.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="//cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" />
+<link rel="stylesheet" media="all" href="/themes/nihod5/css/style.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/nihod5__subtheme/css/style.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/nihod5__subtheme/css/style-custom.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/nihod5__subtheme/css/navigation.css?t6r9rg" />
+<link rel="stylesheet" media="all" href="/themes/nihod5__subtheme/css/legacy_style.css?t6r9rg" />
+
+
+    <!-- GTM -->
+    <!-- ADDED ON 05/01/2023 -->
+    <!-- All services and snippets (AKA tags) have been removed from this file -->
+    <!-- They are handled in the ralated container in Google Tag Manger -->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T2DH393N');</script>
+    <!-- End Google Tag Manager -->
+
+    
+  </head>
+  <body class="page-node-1199 path-node page-node-type-page   d-flex flex-column h-100">
+        <div class="visually-hidden-focusable skip-link p-3 container">
+      <a href="#main-content" class="p-2">
+        Skip to main content
+      </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    <style>
+  #us-banner [aria-expanded="true"] + i:before {
+    content: "\F286";
+  }
+</style>
+<small id="us-banner" 
+  class="py-1 bg-light"
+  aria-label="Official government website"
+>
+  <div class="container my-0 p-4 px-lg-0 py-0">
+    <div class="row row-cols-2 flex-column-reverse flex-lg-row justify-content-between">
+      <div class="w-auto">
+        <img
+          src="/themes/nihod5/img/us_flag_small.png"
+          alt="US Flag Icon"
+          width="16"
+          height="11"
+        />
+        An official website of the United States government
+        <a
+          class="btn-link link-primary text-decoration-underline ms-2 collapsed"
+          data-bs-toggle="collapse"
+          href="#collapseUsaBanner"
+          data-label="Expand/Collapse USWDS Website Header"
+          role="button"
+          aria-expanded="false"
+          aria-controls="collapseUsaBanner"
+        >
+          Here's how you know
+        </a>
+        <i class="ms-2 bi bi-chevron-down"></i>
+      </div>
+      <div class="d-none d-md-block text-xl-end w-auto">
+        <a href="https://www.hhs.gov/" target="_blank"
+          >U.S. Department of Health and Human Services</a
+        >
+        |
+        <a href="https://www.nih.gov/" target="_blank"
+          >National Institutes of Health</a
+        >
+      </div>
+    </div>
+  </div>
+  <div class="container my-0 p-4 px-lg-0 py-0 collapse" id="collapseUsaBanner">
+    <div class="row row-cols-1 row-cols-lg-2 py-5">
+      <div class="align-items-start d-flex w-auto">
+        <img
+          class="me-3"
+          src="/themes/nihod5/img/icon-dot-gov.svg"
+          role="img"
+          alt=".GOV Icon"
+          aria-hidden="true"
+          style="width: 2.5rem"
+        />
+        <div>
+          <strong> Official websites use .gov </strong><br />
+          A <strong>.gov</strong> website belongs to an official government<br />
+          organization in the United States.
+        </div>
+      </div>
+      <div class="align-items-start d-flex ms-lg-5 mt-3 mt-lg-0">
+        <img
+          class="me-3"
+          src="/themes/nihod5/img/icon-https.svg"
+          role="img"
+          alt="HTTPS Icon"
+          aria-hidden="true"
+          style="width: 2.5rem"
+        />
+        <div>
+          <strong> Secure .gov websites use HTTPS </strong><br />
+          A <strong>lock</strong> (&#128274;) or <strong>https://</strong> means you've safely connected to the .gov website.<br class="d-none d-lg-block">Share sensitive information only on official, secure websites.
+        </div>
+      </div>
+    </div>
+  </div>
+</small>
+
+
+
+<header class="shadow border-bottom">
+    <div class="region region-header">
+    
+<div id="block-nihod5-subtheme-frontendbanners" class="block block-block-content block-block-content-92a077f5-a678-4324-9084-31d5d9c1b7b9">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div id="redirect-banner" class="alert rounded-0 d-flex bg-info bg-opacity-50 alert-dismissible px-3 px-lg-5 mb-0 d-none" role="alert">
+    <div class="d-flex">
+        <i class="bi bi-exclamation-triangle-fill me-3 h4"></i>
+        <div>
+            <h5><strong>Redirect Notice</strong></h5>
+            It looks like you have reached this page through a <em>permanent</em> redirect. Please update your links/bookmarks to the new URL.
+        </div>
+    </div>
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div></div>
+      
+  </div>
+
+  </div>
+
+
+    <nav class="navbar navbar-expand-lg   ">
+    <div class="container my-0 p-4 px-lg-0 justify-content-center">
+      <div class="row row-cols-auto align-items-center w-100">
+        <div class="flex-grow-1 ps-0">  <div class="region region-nav-branding">
+    
+<div id="block-nihod5-subtheme-branding" class="block block-system block-system-branding-block">
+  
+    
+  <div class="d-flex align-items-center">
+
+    <a href="/" title="Home" rel="home" class="site-logo d-block w-100">
+    <img src="/sites/default/files/grants-funding--logo-default.svg" alt="NIH Grants and Funding" style="max-width: 330px;" />
+  </a>
+  
+  <div>
+    
+      </div>
+</div>
+</div>
+
+  </div>
+</div>
+
+        <button class="navbar-toggler collapsed py-2 me-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSearchBar" aria-controls="navbarSearchBar" aria-expanded="false" aria-label="Toggle navigation">
+          <i class="bi bi-search"></i>
+        </button>
+
+        <button class="navbar-toggler py-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+          <i class="bi bi-list"></i>
+        </button>
+
+        <div class="collapse navbar-collapse justify-content-end p-0" id="navbarSearchBar">
+          <!-- This extra div is needed to prevent collapse animation glitches on padding and margin -->
+          <div class="mt-3 mt-lg-0">
+              <div class="region region-nav-additional">
+    
+<div id="block-nihod5-subtheme-frontendcustomsearch" class="block block-block-content block-block-content-4d380230-e015-4afc-827e-bc20a5805e3f">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!--
+    [AVK] -- TO DO
+    Emrul, I removed all the ID attributes as the name attributes are the only things needed to handle a form submission
+    but feel free to adjust this snippet with whatever is needed to make it work.
+-->
+<form action="//search.usa.gov/search" method="get" accept-charset="UTF-8" autocomplete="off" target="_blank">
+    <input name="utf8" type="hidden" value="✓">
+  	<input name="affiliate" type="hidden" value="grants.nih.gov">
+    <div class="input-group">
+        <input class="form-search form-control rounded-0 py-1" title="Enter the terms you wish to search for" placeholder="Search this Site" type="search" name="query" value="" maxlength="128" aria-label="Search button (required)" aria-required="true" autocomplete="off" required="">
+      	<button class="input-group-text btn btn-primary px-3 py-1" type="submit" title="Search"><i class="bi bi-search"></i></button>
+    </div>
+</form></div>
+      
+  </div>
+<nav role="navigation" aria-labelledby="block-nihod5-subtheme-tools-menu" id="block-nihod5-subtheme-tools" class="block block-menu navigation menu--tools">
+            
+  <h5 class="visually-hidden" id="block-nihod5-subtheme-tools-menu">Tools</h5>
+  
+
+        
+
+              <ul data-block="nav_additional" block="block-nihod5-subtheme-tools" class="nav navbar-nav mt-2 ms-lg-5 d-none d-xl-flex justify-content-end" style="font-size: .9rem;">
+              
+                    
+      <li class="nav-item">
+        <a href="https://www.era.nih.gov/" class="nav-link px-3 py-0 border-end ps-0">eRA</a>
+      </li>
+
+          
+                    
+      <li class="nav-item">
+        <a href="/grants/glossary.htm" class="nav-link px-3 py-0 border-end" data-drupal-link-system-path="node/33">Glossary</a>
+      </li>
+
+          
+                    
+      <li class="nav-item">
+        <a href="/faqs" class="nav-link px-3 py-0 border-end" data-drupal-link-system-path="node/1065">FAQs</a>
+      </li>
+
+          
+                    
+      <li class="nav-item">
+        <a href="/help" class="nav-link px-3 py-0 pe-0 text-danger" data-drupal-link-system-path="node/372">Help</a>
+      </li>
+
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </nav>
+
+  <div class="collapse show" id="navbarSupportedContent">
+    <div class="bg-primary">
+        <div class="region region-nav-main">
+    <nav role="navigation" aria-labelledby="block-nihod5-subtheme-main-navigation-menu" id="block-nihod5-subtheme-main-navigation" class="block block-menu navigation menu--main">
+            
+  <h5 class="visually-hidden" id="block-nihod5-subtheme-main-navigation-menu">Main navigation</h5>
+  
+
+        
+
+  
+            <ul class="container p-0 ps-lg-0 navbar-nav flex-column flex-lg-row flex-wrap justify-content-around text-white menu-level-0">
+                
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static d-lg-block flex-grow-1">
+    
+                <a href="/new-to-nih" title="As you begin your journey in search of NIH grant funding, the information in this section can help you understand the structure of NIH and why it’s important to successfully navigate the grants process." class="nav-link position-relative px-0 btn btn-primary rounded-0 text-lg-center text-uppercase fw-bold me-0 py-2 px-3 py-lg-3 d-flex justify-content-lg-around" data-drupal-link-system-path="node/83">New to NIH</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static d-lg-block flex-grow-1">
+    
+          
+      
+                      <a href="/funding" title="As the largest public funder of biomedical research in the world, NIH supports a variety of programs from grants and contracts to loan repayment. Learn about assistance programs, how to identify a potential funding organization, and past NIH funding." class="nav-link position-relative px-0 btn btn-primary rounded-0 text-lg-center text-uppercase fw-bold me-0 py-2 px-3 py-lg-3 d-flex collapsed justify-content-between d-lg-block" data-bs-toggle="collapse" data-bs-target="#Funding" aria-expanded="false" data-drupal-link-system-path="node/23">        Funding <i class="bi bi-caret-down-fill"></i>
+      </a>
+        <div>
+          <div class="container-fluid rounded-0 w-100 start-0 bg-white text-black shadow position-absolute collapse z-3" id="Funding" data-bs-parent="#block-nihod5-subtheme-main-navigation">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-lg-6 px-4 p-lg-5">
+                  <strong class="h4 d-none d-lg-block text-secondary">Funding</strong>
+                  <p class="d-none d-lg-block">As the largest public funder of biomedical research in the world, NIH supports a variety of programs from grants and contracts to loan repayment. Learn about assistance programs, how to identify a potential funding organization, and past NIH funding.</p>
+                                    <a href="/funding" title="As the largest public funder of biomedical research in the world, NIH supports a variety of programs from grants and contracts to loan repayment. Learn about assistance programs, how to identify a potential funding organization, and past NIH funding." class="btn btn-block btn-primary ms-0 my-3 my-lg-0 px-4" data-drupal-link-system-path="node/23">Explore Funding</a>
+                </div>
+                <div class="col-12 col-lg-6 px-4 pb-3 p-lg-5 ps-lg-0">
+                  <div class="border-start ps-4">
+                      
+            <ul class="bg-white p-0 start-0 ps-lg-5 border-lg-start border-light h-100 menu-level-1">
+                
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/funding/explore-nih-opportunities" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1279">Explore NIH Grant Opportunities</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/funding/funding-categories" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/21">Funding Categories</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/funding/find-a-fit-for-your-research" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1271">Find a Fit for Your Research</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/funding/explore-data-on-funded-projects" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/24">Explore Who and What NIH Funds</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/funding/nih-guide-for-grants-and-contracts" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/45">NIH Guide for Grants and Contracts</a>
+      </li>
+
+        </ul>
+  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static d-lg-block flex-grow-1">
+    
+          
+      
+                      <a href="/grants-process" title="Take time to learn about each step in the grants process from planning to apply through developing and submitting your application to award and post-award reporting." class="nav-link position-relative px-0 btn btn-primary rounded-0 text-lg-center text-uppercase fw-bold me-0 py-2 px-3 py-lg-3 d-flex collapsed justify-content-between d-lg-block" data-bs-toggle="collapse" data-bs-target="#GrantsProcess" aria-expanded="false" data-drupal-link-system-path="node/49">        Grants Process <i class="bi bi-caret-down-fill"></i>
+      </a>
+        <div>
+          <div class="container-fluid rounded-0 w-100 start-0 bg-white text-black shadow position-absolute collapse z-3" id="GrantsProcess" data-bs-parent="#block-nihod5-subtheme-main-navigation">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-lg-6 px-4 p-lg-5">
+                  <strong class="h4 d-none d-lg-block text-secondary">Grants Process</strong>
+                  <p class="d-none d-lg-block">Take time to learn about each step in the grants process from planning to apply through developing and submitting your application to award and post-award reporting.</p>
+                                    <a href="/grants-process" title="Take time to learn about each step in the grants process from planning to apply through developing and submitting your application to award and post-award reporting." class="btn btn-block btn-primary ms-0 my-3 my-lg-0 px-4" data-drupal-link-system-path="node/49">Explore Grants Process</a>
+                </div>
+                <div class="col-12 col-lg-6 px-4 pb-3 p-lg-5 ps-lg-0">
+                  <div class="border-start ps-4">
+                      
+            <ul class="bg-white p-0 start-0 ps-lg-5 border-lg-start border-light h-100 menu-level-1">
+                
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/grants-process/plan-to-apply" title="Plan ahead, assess funding opportunities, and take other early steps. Learn to work with your organization, assess resources and teammates, identify a funding opportunity, check application policies, and lay out your timeline." class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1073">Plan to Apply</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/grants-process/write-application" title="Find the official grant application instructions, preview application forms, get advice on grant writing, check out     sample grant applications, and read our tips on specific application attachments and sections." class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/670">Write Application</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/grants-process/submit" title="Learn about the steps you must take after filling out your application forms to complete the submission process, how NIH checks your application for completeness prior to review, and NIH submission policies." class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/43">Submit</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/grants-process/review" title="What happens between the time you submit the application and NIH lets you know you will be funded? Learn more about receipt and referral and NIH’s peer review process." class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1082">Review</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/grants-process/award" title="When NIH awards a grant, we are formalizing our partnership with the recipient to ensure compliance with federal laws, regulations and policies." class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1083">Award</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/grants-process/post-award-monitoring-and-reporting" title="If your organization is the recipient of a grant from the NIH, you will need to pay close attention to the terms of award to be successful stewards of federal funds. Learn about reporting and monitoring requirements." class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/349">Post-Award Monitoring and Reporting</a>
+      </li>
+
+        </ul>
+  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static d-lg-block flex-grow-1">
+    
+          
+      
+                      <a href="/policy-and-compliance" title="By accepting a grant award, recipients agree to comply with the requirements in the NIH Grants Policy Statement unless the notice of award states otherwise." class="nav-link position-relative px-0 btn btn-primary rounded-0 text-lg-center text-uppercase fw-bold me-0 py-2 px-3 py-lg-3 d-flex collapsed justify-content-between d-lg-block bg-gradient shadow" data-bs-toggle="collapse" data-bs-target="#PolicyCompliance" aria-expanded="false" data-drupal-link-system-path="node/3">        Policy &amp; Compliance <i class="bi bi-caret-down-fill"></i>
+      </a>
+        <div>
+          <div class="container-fluid rounded-0 w-100 start-0 bg-white text-black shadow position-absolute collapse z-3" id="PolicyCompliance" data-bs-parent="#block-nihod5-subtheme-main-navigation">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-lg-6 px-4 p-lg-5">
+                  <strong class="h4 d-none d-lg-block text-secondary">Policy &amp; Compliance</strong>
+                  <p class="d-none d-lg-block">By accepting a grant award, recipients agree to comply with the requirements in the NIH Grants Policy Statement unless the notice of award states otherwise.</p>
+                                    <a href="/policy-and-compliance" title="By accepting a grant award, recipients agree to comply with the requirements in the NIH Grants Policy Statement unless the notice of award states otherwise." class="btn btn-block btn-primary ms-0 my-3 my-lg-0 px-4" data-drupal-link-system-path="node/3">Explore Policy &amp; Compliance</a>
+                </div>
+                <div class="col-12 col-lg-6 px-4 pb-3 p-lg-5 ps-lg-0">
+                  <div class="border-start ps-4">
+                      
+            <ul class="bg-white p-0 start-0 ps-lg-5 border-lg-start border-light h-100 menu-level-1">
+                
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies" title="Added text for Jan 25 changes" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/188">Implementation of New Initiatives and Policies</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/policy-and-compliance/nihgps" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/216">Grants Policy Statement</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/policy-and-compliance/notice-of-policy-changes" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="policy-and-compliance/notice-of-policy-changes">Notices of Policy Changes</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/policy-and-compliance/compliance-and-oversight" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/259">Compliance &amp; Oversight</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/policy-and-compliance/policy-topics" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1075">Policy Topics</a>
+      </li>
+
+        </ul>
+  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static d-lg-block flex-grow-1">
+    
+          
+      
+                      <a href="/news-events" title="Get the &quot;scoop&quot; on the latest news related to the NIH grant application and award processes, grants policy, research funding and biomedical workforce analyses, and more." class="nav-link position-relative px-0 btn btn-primary rounded-0 text-lg-center text-uppercase fw-bold me-0 py-2 px-3 py-lg-3 d-flex collapsed justify-content-between d-lg-block" data-bs-toggle="collapse" data-bs-target="#NewsEvents" aria-expanded="false" data-drupal-link-system-path="news-events">        News &amp; Events <i class="bi bi-caret-down-fill"></i>
+      </a>
+        <div>
+          <div class="container-fluid rounded-0 w-100 start-0 bg-white text-black shadow position-absolute collapse z-3" id="NewsEvents" data-bs-parent="#block-nihod5-subtheme-main-navigation">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-lg-6 px-4 p-lg-5">
+                  <strong class="h4 d-none d-lg-block text-secondary">News &amp; Events</strong>
+                  <p class="d-none d-lg-block">Get the &quot;scoop&quot; on the latest news related to the NIH grant application and award processes, grants policy, research funding and biomedical workforce analyses, and more.</p>
+                                    <a href="/news-events" title="Get the &quot;scoop&quot; on the latest news related to the NIH grant application and award processes, grants policy, research funding and biomedical workforce analyses, and more." class="btn btn-block btn-primary ms-0 my-3 my-lg-0 px-4" data-drupal-link-system-path="news-events">Explore News &amp; Events</a>
+                </div>
+                <div class="col-12 col-lg-6 px-4 pb-3 p-lg-5 ps-lg-0">
+                  <div class="border-start ps-4">
+                      
+            <ul class="bg-white p-0 start-0 ps-lg-5 border-lg-start border-light h-100 menu-level-1">
+                
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/news-events/calendar-of-events" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="news-events/calendar-of-events">Calendar of Events</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/news-events/nih-extramural-nexus-news" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="news-events/nih-extramural-nexus-news">NIH Extramural Nexus (News)</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/news-events/on-demand-event-resources" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/335">On-Demand Event Resources</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/news-events/subscribe-follow" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/1118">Subscribe and Follow</a>
+      </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/news-events/podcasts" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/712">Podcasts</a>
+      </li>
+
+        </ul>
+  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            </li>
+
+            
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static d-lg-block flex-grow-1">
+    
+          
+      
+                      <a href="/aboutoer" title="Office of Extramural Research (OER) provides the corporate framework for NIH research administration, ensuring scientific integrity, public accountability, and effective stewardship of the NIH extramural research portfolio." class="nav-link position-relative px-0 btn btn-primary rounded-0 text-lg-center text-uppercase fw-bold me-0 py-2 px-3 py-lg-3 d-flex collapsed justify-content-between d-lg-block" data-bs-toggle="collapse" data-bs-target="#AboutUs" aria-expanded="false" data-drupal-link-system-path="node/597">        About Us <i class="bi bi-caret-down-fill"></i>
+      </a>
+        <div>
+          <div class="container-fluid rounded-0 w-100 start-0 bg-white text-black shadow position-absolute collapse z-3" id="AboutUs" data-bs-parent="#block-nihod5-subtheme-main-navigation">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 col-lg-6 px-4 p-lg-5">
+                  <strong class="h4 d-none d-lg-block text-secondary">About Us</strong>
+                  <p class="d-none d-lg-block">Office of Extramural Research (OER) provides the corporate framework for NIH research administration, ensuring scientific integrity, public accountability, and effective stewardship of the NIH extramural research portfolio.</p>
+                                    <a href="/aboutoer" title="Office of Extramural Research (OER) provides the corporate framework for NIH research administration, ensuring scientific integrity, public accountability, and effective stewardship of the NIH extramural research portfolio." class="btn btn-block btn-primary ms-0 my-3 my-lg-0 px-4" data-drupal-link-system-path="node/597">Explore About Us</a>
+                </div>
+                <div class="col-12 col-lg-6 px-4 pb-3 p-lg-5 ps-lg-0">
+                  <div class="border-start ps-4">
+                      
+            <ul class="bg-white p-0 start-0 ps-lg-5 border-lg-start border-light h-100 menu-level-1">
+                
+    
+  
+  <li class="nav-item d-flex flex-wrap flex-column position-static mb-2">
+    
+                <a href="/aboutoer/oer-offices" class="1 nav-link position-relative px-0 py-2 py-lg-1 fw-bold" data-drupal-link-system-path="node/514">OER Offices</a>
+      </li>
+
+        </ul>
+  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            </li>
+
+        </ul>
+  
+
+
+
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+  </header>
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+  
+  
+  
+  <div class="container my-0 p-4 px-lg-0">
+            <div class="region region-breadcrumb">
+    
+<div id="block-nihod5-subtheme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav aria-label="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+                  <a href="/">Home</a>
+              </li>
+          <li class="breadcrumb-item">
+                  <a href="/policy-and-compliance">Policy &amp; Compliance</a>
+              </li>
+          <li class="breadcrumb-item">
+                  <a href="/policy-and-compliance/policy-topics">Policy Topics</a>
+              </li>
+          <li class="breadcrumb-item">
+                  Public Access
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+        <div class="row">
+              <div class="order-2 order-lg-1 d-none d-lg-block col-lg-3">
+            <div class="region region-sidebar-first p-0">
+    <nav role="navigation" aria-labelledby="block-nihod5-subtheme-mainnavigation-menu" id="block-nihod5-subtheme-mainnavigation" class="block block-menu navigation menu--main">
+            
+  <h5 class="visually-hidden" id="block-nihod5-subtheme-mainnavigation-menu">Main navigation (Sidebar Template)</h5>
+  
+
+        
+
+
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="navbar-nav">
+            
+    
+  
+
+            
+    
+  
+
+            
+    
+  
+
+            
+    
+      
+      <li class="level-0 py-0 px-0 border-0 dropdown">
+        
+        
+        <a href="/policy-and-compliance" title="Expand menu Policy &amp; Compliance" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center nav-link fs-5 mb-3 border-bottom border-3 border-primary fw-bold" role="button" data-drupal-link-system-path="node/3">Policy &amp; Compliance</a>
+        <div class="d-block">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush">
+            
+    
+      
+      <li class="level-1 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies" title="Expand menu Implementation of New Initiatives and Policies" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center fw-bold" role="button" data-drupal-link-system-path="node/188">          Implementation of New Initiatives and Policies <i class="bi bi-caret-right-fill me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies/nih-grants-and-funding-information-status" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Grants and Funding Information Status" data-drupal-link-system-path="node/1192">NIH Grants and Funding Information Status</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies/common-forms-for-biosketch" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Common Forms for Biographical Sketch and Current and Pending (Other) Support" data-drupal-link-system-path="node/528">Common Forms for Biographical Sketch and Current and Pending (Other) Support</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://grants.nih.gov/policy-and-compliance/policy-topics/peer-review/simplifying-review" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Simplified Review Framework for Most Research Project Grants (RPGs) ">Simplified Review Framework for Most Research Project Grants (RPGs) </a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://grants.nih.gov/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Revisions to the NIH Fellowship Application and Review Process ">Revisions to the NIH Fellowship Application and Review Process </a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies/updates-to-finding-nih-funding-opportunities-and-information" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Updates to Finding NIH Funding Opportunities and Information" data-drupal-link-system-path="node/1263">Updates to Finding NIH Funding Opportunities and Information</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies/updates-to-training-grants" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Updates to NIH Institutional Training Grant Applications" data-drupal-link-system-path="node/727">Updates to NIH Institutional Training Grant Applications</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://grants.nih.gov/grants-process/write-application/advice-on-application-sections/reference-letters" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Reference Letters">Reference Letters</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/implementation-of-new-initiatives-and-policies/updated-forms-I-instructions" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Updated Application Forms and Instructions (FORMS-I)" data-drupal-link-system-path="node/96">Updated Application Forms and Instructions (FORMS-I)</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-1 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/nihgps" class="dropdown-item py-2 ps-2 text-wrap fw-bold" role="button" title="Expand menu Grants Policy Statement" data-drupal-link-system-path="node/216">Grants Policy Statement</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-1 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/notice-of-policy-changes" class="dropdown-item py-2 ps-2 text-wrap fw-bold" role="button" title="Expand menu Notices of Policy Changes" data-drupal-link-system-path="policy-and-compliance/notice-of-policy-changes">Notices of Policy Changes</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-1 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/compliance-and-oversight" class="dropdown-item py-2 ps-2 text-wrap fw-bold" role="button" title="Expand menu Compliance &amp; Oversight" data-drupal-link-system-path="node/259">Compliance &amp; Oversight</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-1 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center fw-bold" role="button" title="Expand menu Policy Topics" data-drupal-link-system-path="node/1075">          Policy Topics <i class="bi bi-caret-down-fill me-24"></i>
+        </a>
+        <div class="d-block">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://olaw.nih.gov/" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Animal Welfare">Animal Welfare</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Animals in NIH Research" data-drupal-link-system-path="node/458">          Animals in NIH Research <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air/why-animals-are-used-in-research" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Why Animals are Used in Research" data-drupal-link-system-path="node/361">Why Animals are Used in Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air/how-animals-help" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu How Animals Have Helped Improve Public Health" data-drupal-link-system-path="node/841">How Animals Have Helped Improve Public Health</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air/adoption" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Adoption of Laboratory Animals after Research" data-drupal-link-system-path="node/647">Adoption of Laboratory Animals after Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air/properly-designed-experiments" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Why Properly Designed Experiments are Critical to Animal Research and Advancing Public Health" data-drupal-link-system-path="node/821">Why Properly Designed Experiments are Critical to Animal Research and Advancing Public Health</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air/how-nih-ensures" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Ensuring the Care of Research Animals" data-drupal-link-system-path="node/631">Ensuring the Care of Research Animals</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/air/alternatives" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu When Are Alternatives to Animals Used in Research" data-drupal-link-system-path="node/880">When Are Alternatives to Animals Used in Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Clinical Trial Requirements for Grants and Contracts" data-drupal-link-system-path="node/434">          Clinical Trial Requirements for Grants and Contracts <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/definition" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH&#039;s Definition of a Clinical Trial" data-drupal-link-system-path="node/728">NIH&#039;s Definition of a Clinical Trial</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/ct-decision" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Decision Tool: Does Your Human Subjects Study Meet the NIH Definition of a Clinical Trial?" data-drupal-link-system-path="node/711">Decision Tool: Does Your Human Subjects Study Meet the NIH Definition of a Clinical Trial?</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/besh" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Basic Experimental Studies Involving Humans (BESH)" data-drupal-link-system-path="node/402">Basic Experimental Studies Involving Humans (BESH)</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/specific-funding-opportunities" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Clinical Trial-Specific Funding Opportunities" data-drupal-link-system-path="node/525">Clinical Trial-Specific Funding Opportunities</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/review-criteria" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Clinical Trial-Specific Review Criteria" data-drupal-link-system-path="node/287">Clinical Trial-Specific Review Criteria</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/good-clinical-training" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Good Clinical Practice Training" data-drupal-link-system-path="node/386">Good Clinical Practice Training</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://www.era.nih.gov/help-tutorials/hss" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Human Subjects System">Human Subjects System</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/new-human-subject-clinical-trial-info-form" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Human Subjects and Clinical Trials Information Form" data-drupal-link-system-path="node/94">Human Subjects and Clinical Trials Information Form</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/informedconsent" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Posting Clinical Trial Informed Consent Forms" data-drupal-link-system-path="node/346">Posting Clinical Trial Informed Consent Forms</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/protocol-template" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Protocol Templates for Clinical Trials" data-drupal-link-system-path="node/427">Protocol Templates for Clinical Trials</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/reporting" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Requirements for Registering &amp; Reporting NIH-Funded Clinical Trials" data-drupal-link-system-path="node/298">          Requirements for Registering &amp; Reporting NIH-Funded Clinical Trials <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/reporting/nih-policy" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Policy on the Dissemination of NIH-Funded Clinical Trial Information" data-drupal-link-system-path="node/885">NIH Policy on the Dissemination of NIH-Funded Clinical Trial Information</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/reporting/steps" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Steps to Compliance for NIH Awardees" data-drupal-link-system-path="node/896">Steps to Compliance for NIH Awardees</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/reporting/understanding" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Policy and Regulation on ClinicalTrials.gov Registration and Reporting" data-drupal-link-system-path="node/452">Policy and Regulation on ClinicalTrials.gov Registration and Reporting</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/why-changes" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Information about NIH Clinical Trial Stewardship" data-drupal-link-system-path="node/579">Information about NIH Clinical Trial Stewardship</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/clinical-trials/training-resources" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Training &amp; Resources for NIH Clinical Trial Policies" data-drupal-link-system-path="node/873">Training &amp; Resources for NIH Clinical Trial Policies</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/federal-funding" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Communicating, and Acknowledging Federal Funding" data-drupal-link-system-path="node/112">Communicating, and Acknowledging Federal Funding</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Early Stage Investigator Policies" data-drupal-link-system-path="node/758">          Early Stage Investigator Policies <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/policy" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Early Stage Investigators Policy" data-drupal-link-system-path="node/260">NIH Early Stage Investigators Policy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/determining-status" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Determining Early Stage Investigator (ESI) Status" data-drupal-link-system-path="node/215">Determining Early Stage Investigator (ESI) Status</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/extensions" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Early Stage Investigator Extensions" data-drupal-link-system-path="node/281">Early Stage Investigator Extensions</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/related-data" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Early Stage Investigator Related Data" data-drupal-link-system-path="node/690">Early Stage Investigator Related Data</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/history" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu History of NIH Support for Early Career Investigators" data-drupal-link-system-path="node/470">History of NIH Support for Early Career Investigators</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/notices-laws-statements" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Related Notices, Laws, Statements and Reports" data-drupal-link-system-path="node/285">Related Notices, Laws, Statements and Reports</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/early-stage-investigators/list-smaller-grants" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu List of Smaller Grants &amp; Awards that Maintain ESI Status" data-drupal-link-system-path="node/907">List of Smaller Grants &amp; Awards that Maintain ESI Status</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/nih-family-friendly-initiative" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Family-Friendly Initiatives" data-drupal-link-system-path="node/665">Family-Friendly Initiatives</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/fcoi" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Financial Conflict of Interest" data-drupal-link-system-path="node/831">          Financial Conflict of Interest <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/fcoi/fcoi-training" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu FCOI Training" data-drupal-link-system-path="node/390">FCOI Training</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/fcoi/important-highlights" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Important Highlights of FCOI Regulatory Requirements for Foreign Institutions" data-drupal-link-system-path="node/312">Important Highlights of FCOI Regulatory Requirements for Foreign Institutions</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/fcoi/guide-notices" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Guide Notices Related to Financial Conflict of Interest" data-drupal-link-system-path="node/786">NIH Guide Notices Related to Financial Conflict of Interest</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Foreign Interference" data-drupal-link-system-path="node/447">          Foreign Interference <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference/about-foreign-interference" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu About Foreign Interference" data-drupal-link-system-path="node/326">About Foreign Interference</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference/requirements-for-disclosure" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Requirements for Disclosure of Other Support, Foreign Components and Conflicts of Interest" data-drupal-link-system-path="node/496">Requirements for Disclosure of Other Support, Foreign Components and Conflicts of Interest</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference/handling-allegations" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Process for Handling Allegations Related to Foreign Interference" data-drupal-link-system-path="node/668">Process for Handling Allegations Related to Foreign Interference</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference/notices-statements-reports" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Notices, Statements, and Reports" data-drupal-link-system-path="node/564">Notices, Statements, and Reports</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference/case-studies" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Case Studies" data-drupal-link-system-path="node/627">Case Studies</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/foreign-interference/fi-data" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data" data-drupal-link-system-path="node/864">Data</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Human Subjects Research" data-drupal-link-system-path="node/332">          Human Subjects Research <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/research" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Definition of Human Subjects Research" data-drupal-link-system-path="node/696">          Definition of Human Subjects Research <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/hs-decision" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Decision Tool: Am I Doing Human Subjects Research?" data-drupal-link-system-path="node/777">Decision Tool: Am I Doing Human Subjects Research?</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/sites/default/files/human-subjects-research-infographic.pdf" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Human Subjects Research Infographic">Human Subjects Research Infographic</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/sites/default/files/exempt-human-subjects-infographic.pdf" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Exempt Human Subjects Research Infographic">Exempt Human Subjects Research Infographic</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/grants/policy/hs/private-information-biospecimens-flowchart.pdf" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu  Research Involving Private Information or Biospecimens Flowchart"> Research Involving Private Information or Biospecimens Flowchart</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/research/public-health" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Public Health Surveillance Exclusions" data-drupal-link-system-path="node/703">Public Health Surveillance Exclusions</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/pre-and-post-award-processes" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Pre-Award and Post-Award Processes for Projects Involving Human Subjects Research" data-drupal-link-system-path="node/547">          Pre-Award and Post-Award Processes for Projects Involving Human Subjects Research <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/pre-and-post-award-processes/considerations" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Grant Application and Proposal Considerations for Human Subjects Research" data-drupal-link-system-path="node/801">NIH Grant Application and Proposal Considerations for Human Subjects Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/pre-and-post-award-processes/peer-review" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Human Subjects in Peer Review" data-drupal-link-system-path="node/252">Human Subjects in Peer Review</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/pre-and-post-award-processes/jit" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Just In Time (JIT) Information for Grants Involving Human Subjects" data-drupal-link-system-path="node/763">Just In Time (JIT) Information for Grants Involving Human Subjects</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/pre-and-post-award-processes/study-monitoring" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Human Subjects Study Monitoring and Progress Reporting" data-drupal-link-system-path="node/502">Human Subjects Study Monitoring and Progress Reporting</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/coc" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Certificates of Confidentiality" data-drupal-link-system-path="node/109">          Certificates of Confidentiality <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/coc/information-protected-coc" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Information Protected by a CoC" data-drupal-link-system-path="node/420">Information Protected by a CoC</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/coc/information-institutional-responsibilities" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Investigator and Institutional CoC Responsibilities" data-drupal-link-system-path="node/632">Investigator and Institutional CoC Responsibilities</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/coc/nih-funded-research" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu CoCs for NIH-Funded Research" data-drupal-link-system-path="node/264">CoCs for NIH-Funded Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/coc/for-research-not-funded-by-nih" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu CoCs for Research Not Funded by NIH" data-drupal-link-system-path="node/399">CoCs for Research Not Funded by NIH</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/coc/background-information" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH CoC Policy Background Information" data-drupal-link-system-path="node/725">NIH CoC Policy Background Information</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Clinical Trial Requirements for Grants and Contracts">Clinical Trial Requirements for Grants and Contracts</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://grants.nih.gov/policy-and-compliance/policy-topics/inclusion" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Inclusion Policies for Human Subjects Research">Inclusion Policies for Human Subjects Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/single-irb-policy-multi-site-research" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Single IRB for Multi-Site or Cooperative Research" data-drupal-link-system-path="node/692">          Single IRB for Multi-Site or Cooperative Research <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/single-irb-policy-multi-site-research/case-study-for-sirb-policy" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Case Study for Single Institutional Review Board (sIRB) Policy" data-drupal-link-system-path="node/581">Case Study for Single Institutional Review Board (sIRB) Policy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/policies-and-regulations" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Policies &amp; Regulations for Human Subjects" data-drupal-link-system-path="node/850">          Policies &amp; Regulations for Human Subjects <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/policies-and-regulations/research-guide-notice" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Research Policies and Policy Notices for Human Subjects" data-drupal-link-system-path="node/433">Research Policies and Policy Notices for Human Subjects</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/policies-and-regulations/vulnerable-populations" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Vulnerable and Other Populations Requiring Additional Protections" data-drupal-link-system-path="node/818">          Vulnerable and Other Populations Requiring Additional Protections <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-5 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/policies-and-regulations/vulnerable-populations/questionable-capacity" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Research Involving Individuals with Questionable Capacity to Consent" data-drupal-link-system-path="node/1096">Research Involving Individuals with Questionable Capacity to Consent</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/policies-and-regulations/data-safety" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data and Safety Monitoring" data-drupal-link-system-path="node/329">Data and Safety Monitoring</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/human-subjects/training-and-resources" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Training &amp; Resources for Human Subjects" data-drupal-link-system-path="node/330">Training &amp; Resources for Human Subjects</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/inclusion" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Inclusion Policies for Human Subjects Research" data-drupal-link-system-path="node/845">          Inclusion Policies for Human Subjects Research <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/inclusion/women-and-minorities" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Inclusion of Women and Minorities as Participants in Research Involving Human Subjects" data-drupal-link-system-path="node/430">          Inclusion of Women and Minorities as Participants in Research Involving Human Subjects <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/inclusion/women-and-minorities/analyses" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Valid Analysis for NIH-defined Phase III Clinical Trials" data-drupal-link-system-path="node/866">Valid Analysis for NIH-defined Phase III Clinical Trials</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/inclusion/lifespan" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Inclusion Across the Lifespan in Human Subjects Research" data-drupal-link-system-path="node/734">Inclusion Across the Lifespan in Human Subjects Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/intellectual-property" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Intellectual Property Policy" data-drupal-link-system-path="node/149">          Intellectual Property Policy <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/intellectual-property/bayh-dole" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Bayh-Dole Regulations" data-drupal-link-system-path="node/106">Bayh-Dole Regulations</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/lobbying-guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Lobbying Guidance for Recipient Activities" data-drupal-link-system-path="node/677">Lobbying Guidance for Recipient Activities</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Natural Disasters" data-drupal-link-system-path="node/208">          Natural Disasters <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters/corona-virus" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Coronavirus Disease 2019 (COVID-19): Information for NIH Applicants and Recipients of NIH Funding" data-drupal-link-system-path="node/793">          Coronavirus Disease 2019 (COVID-19): Information for NIH Applicants and Recipients of NIH Funding <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters/corona-virus/history-update" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Applicant/Recipient COVID-19 Update History" data-drupal-link-system-path="node/858">Applicant/Recipient COVID-19 Update History</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters/corona-virus/funding-opportunities" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Funding Opportunities Specific to COVID-19" data-drupal-link-system-path="policy-and-compliance/policy-topics/natural-disasters/corona-virus/funding-opportunities">Funding Opportunities Specific to COVID-19</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters/corona-virus/nih-omb-memo" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Implementation of OMB Memorandum M-20-26 “Extension of Administrative Relief for Recipients and Applicants of Federal Financial Assistance Directly Impacted by the Novel Coronavirus (COVID-19) due to Loss of Operations” dated June 18, 2020" data-drupal-link-system-path="node/747">NIH Implementation of OMB Memorandum M-20-26 “Extension of Administrative Relief for Recipients and Applicants of Federal Financial Assistance Directly Impacted by the Novel Coronavirus (COVID-19) due to Loss of Operations” dated June 18, 2020</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters/corona-virus/review-process" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Review Process during COVID-19 Pandemic" data-drupal-link-system-path="node/240">Review Process during COVID-19 Pandemic</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/natural-disasters/corona-virus/impact-research-community" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu The Impact of COVID-19 on the Research Community" data-drupal-link-system-path="node/640">The Impact of COVID-19 on the Research Community</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/ngri" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Next Generation Researchers Initiative" data-drupal-link-system-path="node/884">          Next Generation Researchers Initiative <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/ngri/references" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Next Generation Researchers Initiative - References" data-drupal-link-system-path="node/886">Next Generation Researchers Initiative - References</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/nih-fiscal-policies" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu NIH Fiscal Policies" data-drupal-link-system-path="node/510">          NIH Fiscal Policies <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/nih-fiscal-policies/salary-cap-summary" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Salary Cap Summary (FY 1990 - Present)" data-drupal-link-system-path="node/729">Salary Cap Summary (FY 1990 - Present)</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/nih-fiscal-policies/stipends-summary" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Stipends Summary – NRSA (FY 2018-Present)" data-drupal-link-system-path="node/1171">Stipends Summary – NRSA (FY 2018-Present)</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Peer Review Policies and Practices" data-drupal-link-system-path="node/744">          Peer Review Policies and Practices <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/coi" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Managing Conflict of Interest in NIH Peer Review of Grants and Contracts" data-drupal-link-system-path="node/407">Managing Conflict of Interest in NIH Peer Review of Grants and Contracts</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/simplifying-review" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Simplifying Review of Research Project Grant Applications" data-drupal-link-system-path="node/482">          Simplifying Review of Research Project Grant Applications <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/simplifying-review/background" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Background - NIH Peer Review Process" data-drupal-link-system-path="node/185">Background - NIH Peer Review Process</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/simplifying-review/framework" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Simplified Peer Review Framework" data-drupal-link-system-path="node/872">Simplified Peer Review Framework</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/simplifying-review/reviewer-guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Reviewer Guidance" data-drupal-link-system-path="node/1191">Reviewer Guidance</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/simplifying-review/applicant-guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Applicant Guidance for Simplifying the Review Framework for Most Research Project Grants" data-drupal-link-system-path="node/848">Applicant Guidance for Simplifying the Review Framework for Most Research Project Grants</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/simplifying-review/notices" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Notices, Statements and Reports" data-drupal-link-system-path="node/110">Notices, Statements and Reports</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Revisions to the NIH Fellowship Application and Review Process" data-drupal-link-system-path="node/499">          Revisions to the NIH Fellowship Application and Review Process <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/background" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Background" data-drupal-link-system-path="node/295">Background</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/changes-to-fellowship-applications" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Changes to Fellowship Applications" data-drupal-link-system-path="node/340">Changes to Fellowship Applications</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/changes-to-fellowship-review-criteria" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Changes to the Fellowship Review Criteria" data-drupal-link-system-path="node/854">Changes to the Fellowship Review Criteria</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/sponsor-guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Sponsor Guidance" data-drupal-link-system-path="node/1149">Sponsor Guidance</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/candidate-guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Candidate Guidance" data-drupal-link-system-path="node/354">Candidate Guidance</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/reviewer-guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Reviewer Guidance" data-drupal-link-system-path="node/1190">Reviewer Guidance</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/revisions-nih-fellowship-application-review-process/notices-statements-reports" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Notices, Statements, and Reports" data-drupal-link-system-path="node/333">Notices, Statements, and Reports</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/peer-review/reviewer-documents" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Consolidated List of Reviewer Documents" data-drupal-link-system-path="node/194">Consolidated List of Reviewer Documents</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/public-access" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Public Access" data-drupal-link-system-path="node/1199">          Public Access <i class="bi bi-caret-down me-24"></i>
+        </a>
+        <div class="d-block">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/public-access/nih-public-access-policy-overview" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Public Access Policy Overview" data-drupal-link-system-path="node/1203">NIH Public Access Policy Overview</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/public-access/submitting-pubmed-central" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Submitting to PubMed Central" data-drupal-link-system-path="node/1204">Submitting to PubMed Central</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/public-access/contacts" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Contacts &amp; Help for Public Access Policy" data-drupal-link-system-path="node/1202">Contacts &amp; Help for Public Access Policy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-integrity" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Research Integrity" data-drupal-link-system-path="node/590">          Research Integrity <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-integrity/confidentiality-peer-review" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Integrity and Confidentiality in NIH Peer Review" data-drupal-link-system-path="node/664">Integrity and Confidentiality in NIH Peer Review</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-integrity/case-studies" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Taking Action – Case Studies in Research Integrity" data-drupal-link-system-path="node/307">Taking Action – Case Studies in Research Integrity</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-integrity/rcr" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Responsible Conduct of Research (RCR)" data-drupal-link-system-path="node/524">Responsible Conduct of Research (RCR)</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Research Misconduct" data-drupal-link-system-path="node/899">          Research Misconduct <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct/what-is-research-misconduct" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu What Is Research Misconduct" data-drupal-link-system-path="node/592">What Is Research Misconduct</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct/reporting-concern" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Reporting a Concern About Research Misconduct" data-drupal-link-system-path="node/160">Reporting a Concern About Research Misconduct</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct/handling-process" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Process for Handling Allegations of Research Misconduct" data-drupal-link-system-path="node/816">Process for Handling Allegations of Research Misconduct</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct/expectations-policies-requirements" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Expectations, Policies, and Requirements" data-drupal-link-system-path="node/709">NIH Expectations, Policies, and Requirements</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct/actions-oversight-after-finding" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Actions and Oversight after Findings of Research Misconduct" data-drupal-link-system-path="node/630">NIH Actions and Oversight after Findings of Research Misconduct</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/research-misconduct/notices-statements-reports" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Notices, Statements and Reports" data-drupal-link-system-path="node/770">Notices, Statements and Reports</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Rigor and Reproducibility" data-drupal-link-system-path="node/383">          Rigor and Reproducibility <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility/principles-guidelines-reporting-preclinical-research" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Principles and Guidelines for Publishing Preclinical Research" data-drupal-link-system-path="node/152">Principles and Guidelines for Publishing Preclinical Research</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility/guidance" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Guidance: Rigor and Reproducibility in Grant Applications" data-drupal-link-system-path="node/517">Guidance: Rigor and Reproducibility in Grant Applications</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility/resources" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Resources for Preparing Your Application" data-drupal-link-system-path="node/338">Resources for Preparing Your Application</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility/training" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Training and Other Resources for Rigor and Reproducibility" data-drupal-link-system-path="node/246">Training and Other Resources for Rigor and Reproducibility</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility/meetings-and-workshops" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Meetings and Workshops for Rigor and Reproducibility" data-drupal-link-system-path="node/859">Meetings and Workshops for Rigor and Reproducibility</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/reproducibility/notices-blogs" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Notices, Blog Posts, and References for Rigor and Reproducibility" data-drupal-link-system-path="node/154">Notices, Blog Posts, and References for Rigor and Reproducibility</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Scientific Data Sharing: Policies and Access to Data" data-drupal-link-system-path="node/1210">          Scientific Data Sharing: Policies and Access to Data <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Data Management and Sharing Policy" data-drupal-link-system-path="node/1211">          Data Management and Sharing Policy <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/policy-overview" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data Management &amp; Sharing Policy Overview" data-drupal-link-system-path="node/1212">Data Management &amp; Sharing Policy Overview</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/writing-dms-plan" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Writing a Data Management &amp; Sharing Plan" data-drupal-link-system-path="node/1213">Writing a Data Management &amp; Sharing Plan</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/budgeting-for-data-management-sharing" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Budgeting for Data Management &amp; Sharing" data-drupal-link-system-path="node/1214">Budgeting for Data Management &amp; Sharing</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/data-management" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data Management" data-drupal-link-system-path="node/1215">Data Management</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/selecting-a-data-repository" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Selecting a Data Repository" data-drupal-link-system-path="node/1216">Selecting a Data Repository</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/data-sharing-approaches" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data Sharing Approaches" data-drupal-link-system-path="node/1217">Data Sharing Approaches</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/privacy" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Privacy" data-drupal-link-system-path="node/1218">          Privacy <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-5 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/privacy/best-practices" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Principles and Best Practices for Protecting Participant Privacy" data-drupal-link-system-path="node/1219">Principles and Best Practices for Protecting Participant Privacy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-5 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/privacy/designating-scientific-data-controlled-access" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Designating Scientific Data for Controlled Access" data-drupal-link-system-path="node/1220">Designating Scientific Data for Controlled Access</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-5 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/privacy/obtaining-informed-consent" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Considerations for Obtaining Informed Consent" data-drupal-link-system-path="node/1221">Considerations for Obtaining Informed Consent</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-5 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/privacy/considerations-for-researchers" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Considerations for Researchers Working with AI/AN Communities" data-drupal-link-system-path="node/1222">Considerations for Researchers Working with AI/AN Communities</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-5 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/dms/privacy/nih-lacks-family-agreement" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu The NIH-Lacks Family Agreement" data-drupal-link-system-path="node/1223">The NIH-Lacks Family Agreement</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Genomic Data Sharing Policy" data-drupal-link-system-path="node/1224">          Genomic Data Sharing Policy <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/overview" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Genomic Data Sharing Policy Overview" data-drupal-link-system-path="node/1225">Genomic Data Sharing Policy Overview</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/developing-genomic-data-sharing-plans" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Developing Genomic Data Sharing Plans" data-drupal-link-system-path="node/1226">Developing Genomic Data Sharing Plans</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/institutional-certifications" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu About Institutional Certifications" data-drupal-link-system-path="node/1227">About Institutional Certifications</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/completing-institutional-certification-form" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Completing an Institutional Certification Form" data-drupal-link-system-path="node/1228">Completing an Institutional Certification Form</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/expectations-by-ics" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Genomic Data Sharing Expectations by NIH Institute &amp; Center" data-drupal-link-system-path="node/1229">Genomic Data Sharing Expectations by NIH Institute &amp; Center</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/data-submission-and-release-expectations" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data Submission and Release Expectations" data-drupal-link-system-path="node/1230">Data Submission and Release Expectations</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/where-to-submit" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Where to Submit Genomic Data" data-drupal-link-system-path="node/1231">Where to Submit Genomic Data</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/register-submit-study-dbgap" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu How to Register and Submit a Study in dbGaP" data-drupal-link-system-path="node/1232">How to Register and Submit a Study in dbGaP</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/gds/gds-ic-contacts" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu GDS IC Contacts​" data-drupal-link-system-path="node/1233">GDS IC Contacts​</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/other" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Other Sharing Policies​" data-drupal-link-system-path="node/1234">          Other Sharing Policies​ <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/other/model-organism" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Model Organism Sharing Policy" data-drupal-link-system-path="node/1235">Model Organism Sharing Policy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/other/research-tools" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Research Tools Policy" data-drupal-link-system-path="node/1236">Research Tools Policy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/other/ics-sharing-policies" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Institute and Center Data Sharing Policies" data-drupal-link-system-path="node/1237">NIH Institute and Center Data Sharing Policies</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Accessing Data &amp; Publications" data-drupal-link-system-path="node/1238">          Accessing Data &amp; Publications <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/requirements" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Requirements for NIH Controlled-Access Data Repositories and Users" data-drupal-link-system-path="node/1239">Requirements for NIH Controlled-Access Data Repositories and Users</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Accessing Scientific Data" data-drupal-link-system-path="node/1240">Accessing Scientific Data</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/genomic-data" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Accessing Genomic Data from NIH Repositories" data-drupal-link-system-path="node/1241">Accessing Genomic Data from NIH Repositories</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/dbgap" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu How to Request and Access Datasets from dbGaP" data-drupal-link-system-path="node/1242">How to Request and Access Datasets from dbGaP</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/using-genomic-data" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Using Genomic Data Responsibly Under the NIH Genomic Data Sharing Policy" data-drupal-link-system-path="node/1243">Using Genomic Data Responsibly Under the NIH Genomic Data Sharing Policy</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/user-code-of-conduct" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Genomic Data User Code of Conduct" data-drupal-link-system-path="node/1244">Genomic Data User Code of Conduct</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/accessing-data/certification-agreement" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Data Use Certification Agreement" data-drupal-link-system-path="node/1245">NIH Data Use Certification Agreement</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/sharing-policies/which-policies-apply-to-my-research" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Which Policies Apply to My Research?" data-drupal-link-system-path="node/1246">Which Policies Apply to My Research?</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/select-agent" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Select Agent Information" data-drupal-link-system-path="node/883">Select Agent Information</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/subawards" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Subawards" data-drupal-link-system-path="node/350">Subawards</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://grants.nih.gov/grants-process/submit/submission-policies" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Submission Policies">Submission Policies</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-2 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Supporting a Safe and Respectful Workplace" data-drupal-link-system-path="node/245">          Supporting a Safe and Respectful Workplace <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/policy-requirements" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Expectations, Policies, and Requirements" data-drupal-link-system-path="node/595">Expectations, Policies, and Requirements</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/actions-oversight" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu NIH Actions and Oversight" data-drupal-link-system-path="node/405">          NIH Actions and Oversight <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/allegation-process" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu NIH Process for Handling Allegations of Harassment on an NIH-Funded Project at a Recipient Institution" data-drupal-link-system-path="node/114">NIH Process for Handling Allegations of Harassment on an NIH-Funded Project at a Recipient Institution</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 dropdown list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/find-help" class="dropdown-item py-2 ps-2 text-wrap d-flex justify-content-between align-items-center" role="button" title="Expand menu Find Help" data-drupal-link-system-path="node/569">          Find Help <i class="bi bi-caret-right me-24"></i>
+        </a>
+        <div class="d-none">
+          
+            <ul data-block="sidebar_first" block="block-nihod5-subtheme-mainnavigation" class="list-group list-group-flush ps-3">
+            
+    
+      
+      <li class="level-4 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/notify" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu What to Expect When Notifying NIH" data-drupal-link-system-path="node/661">What to Expect When Notifying NIH</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/institutional-reporting" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Institutional Reporting" data-drupal-link-system-path="node/746">Institutional Reporting</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/definitions" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Definitions" data-drupal-link-system-path="node/779">Definitions</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/data" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Data - Sexual Harassment and Sex Discrimination" data-drupal-link-system-path="node/757">Data - Sexual Harassment and Sex Discrimination</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="/policy-and-compliance/policy-topics/harassment/related-statements" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Related Statements" data-drupal-link-system-path="node/343">Related Statements</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+            
+    
+      
+      <li class="level-3 py-0 px-0 border-0 list-inline">
+        
+        
+        <a href="https://www.nih.gov/anti-sexual-harassment/nih-staff" class="dropdown-item py-2 ps-2 text-wrap" role="button" title="Expand menu Anti-Sexual Harassment Policies and Resources for NIH Staff">Anti-Sexual Harassment Policies and Resources for NIH Staff</a>
+        <div class="d-none">
+          
+    
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+        </ul>
+  
+        </div>
+      </li>
+    
+  
+
+            
+    
+  
+
+            
+    
+  
+
+        </ul>
+  
+
+
+
+
+  </nav>
+
+  </div>
+
+        </div>
+            <div class="order-1 order-lg-2 syndicate col-12 col-lg-9 ps-0 ps-lg-5">
+          <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-nihod5-subtheme-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+<h1><strong><span class="field field--name-title field--type-string field--label-hidden">Public Access</span>
+</strong></h1>
+
+
+  </div>
+
+<div id="block-nihod5-subtheme-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article class="node node--type-page node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+<div class="block block-layout-builder block-field-block-node-page-field-scope-note">
+  
+    
+      
+  <div class="clearfix text-formatted field field--name-field-scope-note field--type-text-long field--label-visually_hidden">
+    <div class="field__label visually-hidden">Scope Note</div>
+              <div class="field__item"><p>To advance science and improve human health, NIH makes the peer-reviewed articles it funds publicly available on PubMed Central. <span data-teams="true">The 2024 NIH Public Access Policy requires Author Accepted Manuscripts accepted for publication in a journal, on or after July 1, 2025, to be submitted to PubMed Central upon acceptance for publication, for public availability without embargo upon the Official Date of Publication</span>. <a href="https://www.ncbi.nlm.nih.gov/pmc/?term=nih%20funded%5Bfilter%5D">See all NIH Supported Articles by PubMed Central.</a></p><div class="alert alert-warning border-0 border-start border-7 border-warning d-flex mt-3 mb-4" role="alert"><p><i class="bi bi-exclamation-triangle-fill me-3 h4"></i></p><div>This page provides information about the <strong>2024 NIH Public Access Policy</strong>, which went into effect on <strong>July 1, 2025</strong>. For those with questions during this transition, please see the 2024 NIH Public Access Policy’s <a href="/faqs#/public-access-policy">Frequently Asked Questions</a>.</div></div></div>
+          </div>
+
+  </div>
+
+<div class="block block-layout-builder block-field-block-node-page-body">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="container px-0 mt-3 mb-5">
+  <div class="row">
+      <div class="col-12 col-md-3">
+          <img src="/images/pa_policy.jpg" class="w-100" />
+      </div>
+      <div class="col-12 col-md-9 pt-3 pt-md-0">
+          <h3>
+              <a href="/policy-and-compliance/policy-topics/public-access/nih-public-access-policy-overview">NIH Public Access Policy Overview</a>
+          </h3>
+          <p>Learn about the NIH Public Access Policy and its applicability.</p>
+      </div>
+  </div>
+</div>
+<div class="container px-0 mt-3 mb-5">
+  <div class="row">
+      <div class="col-12 col-md-3">
+          <img src="/images/pa_pubmed.jpg" class="w-100" />
+      </div>
+      <div class="col-12 col-md-9 pt-3 pt-md-0">
+          <h3>
+              <a href="/policy-and-compliance/policy-topics/public-access/submitting-pubmed-central">Submitting to PubMed Central</a>
+          </h3>
+          <p>Learn how to Submit papers to PubMed Central in accordance with the NIH Public Access Policy.</p>
+      </div>
+  </div>
+</div>
+<div class="container px-0 mt-3 mb-5">
+  <div class="row">
+      <div class="col-12 col-md-3">
+          <img src="/images/pa_contacts.jpg" class="w-100" />
+      </div>
+      <div class="col-12 col-md-9 pt-3 pt-md-0">
+          <h3>
+              <a href="/policy-and-compliance/policy-topics/public-access/contacts">Contacts & Help for Public Access Policy</a>
+          </h3>
+          <p>Use opportunity-specific contacts listed in each notice of funding opportunity (NOFO) or the application/award contacts listed in eRA Commons.</p>
+      </div>
+  </div>
+</div>
+</div>
+      
+  </div>
+
+<div class="block block-layout-builder block-extra-field-block-node-page-workbench-moderation-control">
+  
+    
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+
+<div id="block-grants-learningcenterresources" class="block block-oer-resources-module block-learning-center-resources-block">
+  
+    
+      
+
+<div
+  class="border-2 border-secondary border-top container mb-5 mt-5"
+  id="faq-wrapper"
+>
+  <div class="row">
+    <h3
+      class="border-5 border-secondary border-top col-12 col-md-3 pt-3 text-secondary"
+    >
+      FAQs
+    </h3>
+    <div class="border-5 border-top border-white col-12 col-md-9 pt-3">
+            <div id="featured-faq-wrapper"></div>
+    </div>
+  </div>
+</div>
+<script>
+  let faq_block = document.getElementById("faq-wrapper");
+  let faq_header = document.getElementById("faq-name");
+  let faq_raw_data = {"tags":[],"project_id":"https:\/\/search.grants.nih.gov\/lc\/api\/resources\/tags","project":"64888cbd5b0ce2db990fc8d3","fqs":[{"value":"faq693","_attributes":[]}],"query":"OR","see_also":null,"page_contact":null,"general_resources":null,"custom_faq":null,"resources_data":[],"faq_data":[{"Site":"Public Access Policy","Site_Display_Name":"Public Access Policy","URL":"\/#\/public-access-policy"}],"theme_hook_original":"learning-center","attributes":"","title_attributes":"","content_attributes":"","title_prefix":[],"title_suffix":[],"db_is_active":true,"is_admin":false,"logged_in":false,"user":{},"directory":"themes\/nihod5__subtheme","theme_hook_suggestions":[]}
+  if (faq_raw_data.faq_data.length > 0) {
+  	faq_raw_data.faq_data.map(faq => {
+  		let mod_url = faq.URL;
+  		if (mod_url.includes("https://grants.nih.gov/node/1782")) {
+  			mod_url = "/faqs" + faq.URL.replace("https://grants.nih.gov/node/1782", "/")
+  		}
+  		else if (mod_url.includes("http://grants.nih.gov/node/1782")) {
+  			mod_url = "/faqs" + faq.URL.replace("http://grants.nih.gov/node/1782", "/")
+  		}
+  		else if (mod_url.includes("https://grants.nih.gov/faqs")) {
+  			mod_url = "/faqs" + faq.URL.replace("https://grants.nih.gov/faqs", "/")
+  		}
+  		else if (mod_url.includes("http://grants.nih.gov/faqs")) {
+  			mod_url = "/faqs" + faq.URL.replace("http://grants.nih.gov/faqs", "/")
+  		}
+  		else if (mod_url.includes("/#/")) {
+  			mod_url = "/faqs" + faq.URL.replace("/#/", "#/")
+  		}
+  		faqs_set = `<p><a href="${mod_url}">${faq.Site_Display_Name}</a></p>`;
+  		const faqDiv = document.getElementById('featured-faq-wrapper');
+  		faqDiv.insertAdjacentHTML('beforeend', faqs_set);
+  	})
+  } else {
+  	faq_block.style.display = 'none';
+  }
+</script>
+   
+  </div>
+
+  </div>
+
+
+        <hr class="my-4">
+        <small class="d-block w-100 text-end mb-5 last-updated-block">
+                                    
+                          This page last updated on: June 23, 2025<br>
+                        For technical issues <a href="/contact-us">E-mail OER Webmaster</a>
+        </small>
+
+        <div id="embed-survey" class="my-4 position-relative z-1"><div>
+        
+      </div>
+          </div>
+  </div>
+  
+</main>
+
+  
+
+<section class="bg-info-subtle d-md-none">
+  <div class="container my-0 p-4 px-lg-0">
+      <div class="region region-pre-footer">
+    <nav role="navigation" aria-labelledby="block-nihod5-subtheme-tools-3-menu" id="block-nihod5-subtheme-tools-3" class="block block-menu navigation menu--tools">
+            
+  <h5 class="visually-hidden" id="block-nihod5-subtheme-tools-3-menu">Tools | Mobile Only</h5>
+  
+
+        
+
+<div>
+  <h4 class="pb-2 mb-3 border-bottom border-dark">Help, FAQs, And More</h4>
+                <ul data-block="pre_footer" block="block-nihod5-subtheme-tools-3" class="navbar-nav">
+              
+      
+      <li class="nav-item mb-2">
+        <a href="https://www.era.nih.gov/">eRA</a>
+      </li>
+
+          
+      
+      <li class="nav-item mb-2">
+        <a href="/grants/glossary.htm" data-drupal-link-system-path="node/33">Glossary</a>
+      </li>
+
+          
+      
+      <li class="nav-item mb-2">
+        <a href="/faqs" data-drupal-link-system-path="node/1065">FAQs</a>
+      </li>
+
+          
+                    
+      <li class="nav-item mb-2">
+        <a href="/help" class="text-danger" data-drupal-link-system-path="node/372">Help</a>
+      </li>
+
+        </ul>
+  
+</div>
+
+
+  </nav>
+
+  </div>
+
+  </div>
+</section>
+
+<footer class="mt-auto     ">
+  <div class="container my-0 p-4 px-lg-0">
+    <div class="row">
+      <div class="col px-0">
+          <div class="region region-footer">
+    
+<div id="block-nihod5-subtheme-frontendfooter" class="block block-block-content block-block-content-4008fb8e-386e-447e-bfc4-b1cf3d42bf9a">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!-- 
+    NOTE: the utility  gx-md-6
+    will come with NIHOD5 1.2.2
+    until then the spacing of the footer columns may seem wrong.
+--><div class="container-fluid pt-1"><div class="row row-cols-1 row-cols-lg-4 gx-5 gy-5"><section><p><img class="mb-3 w-100 pe-lg-5" src="https://github.com/OER-WEB-TEAM/design-system--logos/blob/main/outputs/grants-funding--logo/notagline/grants-funding--logo-white-@3X.png?raw=true" alt="Grants &amp; Funding logo"></p><p>National Institutes of Health<br>Bethesda, MD 20892</p><h4 class="mt-5 pb-2 mb-3 border-bottom me-5">Stay Connected</h4><ul class="stay-connected"><li><div class="d-flex gap-4"><a href="http://x.com/NIHFunding" title="X"><i class="bi bi-twitter-x fs-4"></i></a></div></li><li><div class="d-flex gap-4"><a href="https://www.youtube.com/@NIHfunding" title="YouTube"><i class="bi bi-youtube fs-4"></i></a></div></li><li><div class="d-flex gap-4"><a href="https://www.linkedin.com/company/nih-funding" title="LinkedIn"><i class="bi bi-linkedin fs-4"></i></a></div></li><li><div class="d-flex gap-4"><a href="/news-events/subscribe-follow/email-updates-and-rss-feeds#rss-feeds" title="RSS Feeds"><i class="bi bi-rss-fill fs-4"></i></a></div></li></ul><p><a class="btn btn-light btn-md btn-block ms-0 mt-3" href="/news-events/subscribe-follow/email-updates-and-rss-feeds">Subscribe for Grant News</a></p></section><section><h4 class="pb-2 mb-3 border-bottom">Government Sites</h4><p><a href="https://www.hhs.gov/">Health and Human Services</a></p><p><a href="https://www.nih.gov/">National Institutes of Health</a></p><p><a href="https://www.usa.gov/">USA.gov - Government Made Easy</a></p><p><a class="new-domain" href="https://extramural-intranet.nih.gov/">NIH Staff (Intranet<i class="bi bi-lock-fill"></i>)</a></p></section><section><h4 class="pb-2 mb-3 border-bottom">Web Policies and Notices</h4><p><a href="/web-policies-and-notices/accessibility">Accessibility</a></p><p><a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html">HHS Vulnerability Disclosure</a></p><p><a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">FOIA</a></p><p><a href="/web-policies-and-notices/privacy-notice">Privacy Notice</a></p><p><a href="/web-policies-and-notices/disclaimer">Disclaimer</a></p><p><a class="new-domain" href="#" id="waybackurl" target="_blank">Archive of this Page Since September 24, 2024</a></p><p><a href="/older-versions-of-this-website">Older Versions of this Website</a></p></section><section><h4 class="pb-2 mb-3 border-bottom">Site Map</h4><p><a href="/">Home</a></p><p><a href="/new-to-nih">New To NIH</a></p><p><a href="/funding">Funding</a></p><p><a href="/grants-process">Grants Process</a></p><p><a href="/policy-and-compliance">Policy &amp; Compliance</a></p><p><a href="/news-events">News &amp; Events</a></p><p><a href="/aboutoer">About Us</a></p></section></div></div></div>
+      
+  </div>
+
+<div id="block-nihod5-subtheme-frontendmodals" class="block block-block-content block-block-content-69f5da88-85a6-4b07-b3d7-27feac192b3a">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!--
+    Put here the code for site-wide modals that appear on more than a specific page
+    For page-specific modals, put the modal code into the page itself
+--></div>
+      
+  </div>
+
+  </div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+    var url = window.location.href;
+    var wb_url = url.includes("#") ? url.split("#")[0] : url;
+    document.getElementById("waybackurl").href="https://web.archive.org/web/" + wb_url;
+</script>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1199","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"redirected":"true"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"7267f8a621c92a25b12b2b4451aa2926a25606d75287ee97e48a1d3bcc6de648"}}</script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.5.6"></script>
+<script src="/core/misc/drupal.js?v=10.5.6"></script>
+<script src="/core/misc/drupal.init.js?v=10.5.6"></script>
+<script src="/themes/bootstrap5/dist/bootstrap/5.3.3/dist/js/bootstrap.bundle.js?v=5.3.3"></script>
+<script src="/themes/nihod5/js/scripts.js?t6r9rg"></script>
+<script src="/themes/nihod5__subtheme/js/scripts.js?t6r9rg"></script>
+
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a8e1c68adaf8299',t:'MTc2NDg4MDc0My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"9a8e1c68adaf8299","version":"2025.9.1","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"4da10bb88a2f4316a9de363d388a5456","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>
+ title 32 Public Access | Grants & Funding contentType 9 text/html url 92 https://grants.nih.gov:443/policy-and-compliance/policy-topics/public-access?redirected=true responseCode 3 200 

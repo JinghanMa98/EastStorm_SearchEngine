@@ -1,0 +1,2744 @@
+oesqsqjmhixmzoeseqnawkpqjsiqhkmcnozosohg page 161255 <!DOCTYPE html>
+<!--[if lte IE 7]> <html lang="en" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=Hk4-lkW3" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize","20170202034942","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1486007382");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta charset="utf-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/all/modules/touch_icons/apple-touch-icon.png" type="image/png"/>
+<link rel="shortcut icon" href="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/favicon_0.jpg" type="image/jpeg"/>
+<meta property="og:image" content="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/thumb_730/public/blogs_2017/02/2017_05_american_carnage_web.jpg?itok=SQIyF2cc"/>
+<link rel="amphtml" href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize?amp"/>
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="Re: Johann Hari"/>
+<meta name="abstract" content="Re: Johann Hari"/>
+<meta name="keywords" content="New Statesman magazine, International Politics, British Politics, Britain, UK, Tony Blair, Gordon Brown, Geoffrey Robinson, David Cameron, Sir Menzies Campbell, Labour, Conservative, Liberal Democrat, UK Politics, House of Commons, House of Lords, Legislation, politics magazine"/>
+<meta name="robots" content="follow, index"/>
+<meta name="news_keywords" content="New Statesman magazine, International Politics, British Politics, Britain, UK, Tony Blair, Gordon Brown, Geoffrey Robinson, David Cameron, Sir Menzies Campbell, Labour, Conservative, Liberal Democrat, UK Politics, House of Commons, House of Lords, Legislation, politics magazin"/>
+<meta name="generator" content="Drupal 7 (http://drupal.org)"/>
+<meta name="rights" content="New Statesman Ltd"/>
+<link rel="canonical" href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize"/>
+<link rel="shortlink" href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/node/125072"/>
+<link rel="publisher" href="http://www.newstatesman.com"/>
+<title>An Open Letter to Andreas Whittam Smith</title>
+<link href="//web.archive.org/web/20170202034942cs_/http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/vendor/modernizr.js"></script>
+<script type="text/javascript" async src="https://web.archive.org/web/20170202034942js_/http://widgets.outbrain.com/outbrain.js"></script> 
+<script>
+  var j = 1;
+</script>
+
+<link rel="icon" href="/web/20170202034942im_/http://www.newstatesman.com/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/web/20170202034942im_/http://www.newstatesman.com/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/web/20170202034942im_/http://www.newstatesman.com/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/web/20170202034942im_/http://www.newstatesman.com/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/web/20170202034942im_/http://www.newstatesman.com/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/web/20170202034942im_/http://www.newstatesman.com/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/web/20170202034942/http://www.newstatesman.com/manifest.json">
+<link rel="mask-icon" href="/web/20170202034942im_/http://www.newstatesman.com/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<script> 
+ // Load GPT asynchronously
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function() {
+   var gads = document.createElement('script');
+   gads.async = true;
+   gads.type = 'text/javascript';
+   var useSSL = 'https:' == document.location.protocol;
+   gads.src = (useSSL ? 'https:' : 'http:') +
+       '//web.archive.org/web/20170202034942/http://www.googletagservices.com/tag/js/gpt.js';
+   var node = document.getElementsByTagName('script')[0];
+   node.parentNode.insertBefore(gads, node);
+ })();
+</script>
+
+
+
+
+<!-- Online Advertising -->
+
+
+<!-- Infinite Ad Serving -->
+
+
+<script type="text/javascript">
+var leaderslot0;
+var mpu1lot0;
+var mpu2slot0;
+var mpu3slot0;
+var mpu4slot0;
+var mpu5slot0;
+var mpu6slot0;
+
+var topslot1;
+var topslot2;
+
+
+ var nextSlotId = 0;
+ function generateNextSlotName1() {
+   var id = nextSlotId++;
+   return 'leaderslot' + id;
+ }
+ function generateNextSlotName2() {
+   var id = nextSlotId++;
+   return 'mpu1lot' + id;
+ }
+  function generateNextSlotName3() {
+   var id = nextSlotId++;
+   return 'mpu2slot' + id;
+ }
+  function generateNextSlotName4() {
+   var id = nextSlotId++;
+   return 'mpu3slot' + id;
+ }
+  function generateNextSlotName5() {
+   var id = nextSlotId++;
+   return 'mpu4slot' + id;
+ }
+  function generateNextSlotName6() {
+   var id = nextSlotId++;
+   return 'mpu5slot' + id;
+ }
+
+
+
+
+
+
+
+  var j = 0;
+  var k = 1;
+  var l = 0;
+  var m = 0;
+  var n = 0;
+  var o = 0;
+
+
+  function moreContent1() {
+   var slotName1 = generateNextSlotName1();
+   var slotDiv = document.createElement('div');
+   slotDiv.id = slotName1;
+   document.getElementsByClassName('bottom-leaderboard-section')[j].appendChild(slotDiv);
+   googletag.cmd.push(function() {
+     var slot1 = googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_Bottom_Leaderboard', [728, 90], slotName1).
+         setTargeting("Section", null).
+         addService(googletag.pubads());
+     googletag.display(slotName1);
+     googletag.pubads().refresh([slot1]);
+    });
+     j += 1;
+ }
+
+   function moreContent2() {
+   var slotName2 = generateNextSlotName2();
+   var slotDiv = document.createElement('div');
+   slotDiv.id = slotName2;
+   document.getElementsByClassName('article-mpu-1')[k].appendChild(slotDiv);
+   googletag.cmd.push(function() {
+     var slot2 = googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_Top', [[300, 250], [300, 600], [300, 1050]], slotName2).
+         setTargeting("Section", null).
+         addService(googletag.pubads());
+     googletag.display(slotName2);
+     googletag.pubads().refresh([slot2]);
+    });
+     k += 1;
+ }
+   function moreContent3() {
+   var slotName3 = generateNextSlotName3();
+   var slotDiv = document.createElement('div');
+   slotDiv.id = slotName3;
+   document.getElementsByClassName('article-mpu-2')[l].appendChild(slotDiv);
+   googletag.cmd.push(function() {
+     var slot3 = googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_2', [[300, 250], [300, 600], [300, 1050]], slotName3).
+         setTargeting("Section", null).
+         addService(googletag.pubads());
+     googletag.display(slotName3);
+     googletag.pubads().refresh([slot3]);
+    });
+     l += 1;
+ }
+   function moreContent4() {
+   var slotName4 = generateNextSlotName4();
+   var slotDiv = document.createElement('div');
+   slotDiv.id = slotName4;
+   document.getElementsByClassName('article-mpu-3')[m].appendChild(slotDiv);
+   googletag.cmd.push(function() {
+     var slot4 = googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_3', [[300, 250], [300, 600], [300, 1050]], slotName4).
+         setTargeting("Section", null).
+         addService(googletag.pubads());
+     googletag.display(slotName4);
+     googletag.pubads().refresh([slot4]);
+    });
+     m += 1;
+ }
+   function moreContent5() {
+   var slotName5 = generateNextSlotName5();
+   var slotDiv = document.createElement('div');
+   slotDiv.id = slotName5;
+   document.getElementsByClassName('article-mpu-4')[n].appendChild(slotDiv);
+   googletag.cmd.push(function() {
+     var slot5 = googletag.defineSlot('/5269235/New_Statesman_2015_Mobile_MPU_3', [300, 250], slotName5).
+         setTargeting("Section", null).
+         addService(googletag.pubads());
+     googletag.display(slotName5);
+     googletag.pubads().refresh([slot5]);
+    });
+     n += 1;
+ }
+  function moreContent6() {
+
+
+
+   var slotName6 = generateNextSlotName6();
+   var slotDiv = document.createElement('div');
+   slotDiv.id = slotName6;
+   document.getElementsByClassName('article-mpu-5')[o].appendChild(slotDiv);
+   googletag.cmd.push(function() {
+     var slot6 = googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_In_Article_MPU_Replacement_1', [300, 250], slotName6).
+         setTargeting("Section", null).
+         addService(googletag.pubads());
+     googletag.display(slotName6);
+     googletag.pubads().refresh([slot6]);
+    });
+     o += 1;
+ }
+
+
+
+
+
+</script><script>googletag.cmd.push(function() {
+
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_Top_Leaderboard', [[970, 250], [728, 90], [975, 250], [970, 90]], 'div-gpt-ad-1440520291949-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_Bottom', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1440520291949-2').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_Bottom_Leaderboard', [[728, 90], [975, 250], [970, 90]], 'div-gpt-ad-1440520291949-3').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Scrolling_MPU_4', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1438789236310-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_Top', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1434618587891-5').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_2', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1434618587891-6').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_MPU_3', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1434618587891-3').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Mobile_MPU_3', [[300, 250]], 'div-gpt-ad-1434618587891-11').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Dynamic_In_Article_MPU_Replacement_1', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1437745146146-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Tablet_MPU', [[300, 600], [300, 250]], 'div-gpt-ad-1438880573916-0').addService(googletag.pubads());
+googletag.defineSlot('/5269235/New_Statesman_2015_Tablet_Mobile_Replacement', [300, 100], 'div-gpt-ad-1438880573916-1').addService(googletag.pubads());
+googletag.pubads().setTargeting("Section", "");googletag.pubads().enableSingleRequest(); googletag.pubads().disableInitialLoad(); googletag.enableServices(); function delayAds(){googletag.pubads().refresh();} setTimeout(delayAds, 2000 ); });</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://web.archive.org/web/20170202034942js_/http://www.newstatesman.com/sites/default/files/js/js_Xjzh1hVfcgVAixhmmB6Go8TUMPOiprA-2vkC-oWXARQ.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20170202034942js_/http://www.newstatesman.com/sites/default/files/js/js_ybxgDRtRKXth-KfFj_LPNtFdDtvVk1zpuJvneJKkWrQ.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20170202034942js_/http://www.newstatesman.com/sites/default/files/js/js_PcFIrf_gqbEUcy3ug7jXO5yfZzzurTbVvkKiQl2An4I.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20170202034942js_/http://www.newstatesman.com/sites/default/files/js/js_HFkGd3jGwcPEGLDYWpLwzJGlIbXNsLmj6UWGZ-b-Jxo.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20170202034942js_/http://www.newstatesman.com/sites/default/files/js/js_eeCtlnPr12IHl4RubeD8rgBlPCDzpc61a_ZoyNsP43A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"creative_responsive_theme","theme_token":"7F2d58KTCc6FNlfNnHbEk4MAIN4MjdzgLYjqrZPyuWI","jquery_version":"default","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"modules\/statistics\/statistics.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/waypoints\/waypoints.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/lazyloader\/jquery.lazyloader.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views_load_more\/views_load_more.js":1,"sites\/all\/modules\/cs_adaptive_image\/cs_adaptive_image.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/creative-responsive-theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/default\/files\/sl_sprites.css":1,"0":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/modules\/flippy\/flippy.css":1,"sites\/all\/themes\/creative-responsive-theme\/style.css":1}},"googleCSE":{"cx":"014587529549946006773:q0ke2unon2y","language":"en","resultsWidth":800,"domain":"www.google.com"},"custommodule":{"currentNid":"306578"},"urlIsAjaxTrusted":{"\/blogs\/guy-walters\/2011\/07\/johann-hari-independent-prize":true},"quicktabs":{"qt_trending":{"name":"trending","tabs":{"1":{"bid":"views_delta_right_bar_blocks-last24hours","hide_title":1}},"urlIsAjaxTrusted":{"\/blogs\/guy-walters\/2011\/07\/johann-hari-independent-prize":true}}},"viewsLoadMore":{"articles_load_more-leadarticleshomepage":{"view_name":"articles_load_more","view_display_id":"leadarticleshomepage","waypoints":"infinite","opts":{"offset":"100%"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:fc035e84f95b5a97f9a9178ad4418076":{"view_name":"articles_load_more","view_display_id":"leadarticleshomepage","view_args":"125072\/8268","view_path":"node\/125072","view_base_path":null,"view_dom_id":"fc035e84f95b5a97f9a9178ad4418076","pager_element":0}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":0,"popup_html_info":"\n        \u003Cdiv class=\u0022cookies-message\u0022\u003E\n        \u003Cdiv class=\u0022popup-content info\u0022\u003E\n      \u003Cimg src=\u0022\/sites\/all\/themes\/creative-responsive-theme\/images\/cookie.png\u0022 alt=\u0022Cookie Policy\u0022\u003E\u003Cp\u003EBy continuing to use the site, you agree to the use of cookies. You can change this and find out more here:\u003C\/p\u003E\n\u003Ca href=\u0022\u0022 class=\u0022find-more-button\u0022\u003E Read More\u003C\/a\u003E\n          \u003Cdiv class=\u0022agree-button close-toggle cookies-close\u0022\u003EOK, thanks\u003C\/div\u003E\n          \u003C\/div\u003E","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content cookies-message agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003E\tThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003E\tYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003ERead More\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","domain":"dev-new-statesman.pantheon.io"},"statistics":{"data":{"nid":"125072"},"url":"\/modules\/statistics\/statistics.php"}});
+//--><!]]>
+</script>
+ 
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20170202034942cs_/http://www.newstatesman.com/sites/default/files/css/css_8iQUeiiHxPevrPDmL75bE5c4KZqaA1lmumPWt_eMZZY.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20170202034942cs_/http://www.newstatesman.com/sites/default/files/css/css_74hlFC9aumONvPSZNCfp8BFlBdPUHm2MSXPG8ZYIIxg.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20170202034942cs_/http://www.newstatesman.com/sites/default/files/css/css_eKbNOS_VWUyplDGDq_wtqvo3mLdnsh5-oBdHkCPNNxU.css" media="all"/>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#fff;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#333 !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20170202034942cs_/http://www.newstatesman.com/sites/default/files/css/css_sR1I02uKjLyJt_Mi6VIIs2fydE2sfiRqKNomsBSLRu4.css" media="all"/>
+<link type="text/css" rel="stylesheet" href="https://web.archive.org/web/20170202034942cs_/http://www.newstatesman.com/sites/default/files/css/css_33_G8cJek3kQwZzwM0gbuiAuMmEiQytwKIriWSCFY1E.css" media="all"/>
+
+
+
+<meta name="google-site-verification" content="GfOJMinBD7e8A_EFHIWacMNjU-AM1WaPrpnAVzwr7-4"/>
+<meta name="DCSext.WebsiteName" content="www.newstatesman.com"/>
+
+
+<!-- Facebook Conversion Code for Checkouts - New Statesman 1 -->
+    <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//web.archive.org/web/20170202034942/http://connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+    }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6025943409225', {'value':'0.00','currency':'GBP'}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://web.archive.org/web/20170202034942im_/https://www.facebook.com/tr?ev=6025943409225&amp;cd[value]=0.00&amp;cd[currency]=GBP&amp;noscript=1"/></noscript>
+    
+    <!-- Facebook tracking pixel -->
+    <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//web.archive.org/web/20170202034942/http://connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '526380280843209']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://web.archive.org/web/20170202034942im_/https://www.facebook.com/tr?id=526380280843209&amp;ev=PixelInitialized"/></noscript>
+    
+
+<!-- Facebook Conversion Code for New Statesman - MasterBrand Philips 2015 -->
+      <script>(function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//web.archive.org/web/20170202034942/http://connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+      }
+      })();
+      window._fbq = window._fbq || [];
+      window._fbq.push(['track', '6032031760848', {'value':'0.00','currency':'GBP'}]);
+      </script>
+      <noscript><img height="1" width="1" alt="" style="display:none" src="https://web.archive.org/web/20170202034942im_/https://www.facebook.com/tr?ev=6032031760848&amp;cd[value]=0.00&amp;cd[currency]=GBP&amp;noscript=1"/></noscript>
+<!-- end of Facebook Conversion Code- MasterBrand Philips 2015 -->
+
+
+<!-- Fast Lane Rubicon ads code -->
+<script type="text/javascript">
+var setSite = function(uri) {
+    var site, parser;
+    if (typeof(uri) === 'undefined' || uri === '' || uri.indexOf('http') < 0) {
+        uri = window.document.location.href;
+    }
+    parser = window.document.createElement('a');
+    parser.href = uri;
+    site = parser.hostname;
+    return site;
+};
+
+var rubicontag = rubicontag || {};
+    rubicontag.cmd = rubicontag.cmd || [];
+
+var gptadslots = [];
+var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var account_id = 9925;
+    var rct = document.createElement('script');
+        rct.type = 'text/javascript';
+        rct.async = true;
+        rct.src = (document.location.protocol === 'https:' ? 'https:' : 'http:') + '//web.archive.org/web/20170202034942/http://ads.rubiconproject.com/header/' + account_id + '.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.appendChild(rct);
+})();
+</script>
+
+<script type="text/javascript">
+rubicontag.cmd.push(function() {
+    rubicontag.defineSlot('/112115922/FLPT-300x250', [[300, 250]], 'fastlane').setPosition('atf');
+
+    rubicontag.addKW('fastlane-prototype-test');
+    rubicontag.setFPI('domain', [setSite()]);
+
+    rubicontag.run(gptrun);
+});
+
+googletag.cmd.push(function() {
+    gptadslots[0] = googletag.defineSlot('/112115922/FLPT-300x250', [[300, 250]], 'fastlane').addService(googletag.pubads());
+
+    for (var i=0; i<gptadslots.length; i++) {
+        rubicontag && rubicontag.setTargetingForGPTSlot && rubicontag.setTargetingForGPTSlot(gptadslots[i]);
+    };
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+});
+
+var gptran = false;
+var gptrun = function() {
+    if (gptran) {
+        return;
+    }
+    gptran = true;
+
+    var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+    var useSSL = 'https:' === document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//web.archive.org/web/20170202034942/http://www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+};
+
+setTimeout(gptrun, 1000);
+</script>
+
+    
+</head>
+
+
+
+<!--Twitter conversion tracking pixel for philips -->
+
+<script src="https://web.archive.org/web/20170202034942js_/http://platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('ntow3', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://web.archive.org/web/20170202034942im_/https://analytics.twitter.com/i/adsct?txn_id=ntow3&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0"/>
+<img height="1" width="1" style="display:none;" alt="" src="//web.archive.org/web/20170202034942im_/http://t.co/i/adsct?txn_id=ntow3&amp;p_id=Twitter&amp;tw_sale_amount=0&amp;tw_order_quantity=0"/>
+</noscript>
+
+<!-- End of Twitter conversion tracking pixel for philips -->
+
+<!-- outbrain activity tracking pixel --> 
+  <img src="https://web.archive.org/web/20170202034942im_/http://traffic.outbrain.com/network/trackpxl?advid=38327&amp;action=view" height="1" width="1" border="0" alt="" style="display:none;"/>
+<!-- End outbrain activity tracking pixel -->
+
+ 
+  
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-125072 node-type-blogs article-theme ">
+  
+ <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//web.archive.org/web/20170202034942/http://www.google-analytics.com/analytics.js','ga');
+ 
+   ga('create', 'UA-121540-1', 'auto'); 
+   ga('send', 'pageview');
+ 
+ </script>
+
+ 
+    <script>
+
+    function load_disqus(c,path)
+    {
+	    //var pageurl= '?q=/node/'+c;
+		//history.pushState('stateObj', "page 2", pageurl);
+		history.pushState('stateObj', "page 2", path);
+	   if(document.getElementById("disqus_thread"))
+	   {
+
+        var ano = document.getElementById("disqus_loader").getAttribute("class");
+			  if(ano.substr(13)==c)
+			  {
+				   var vis = document.getElementById("disqus_thread").getAttribute("style");
+				  if(vis == 'display: none;')
+				  {
+
+				  document.getElementById("disqus_thread").style.display = 'block';
+					return false;
+				  }
+				  else{
+
+					 document.getElementById("disqus_thread").style.display = 'none';
+					return false;
+				  }
+			  }
+
+
+
+
+
+	    var x = document.getElementById("disqus_thread").getAttribute("class");
+	   document.getElementById("disqus_thread").setAttribute("id", x);
+
+	    var y = document.getElementById("disqus_loader").getAttribute("class");
+	   document.getElementById("disqus_loader").setAttribute("id", y);
+
+	  // var ldr1 = document.getElementById(y);
+	   //ldr1.style.display = 'Block';
+
+	   }
+
+      document.getElementById("disqus_thread"+c).setAttribute("id", "disqus_thread");
+	  document.getElementById("disqus_loader"+c).setAttribute("id", "disqus_loader");
+
+	  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = "https://web.archive.org/web/20170202034942/http://newstatesman1913.disqus.com/embed.js";
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+     // var ldr = document.getElementById('disqus_loader');
+     // ldr.parentNode.removeChild(ldr);
+	 // ldr.style.display = 'none';
+
+	 return false;
+    }
+
+	function showimage(id)
+   {
+	 var cls = document.getElementById(id).getAttribute("class");
+     var n = cls.indexOf("feature-image-revealed");
+    if(n < 0)
+    document.getElementById(id).setAttribute("class",cls+" feature-image-revealed");
+    else
+	 document.getElementById(id).setAttribute("class",cls.substr(0,n));
+     return;
+
+
+
+  }
+ function shownewsform(id)
+   {
+	 var cls = document.getElementById(id).getAttribute("class");
+     var n = cls.indexOf("email-newsletter-revealed");
+    if(n < 0)
+    document.getElementById(id).setAttribute("class",cls+" email-newsletter-revealed");
+    else
+	 document.getElementById(id).setAttribute("class",cls.substr(0,n));
+     return;
+
+
+
+  }
+/*  jQuery(".email-newsletter-toggle").click(function(){
+	nlid = this.id;
+  nids = nlid.split('_');
+  nids = nids[1];
+  n = '#showhidenews_'+nids;
+  jQuery(n).toggleClass("email-newsletter-revealed");
+});
+*/
+
+  </script>
+
+         <script>
+                  /*function checktheval(sel_val){
+
+   var my_selector = '.field-name-body div.field-item > p:nth-last-of-type('+sel_val+')';
+  if(jQuery(my_selector).html().length<1){
+    //return 1;
+      sel_val++;
+    checktheval(sel_val);
+  }else{
+	  console.log(my_selector);
+    return my_selector;
+  }
+}*/
+
+
+jQuery(document).ready(function($) {
+
+
+//alert("ok blog dsfsd");
+	  //check_sel = checktheval(3);
+	  //console.log("=====================");
+	 //console.log(check_sel);
+// jQuery( "div.story_related" ).insertAfter(check_sel);
+var currentNid = Drupal.settings.custommodule.currentNid;
+jQuery( "#node-"+currentNid+" div.story_related_"+currentNid ).insertAfter( ".field-name-body p:eq(3)" );
+var te=jQuery("#node-"+currentNid+ " #related-story-wraper").html();
+jQuery("div.story_related_"+currentNid+" #"+currentNid+"related_story").append(te);
+
+
+//console.log("=====================");
+ // console.log(te);
+ // console.log("=====================");
+ // console.log( "#node-"+currentNid+ " div."+currentNid+"story_related" );
+ // console.log("#node-"+currentNid+" div."+currentNid+"story_related #"+currentNid+"related_story");
+
+
+ });
+
+
+
+</script>
+
+
+<div class="mobile-banner header-mobile-banner" style="text-align: center;">
+  <div id="div-gpt-ad-1438880573916-1">
+  <script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438880573916-1'); });
+  </script>
+  </div>
+</div>
+
+<div class="leaderboard top-leaderboard">
+  <div class="row">
+    <!-- Newstatesman/Culture/culture_homepage -->
+    <div id="div-gpt-ad-1440520291949-0">
+      <script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1440520291949-0'); });
+          </script>
+    </div>
+  </div>
+</div>
+<!-- .top-leaderboard -->
+
+<header class="site-header clearfix">
+  <div class="row">
+    <h1 class="site-logo">
+            <a href="/web/20170202034942/http://www.newstatesman.com/" title="Home"><img src="/web/20170202034942im_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/newstatesman_logo@2x.png" alt="New Statesman"/></a>
+          </h1>
+    <div class="region region-ns-offers">
+  <div id="block-views-ns-new-offers-ns-new-offers" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-ns-new-offers view-id-ns_new_offers view-display-id-ns_new_offers secondary-content-box primary-offer-box row view-dom-id-c992b931e9210d793cfd2cb08de29d8d">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <div class="large-7 small-7 xsmall-7 columns offer-text">
+                <h3> </h3>
+<div class="cta"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/subscribe">Subscribe</a></div>
+                </div>    
+          <img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/magazine-cover-thumb/public/magazinecovers/2017_04_eclipse_of_the_west_med.jpg?itok=jbZ17ftG" alt=""/>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+   <div class="header-promotion">
+	   <!--<div>
+          <div class="editors-note image-banner">
+			<a href="/editors-note/"><img src="/sites/all/themes/creative-responsive-theme/images/editors_note.png" alt="Editor's note email newsletter"></a>
+          </div>
+
+      </div> .image-banner -->
+
+      <!--
+      <div>
+        <div class="site-sponsor site-sponsor-gibraltar">
+      <p>Visit our partner site</p>
+      <a href="/gibraltar/"><img src="/sites/all/themes/creative-responsive-theme/images/gibraltar.png" alt="Gibraltar"></a>
+    </div>
+      </div>
+      -->
+
+	  <!-- <div>
+        <div class="newsletter-promotion">
+          <a href="/from-number-71/">
+          <img src="/sites/all/themes/creative-responsive-theme/images/from_number_71.png" alt="From No. 71">
+          </a>
+        </div>
+
+      </div>-->    
+        <!-- <div class="podcast-promotion srsly-podcast">
+          <a href="/srsly/">
+          <small>SRSLY</small>
+          <span>Podcast</span></a>
+        </div>
+        .podcast-promotion 
+      </div>-->
+            
+      <div>
+        <div class="twitter-follow-promotion">
+          <a href="https://web.archive.org/web/20170202034942/https://twitter.com/NewStatesman">
+             <strong>Follow us</strong>
+             on Twitter
+          </a>
+        </div>
+        <!-- .follow-promotion -->
+      </div>
+	  <div>
+        <div class="podcast-promotion">
+          <a href="/web/20170202034942/http://www.newstatesman.com/podcast/">
+          <small>New Statesman</small>
+          <span>Podcast</span></a>
+        </div>
+        <!-- .podcast-promotion -->
+      </div>
+    </div>
+    <!-- header-promotion -->
+  </div>
+  <!-- .row -->
+ <nav class="site-nav">
+        <div class="row">
+          <div class="nav-links">
+                        <ul class="site-categories clearfix">
+                            <div class="region region-mainnav">
+  <div id="block-menu-block-2" class="block block-menu-block">
+
+      
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-9698"><a href="/web/20170202034942/http://www.newstatesman.com/">Home</a></li>
+<li class="leaf has-children menu-mlid-9699 pl"><a href="/web/20170202034942/http://www.newstatesman.com/politics">Politics</a></li>
+<li class="leaf has-children menu-mlid-786 cl"><a href="/web/20170202034942/http://www.newstatesman.com/culture">Culture</a></li>
+<li class="leaf has-children menu-mlid-5486 wl"><a href="/web/20170202034942/http://www.newstatesman.com/world">World</a></li>
+<li class="last leaf has-children menu-mlid-9700 sl"><a href="/web/20170202034942/http://www.newstatesman.com/sci_tech">Science &amp; Tech</a></li>
+</ul></div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                          </ul>
+            <div class="content-links-toggle">More</div>
+            <ul class="content-links">
+                            <div class="region region-mainnav2">
+  <div id="block-menu-menu-main-menu-2" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf ll"><a href="/web/20170202034942/http://www.newstatesman.com/long-reads">Long Reads</a></li>
+<li class="leaf"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/new-times">New Times</a></li>
+<li class="leaf mag-link"><a href="/web/20170202034942/http://www.newstatesman.com/magazine">Magazine</a></li>
+<li class="leaf ev"><a href="/web/20170202034942/http://www.newstatesman.com/events">Events</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/brexit">Brexit</a></li>
+<li class="last leaf subscribe-link"><a href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/">Subscribe</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                          </ul>
+            <div class="mega-menu-row mega-menu row politics-mg"> 
+                <div class="close-hover-mega-menu">Close menu</div>
+                 
+                <div class="row">
+  
+                                
+                  <div class="large-12 columns">
+                    
+                    <div class="row">
+                      <div class="large-9 columns">
+                                                   <div class="region region-pl-subnav">
+  <div id="block-views-8d7f7ab1250d48079963d88066435fbf" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-articles view-id-clone_of_megamenu_articles view-display-id-megamenu_politics_nodque view-dom-id-7de4df416ef59d77f0767147eab07569">
+        
+  
+  
+      <div class="view-content">
+        <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labours-next-leadership-election-will-be-about-europe-dont-bet-clive-lewis"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/02/gettyimages-610891938.jpg?itok=ENRt_LGX" alt="Clive Lewis and Emily Thornberry. "/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labours-next-leadership-election-will-be-about-europe-dont-bet-clive-lewis">Labour&#039;s next leadership election will be about Europe, but don&#039;t bet on Clive Lewis just yet</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/the-staggers" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">The Staggers</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labour-mps-voting-against-article-50-and-ones-watch"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/01/labour_mps_a50.jpg?itok=WP0rksFZ" alt="Labour"/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labour-mps-voting-against-article-50-and-ones-watch">The Labour MPs voting against Article 50 - and the ones to watch</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/the-staggers" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">The Staggers</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/politics/elections/2017/02/no-fall-fran-ois-fillon-doesnt-mean-marine-le-pen-will-win"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/02/fillon.jpg?itok=e33QtX0F" alt="Francois Fillon, the candidate for the right-wing party Les Republicains." title="Francois Fillon, the candidate for the right-wing party Les Republicains."/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/politics/elections/2017/02/no-fall-fran-ois-fillon-doesnt-mean-marine-le-pen-will-win">No, the fall of François Fillon doesn&#039;t mean Marine Le Pen will win</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/politics/elections" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Elections</a></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                      <div class="large-3 columns">
+                                                  <img src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/large/public/ns-live-logo.png" alt="NS Live" class="ns-live-logo">
+                          <div class="region region-megamenu-event">
+  <div id="block-views-clone-of-megamenu-event-block-1" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-event view-id-clone_of_megamenu_event view-display-id-block_1 view-dom-id-97f1e10bf045c0c9422ac6dc99d47afe">
+        
+  
+  
+      <div class="view-content">
+        <div class="article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/goldsmithsprize2_2_.jpg?itok=N0BfpVGY" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack">The Goldsmiths Writers&#039; Centre Presents Mike McCormack</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                    </div>
+                    <!-- .row -->
+                  
+                    <div class="main-mega-menu-section">
+                      <div class="large-12 columns ns-network">
+                        
+                        <div class="mega-menu-logo">
+                          <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/nsnetworks.png">
+                        </div>
+  
+                        <div class="network-sites">
+                          <div class="row">
+                            <div class="large-4 columns">
+                              <h1>Consumer</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://www.citymetric.com/">CityMetric</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1>Business</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://tech.newstatesman.com/">New Statesman Tech</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">Spotlight</a></h1>
+                              <h2><a href="/web/20170202034942/http://www.newstatesman.com/cyber">Cyber</a></h2>
+                             <!-- <h2><a href="http://www.newstatesman.com/northern-powerhouse">Northern Powerhouse</a></h2>
+                              <h2><a href="http://www.newstatesman.com/skills">Skills</a></h2>
+                              <h2><a href="http://www.newstatesman.com/manufacturing">Manufacturing</a></h2> <h2><a href="http://www.newstatesman.com/investment">Investment</a></h2>-->
+                              <h2 class="viewall"><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">View All</a></h2>
+                              
+                              
+                            </div>
+                          </div>
+                        </div>
+                        <!-- .network-sites -->
+                      
+                      </div>
+                      <!-- .ns-network -->
+                    </div>
+                    <!-- .main-mega-menu-section -->
+                    
+                  </div>
+                  <!-- .large-8 -->
+                  
+                </div>
+                <!-- .row -->
+            
+              </div>
+              <!-- .politics-mg -->
+  
+            <div class="mega-menu-row mega-menu row culture-mg">
+                <div class="close-hover-mega-menu">Close menu</div>
+                 
+                <div class="row">
+  
+                  <div class="large-12 columns">
+                    
+                    <div class="row">
+                      <div class="large-9 columns">
+                                                   <div class="region region-cl-subnav">
+  <div id="block-views-57db67e89fe178e5ddee39dab0c4a99a" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-articles view-id-clone_of_megamenu_articles view-display-id-culture view-dom-id-53c8f772f7e88f48662981b1fcc7454a">
+        
+  
+  
+      <div class="view-content">
+        <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/culture/tv-radio/2017/02/fine-post-apocalyptic-tv-shows-denial-face-disaster-rise"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/02/fine.jpg?itok=yoOtwBD3" alt="On Fire by KC Green" title="On Fire by KC Green"/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/culture/tv-radio/2017/02/fine-post-apocalyptic-tv-shows-denial-face-disaster-rise">This Is Fine: in post-apocalyptic TV shows, denial in the face of disaster is on the rise</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/culture/tv-radio" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">TV &amp; Radio</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/culture/books/2017/02/imperial-melting-pot-how-new-book-reveals-remarkable-history-istanbul"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/01/2017_04_istanbul.jpg?itok=YO9bCw6Z" alt=""/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/culture/books/2017/02/imperial-melting-pot-how-new-book-reveals-remarkable-history-istanbul">Imperial melting pot: how a new book reveals the remarkable history of Istanbul</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/culture/books" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Books</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/politics/uk/2017/02/i-was-going-be-only-gentile-funeral-so-i-started-rending-my-best-skirt"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/01/gettyimages-3164029.jpg?itok=4oMV64Yy" alt="After I'd rended my red skirt from Hobbs, I had to fight not to admire my legs." title="After I'd rended my red skirt from Hobbs, I had to fight not to admire my legs."/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/politics/uk/2017/02/i-was-going-be-only-gentile-funeral-so-i-started-rending-my-best-skirt">I was going to be the Only Gentile at the Funeral – so I started rending my best skirt</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/politics/uk" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">UK</a></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                      <div class="large-3 columns">
+                                                  <img src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/large/public/ns-live-logo.png" alt="NS Live" class="ns-live-logo">
+                          <div class="region region-megamenu-event">
+  <div class="region region-megamenu-event">
+  <div id="block-views-clone-of-megamenu-event-block-1" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-event view-id-clone_of_megamenu_event view-display-id-block_1 view-dom-id-97f1e10bf045c0c9422ac6dc99d47afe">
+        
+  
+  
+      <div class="view-content">
+        <div class="article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/goldsmithsprize2_2_.jpg?itok=N0BfpVGY" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack">The Goldsmiths Writers&#039; Centre Presents Mike McCormack</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                    </div>
+                    <!-- .row -->
+                  
+                    <div class="main-mega-menu-section">
+                      <div class="large-12 columns ns-network">
+                        
+                        <div class="mega-menu-logo">
+                          <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/nsnetworks.png">
+                        </div>
+  
+                        <div class="network-sites">
+                          <div class="row">
+                            <div class="large-4 columns">
+                              <h1>Consumer</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://www.citymetric.com/">CityMetric</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1>Business</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://tech.newstatesman.com/">New Statesman Tech</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">Spotlight</a></h1>
+                              <h2><a href="/web/20170202034942/http://www.newstatesman.com/cyber">Cyber</a></h2>
+                             <!-- <h2><a href="http://www.newstatesman.com/northern-powerhouse">Northern Powerhouse</a></h2>
+                              <h2><a href="http://www.newstatesman.com/skills">Skills</a></h2>
+                              <h2><a href="http://www.newstatesman.com/manufacturing">Manufacturing</a></h2> <h2><a href="http://www.newstatesman.com/investment">Investment</a></h2>-->
+                              <h2 class="viewall"><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">View All</a></h2></h2>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- .network-sites -->
+                      
+                      </div>
+                      <!-- .ns-network -->
+                    </div>
+                    <!-- .main-mega-menu-section -->
+                    
+                  </div>
+                  <!-- .large-8 -->
+                  
+                </div>
+                <!-- .row -->
+              </div>
+              <!-- .culture-mg -->
+              
+            <div class="mega-menu-row mega-menu row world-mg">
+                <div class="close-hover-mega-menu">Close menu</div>
+                 
+                <div class="row">
+  
+                  <div class="large-12 columns">
+                    
+                    <div class="row">
+                      <div class="large-9 columns">
+                                                   <div class="region region-wl-subnav">
+  <div id="block-views-28002252bb2d5c06c933c6ca276d2717" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-articles view-id-clone_of_megamenu_articles view-display-id-world view-dom-id-bc6797882c3820439cc9eb70350b2bbd">
+        
+  
+  
+      <div class="view-content">
+        <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/politics/elections/2017/02/no-fall-fran-ois-fillon-doesnt-mean-marine-le-pen-will-win"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/02/fillon.jpg?itok=e33QtX0F" alt="Francois Fillon, the candidate for the right-wing party Les Republicains." title="Francois Fillon, the candidate for the right-wing party Les Republicains."/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/politics/elections/2017/02/no-fall-fran-ois-fillon-doesnt-mean-marine-le-pen-will-win">No, the fall of François Fillon doesn&#039;t mean Marine Le Pen will win</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/politics/elections" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Elections</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/02/c3lsgalwyaezhoj.jpg?itok=dRQW2JpI" alt="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament." title="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament."/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks">Best MEP ever holds up “He’s Lying” sign as Nigel Farage speaks</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/politics/media" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Media</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/world/north-america/2017/02/democrat-plan-opposing-donald-trump-s-administration"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/02/gettyimages-633194950.jpg?itok=4OnXiap6" alt="Senate Minority Leader Chuck Schumer speaks with the media at the US Capitol January 31, 2017 in Washington, DC." title="Senate Minority Leader Chuck Schumer speaks with the media at the US Capitol January 31, 2017 in Washington, DC."/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/world/north-america/2017/02/democrat-plan-opposing-donald-trump-s-administration">The Democrat plan for opposing Donald Trump’s administration</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/world/north-america" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">North America</a></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                      <div class="large-3 columns">
+                                                  <img src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/large/public/ns-live-logo.png" alt="NS Live" class="ns-live-logo">
+                          <div class="region region-megamenu-event">
+  <div class="region region-megamenu-event">
+  <div class="region region-megamenu-event">
+  <div id="block-views-clone-of-megamenu-event-block-1" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-event view-id-clone_of_megamenu_event view-display-id-block_1 view-dom-id-97f1e10bf045c0c9422ac6dc99d47afe">
+        
+  
+  
+      <div class="view-content">
+        <div class="article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/goldsmithsprize2_2_.jpg?itok=N0BfpVGY" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack">The Goldsmiths Writers&#039; Centre Presents Mike McCormack</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                    </div>
+                    <!-- .row -->
+                  
+                    <div class="main-mega-menu-section">
+                      <div class="large-12 columns ns-network">
+                        
+                        <div class="mega-menu-logo">
+                          <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/nsnetworks.png">
+                        </div>
+  
+                        <div class="network-sites">
+                          <div class="row">
+                            <div class="large-4 columns">
+                              <h1>Consumer</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://www.citymetric.com/">CityMetric</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1>Business</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://tech.newstatesman.com/">New Statesman Tech</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">Spotlight</a></h1>
+                              <h2><a href="/web/20170202034942/http://www.newstatesman.com/cyber">Cyber</a></h2>
+                             <!-- <h2><a href="http://www.newstatesman.com/northern-powerhouse">Northern Powerhouse</a></h2>
+                              <h2><a href="http://www.newstatesman.com/skills">Skills</a></h2>
+                              <h2><a href="http://www.newstatesman.com/manufacturing">Manufacturing</a></h2> <h2><a href="http://www.newstatesman.com/investment">Investment</a></h2>-->
+                              <h2 class="viewall"><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">View All</a></h2></h2>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- .network-sites -->
+                      
+                      </div>
+                      <!-- .ns-network -->
+                    </div>
+                    <!-- .main-mega-menu-section -->
+                    
+                  </div>
+                  <!-- .large-8 -->
+                  
+                </div>
+                <!-- .row -->
+            </div>
+            <!-- world-mg -->
+            
+            <div class="mega-menu-row mega-menu row science_tech-mg"> 
+                <div class="close-hover-mega-menu">Close menu</div>
+                 
+                <div class="row">
+  
+                  <div class="large-12 columns">
+                    
+                    <div class="row">
+                      <div class="large-9 columns">
+                                                   <div class="region region-sl-subnav">
+  <div id="block-views-2a966589c9483677de29cdb0dd827cce" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-articles view-id-clone_of_megamenu_articles view-display-id-science_tech view-dom-id-74168e2ca4a635a42458ac61de73312f">
+        
+  
+  
+      <div class="view-content">
+        <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/science-tech/social-media/2017/01/why-we-should-stop-using-phrase-lone-wolf"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/01/gettyimages-633109328.jpg?itok=rhp4pNrH" alt="Flowers at a makeshift memorial near the Islamic Cultural Center in Quebec City" title="Flowers at a makeshift memorial near the Islamic Cultural Center in Quebec City"/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/science-tech/social-media/2017/01/why-we-should-stop-using-phrase-lone-wolf">Why we should stop using the phrase &quot;lone wolf&quot;</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/sci_tech/social-media" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Social Media</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/science-tech/2017/01/do-online-petitions-actually-work-numbers-reveal-truth"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/01/allo_pauline_from_me.png?itok=AKjewGI0" alt="Donald Trump surrounded by e-petition screenshots" title="Donald Trump surrounded by e-petition screenshots"/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/science-tech/2017/01/do-online-petitions-actually-work-numbers-reveal-truth">Do online petitions actually work? The numbers reveal the truth</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/sci_tech" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Science &amp; Tech</a></div>    </div>
+  <div class="large-4 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/culture/observations/2017/01/why-it-so-hard-predict-future-technology"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/blogs_2017/01/gettyimages-485983708.jpg?itok=VvjpRbwW" alt="A drone flying: could drones change how we design our cities?" title="A drone flying: could drones change how we design our cities?"/></a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/culture/observations/2017/01/why-it-so-hard-predict-future-technology">Why is it so hard to predict the future of technology?</a>    
+          <div class="article-categories"><a href="/web/20170202034942/http://www.newstatesman.com/culture/observations" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Observations</a></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                      <div class="large-3 columns">
+                                                  <img src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/large/public/ns-live-logo.png" alt="NS Live" class="ns-live-logo">
+                          <div class="region region-megamenu-event">
+  <div class="region region-megamenu-event">
+  <div class="region region-megamenu-event">
+  <div class="region region-megamenu-event">
+  <div id="block-views-clone-of-megamenu-event-block-1" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-clone-of-megamenu-event view-id-clone_of_megamenu_event view-display-id-block_1 view-dom-id-97f1e10bf045c0c9422ac6dc99d47afe">
+        
+  
+  
+      <div class="view-content">
+        <div class="article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/goldsmithsprize2_2_.jpg?itok=N0BfpVGY" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack">The Goldsmiths Writers&#039; Centre Presents Mike McCormack</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+</div>
+ <!-- /.region -->
+                   
+                                               </div>
+                    </div>
+                    <!-- .row -->
+                  
+                    <div class="main-mega-menu-section">
+                      <div class="large-12 columns ns-network">
+                        
+                        <div class="mega-menu-logo">
+                          <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/nsnetworks.png">
+                        </div>
+  
+                        <div class="network-sites">
+                          <div class="row">
+                            <div class="large-4 columns">
+                              <h1>Consumer</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://www.citymetric.com/">CityMetric</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1>Business</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://tech.newstatesman.com/">New Statesman Tech</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">Spotlight</a></h1>
+                              <h2><a href="/web/20170202034942/http://www.newstatesman.com/cyber">Cyber</a></h2>
+                             <!-- <h2><a href="http://www.newstatesman.com/northern-powerhouse">Northern Powerhouse</a></h2>
+                              <h2><a href="http://www.newstatesman.com/skills">Skills</a></h2>
+                              <h2><a href="http://www.newstatesman.com/manufacturing">Manufacturing</a></h2> <h2><a href="http://www.newstatesman.com/investment">Investment</a></h2>-->
+                              <h2 class="viewall"><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">View All</a></h2></h2>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- .network-sites -->
+                      
+                      </div>
+                      <!-- .ns-network -->
+                    </div>
+                    <!-- .main-mega-menu-section -->
+                    
+                  </div>
+                  <!-- .large-8 -->
+                  
+                </div>
+                <!-- .row -->
+            </div>
+            <!-- ns_tech-mg -->
+            
+			
+			<div class="mega-menu-row mega-menu row event-mg"> 
+                <div class="close-hover-mega-menu">Close menu</div>
+                 
+                <div class="row">
+  
+                  <div class="large-12 columns">
+                    
+                    <div class="row">
+                      
+                                                   <div class="region region-ev-subnav">
+  <div id="block-views-event-section-block-2" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-event-section view-id-event_section view-display-id-block_2 view-dom-id-07c3060ed4dedc3073a3d326c3736c2c">
+        
+  
+  
+      <div class="view-content">
+        <div class="large-3 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/winning-battle-defeating-rise-radical-islam"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/book_cover_1.jpg?itok=vf_jh1R3" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/winning-battle-defeating-rise-radical-islam">Winning the Battle: Defeating the rise of radical Islam</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+  <div class="large-3 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/2016-wtf-year-review"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/trump_bomb.jpg?itok=SvB_VFGD" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/2016-wtf-year-review">2016... WTF: A year in review</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+  <div class="large-3 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/goldsmithsprize2_2_.jpg?itok=N0BfpVGY" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-mike-mccormack">The Goldsmiths Writers&#039; Centre Presents Mike McCormack</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+  <div class="large-3 columns article-wrapper">
+      
+          <div class="article-image"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-george-saunders"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/category_393_295/public/george-saunders-resized.png?itok=4bsCC7V5" alt=""/></a></div>    
+          <div class="article-title"><a href="/web/20170202034942/http://www.newstatesman.com/2016/11/goldsmiths-writers-centre-presents-george-saunders">The Goldsmiths Writers&#039; Centre Presents George Saunders</a></div>    
+          <a href="/web/20170202034942/http://www.newstatesman.com/events" class="article-categories">EVENTS</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+               
+                         
+                      
+                         <img src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/large/public/ns-live-logo.png" alt="NS Live" class="ns-live-logo">
+                                              
+                    </div>
+                    <!-- .row -->
+                  
+                    <div class="main-mega-menu-section">
+                      <div class="large-12 columns ns-network">
+                        
+                        <div class="mega-menu-logo">
+                          <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/images/nsnetworks.png">
+                        </div>
+  
+                        <div class="network-sites">
+                          <div class="row">
+                            <div class="large-4 columns">
+                              <h1>Consumer</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://www.citymetric.com/">CityMetric</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1>Business</h1>
+                              <h2><a href="https://web.archive.org/web/20170202034942/http://tech.newstatesman.com/">New Statesman Tech</a></h2>
+                            </div>
+                            <div class="large-4 columns">
+                              <h1><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">Spotlight</a></h1>
+                              <h2><a href="/web/20170202034942/http://www.newstatesman.com/cyber">Cyber</a></h2>
+                             <!-- <h2><a href="http://www.newstatesman.com/northern-powerhouse">Northern Powerhouse</a></h2>
+                              <h2><a href="http://www.newstatesman.com/skills">Skills</a></h2>
+                              <h2><a href="http://www.newstatesman.com/manufacturing">Manufacturing</a></h2> <h2><a href="http://www.newstatesman.com/investment">Investment</a></h2>-->
+                              <h2 class="viewall"><a href="/web/20170202034942/http://www.newstatesman.com/spotlight">View All</a></h2></h2>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- .network-sites -->
+                      
+                      </div>
+                      <!-- .ns-network -->
+                    </div>
+                    <!-- .main-mega-menu-section -->
+                    
+                  </div>
+                  <!-- .large-8 -->
+                  
+                </div>
+                <!-- .row -->
+            </div>
+            <!-- events -->
+			
+			
+			
+			
+			
+			
+			
+            </div>
+            
+                        
+            <div class="search-toggle">Search</div>
+            <div class="site-search"><div class="region region-search">
+  <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form class="google-cse" action="/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text"/>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"/></div><input type="hidden" name="form_build_id" value="form-4HjymivdgNx7BOaPjmWQwGTHyGLneCC2UfEGmmznB2Q"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+            <div class="mega-menu-toggle mobile-mega-menu-toggle">Menu</div>
+            
+        </nav>
+</header>
+<div id="content">
+  <div id="container" class="parallax">
+   
+
+                    				                                                <div class="region region-content">
+  
+          
+<input type="hidden" name="oldcat" id="oldcat" value=""/>
+<input type="hidden" name="noimage" id="noimage" value=""/>
+
+<script>
+moreContent2();
+moreContent3();
+moreContent4();
+moreContent5();
+moreContent6();
+if(jQuery('#oldcat').val()!=''){
+                jQuery(document.body).addClass(jQuery('#oldcat').val());
+                }
+jQuery('#oldcat').val('politics');
+
+
+//jQuery(".share-buttons").stick_in_parent({offset_top:110, recalc_every: 1});
+
+ </script>
+<script>
+if(jQuery('#noimage').val()!=''){
+                jQuery(document.body).addClass(jQuery('#noimage').val());
+                }
+jQuery('#noimage').val('noimage');
+
+
+ </script>
+<div class="article-featured-image parallax-layer parallax-layer-back">
+      </div>
+<main class="no-feature-image">
+<div class="main-content has-featured-article  parallax-layer parallax-layer-front " style="border:0px solid red; " id="showhideimage125072">
+<div class="row">
+  <article class="large-8 columns primary-content article-column">
+    <div class="row">
+                     
+         
+    
+         
+    <div id="node-125072" class="node node-blogs node-sticky node-full" about="/blogs/guy-walters/2011/07/johann-hari-independent-prize" typeof="sioc:Item foaf:Document">
+      <div class="row">
+        <header class="large-9 columns article-header">
+		
+		          <!--<div class="article-category">  </div>--->
+          		   
+		   
+		   						 <div class="article-category"><a href="/web/20170202034942/http://www.newstatesman.com/politics">Politics</a> </div>
+								   
+		   
+		   
+          <!-- .article-category -->
+                    <div class="article-date">
+            26 July 2011          </div>
+                              <h1 class="title inf_class" data-analyticsid="/blogs/guy-walters/2011/07/johann-hari-independent-prize">An Open Letter to Andreas Whittam Smith</h1>
+          <span property="dc:title" content="An Open Letter to Andreas Whittam Smith" class="rdf-meta element-hidden"></span><div class="field field-name-field-subheadline field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Re: Johann Hari</p>
+</div></div></div> 
+		
+                           
+<div class="ns-form-item" style="margin:2em 0 -2em 0; overflow: hidden;"> <div id="block-webform-client-block-306255" class="block block-webform">
+
+      
+  <div class="content">
+    <form class="webform-client-form webform-client-form-306255" enctype="multipart/form-data" action="/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize" method="post" id="webform-client-form-306255" accept-charset="UTF-8"><div><div class="webform-client-form ns-form-item form-item webform-component webform-component-email webform-component--sign-up-for-our-weekly-email">
+  <label class="element-invisible" for="edit-submitted-sign-up-for-our-weekly-email">Sign up for our weekly email <span class="form-required" title="This field is required.">*</span></label>
+ <input class="email form-text form-text form-email required" placeholder="Sign up for our weekly email" type="email" id="edit-submitted-sign-up-for-our-weekly-email" name="submitted[sign_up_for_our_weekly_email]" size="85"/>
+</div>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-DhYbVigzgNKVusABwFI0cBcrBlTjoovUFxN5RmX8n3A"/>
+<input type="hidden" name="form_id" value="webform_client_form_306255"/>
+<div class="form-actions"><input class="webform-submit button-primary form-submit" type="submit" name="op" value="Submit"/></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+</div>            
+		  
+		  </header>
+        <aside class="large-3 columns article-author">
+                    <div class="author-byline">
+            By <a href="/web/20170202034942/http://www.newstatesman.com/writers/317311">Guy Walters</a>          </div>
+                  </aside>
+        <!-- .article-author --> 
+      </div>
+      <!-- .row -->
+      
+      <div class="row">
+        <div class="large-3 columns article-left-column">
+          <div class="full-height-column">
+            <ul class="share-buttons">
+              <li class="facebook-button st_facebook_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.facebook.com/sharer.php?u=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize&amp;t=An+Open+Letter+to+Andreas+Whittam+Smith"> <span class="stButton"> <span class="stMainServices st-facebook-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                                </span></span></span> </a></li>
+              <li class="twitter-button st_twitter_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://twitter.com/share?text=An+Open+Letter+to+Andreas+Whittam+Smith&amp;url=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize"> <span class="stButton"> <span class="stMainServices st-twitter-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                                </span></span></span></a> </li>
+              <li class="reddit-button st_reddit_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.reddit.com/submit?url=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize&amp;title=An" open letter to andreas whittam smith> <span class="stButton"> <span class="reddit-button st_reddit_hcount"> &nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                                </span></span></span></a> </li>
+              <li class="email-button st_email_hcount"><a href="https://web.archive.org/web/20170202034942/mailto:type email address here?subject=An Open Letter to Andreas Whittam Smith &amp;body=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize  " title="Email to a friend/colleague"> <span class="stButton"> <span class="stMainServices st-mail-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount"></span></span></span></a></li>
+              <ul class="links inline"><li class="widgets_service_links-default first"></li>
+<li class="defaultblogtop last"><span><div id="widgets-element-defaultblogtop" class="widgets widgets-set widgets-set-horizontal widgets-style-horizontal"><div id="widgets-element-service_links_print" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/print/node/125072">Print HTML</a></div><div class="widgets-clear"></div></div></span></li>
+</ul>            </ul>
+          </div>
+        </div>
+        <!-- .article-header-sharers -->
+        
+        <section class="large-9 columns">
+          <div class="content node-blogs">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <!-- Generated by XStandard version 2.0.0.0 on 2011-07-26T09:25:17 --><p>Dear Andreas Whittam Smith CBE,</p>
+<p>For the past few weeks, you have been spending these days of nascent summer investigating the claims that Johann Hari is a plagiarist, a distorter, a fabricator, and a sockpuppet who vandalises Wikipedia entries.</p>
+<p>Perhaps you're not looking at all of these claims, but no matter, I am confident that with your experience and judgement, you will be able to see what many others have seen - the <a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/06/afghanistan-joya-women">42 quotes</a> in his 'interview' with Malalai Joya that Hari lifted from her ghosted autobiography; the <a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/ann-leslie-india-hari-british">545 words</a> plagiarised from the <em>Daily Mail</em> that Hari inserted into the mouth of his interviewee Ann Leslie; the lies about his Sky appearance with <a href="https://web.archive.org/web/20170202034942/http://web.mac.com/guywalters/Site/Blog/Entries/2011/7/13_Johann_Hari_lied_about_his_interview_with_Richard_Littlejohn.html" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">Richard Littlejohn</a>; his <a href="https://web.archive.org/web/20170202034942/http://www.thenational.ae/business/media/expat-takes-uk-journalist-johann-hari-to-task-over-portrayal-of-dubai" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">fabrications</a> and <a href="https://web.archive.org/web/20170202034942/http://web.mac.com/guywalters/Site/Blog/Entries/2011/7/12_Johann_Hari_should_be_stripped_of_the_Martha_Gellhorn_Award.html" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">distortions</a> of quotes in his prize-winning piece on Dubai; the startling familiarity of quotes in his interview with <a href="https://web.archive.org/web/20170202034942/http://jeremyduns.blogspot.com/2011/07/taking-johann-hari-on-faith.html" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">George Michael</a>; his copy-pasting in his interview with Antonio Negri; his outrageously fabricated quotes for his piece on the <a href="https://web.archive.org/web/20170202034942/http://blogs.telegraph.co.uk/news/damianthompson/100097915/johann-hari-invented-quotes-in-report-from-central-african-republic-says-charity-that-took-him-there/" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">Central African Republic</a>; his quotes pinched from the <em>New Yorker</em> for his interview with <a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/06/chavez-hari-interview-goodbye">Hugo Chavez</a>; his alleged posting of unpleasant and defamatory comments online under the name of <a href="https://web.archive.org/web/20170202034942/http://www.spectator.co.uk/politics/all/7075743/diary.thtml" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">David Rose</a>; his invention of names for interviewees whose quotes he had taken from <em><a href="https://web.archive.org/web/20170202034942/http://order-order.com/2011/07/12/hari-lifted-orwell-prize-piece-from-spiegel/" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">Der Spiegel</a></em>...I could go on, but I am sure you have already sucked these eggs dry.</p>
+<p>I expect the remit of your enquiry is fairly narrow, and you have simply been asked to establish whether Mr Hari should keep his job, but, if you are able, it would be valuable if your enquiry could also address these vital questions:</p>
+<p>1. Is it true that <em>Independent</em> staff members routinely referred to Johann Hari as 'our <a href="https://web.archive.org/web/20170202034942/http://www.nytimes.com/2003/05/11/national/11PAPE.html?ex=1367985600&amp;en=d6f511319c259463&amp;ei=5007&amp;partner=USERLAND" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">Jayson Blair</a>'?<br/>2. Is is true that when Johann Hari's piece on Dubai was filed, his encounter with the girl in hot pants was laughed at by the backbench?<br/>3. Were doubts at any time about Mr Hari's professional conduct ever expressed to the then editor Simon Kelner?<br/>4. If so, what was Mr Kelner's response?<br/>5. Would it be fair to say that Mr Kelner protected Mr Hari because of Mr Hari's stellar status?<br/>6. Why did Mr Kelner <a href="https://web.archive.org/web/20170202034942/https://twitter.com/#!/Simon_Kelner/status/85732972615049216" onclick="window.open(this.href);return false;" onkeypress="window.open(this.href);return false;">state on Twitter</a> on 28 June 2011 that '@JohannHari101 has worked at @theIndynews for 10 years. In that time, we have not had a single complaint about his misrepresenting anyone', when at least three complaints were made about such mispresentation - by an aid worker in the Central African Republic, by Noam Chomsky, and by an interviewee in Hari's piece on Dubai?<br/>7. What opinion does the managing editor of the <em>Independent</em>, Imogen Haddon, hold about Mr Hari's journalism?<br/>8. What opinion does the business editor of the <em>Independent</em>, David Prosser, hold about Mr Hari's journalism?<br/>9. What pressure has the Independent brought to bear on the Council of the Orwell Prize in its deliberations as to whether Mr Hari should retain his Orwell Prize?<br/>10. What pressure has the <em>Independent</em> brought to bear on the Council of the Orwell Prize to delay its announcement concerning its decision?<br/>11. What pressure has the <em>Independent</em> brought to bear on the Council of the Martha Gellhorn Award in its deliberations as to whether Mr Hari should retain his Martha Gellhorn Award?<br/>12. Has the <em>Independent</em> used lawyers in its dealings with either the Council of the Orwell Prize or anybody associated with the Orwell Prize?<br/>13. Is the present management of the <em>Independent</em> indulging in a facesaving exercise?</p>
+<p>Yours sincerely,</p>
+<p>Guy Walters</p>
+ </div></div></div><ul class="flippy">
+          
+    <li class="prev">
+              <a href="/web/20170202034942/http://www.newstatesman.com/blogs/the-staggers/2011/07/economy-grew-osborne-growth" title=""></a>          </li>
+          
+    <li class="next">
+              <a href="/web/20170202034942/http://www.newstatesman.com/blogs/the-staggers/2011/07/morning-papers-needs-greece" title="› Morning Call: pick of the papers">› Morning Call: pick of the papers</a>          </li>
+  </ul>
+
+                  
+
+
+                                 
+                  
+                        <div class="article-footer-promotion">
+              <div class="row">  
+              <div id="block-views-1c8a95357a7dd8c03bf057a379458a38--2" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-ns-new-offers view-id-ns_new_offers view-display-id-articlefooterspromo view-dom-id-a72cbd000a7ceedf9edd48ada299f52d">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <div class="large-2 small-2 columns magazine-cover"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/magazine-cover-thumb/public/magazinecovers/2017_04_eclipse_of_the_west_med.jpg?itok=jbZ17ftG" alt=""/></div>    
+          <div class="large-10 small-10 columns promotion-text">
+                <h3></h3>
+<div class="cta subscribe-link"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/subscribe">Subscribe</a></div>
+                </div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+              
+                <!--   <div class="large-2 small-2 columns magazine-cover">
+                                <a href=""><img src="/sites/default/files/styles/magazine-cover-thumb/public/magazinecovers/2015_34_corbyn_small.jpg" alt="New Statesman Magazine Cover"></a>
+                            </div>
+                            <div class="large-10 small-10 columns promotion-text">
+                                <h3>Promotional text sentence here</h3>
+                                <div class="cta subscribe-link"><a href="">Subscribe</a></div>
+                            </div>--> 
+              </div>
+            </div>
+            <!-- .article-footer-promotion -->
+                        <!-- .first-appeared-in --> 
+          </div>
+                                         </section>
+          
+
+      </div>
+      <!-- /.row --> 
+      
+    </div>
+    <!-- /.node --> 
+    
+    <!-- Commented to fix gibraltar issue </div>-->
+    </article>
+    <div class="large-4 columns right-sidebar">
+      <div class="scrolling-content" id="showhidenews_125072">
+        <aside id="sidebar-second" role="complementary">
+          <div class="secondary-content-box mpu article-mpu-1"> 
+              <!-- /5269235/New_Statesman_2015_Dynamic_MPU_Top -->
+              <div id="div-gpt-ad-1434618587891-5">
+                <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434618587891-5'); });
+                </script>
+              </div>
+          </div>
+          
+          <!-- .sidebar-mpu --> 
+          
+          <!--<div class="secondary-content-box email-newsletter-box">
+            <h4 class="scb-heading email-newsletter-toggle"  id="news_"  onclick="shownewsform('showhidenews_');">Subscribe to our newsletter</h4>
+            <img src="" alt="New Statesman email newsletter" />                       </div>
+          <div class="secondary-content-box desktop-banner mpu"> 
+           </div> <!-- Newstatesman/Homepage -->
+          
+                    <div class="secondary-content-box trending-box">
+                        <h2 class="scb-heading">Most Popular</h2>
+             
+            <div id="block-quicktabs-trending--2" class="block block-quicktabs">
+
+      
+  <div class="content">
+    <div id="quicktabs-trending" class="quicktabs-wrapper quicktabs-style-nostyle"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first last"><a href="/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize?qt-trending=1#qt-trending" id="quicktabs-tab-trending-1" class="active">Last 24 hours</a></li>
+</ul></div><div id="quicktabs-container-trending" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs-tabpage-trending-1" class="quicktabs-tabpage "><div id="block-views-right-bar-blocks-last24hours--2" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-right-bar-blocks view-id-right_bar_blocks view-display-id-last24hours view-dom-id-33b10654166c9648b26061e31af02bdf">
+        
+  
+  
+      <div class="view-content">
+      <div class="article-list vertical-article-list clearfix">    <ul>          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/culture/books/2017/01/whatever-happened-public-intellectual"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/01/2017_04_philosophers.jpg?itok=ocibxMQx" alt="On the couch: Bryan Magee (right) interviews Isaiah Berlin for the 1978 BBC series Men of Ideas" title="On the couch: Bryan Magee (right) interviews Isaiah Berlin for the 1978 BBC series Men of Ideas"/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/culture/books/2017/01/whatever-happened-public-intellectual">Whatever happened to the public intellectual?</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/313504">David Herman</a></div>
+</div>  </li>
+          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/01/watch-ken-clarke-s-blistering-anti-brexit-speech-article-50-debate"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/01/ken_clarke.jpg?itok=CFpF2-Zb" alt="Ken Clarke doing his speech against triggering Article 50." title="Ken Clarke doing his speech against triggering Article 50."/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/01/watch-ken-clarke-s-blistering-anti-brexit-speech-article-50-debate">Watch: Ken Clarke’s blistering anti-Brexit speech in the Article 50 debate</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/319648">Media Mole</a></div>
+</div>  </li>
+          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labours-next-leadership-election-will-be-about-europe-dont-bet-clive-lewis"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/02/gettyimages-610891938.jpg?itok=cUAbxsl-" alt="Clive Lewis and Emily Thornberry. "/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labours-next-leadership-election-will-be-about-europe-dont-bet-clive-lewis">Labour&#039;s next leadership election will be about Europe, but don&#039;t bet on Clive Lewis just yet</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/stephen_bush">Stephen Bush</a></div>
+</div>  </li>
+          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/02/c3lsgalwyaezhoj.jpg?itok=_JfhTJcr" alt="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament." title="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament."/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks">Best MEP ever holds up “He’s Lying” sign as Nigel Farage speaks</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/319648">Media Mole</a></div>
+</div>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div></div></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-c1e18aa439ae9743fc67d9b22e746635--2" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-right-bar-blocks view-id-right_bar_blocks view-display-id-homepagesponsored sidebar-sponsored-article view-dom-id-a99f787d679d89d2dff3a9c5284066b8">
+        
+  
+  
+      <div class="view-content">
+        <div class="row post-id-304592">
+      
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/uk/2016/09/technology-can-help-build-healthy-future"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2016/09/20140516-egy_r024933_rt.jpg?itok=odHXAGQ1" alt=""/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/uk/2016/09/technology-can-help-build-healthy-future">Technology can help build a healthy future</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/321546">Neil Mesher</a></div>
+</div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+            </div>
+                              <div class="secondary-content-box mpu article-mpu-2"></div>
+          <!-- .sidebar-mpu -->
+          
+          <div class="secondary-content-box you-may-have-missed">
+                         
+             
+            
+            </div>
+
+                            <div class="secondary-content-box mpu article-mpu-3"></div>
+                                                    <div class="secondary-content-box">
+                                  </div>
+                  </aside>
+        <!-- #sidebar-first --> 
+      </div>
+      <!--   <div class="secondary-content-box desktop-banner mpu elevator-banners clearfix">
+                <div class="double-mpu-placeholder">
+        
+
+Newstatesman/Homepage 
+<div id='div-160-600-sky'>
+<script type='text/javascript'>
+googletag.display('div-160-600-sky');
+</script>
+</div>
+
+                </div>
+              </div>--> 
+      
+    </div>
+    <div class="sidebar-toggle">More</div>
+  </div>
+  <div class="subscription-promotion"> </div>
+  <!-- .subscription-promotion -->
+  <footer class="article-footer">
+    <div class="row comments-area">
+      <span id="disqus_loader125072" class="disqus_loader125072">
+            <button onclick="load_disqus(125072,'https://web.archive.org/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize')" class="toggle comments-toggle button">COMMENTS</button>
+            </span>
+      <div class="row"><div id="disqus_thread125072" class="disqus_thread125072"></div></div>            
+      <ul class="share-buttons article-footer-sharers">
+        <li class="facebook-button st_facebook_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.facebook.com/sharer.php?u=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize&amp;t=An+Open+Letter+to+Andreas+Whittam+Smith"> <span class="stButton"> <span class="stMainServices st-facebook-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                    </span></span></span> </a></li>
+        <li class="twitter-button st_twitter_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://twitter.com/share?text=An+Open+Letter+to+Andreas+Whittam+Smith&amp;url=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize"> <span class="stButton"> <span class="stMainServices st-twitter-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                    </span></span></span></a> </li>
+        <li class="reddit-button st_reddit_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.reddit.com/submit?url=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize&amp;title=An" open letter to andreas whittam smith> <span class="stButton"> <span class="reddit-button st_reddit_hcount"> &nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                    </span></span></span></a> </li>
+        <li class="email-button st_email_hcount"><a href="https://web.archive.org/web/20170202034942/mailto:type email address here?subject=An Open Letter to Andreas Whittam Smith &amp;body=http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize  " title="Email to a friend/colleague"> <span class="stButton"> <span class="stMainServices st-mail-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount"></span></span></span></a></li>
+        <ul class="links inline"><li class="widgets_service_links-default first"></li>
+<li class="defaultblogtop last"><span><div id="widgets-element-defaultblogtop" class="widgets widgets-set widgets-set-horizontal widgets-style-horizontal"><div id="widgets-element-service_links_print" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/print/node/125072">Print HTML</a></div><div class="widgets-clear"></div></div></span></li>
+</ul>      </ul>
+    </div>
+    <!-- .comments-area --> 
+  </footer>
+  
+
+
+<div class="row">
+ 
+<div class="secondary-content-box related-articles"><h4 class="scb-heading">Related articles</h4>
+          
+
+  <div class="view view-related-block view-id-related_block view-display-id-block_2 view-dom-id-93233ac1285e531d82197ea8f9cda3e6">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul class="row article-list horizontal-article-list">          <li class="large-4 columns">  
+  <div class="row">                        <div class="large-4 small-4 xsmall-4 columns">
+                  <div class="article-image">
+                   <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/thumb_360_203/public/blogs_2017/02/c3lsgalwyaezhoj.jpg?itok=-cosDsbt" alt="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament." title="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament."/></a>
+                  </div>
+                </div>
+                <div class="large-8 small-8 xsmall-8 columns">
+                  <h5><a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks">Best MEP ever holds up “He’s Lying” sign as Nigel Farage speaks</a> </h5>
+                </div>
+           </div></li>
+          <li class="large-4 columns">  
+  <div class="row">                        <div class="large-4 small-4 xsmall-4 columns">
+                  <div class="article-image">
+                   <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/nick-clegg-reminds-government-73-cent-young-people-voted-different-future"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/thumb_360_203/public/blogs_2017/02/clegg.png?itok=s4SeV-ru" alt="Nick Clegg makes his anti-Brexit speech in the House of Commons Article 50 debate." title="Nick Clegg makes his anti-Brexit speech in the House of Commons Article 50 debate."/></a>
+                  </div>
+                </div>
+                <div class="large-8 small-8 xsmall-8 columns">
+                  <h5><a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/nick-clegg-reminds-government-73-cent-young-people-voted-different-future">Nick Clegg reminds the government: “73 per cent of young people voted for a different future”</a> </h5>
+                </div>
+           </div></li>
+          <li class="large-4 columns">  
+  <div class="row">                        <div class="large-4 small-4 xsmall-4 columns">
+                  <div class="article-image">
+                   <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/01/watch-ken-clarke-s-blistering-anti-brexit-speech-article-50-debate"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/thumb_360_203/public/blogs_2017/01/ken_clarke.jpg?itok=EKWUqbsH" alt="Ken Clarke doing his speech against triggering Article 50." title="Ken Clarke doing his speech against triggering Article 50."/></a>
+                  </div>
+                </div>
+                <div class="large-8 small-8 xsmall-8 columns">
+                  <h5><a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/01/watch-ken-clarke-s-blistering-anti-brexit-speech-article-50-debate">Watch: Ken Clarke’s blistering anti-Brexit speech in the Article 50 debate</a> </h5>
+                </div>
+           </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  
+   <div class="secondary-content-box related-articles1">
+
+</div>
+  </div><div class="clear"></div>  
+  <!--</article>-->
+  <div class="bottom-leaderboard-section desktop-banner"></div>
+  <div class="bottom-mpu-section article-mpu-4 mobile-banner"> </div>
+</div>
+</main>
+<!--<div class="secondary-content-box promo-box modal" id="popup" style="display: none;">-->
+<div class="secondary-content-box promo-box modal" id="popup" style="display: none;">
+
+  <div class="row">
+        <div class="large-4 small-4 columns magazine-cover"> <a href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/?utm_source=ns_subs_popup&amp;utm_medium=popup&amp;utm_content=12%20for%2012&amp;utm_campaign=NSPOPUP"><img src="/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/gray_s_anatomy.jpg" alt="New Statesman Magazine" style="max-width:100%"></a> </div>
+        <div class="large-8 small-8 columns magazine-details">
+            <h3 class="heading-label">Subscription offer</h3>
+                  <h4>12 issues for £12 <small>+ FREE book</small></h4>
+                        <div class="cta buy-cta"><a href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/?utm_source=ns_subs_popup&amp;utm_medium=popup&amp;utm_content=12%20for%2012&amp;utm_campaign=NSPOPUP">LEARN MORE</a></div>
+          </div>
+  </div>
+  <div class="close-toggle"><b>Close</b> <span>This week&#8217;s magazine</span></div>
+</div>
+ 
+<!--</div>-->
+</div>
+ <!-- /.region -->
+ 
+
+
+ 
+<div class="region region-content-bottom">
+  <div id="block-views-84999d16363a465c52a25233feb56322" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-articles-load-more view-id-articles_load_more view-display-id-leadarticleshomepage view-dom-id-fc035e84f95b5a97f9a9178ad4418076">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<input type="hidden" name="oldcat" id="oldcat" value=""/>
+<input type="hidden" name="noimage" id="noimage" value=""/>
+
+<script>
+moreContent2();
+moreContent3();
+moreContent4();
+moreContent5();
+moreContent6();
+if(jQuery('#oldcat').val()!=''){
+                jQuery(document.body).addClass(jQuery('#oldcat').val());
+                }
+jQuery('#oldcat').val('politics');
+
+
+//jQuery(".share-buttons").stick_in_parent({offset_top:110, recalc_every: 1});
+
+ </script>
+<script>
+if(jQuery('#noimage').val()!=''){
+                jQuery(document.body).addClass(jQuery('#noimage').val());
+                }
+jQuery('#noimage').val('imageexist');
+
+
+ </script>
+<div class="article-featured-image parallax-layer parallax-layer-back">
+    <div class="field field-name-field-node-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><noscript class="adaptive-image" data-adaptive-image-breakpoints="300 768 1024" data-adaptive-image-300-img="<img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;300&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.newstatesman.com/sites/default/files/styles/thumb_866_450/public/blogs_2017/02/2017_05_american_carnage_web.jpg?itok=1sbwt98r&quot; alt=&quot;The NS Cover: American Carnage&quot; title=&quot;The NS Cover: American Carnage&quot; />" data-adaptive-image-768-img="<img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.newstatesman.com/sites/default/files/styles/thumb_360_203/public/blogs_2017/02/2017_05_american_carnage_web.jpg?itok=rMbtdhhA&quot; alt=&quot;The NS Cover: American Carnage&quot; title=&quot;The NS Cover: American Carnage&quot; />" data-adaptive-image-1024-img="<img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;1024&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.newstatesman.com/sites/default/files/styles/nodeimage/public/blogs_2017/02/2017_05_american_carnage_web.jpg?itok=TpGxhsXw&quot; alt=&quot;The NS Cover: American Carnage&quot; title=&quot;The NS Cover: American Carnage&quot; />" data-adaptive-image-max-img="<img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;http://www.newstatesman.com/sites/default/files/styles/nodeimage/public/blogs_2017/02/2017_05_american_carnage_web.jpg?itok=TpGxhsXw&quot; alt=&quot;The NS Cover: American Carnage&quot; title=&quot;The NS Cover: American Carnage&quot; />"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/nodeimage/public/blogs_2017/02/2017_05_american_carnage_web.jpg?itok=TpGxhsXw" alt="The NS Cover: American Carnage" title="The NS Cover: American Carnage"/></noscript>
+</div></div></div>    <div class="image-credit">
+      </div>
+  </div>
+<main>
+<div class="main-content has-featured-article  parallax-layer parallax-layer-front " style="border:0px solid red; " id="showhideimage306578">
+<div class="row">
+  <article class="large-8 columns primary-content article-column">
+    <div class="toggle-image" onclick="showimage('showhideimage306578')"><b>Show</b> <span>Hide</span> image</div>
+    <div class="row">
+                     
+         
+    
+         
+    <div id="node-306578" class="node node-blogs" about="/2017/02/new-statesman-cover-american-carnage" typeof="sioc:Item foaf:Document">
+      <div class="row">
+        <header class="large-9 columns article-header">
+		
+		          <!--<div class="article-category">  </div>--->
+          		   
+		   
+		   						 <div class="article-category"><a href="/web/20170202034942/http://www.newstatesman.com/politics">Politics</a> </div>
+								   
+		   
+		   
+          <!-- .article-category -->
+                    <div class="article-date">
+            1 February 2017          </div>
+                              <h1 class="title inf_class" data-analyticsid="/2017/02/new-statesman-cover-american-carnage">The New Statesman Cover | American carnage</h1>
+          <span property="dc:title" content="The New Statesman Cover | American carnage" class="rdf-meta element-hidden"></span><div class="field field-name-field-subheadline field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"> <p>
+	A first look at this week's magazine.</p>
+ </div></div></div> 
+		
+                           
+<div class="ns-form-item" style="margin:2em 0 -2em 0; overflow: hidden;"><div id="block-webform-client-block-306256" class="block block-webform">
+
+      
+  <div class="content">
+    <form class="webform-client-form webform-client-form-306256" enctype="multipart/form-data" action="/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize" method="post" id="webform-client-form-306256" accept-charset="UTF-8"><div><div class="webform-client-form form-item webform-component webform-component-email webform-component--sign-up-to-the-staggers-morning-call-email">
+  <label class="element-invisible" for="edit-submitted-sign-up-to-the-staggers-morning-call-email">Sign up to the Staggers Morning Call email <span class="form-required" title="This field is required.">*</span></label>
+ <input class="email form-text form-text form-email required" placeholder="Sign up to the Staggers Morning Call email" type="email" id="edit-submitted-sign-up-to-the-staggers-morning-call-email" name="submitted[sign_up_to_the_staggers_morning_call_email]" size="85"/>
+</div>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-EEYepoGIjUCcVxjASYY4Z8W-Utyd_FJ9UTFbAw-d_DU"/>
+<input type="hidden" name="form_id" value="webform_client_form_306256"/>
+<div class="form-actions"><input class="webform-submit button-primary form-submit" type="submit" name="op" value="Submit"/></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+</div>            
+		  
+		  </header>
+        <aside class="large-3 columns article-author">
+                    <div class="author-byline">
+            By <a href="/web/20170202034942/http://www.newstatesman.com/writers/316924">New Statesman</a>          </div>
+                  </aside>
+        <!-- .article-author --> 
+      </div>
+      <!-- .row -->
+      
+      <div class="row">
+        <div class="large-3 columns article-left-column">
+          <div class="full-height-column">
+            <ul class="share-buttons">
+              <li class="facebook-button st_facebook_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.facebook.com/sharer.php?u=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage&amp;t=The+New+Statesman+Cover+%7C+American+carnage"> <span class="stButton"> <span class="stMainServices st-facebook-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                                </span></span></span> </a></li>
+              <li class="twitter-button st_twitter_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://twitter.com/share?text=The+New+Statesman+Cover+|+American+carnage&amp;url=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage"> <span class="stButton"> <span class="stMainServices st-twitter-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                                </span></span></span></a> </li>
+              <li class="reddit-button st_reddit_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.reddit.com/submit?url=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage&amp;title=The" new statesman cover | american carnage> <span class="stButton"> <span class="reddit-button st_reddit_hcount"> &nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                                </span></span></span></a> </li>
+              <li class="email-button st_email_hcount"><a href="https://web.archive.org/web/20170202034942/mailto:type email address here?subject=The New Statesman Cover | American carnage &amp;body=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage  " title="Email to a friend/colleague"> <span class="stButton"> <span class="stMainServices st-mail-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount"></span></span></span></a></li>
+              <ul class="links inline"><li class="widgets_service_links-default first"></li>
+<li class="defaultblogtop last"><span><div id="widgets-element-defaultblogtop" class="widgets widgets-set widgets-set-horizontal widgets-style-horizontal"><div id="widgets-element-service_links_print" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/print/node/125072">Print HTML</a></div><div class="widgets-clear"></div></div></span></li>
+</ul>            </ul>
+          </div>
+        </div>
+        <!-- .article-header-sharers -->
+        
+        <section class="large-9 columns">
+          <div class="content node-blogs">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p class="rtecenter">
+	<img alt="" class="media-image attr__typeof__foaf:Image img__fid__85019 img__view_mode__media_large attr__format__media_large" height="1052" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/large/public/2017_05_american_carnage_med.jpg?itok=BziroGSg" typeof="foaf:Image" width="800"/></p>
+<p class="rtecenter">
+	<em>3 - 9 February issue</em><br/><strong>American Carnage</strong></p>
+ </div></div></div>                  
+
+
+                                 
+                  
+                        <div class="article-footer-promotion">
+              <div class="row">  
+              <div id="block-views-1c8a95357a7dd8c03bf057a379458a38" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-ns-new-offers view-id-ns_new_offers view-display-id-articlefooterspromo view-dom-id-a72cbd000a7ceedf9edd48ada299f52d">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+          <div class="large-2 small-2 columns magazine-cover"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/magazine-cover-thumb/public/magazinecovers/2017_04_eclipse_of_the_west_med.jpg?itok=jbZ17ftG" alt=""/></div>    
+          <div class="large-10 small-10 columns promotion-text">
+                <h3></h3>
+<div class="cta subscribe-link"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/subscribe">Subscribe</a></div>
+                </div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+              
+                <!--   <div class="large-2 small-2 columns magazine-cover">
+                                <a href=""><img src="/sites/default/files/styles/magazine-cover-thumb/public/magazinecovers/2015_34_corbyn_small.jpg" alt="New Statesman Magazine Cover"></a>
+                            </div>
+                            <div class="large-10 small-10 columns promotion-text">
+                                <h3>Promotional text sentence here</h3>
+                                <div class="cta subscribe-link"><a href="">Subscribe</a></div>
+                            </div>--> 
+              </div>
+            </div>
+            <!-- .article-footer-promotion -->
+                        <!-- .first-appeared-in --> 
+          </div>
+                                         </section>
+          
+
+      </div>
+      <!-- /.row --> 
+      
+    </div>
+    <!-- /.node --> 
+    
+    <!-- Commented to fix gibraltar issue </div>-->
+    </article>
+    <div class="large-4 columns right-sidebar">
+      <div class="scrolling-content" id="showhidenews_306578">
+        <aside id="sidebar-second" role="complementary">
+          <div class="secondary-content-box mpu article-mpu-1"> 
+              <!-- /5269235/New_Statesman_2015_Dynamic_MPU_Top -->
+              <div id="div-gpt-ad-1434618587891-5">
+                <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434618587891-5'); });
+                </script>
+              </div>
+          </div>
+          
+          <!-- .sidebar-mpu --> 
+          
+          <!--<div class="secondary-content-box email-newsletter-box">
+            <h4 class="scb-heading email-newsletter-toggle"  id="news_"  onclick="shownewsform('showhidenews_');">Subscribe to our newsletter</h4>
+            <img src="" alt="New Statesman email newsletter" />                       </div>
+          <div class="secondary-content-box desktop-banner mpu"> 
+           </div> <!-- Newstatesman/Homepage -->
+          
+                    <div class="secondary-content-box trending-box">
+                        <h2 class="scb-heading">Most Popular</h2>
+             
+            <div id="block-quicktabs-trending" class="block block-quicktabs">
+
+      
+  <div class="content">
+    <div id="quicktabs-trending" class="quicktabs-wrapper quicktabs-style-nostyle"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first last"><a href="/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize?qt-trending=1#qt-trending" id="quicktabs-tab-trending-1" class="active">Last 24 hours</a></li>
+</ul></div><div id="quicktabs-container-trending" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs-tabpage-trending-1" class="quicktabs-tabpage "><div id="block-views-right-bar-blocks-last24hours" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-right-bar-blocks view-id-right_bar_blocks view-display-id-last24hours view-dom-id-33b10654166c9648b26061e31af02bdf">
+        
+  
+  
+      <div class="view-content">
+      <div class="article-list vertical-article-list clearfix">    <ul>          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/culture/books/2017/01/whatever-happened-public-intellectual"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/01/2017_04_philosophers.jpg?itok=ocibxMQx" alt="On the couch: Bryan Magee (right) interviews Isaiah Berlin for the 1978 BBC series Men of Ideas" title="On the couch: Bryan Magee (right) interviews Isaiah Berlin for the 1978 BBC series Men of Ideas"/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/culture/books/2017/01/whatever-happened-public-intellectual">Whatever happened to the public intellectual?</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/313504">David Herman</a></div>
+</div>  </li>
+          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/01/watch-ken-clarke-s-blistering-anti-brexit-speech-article-50-debate"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/01/ken_clarke.jpg?itok=CFpF2-Zb" alt="Ken Clarke doing his speech against triggering Article 50." title="Ken Clarke doing his speech against triggering Article 50."/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/01/watch-ken-clarke-s-blistering-anti-brexit-speech-article-50-debate">Watch: Ken Clarke’s blistering anti-Brexit speech in the Article 50 debate</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/319648">Media Mole</a></div>
+</div>  </li>
+          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labours-next-leadership-election-will-be-about-europe-dont-bet-clive-lewis"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/02/gettyimages-610891938.jpg?itok=cUAbxsl-" alt="Clive Lewis and Emily Thornberry. "/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/staggers/2017/02/labours-next-leadership-election-will-be-about-europe-dont-bet-clive-lewis">Labour&#039;s next leadership election will be about Europe, but don&#039;t bet on Clive Lewis just yet</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/stephen_bush">Stephen Bush</a></div>
+</div>  </li>
+          <li class="article-list vertical-article-list small-thumbs-article-list clearfix">  
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2017/02/c3lsgalwyaezhoj.jpg?itok=_JfhTJcr" alt="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament." title="Seb Dance holds &quot;He's Lying To You&quot; sign up pointing to Nigel Farage speaking in the European Parliament."/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/media/2017/02/best-mep-ever-holds-he-s-lying-sign-nigel-farage-speaks">Best MEP ever holds up “He’s Lying” sign as Nigel Farage speaks</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/319648">Media Mole</a></div>
+</div>  </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div></div></div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-c1e18aa439ae9743fc67d9b22e746635" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-right-bar-blocks view-id-right_bar_blocks view-display-id-homepagesponsored sidebar-sponsored-article view-dom-id-a99f787d679d89d2dff3a9c5284066b8">
+        
+  
+  
+      <div class="view-content">
+        <div class="row post-id-304592">
+      
+  <div class="large-4 small-4 xsmall-4 columns">        <a href="/web/20170202034942/http://www.newstatesman.com/politics/uk/2016/09/technology-can-help-build-healthy-future"><img typeof="foaf:Image" src="https://web.archive.org/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/styles/trending_264_198/public/blogs_2016/09/20140516-egy_r024933_rt.jpg?itok=odHXAGQ1" alt=""/></a>  </div>  
+          <div class="large-8 small-8 xsmall-8 columns"><h5> <a href="/web/20170202034942/http://www.newstatesman.com/politics/uk/2016/09/technology-can-help-build-healthy-future">Technology can help build a healthy future</a></h5><div class="article-author">By <a href="/web/20170202034942/http://www.newstatesman.com/writers/321546">Neil Mesher</a></div>
+</div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+            </div>
+                              <div class="secondary-content-box mpu article-mpu-2"></div>
+          <!-- .sidebar-mpu -->
+          
+          <div class="secondary-content-box you-may-have-missed">
+                         
+             
+            
+            </div>
+
+                            <div class="secondary-content-box mpu article-mpu-3"></div>
+                                                    <div class="secondary-content-box">
+                                  </div>
+                  </aside>
+        <!-- #sidebar-first --> 
+      </div>
+      <!--   <div class="secondary-content-box desktop-banner mpu elevator-banners clearfix">
+                <div class="double-mpu-placeholder">
+        
+
+Newstatesman/Homepage 
+<div id='div-160-600-sky'>
+<script type='text/javascript'>
+googletag.display('div-160-600-sky');
+</script>
+</div>
+
+                </div>
+              </div>--> 
+      
+    </div>
+    <div class="sidebar-toggle">More</div>
+  </div>
+  <div class="subscription-promotion"> </div>
+  <!-- .subscription-promotion -->
+  <footer class="article-footer">
+    <div class="row comments-area">
+      
+      <ul class="share-buttons article-footer-sharers">
+        <li class="facebook-button st_facebook_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.facebook.com/sharer.php?u=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage&amp;t=The+New+Statesman+Cover+%7C+American+carnage"> <span class="stButton"> <span class="stMainServices st-facebook-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                    </span></span></span> </a></li>
+        <li class="twitter-button st_twitter_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://twitter.com/share?text=The+New+Statesman+Cover+|+American+carnage&amp;url=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage"> <span class="stButton"> <span class="stMainServices st-twitter-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                    </span></span></span></a> </li>
+        <li class="reddit-button st_reddit_hcount"><a target="_blank" href="https://web.archive.org/web/20170202034942/http://www.reddit.com/submit?url=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage&amp;title=The" new statesman cover | american carnage> <span class="stButton"> <span class="reddit-button st_reddit_hcount"> &nbsp;</span> <span class="stArrow"><span class="stBubble_hcount">
+                    </span></span></span></a> </li>
+        <li class="email-button st_email_hcount"><a href="https://web.archive.org/web/20170202034942/mailto:type email address here?subject=The New Statesman Cover | American carnage &amp;body=http://www.newstatesman.com/2017/02/new-statesman-cover-american-carnage  " title="Email to a friend/colleague"> <span class="stButton"> <span class="stMainServices st-mail-counter">&nbsp;</span> <span class="stArrow"><span class="stBubble_hcount"></span></span></span></a></li>
+        <ul class="links inline"><li class="widgets_service_links-default first"></li>
+<li class="defaultblogtop last"><span><div id="widgets-element-defaultblogtop" class="widgets widgets-set widgets-set-horizontal widgets-style-horizontal"><div id="widgets-element-service_links_print" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/print/node/125072">Print HTML</a></div><div class="widgets-clear"></div></div></span></li>
+</ul>      </ul>
+    </div>
+    <!-- .comments-area --> 
+  </footer>
+  
+
+
+  
+  <!--</article>-->
+  <div class="bottom-leaderboard-section desktop-banner"></div>
+  <div class="bottom-mpu-section article-mpu-4 mobile-banner"> </div>
+</div>
+</main>
+<!--<div class="secondary-content-box promo-box modal" id="popup" style="display: none;">-->
+<div class="secondary-content-box promo-box modal" id="popup" style="display: none;">
+
+  <div class="row">
+        <div class="large-4 small-4 columns magazine-cover"> <a href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/?utm_source=ns_subs_popup&amp;utm_medium=popup&amp;utm_content=12%20for%2012&amp;utm_campaign=NSPOPUP"><img src="/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/gray_s_anatomy.jpg" alt="New Statesman Magazine" style="max-width:100%"></a> </div>
+        <div class="large-8 small-8 columns magazine-details">
+            <h3 class="heading-label">Subscription offer</h3>
+                  <h4>12 issues for £12 <small>+ FREE book</small></h4>
+                        <div class="cta buy-cta"><a href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/?utm_source=ns_subs_popup&amp;utm_medium=popup&amp;utm_content=12%20for%2012&amp;utm_campaign=NSPOPUP">LEARN MORE</a></div>
+          </div>
+  </div>
+  <div class="close-toggle"><b>Close</b> <span>This week&#8217;s magazine</span></div>
+</div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager pager-load-more"><li class="pager-next first last"><a href="/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize?page=1"></a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+ </div>
+    </div>
+    <!-- .content
+  </div>
+</div> -->
+
+
+<footer class="site-footer site-footer-hidden">
+        <p>&copy; New Statesman 1913 - 2017</p>
+	<div class="toggle footer-links-toggle">About us</div>
+	 	<div id="foot">
+	 <div class="region region-footer">
+  <div id="block-menu-menu-footer-menu" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/web/20170202034942/http://www.newstatesman.com/about-new-statesman">About us</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/advertising">Advertising</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/contact-new-statesman">Contact us</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/history">History</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/privacy-policy">Privacy policy</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/page/rss">RSS feeds</a></li>
+<li class="leaf"><a href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/">Subscribe</a></li>
+<li class="leaf"><a href="/web/20170202034942/http://www.newstatesman.com/new-statesman-terms-and-conditions">Terms and conditions</a></li>
+<li class="last leaf"><a href="https://web.archive.org/web/20170202034942/http://www.newstatesman.com/page/supplements">Supplements</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-51" class="block block-block">
+
+      
+  <div class="content">
+     <!-- Start of Leadin Embed --><script type="text/javascript" src="//web.archive.org/web/20170202034942js_/http://js.leadin.com/js/v1/2099850.js" id="LeadinEmbed-2099850" crossorigin="use-credentials" async="" defer="defer"></script><!-- End of Leadin Embed -->  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+	</div>
+   </footer>
+  <script type="text/javascript" src="https://web.archive.org/web/20170202034942js_/http://www.newstatesman.com/sites/default/files/js/js__5K3cP299UfyXPVyDSjB-m4UKJ8bZGgzCpqT9AHwiO8.js"></script>
+
+
+  
+    
+      <script src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/foundation.min.js"></script>
+      <script>
+          //$(document).foundation();
+      </script>
+      <script type="text/javascript" src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/ux.js"></script>
+      
+      <script type="text/javascript" src="//web.archive.org/web/20170202034942js_/http://code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script type="text/javascript" src="//web.archive.org/web/20170202034942js_/http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+      <script type="text/javascript" src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/slick/slick.min.js"></script>
+      <script type="text/javascript" src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/jquery.sticky.js"></script>
+
+
+<script type="text/javascript">
+$("#div-gpt-ad-1438789236310-0").sticky({ topSpacing: 100 });
+</script>
+
+  <script type="text/javascript" src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/inArticleBanners.js"></script>
+ 
+
+
+
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+
+//Load the second article onlym when you get to the bottom of the first.
+jQuery(window).bind('scroll', function() {
+      
+
+      $('.secondary-content-box.related-articles1').each(function() {
+
+
+        var count = $("#container").find('.secondary-content-box.related-articles1').length;
+
+        for(i=0;i<=count;i++){
+
+           if (document.getElementsByClassName("related-articles1")[i].classList.contains('Added')) {
+
+
+
+        }else{
+
+          var currentLocation = window.location;
+
+          //var my_count=i+1;
+
+          if(i==0){
+            my_count=1;
+
+          }else{
+            my_count=2;
+          }
+            var element = document.createElement("div");
+            element.setAttribute("class", "OUTBRAIN");
+             element.setAttribute("data-src", ""+currentLocation+"");
+             element.setAttribute("data-widget-id", "AR_"+my_count+"");
+             element.setAttribute("data-ob-template", "ProgressiveMediaInternationalLtd");  
+
+           element.appendChild(document.createTextNode(''));
+
+
+
+          document.getElementsByClassName("related-articles1")[i].appendChild(element);
+          //document.getElementsByClassName("related-articles")[i].innerHTML += "TEST"; 
+
+          document.getElementsByClassName("related-articles1")[i].className += " Added";
+
+          OBR.extern.researchWidget();
+        }
+
+    }
+
+
+                                
+
+
+        //alert(count);
+
+          //alert('test')
+  });
+
+}); 
+
+  });
+</script>
+
+
+<script type="text/javascript">
+  $('.header-promotion').slick();
+  
+  
+jQuery(document).ready(function(){ 
+ jQuery('.supplements-thumb p img').removeAttr('style');   
+ jQuery('.supplements-thumb p img').each(function(){
+      jQuery(this).removeAttr('width');
+      jQuery(this).removeAttr('height');      
+     });
+    
+      });
+  
+</script>
+
+
+
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 975790991;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20170202034942js_/http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//web.archive.org/web/20170202034942im_/http://googleads.g.doubleclick.net/pagead/viewthroughconversion/975790991/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Google Code for Remarketing Tag end -->
+
+
+
+
+
+<!-- AdYouLike -->
+<script type="text/javascript" async crossorigin="anonymous" src="//web.archive.org/web/20170202034942js_/http://adyoulike.omnitagjs.com/"></script>
+
+<!-- Teads tags -->
+
+
+<script type="text/javascript">
+if (/Android|BlackBerry|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent) === false) {
+        //not a mobile device
+
+      //alert('checkpoint1');
+
+      window._ttf = window._ttf || [];
+      _ttf.push({
+             pid          : 19701
+             ,lang        : "en"
+             ,slot        : '.field-items .field-item > p'
+             ,format      : "inread"
+             ,mobile      : false
+             ,minSlot     : 4
+             ,components  : { mute: {delay :0}, skip: {delay :0} }
+             ,css         : "margin: 0px 0px 33.25px;"
+             ,BTF         : false
+      });
+
+      //alert('checkpoint2');
+
+      (function (d) {
+              //alert('checkpoint2a');
+              var js, s = d.getElementsByTagName('script')[0];
+              js = d.createElement('script');
+              js.async = true;
+              js.src = '//web.archive.org/web/20170202034942/http://cdn.teads.tv/media/format.js';
+              s.parentNode.insertBefore(js, s);
+              //alert('checkpoint2b');
+              //_gaq.push(['_trackEvent', 'Teads','Impression', 'Desktop In-Article Teads Video']);
+              //alert('checkpoint2c');
+      })(window.document);
+
+      //alert('checkpoint3');
+
+ } else {
+    //on a mobile device
+
+// Mobile Teads tags
+
+      window._ttf = window._ttf || [];
+      _ttf.push({
+             pid          : 37089
+             ,lang        : "en"
+             ,slot        : '.field-items .field-item > p'
+             ,format      : "inread"
+             ,minSlot     : 4
+             ,components  : { mute: {delay :0}, skip: {delay :0} }
+             ,mutable     : false
+             ,css         : "margin: 0px 0px 28.1959991455078px;"
+      });
+       
+      (function (d) {
+              var js, s = d.getElementsByTagName('script')[0];
+              js = d.createElement('script');
+              js.async = true;
+              js.src = '//web.archive.org/web/20170202034942/http://cdn.teads.tv/media/format.js';
+              s.parentNode.insertBefore(js, s);
+      })(window.document);
+
+}
+
+  </script>
+
+
+<!--
+  <script type="text/javascript" id="vrl_script0">
+      window.viroolParams = {
+      widget_anchor: "SMART/top",
+      width: 620,
+      height: 350,
+      key: "0miu0ys8hnu3",
+      responsive: true,
+      ap: true
+      };
+      (function(d, t) {
+        var s, scripts;
+        if (document.currentScript) {
+            s = document.currentScript;
+          } else if (document.readyState === 'loading') {
+            scripts = document.getElementsByTagName('script');
+            s = scripts[scripts.length - 1];
+          } else {
+            s = document.getElementById('vrl_script0');
+        };
+        var g = d.createElement(t);
+        g.async = true;
+        g.src = '//ssp.virool.com/rubicon/async_player.js';
+        s.parentNode.insertBefore(g, s);
+      })(document, 'script');
+  </script>
+-->
+
+
+<!-- Fast Lane Rubicon ads -->
+<div id="fastlane">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('fastlane'); });
+</script>
+</div>
+
+
+<!-- Ad-blocker -->
+
+<script src="/web/20170202034942js_/http://www.newstatesman.com/sites/all/themes/creative-responsive-theme/js/blockadblock.js"></script>
+
+
+<!-- Ad blocker content -->
+
+
+
+<div class="donate" id="donate" style="display:none;">
+    <div id="donate-close" class="donate-close">CLOSE</div>
+    <!--<h1>GOOD JOURNALISM IS NEEDED <br>TODAY MORE THAN EVER.</h1>-->	
+    <h1>The Trump era has begun</h1><br>
+    <p>Whether it's tweeting about his enemies, or using his children as advisers, Donald J Trump is not a conventional president. We need a strong media to hold the new US president - and other world leaders - to account.</p> <p>So subscribe to the New Statesman today and help us produce more of our signature blend of comment, reporting and criticism.</p>
+    <!--<p>Our Christmas subscriptions come with a complementary gift bundle worth £92. <br>Browse our New Statesman subscription <br>options <a href="https://subscribe.newstatesman.com/">here</a>.</p>
+	
+    <p>#EnlightenedThinking</p>
+	<p>Subscribe to the New Statesman today and receive free gifts worth up to £62.</p><br><br>--->
+      <div class="magazine">
+        
+    <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/screenshot-1.png" alt="New Statesman magazine">
+    </div>
+    <div class="ipad-edition">
+        
+    <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/popup-02.jpg" alt="New Statesman magazine">
+    </div>
+    <div class="iphone-edition">
+        
+    <img src="/web/20170202034942im_/http://www.newstatesman.com/sites/default/files/popup-01.jpg" alt="New Statesman magazine">
+    </div>
+    <div class="cta-link donate-link"><a onclick="setCookie()" href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/" style="text-decoration: none; padding: 10px;">Subscribe</a></div>
+</div>
+
+<div class="donate-toggle" id="donate-toggle" style="display:none;">
+    Close
+</div>
+
+
+<!-- Ad blocker content end-->
+
+<script>
+//intiate the donation cookie
+function setCookie() {
+    var expdate = new Date ();
+      expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 30));
+      document.cookie="donation=Initiated ; path=/";
+      //window.location.href="https://web.archive.org/web/20170202034942/https://dev-ns-subs.pantheon.io/donate";
+      window.location.href="https://web.archive.org/web/20170202034942/https://subscribe.newstatesman.com/";
+}
+
+  function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+}
+
+//check if the user has payed and dontion cookie is set to payed
+function checkCookie() {
+  var expdate = new Date ();
+      expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 30));
+    var donate = getCookie("donation");
+    if (donate == "Initiated") {
+        document.getElementById("donate").style.display="none";
+        document.getElementById("donate-toggle").style.display="none";
+        document.body.style.overflow = "visible";
+        document.cookie="donation=Payed ; path=/ ; expires = " + expdate ;       
+    } else {
+
+        }
+    }
+
+    function hideDonationPopup() {
+    var expdate = new Date ();
+      expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000));
+      document.cookie="donationPopup=hide; path=/; expires = " + expdate ; 
+}
+
+$('.donate-toggle').click(function(e) { 
+
+if(e.target.id!="donate")
+{ 
+    document.getElementById("donate").style.display="none";
+    document.getElementById("donate-toggle").style.display="none";
+    document.body.style.overflow = "visible";
+    hideDonationPopup();
+  }
+ // else{
+  //  e.stopPropagation();
+ // }
+});
+
+$('.donate-close').click(function(e) { 
+
+if(e.target.id!="donate")
+{ 
+    document.getElementById("donate").style.display="none";
+    document.getElementById("donate-toggle").style.display="none";
+    document.body.style.overflow = "visible";
+    hideDonationPopup();
+  }
+ // else{
+  //  e.stopPropagation();
+ // }
+});
+
+//for addressing donation complains.this function will set the cookie so that the donation popup is not showed for 60 days
+function setDonationComplainCookie() {
+    var expdate = new Date ();
+      expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 60));
+      document.cookie="donationPopup=Complain; path=/ ; expires = " + expdate ;  
+
+}
+//for addressing donation complains of subscribers.this function will set the cookie so that the donation popup is never again showed
+function setDonationSubscriberCookie() {
+    var expdate = new Date ();
+      expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 6000));
+      document.cookie="donationPopup=Subscriber; path=/ ; expires = " + expdate ; 
+
+}
+
+</script>
+
+<script src="https://web.archive.org/web/20170202034942js_/http://imakewebthings.github.com/jquery-waypoints/waypoints.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(function() {
+
+
+    
+    $('#leaderslot2').waypoint(function() {
+      var PathName  = window.location.pathname;
+      ga('send', 'event', 'AdCount', PathName+' leaderslot2 view count', { "nonInteraction": 1 });
+        
+     }, {
+       offset: '100%'
+     });
+
+   $('.secondary-content-box.mpu.article-mpu-1').waypoint(function() {
+      var PathName  = window.location.pathname;
+      ga('send', 'event', 'AdCount', PathName+' article-mpu-1 view count', { "nonInteraction": 1 });
+     }, {
+       offset: '100%'
+     });
+
+   $('.secondary-content-box.mpu.article-mpu-2').waypoint(function() {
+      var PathName  = window.location.pathname;
+      ga('send', 'event', 'AdCount', PathName+' article-mpu-2 view count', { "nonInteraction": 1 });
+     }, {
+       offset: '100%'
+     });
+
+
+   $('.secondary-content-box.mpu.article-mpu-3').waypoint(function() {
+     var PathName  = window.location.pathname;
+     ga('send', 'event', 'AdCount', PathName+' article-mpu-3 view count', { "nonInteraction": 1 });
+
+     }, {
+       offset: '100%'
+     });
+
+
+});
+</script>
+ 
+
+
+
+<script>
+
+
+    var donate = getCookie("donation");
+    var donationPopup = getCookie("donationPopup");
+  // IP whitelist array 
+  //var ar = ["86.178.61.94"];
+  //var ar = ["115.119.113.194", "10.8.23.3","5.148.40.2","86.178.61.94"];
+  var ip = "10.223.192.155";
+  var ip_new = "91.200.82.73";
+  //alert(ip_new);
+  
+    if ((donate == "Payed") || (donationPopup == "hide") || (donationPopup == "Complain")|| (donationPopup == "Subscriber"))
+        {           
+            document.getElementById("donate").style.display="none";
+            document.getElementById("donate-toggle").style.display="none";
+            document.body.style.overflow = "visible";
+        }
+    /* Code for IP whitelisting */
+    //else if(jQuery.inArray("86.178.61.94",ar) == 0){
+    //else if(jQuery.inArray("86.178.61.94",ar) == 0 || jQuery.inArray("115.119.113.194",ar) == 0 || jQuery.inArray("5.148.40.2",ar) == 0){
+    else if(ip == "86.178.61.94" || ip_new == "86.178.61.94"){
+      //alert("In Array");
+      $( "#donate" ).css( "display","none" );
+      $( "#donate-toggle" ).css( "display","none" );
+      $( "body" ).css( "overflow","visible" );
+    }
+    /* Code end for IP whitelisting */
+        else
+        {
+            //alert("Inelse");
+      document.getElementById('donate').style.display = 'block';
+            document.getElementById('donate-toggle').style.display = 'block';
+            document.body.style.overflow = "hidden";
+        }
+  
+    //alert('ad blocker detected');
+    jQuery(".ad-blocker-wraper").css("ad-blocker-detected");
+
+
+
+
+
+    function adBlockDetected() {
+
+      /* Event fired if adBlock is Detected */
+    
+    }
+
+
+
+
+    function adBlockNotDetected() {
+        //alert('No Adblocker found');
+    }
+
+    if (typeof blockAdBlock === 'undefined') {
+        adBlockDetected();
+    } else {
+        blockAdBlock.setOption({debug: true});
+        blockAdBlock.onDetected(adBlockDetected).onNotDetected(adBlockNotDetected);
+    }
+
+    function checkAgain() {
+
+        // setTimeout 300ms for the recheck is visible when you click on the button
+        setTimeout(function () {
+            if (typeof blockAdBlock === 'undefined') {
+                adBlockDetected();
+            } else {
+                blockAdBlock.onDetected(adBlockDetected).onNotDetected(adBlockNotDetected);
+                blockAdBlock.check();
+            }
+        }, 300);
+    }
+</script>
+
+
+
+
+
+<!--
+<div id="donateDiv">
+  <button style="postion:fixed; top:10px; left:10px" onclick="setCookie()">Click me</button>
+</div>
+-->
+
+
+<!-- Ad-blocker end -->
+
+
+
+
+<script>
+
+
+
+(function(){
+  var test = document.createElement('div'); 
+  test.innerHTML = '&nbsp;';
+  test.className = 'adsbox';
+  document.body.appendChild(test);
+  window.setTimeout(function() {
+    if (test.offsetHeight === 0) {
+      ga('set', 'dimension1', 'Ads Blocked');
+      ga('send', 'event', 'AdSense', 'Ads blocked', { "nonInteraction": 1 });
+    }else{
+      ga('set', 'dimension1', 'Ads Displaying');
+      ga('send', 'event', 'AdSense', 'Ads not blocked', { "nonInteraction": 1 });
+    }
+    test.remove();
+  }, 100);
+})();
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d4f02fb7e7","applicationID":"14767184","transactionName":"ZwEDZxBQXkZTAUJfVl5LIFAWWF9bHQxZUlxvFABUB25GXFcV","queueTime":0,"applicationTime":873,"atts":"S0YAEVhKTUg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html><!--
+     FILE ARCHIVED ON 03:49:42 Feb 02, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:44:35 Dec 04, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.285
+  exclusion.robots: 0.152
+  exclusion.robots.policy: 0.13
+  esindex: 0.018
+  cdx.remote: 15.464
+  LoadShardBlock: 209.472 (3)
+  PetaboxLoader3.datanode: 187.766 (4)
+  PetaboxLoader3.resolve: 87.874 (2)
+  load_resource: 173.551
+--> title 39 An Open Letter to Andreas Whittam Smith contentType 9 text/html url 130 https://web.archive.org:443/web/20170202034942/http://www.newstatesman.com/blogs/guy-walters/2011/07/johann-hari-independent-prize responseCode 3 200 
